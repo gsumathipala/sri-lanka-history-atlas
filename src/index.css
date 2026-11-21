@@ -627,3 +627,9 @@ footer {
 
 .lang { font: 13px system-ui, 'Noto Sans Sinhala', 'Noto Sans Tamil', sans-serif; padding: 4px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
 .native-names { display: flex; gap: 14px; font-size: 17px; margin: -4px 0 6px; color: var(--accent); }
+
+.overlay-pick select { font: 12px system-ui, sans-serif; max-width: 220px; }
+.overlay-pick input[type=range] { display: inline-block; width: 80px; }
+.overlay-note { max-width: 360px; line-height: 1.35; }
+.overlay-note a { color: var(--accent); }
+.legend label.overlay-pick input { display: inline-block; }

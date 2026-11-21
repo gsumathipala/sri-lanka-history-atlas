@@ -1,0 +1,10 @@
+[
+ {"id": "arrowsmith-1805", "title": "Arrowsmith, Map of the Island of Ceylon (1805)", "year": 1805, "file": "maps/arrowsmith-1805.webp",
+  "bounds": [[5.5791, 79.2375], [10.1318, 82.3183]], "rmsKm": 6.5,
+  "source": "https://commons.wikimedia.org/wiki/File:Map_of_The_Island_of_Ceylon_Drawn_by_A._Arrowsmith_1805._Hydrographer_to_H.R.H._Prince_of_Wales._London_(IA_dr_map-of-the-island-of-ceylon-drawn-by-a-arrowsmith-1805-hydrographer-to-h-6908001).jpg",
+  "licence": "Public domain", "method": "Affine fit to 9 control points (scripts/maps/arrow_pts.json); RMS 6.5 km. The printed longitudes are offset from true values, as usual before chronometer surveys."},
+ {"id": "dutch-chart", "title": "VOC chart: Pascaert van 't Eylandt Ceylon (c. 1700; Commons dates the file 1753)", "year": 1700, "file": "maps/dutch-c1700.webp",
+  "bounds": [[5.071, 78.3637], [10.5749, 83.2561]], "rmsKm": 13.7,
+  "source": "https://commons.wikimedia.org/wiki/File:Map_of_Dutch_Ceylon.jpg",
+  "licence": "Public domain", "method": "Drawn east-up; rotated, then affine fit to 9 control points (scripts/maps/dutch_pts.json); RMS 13.7 km, reflecting the chart's own distortion of the island's shape."}
+]

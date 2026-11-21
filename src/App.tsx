@@ -4,6 +4,7 @@ import { CATEGORY_META, CONFIDENCE_META, POLITY_META, ROLE_LABEL, eventById, eve
 import { formatYear, posToYear, yearToPos } from './lib/time'
 import { LANGS, setLang, getLang, useT, type Lang } from './lib/i18n'
 import { catLabel, confLabel } from './lib/data'
+import historicalMaps from './data/historical-maps.json'
 import Timeline from './components/Timeline'
 import MapView from './components/MapView'
 import { About, Bibliography, EventDetail, EventList, EventRow, PlaceDetail } from './components/Panels'
@@ -44,6 +45,9 @@ export default function App() {
   const [showSites, setShowSites] = useState(true)
   const [showRegions, setShowRegions] = useState(true)
   const [showUndated, setShowUndated] = useState(false)
+  const [overlayId, setOverlayId] = useState('')
+  const [overlayOpacity, setOverlayOpacity] = useState(0.7)
+  const overlay = historicalMaps.find((m) => m.id === overlayId) as (typeof historicalMaps)[number] & { bounds: [[number, number], [number, number]] } | undefined
   const [relicId, setRelicId] = useState<string>()
   const [flyoverId, setFlyoverId] = useState<string>()
   const [tourId, setTourId] = useState<string>()
@@ -209,7 +213,7 @@ export default function App() {
 
       <main>
         <section className="map-wrap">
-          <MapView events={inWindow} selected={panel === 'event' ? selected : undefined} selectedPlaceId={placeId} capitals={capitals} sites={visibleSites} regions={visibleRegions} relic={relic} relicCurrent={relicCurrent} onPlace={selectPlace} />
+          <MapView events={inWindow} selected={panel === 'event' ? selected : undefined} selectedPlaceId={placeId} capitals={capitals} sites={visibleSites} regions={visibleRegions} relic={relic} relicCurrent={relicCurrent} overlay={overlay} overlayOpacity={overlayOpacity} onPlace={selectPlace} />
           <div className={`legend${legendOpen ? '' : ' collapsed'}`}>
             <button className="legend-toggle" onClick={() => setLegendOpen(!legendOpen)}>
               {legendOpen ? t('filters_hide') : t('filters_show')}
@@ -222,6 +226,26 @@ export default function App() {
               <input type="checkbox" checked={showUndated} onChange={(e) => setShowUndated(e.target.checked)} />
               <span>◌</span> {t('undated')} ({sites.filter((x) => x.importedFrom && x.founded === undefined).length})
             </label>
+            <label className="span2 overlay-pick">
+              🗺{' '}
+              <select value={overlayId} onChange={(e) => setOverlayId(e.target.value)} aria-label="Historical map overlay">
+                <option value="">No historical map</option>
+                {historicalMaps.map((m) => (
+                  <option key={m.id} value={m.id}>
+                    {m.title.slice(0, 48)}
+                  </option>
+                ))}
+              </select>
+              {overlay && <input type="range" min={0.1} max={1} step={0.05} value={overlayOpacity} onChange={(e) => setOverlayOpacity(+e.target.value)} aria-label="Overlay opacity" />}
+            </label>
+            {overlay && (
+              <div className="span2 muted small overlay-note">
+                Georeferenced ±{overlay.rmsKm} km. {overlay.method}{' '}
+                <a href={overlay.source} target="_blank" rel="noreferrer">
+                  Source ({overlay.licence})
+                </a>
+              </div>
+            )}
             <label className={showRegions ? 'span2' : 'span2 off'}>
               <input type="checkbox" checked={showRegions} onChange={(e) => setShowRegions(e.target.checked)} />
               <span>▱</span> {t('boundaries')} ({visibleRegions.length})

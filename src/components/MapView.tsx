@@ -1,5 +1,5 @@
 import { useEffect } from 'react'
-import { CircleMarker, LayersControl, MapContainer, Marker, Polygon, Polyline, TileLayer, Tooltip, useMap } from 'react-leaflet'
+import { CircleMarker, ImageOverlay, LayersControl, MapContainer, Marker, Polygon, Polyline, TileLayer, Tooltip, useMap } from 'react-leaflet'
 import L from 'leaflet'
 import type { HistEvent, Period, Place, Region, Relic } from '../types'
 import { CATEGORY_META, RELIGION_COLOR, SITE_SYMBOL, placeById } from '../lib/data'
@@ -13,6 +13,8 @@ interface Props {
   regions: Region[]
   relic?: Relic
   relicCurrent: number
+  overlay?: { file: string; bounds: [[number, number], [number, number]] }
+  overlayOpacity: number
   onPlace: (id: string) => void
 }
 
@@ -54,7 +56,7 @@ function FlyTo({ selected, placeId }: { selected?: HistEvent; placeId?: string }
   return null
 }
 
-export default function MapView({ events, selected, selectedPlaceId, capitals, sites, regions, relic, relicCurrent, onPlace }: Props) {
+export default function MapView({ events, selected, selectedPlaceId, capitals, sites, regions, relic, relicCurrent, overlay, overlayOpacity, onPlace }: Props) {
   // aggregate visible events per place
   const byPlace = new Map<string, HistEvent[]>()
   for (const e of events) for (const p of e.placeIds) byPlace.set(p, [...(byPlace.get(p) ?? []), e])
@@ -78,6 +80,8 @@ export default function MapView({ events, selected, selectedPlaceId, capitals, s
           <TileLayer attribution="Imagery &copy; Esri, Maxar, Earthstar Geographics" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" maxZoom={19} />
         </LayersControl.BaseLayer>
       </LayersControl>
+
+      {overlay && <ImageOverlay key={overlay.file} url={`${import.meta.env.BASE_URL}${overlay.file}`} bounds={overlay.bounds} opacity={overlayOpacity} zIndex={250} />}
 
       {regions.map((g) => (
         <Polygon key={g.id} positions={g.polygons} pathOptions={{ color: g.color, weight: 1.5, dashArray: '6 4', fillColor: g.color, fillOpacity: 0.1 }} interactive>
