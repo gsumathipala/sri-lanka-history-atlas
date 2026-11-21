@@ -1,0 +1,563 @@
+[
+  {
+    "id": "bundala-palaeolithic",
+    "title": "Earliest stone tools on the Iranamadu Formation",
+    "start": -123050,
+    "dateLabel": "c. 125,000 BP (?)",
+    "dateNote": "Age inferred from the geomorphological context of artefact-bearing gravels, not from direct dating of the artefacts. Treat as a maximum hypothesis.",
+    "category": "prehistory",
+    "confidence": "contested",
+    "placeIds": [
+      "bundala"
+    ],
+    "summary": "Quartz and chert artefacts found in ancient dune and gravel deposits of the Iranamadu Formation near Bundala on the south coast have been put forward as the earliest evidence of humans on the island, possibly Middle Palaeolithic.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Lithic artefacts in the Iranamadu Formation; Deraniyagala's synthesis of the Palaeolithic evidence.",
+        "sourceId": "deraniyagala1992",
+        "locator": "Part I, Palaeolithic chapters"
+      }
+    ],
+    "historiography": "How old these finds are, and even whether they are certainly human-made, is still debated. They are not secure evidence of Homo sapiens. Firm dates for modern humans begin around 48,000 BP.",
+    "tags": [
+      "palaeolithic"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "fahien-lena-bow-arrow",
+    "title": "Fa-Hien Lena: earliest bow-and-arrow hunting outside Africa",
+    "start": -46050,
+    "end": -2050,
+    "dateLabel": "c. 48,000 - 4,000 BP",
+    "dateNote": "Radiocarbon chronology of the 2009-2012 excavations; earliest occupation c. 48-45 ka cal BP.",
+    "category": "prehistory",
+    "confidence": "probable",
+    "placeIds": [
+      "fahien-lena"
+    ],
+    "summary": "Re-excavation of Fa-Hien Lena recovered bone arrowheads, microliths, worked ochre and shell beads dated to around 48,000 years ago. Faunal remains show that people specialised in hunting tree-dwelling monkeys and squirrels in the tropical rainforest.",
+    "evidence": [
+      {
+        "type": "radiometric",
+        "description": "Radiocarbon-dated stratigraphy establishing occupation from c. 48 ka.",
+        "sourceId": "wedage2019"
+      },
+      {
+        "type": "archaeological",
+        "description": "Use-wear and impact fractures on bone points interpreted as arrowheads; symbolic material culture (beads, pigment).",
+        "sourceId": "langley2020"
+      },
+      {
+        "type": "archaeological",
+        "description": "Faunal assemblage showing specialised hunting of arboreal and semi-arboreal mammals.",
+        "sourceId": "wedage2019"
+      }
+    ],
+    "historiography": "Calling the points arrowheads rests on use-wear analysis. Some researchers want corroborating finds before accepting bow technology at this date.",
+    "tags": [
+      "palaeolithic",
+      "rainforest",
+      "homo-sapiens"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Fa Hien Cave"
+  },
+  {
+    "id": "batadomba-lena",
+    "title": "Batadomba-lena: Late Pleistocene rainforest foragers",
+    "start": -34050,
+    "end": -10050,
+    "dateLabel": "c. 36,000 - 12,000 BP",
+    "category": "prehistory",
+    "confidence": "established",
+    "placeIds": [
+      "batadomba-lena"
+    ],
+    "summary": "This rock shelter produced some of South Asia's earliest anatomically modern human remains, geometric microliths and evidence of a rainforest diet. Stable isotopes in human tooth enamel show that people relied on rainforest resources from about 20,000 years ago.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Human skeletal remains described as c. 28,000-year-old anatomically modern humans.",
+        "sourceId": "kennedy1989"
+      },
+      {
+        "type": "radiometric",
+        "description": "Revised chronology, microlithic technology, and evidence for exploitation of rainforest plants and animals.",
+        "sourceId": "perera2011"
+      },
+      {
+        "type": "scientific",
+        "description": "Carbon and oxygen isotope analysis of human and faunal tooth enamel indicating rainforest reliance.",
+        "sourceId": "roberts2015"
+      }
+    ],
+    "tags": [
+      "palaeolithic",
+      "rainforest",
+      "human-remains"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Batadombalena"
+  },
+  {
+    "id": "balangoda-culture",
+    "title": "The 'Balangoda culture': microlithic hunter-gatherers",
+    "start": -36050,
+    "end": -900,
+    "dateLabel": "c. 38,000 BP - 1st millennium BCE",
+    "dateNote": "The span combines dates from several sites, and the microlithic tradition continued alongside early farming and iron-using societies.",
+    "category": "prehistory",
+    "confidence": "established",
+    "placeIds": [
+      "balangoda",
+      "belilena",
+      "batadomba-lena",
+      "fahien-lena"
+    ],
+    "summary": "Deraniyagala's term for the long-lived Mesolithic tradition of geometric microliths found in caves and open sites across the island. Its makers are known from skeletal remains as 'Balangoda Man'.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Definition of the Balangoda culture, site gazetteer and chronology.",
+        "sourceId": "deraniyagala1992"
+      },
+      {
+        "type": "radiometric",
+        "description": "Early microliths in dated contexts at Batadomba-lena and Fa-Hien Lena.",
+        "sourceId": "perera2011"
+      }
+    ],
+    "historiography": "Geometric microliths in Sri Lanka are far older than in Europe. This has made the island central to debates about when and why microlithic technology appeared among early Homo sapiens.",
+    "tags": [
+      "mesolithic",
+      "microliths"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Balangoda Man"
+  },
+  {
+    "id": "horton-plains-land-use",
+    "title": "Horton Plains: possible early plant management",
+    "start": -11050,
+    "dateLabel": "c. 13,000 BP (?)",
+    "category": "prehistory",
+    "confidence": "contested",
+    "placeIds": [
+      "horton-plains"
+    ],
+    "summary": "Pollen and charcoal records from Horton Plains peat cores show changes to the vegetation that have been read as possible early human burning and cultivation of grasses (including cereal-type pollen) well before the Iron Age.",
+    "evidence": [
+      {
+        "type": "scientific",
+        "description": "Palynological and charcoal sequences from Horton Plains cores.",
+        "sourceId": "premathilake2006"
+      }
+    ],
+    "historiography": "Many archaeologists doubt that early cereal-type pollen shows cultivation, because wild grasses can produce similar pollen and there are no matching archaeological finds. Read this as a hypothesis.",
+    "tags": [
+      "palaeoenvironment",
+      "agriculture"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "anuradhapura-iron-age",
+    "title": "Iron Age settlement at Anuradhapura",
+    "start": -900,
+    "end": -500,
+    "dateLabel": "c. 900 - 500 BCE",
+    "category": "prehistory",
+    "confidence": "established",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "Deep excavations in the Anuradhapura citadel (Gedige and Salgaha Watta 2) reveal a protohistoric Iron Age settlement with iron, black-and-red ware and domestic cattle and horse, centuries before the chronicles' accounts of the city's founding.",
+    "evidence": [
+      {
+        "type": "radiometric",
+        "description": "Radiocarbon dates from the basal Iron Age levels of the Gedige excavation.",
+        "sourceId": "deraniyagala1992"
+      },
+      {
+        "type": "archaeological",
+        "description": "Stratigraphic sequence of ASW2 from the Iron Age to the medieval city.",
+        "sourceId": "coningham1999"
+      }
+    ],
+    "tags": [
+      "iron-age",
+      "urbanism"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "pomparippu-urn-burials",
+    "title": "Megalithic urn burials at Pomparippu",
+    "start": -800,
+    "end": -200,
+    "dateLabel": "1st millennium BCE",
+    "dateNote": "Cemetery chronology is broad; dates should be refined from the excavation report.",
+    "category": "prehistory",
+    "confidence": "probable",
+    "placeIds": [
+      "pomparippu"
+    ],
+    "summary": "An extensive Iron Age cemetery of urn burials with grave goods of the black-and-red ware tradition. It is part of a megalithic burial culture with close parallels in Tamil Nadu and Kerala.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "1970 excavations of urn burials, with analysis of skeletal remains.",
+        "sourceId": "begley1981"
+      },
+      {
+        "type": "archaeological",
+        "description": "Context of Sri Lankan megalithic cultures within the Early Iron Age.",
+        "sourceId": "deraniyagala1992"
+      }
+    ],
+    "historiography": "The megalithic complex shows the Early Iron Age of Sri Lanka was closely tied to peninsular India. This complicates single-origin migration narratives.",
+    "tags": [
+      "iron-age",
+      "megalithic",
+      "burial"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "buddha-visits-tradition",
+    "title": "Tradition: the Buddha's three visits to Lanka",
+    "start": -528,
+    "dateLabel": "Traditional (no historical date)",
+    "category": "religion",
+    "confidence": "legendary",
+    "placeIds": [
+      "mahiyangana",
+      "nagadipa",
+      "kelaniya"
+    ],
+    "summary": "The chronicles open with three visits of the Buddha to the island: to Mahiyangana, to Nagadipa to settle a dispute between naga kings, and to Kelaniya. These sites became major pilgrimage centres.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Narrative of the three visits.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa ch. 1"
+      },
+      {
+        "type": "chronicle",
+        "description": "Earlier version of the visit narratives.",
+        "sourceId": "oldenberg1879",
+        "locator": "Dipavamsa chs. 1-2"
+      }
+    ],
+    "historiography": "These are religious traditions written down roughly a thousand years after the events they describe. They matter as evidence of how later Buddhist communities saw the island's sacred geography, not as events that can be dated.",
+    "tags": [
+      "tradition",
+      "buddhism",
+      "pilgrimage"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 1
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 1
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 2
+      }
+    ]
+  },
+  {
+    "id": "vijaya-tradition",
+    "title": "Tradition: arrival of Prince Vijaya",
+    "start": -543,
+    "dateLabel": "Traditional date 543 BCE",
+    "dateNote": "The chronicles place Vijaya's landing on the day of the Buddha's parinibbana. This is a symbolic synchronism, not a historical date.",
+    "category": "polity",
+    "confidence": "legendary",
+    "placeIds": [
+      "tambapanni"
+    ],
+    "summary": "The chronicles tell how Vijaya, an exiled prince from northern India, landed at Tambapanni with 700 followers, married the yakkhini Kuveni and founded the line of Sinhala kings.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Vijaya's origin, landing and reign.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa chs. 6-8"
+      },
+      {
+        "type": "chronicle",
+        "description": "Earlier account of Vijaya.",
+        "sourceId": "oldenberg1879",
+        "locator": "Dipavamsa ch. 9"
+      }
+    ],
+    "historiography": "Sinhala is an Indo-Aryan language, which supports some movement of people or language from northern India in the 1st millennium BCE. The specific narrative, though, is mythological, and archaeology shows long-established Iron Age communities already on the island. The story has been heavily used in modern identity politics.",
+    "perspectives": [
+      {
+        "label": "Chronicle tradition",
+        "view": "Foundational account of the origin of the Sinhala people and kingship.",
+        "sourceId": "geiger1912"
+      },
+      {
+        "label": "Archaeological view",
+        "view": "Settled Iron Age communities, with ties to both northern and southern India, were already present by c. 900 BCE.",
+        "sourceId": "coningham1999"
+      }
+    ],
+    "tags": [
+      "tradition",
+      "origin-myth"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 6
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 7
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 9
+      }
+    ],
+    "wiki": "Prince Vijaya"
+  },
+  {
+    "id": "anuradhapura-brahmi",
+    "title": "Early Brahmi-inscribed potsherds at Anuradhapura",
+    "start": -450,
+    "end": -350,
+    "dateLabel": "c. 5th - 4th century BCE",
+    "category": "culture",
+    "confidence": "contested",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "Potsherds bearing short Brahmi inscriptions (mostly personal names) came from stratified, radiocarbon-dated levels at Salgaha Watta 2. They may be among the earliest examples of the script anywhere, possibly earlier than the edicts of Asoka.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Inscribed sherds from ASW2 and their dating.",
+        "sourceId": "coningham1996"
+      },
+      {
+        "type": "radiometric",
+        "description": "Radiocarbon framework for the levels containing the sherds.",
+        "sourceId": "coningham1999"
+      }
+    ],
+    "historiography": "The early dates challenge the view that Brahmi was invented under the Mauryans. Critics question how securely the sherds are tied to the dated layers. The finds also feature in long-running debates about where South Asian writing began.",
+    "tags": [
+      "writing",
+      "brahmi"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "bellanbandi-palassa",
+    "title": "Mesolithic burials at Bellanbandi Palassa",
+    "start": -4550,
+    "dateLabel": "c. 6,500 BP",
+    "category": "prehistory",
+    "confidence": "probable",
+    "placeIds": [
+      "bellanbandi-palassa"
+    ],
+    "summary": "An open-air site with burials of Mesolithic hunter-gatherers, some with secondary burial practices. These and other remains of 'Balangoda Man' show physical continuity with Late Pleistocene populations.",
+    "evidence": [
+      {
+        "type": "radiometric",
+        "description": "Radiocarbon-dated burials and microlithic assemblage.",
+        "sourceId": "deraniyagala1992"
+      }
+    ],
+    "tags": [
+      "mesolithic",
+      "burial"
+    ],
+    "review": {
+      "status": "draft",
+      "notes": "Verify the radiocarbon age against Deraniyagala 1992."
+    }
+  },
+  {
+    "id": "ibbankatuwa",
+    "title": "Megalithic cemetery at Ibbankatuwa",
+    "start": -700,
+    "end": -300,
+    "dateLabel": "mid-1st millennium BCE",
+    "category": "prehistory",
+    "confidence": "probable",
+    "placeIds": [
+      "ibbankatuwa"
+    ],
+    "summary": "Stone-cist burials near Dambulla contain pottery, iron tools, and beads of carnelian and glass, some of them imported, all from the Early Iron Age.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Excavation of the cemetery and associated settlement.",
+        "sourceId": "bandaranayake1994"
+      },
+      {
+        "type": "synthesis",
+        "description": "Place of megalithic burials in the Iron Age.",
+        "sourceId": "deraniyagala1992"
+      }
+    ],
+    "tags": [
+      "iron-age",
+      "megalithic"
+    ],
+    "review": {
+      "status": "draft",
+      "notes": "Confirm the radiocarbon range from the excavation report."
+    }
+  },
+  {
+    "id": "kantarodai-settlement",
+    "title": "Early settlement at Kantarodai (Jaffna)",
+    "start": -500,
+    "end": 500,
+    "dateLabel": "mid-1st millennium BCE - 1st millennium CE",
+    "category": "prehistory",
+    "confidence": "probable",
+    "placeIds": [
+      "kantarodai"
+    ],
+    "summary": "Survey and excavation in the Jaffna peninsula show Iron Age and Early Historic settlement at Kantarodai, with black-and-red ware, coins and imported wares. A later Buddhist monastery left dozens of small stupa bases.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Archaeological survey of early settlements in Jaffna.",
+        "sourceId": "ragupathy1987"
+      },
+      {
+        "type": "synthesis",
+        "description": "Context of early northern settlement.",
+        "sourceId": "indrapala2005"
+      }
+    ],
+    "historiography": "The site is claimed in rival narratives of early Tamil and Sinhala Buddhist presence in the north. The archaeology points to a shared Iron Age culture with South India and to Buddhism practised in the region.",
+    "tags": [
+      "iron-age",
+      "jaffna",
+      "buddhism"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "vedda-ethnography",
+    "title": "The Vedda: indigenous hunter-gatherers",
+    "start": 1907,
+    "end": 1911,
+    "dateLabel": "Fieldwork 1907-1908; published 1911",
+    "category": "society",
+    "confidence": "established",
+    "placeIds": [
+      "dambana",
+      "mahiyangana"
+    ],
+    "summary": "The Vedda are widely regarded as descendants of the island's earliest inhabitants. Knox described them in the 17th century, and the Seligmanns' ethnography documented their foraging, cave dwelling and ancestor cults just as these were disappearing.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Seventeenth-century description of the Vedda.",
+        "sourceId": "knox1681"
+      },
+      {
+        "type": "archival",
+        "description": "Detailed ethnography from 1907-08 fieldwork.",
+        "sourceId": "seligmann1911"
+      },
+      {
+        "type": "scientific",
+        "description": "Mitochondrial DNA shows the Vedda as a distinct lineage within Sri Lanka.",
+        "sourceId": "ranaweera2014"
+      }
+    ],
+    "historiography": "How far the Vedda are directly continuous with Mesolithic populations is debated. The Mahavamsa derives the Pulindas from the children of Vijaya and Kuveni (M7), a myth of origin, not history.",
+    "tags": [
+      "indigenous",
+      "vedda"
+    ],
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 7
+      }
+    ],
+    "wiki": "Vedda",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "tamil-brahmi-sri-lanka",
+    "title": "Tamil-Brahmi inscribed sherds in Sri Lanka",
+    "start": -200,
+    "end": 100,
+    "dateLabel": "c. 2nd c. BCE - 1st c. CE",
+    "category": "culture",
+    "confidence": "contested",
+    "placeIds": [
+      "tissamaharama",
+      "kantarodai"
+    ],
+    "summary": "Potsherds from Tissamaharama and other sites carry short inscriptions in Tamil-Brahmi script. They point to Tamil-speaking traders or residents in early historic Sri Lanka.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Corpus and discussion of Tamil-Brahmi inscriptions including Sri Lankan finds.",
+        "sourceId": "mahadevan2003"
+      },
+      {
+        "type": "synthesis",
+        "description": "Implications for early Tamil presence.",
+        "sourceId": "indrapala2005"
+      }
+    ],
+    "historiography": "How each sherd is read and dated is debated, and so is whether they show settled communities or visiting merchants.",
+    "tags": [
+      "epigraphy",
+      "tamil",
+      "trade"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  }
+]

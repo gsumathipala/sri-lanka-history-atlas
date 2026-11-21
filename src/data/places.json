@@ -1,0 +1,4486 @@
+[
+ {
+  "id": "island",
+  "name": "Island-wide",
+  "lat": 7.87,
+  "lng": 80.77,
+  "precision": "region",
+  "kind": "region",
+  "description": "Events affecting the whole island or not tied to one locality."
+ },
+ {
+  "id": "hill-country",
+  "name": "Central Highlands / plantation districts",
+  "lat": 6.95,
+  "lng": 80.79,
+  "precision": "region",
+  "kind": "region"
+ },
+ {
+  "id": "bundala",
+  "name": "Bundala (Iranamadu Formation exposures)",
+  "lat": 6.195,
+  "lng": 81.23,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "fahien-lena",
+  "name": "Fa-Hien Lena (Pahiyangala)",
+  "altNames": [
+   "Pahiyangala"
+  ],
+  "lat": 6.646,
+  "lng": 80.213,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Large rock shelter near Bulathsinhala, Kalutara District."
+ },
+ {
+  "id": "batadomba-lena",
+  "name": "Batadomba-lena",
+  "lat": 6.77,
+  "lng": 80.44,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Rock shelter near Kuruwita, Ratnapura District."
+ },
+ {
+  "id": "belilena",
+  "name": "Beli-lena (Kitulgala)",
+  "lat": 6.99,
+  "lng": 80.4,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "balangoda",
+  "name": "Balangoda",
+  "lat": 6.65,
+  "lng": 80.7,
+  "precision": "approximate",
+  "kind": "city",
+  "description": "Type area of the 'Balangoda culture' (Mesolithic)."
+ },
+ {
+  "id": "horton-plains",
+  "name": "Horton Plains",
+  "lat": 6.802,
+  "lng": 80.804,
+  "precision": "approximate",
+  "kind": "natural"
+ },
+ {
+  "id": "pomparippu",
+  "name": "Pomparippu",
+  "lat": 8.32,
+  "lng": 79.85,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Iron Age urn-burial cemetery near the Kala Oya estuary."
+ },
+ {
+  "id": "anuradhapura",
+  "name": "Anuradhapura",
+  "altNames": [
+   "Anurogrammon (Ptolemy)"
+  ],
+  "lat": 8.3456,
+  "lng": 80.3964,
+  "precision": "exact",
+  "kind": "city",
+  "stories": [
+   {
+    "title": "City of the minister Anuradha",
+    "text": "The chronicle derives the name from Anuradha, a follower of Vijaya who founded a village here. Pandukabhaya later laid out the royal city with gates, suburbs and quarters for yonas, outcastes and ascetics.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 7
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 10
+     }
+    ]
+   }
+  ],
+  "wiki": "Anuradhapura",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "id": "mihintale",
+  "name": "Mihintale",
+  "altNames": [
+   "Missaka-pabbata",
+   "Cetiyagiri"
+  ],
+  "lat": 8.3505,
+  "lng": 80.517,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -250,
+  "foundedLabel": "3rd c. BCE (traditional)",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "The king and the deer",
+    "text": "Hunting on Missaka mountain, Devanampiya Tissa chased a deer and was met instead by Mahinda. Mahinda tested his intelligence with the riddle of the mango tree before preaching to him.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 14
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 12
+     }
+    ]
+   },
+   {
+    "title": "Sela Cetiya and the Ambasthala",
+    "text": "The Ambasthala dagoba marks the meeting place. The Sela Cetiya on the summit is one of the sixteen great pilgrimage sites.",
+    "basis": "tradition"
+   },
+   {
+    "title": "Ancient hospital",
+    "text": "The ruins below the hill include one of the earliest identified monastic hospitals, with a medicine trough.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Mihintale",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 13
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 14
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 16
+   }
+  ]
+ },
+ {
+  "id": "tambapanni",
+  "name": "Tambapanni (traditional landing area)",
+  "lat": 8.1,
+  "lng": 79.85,
+  "precision": "region",
+  "kind": "region",
+  "description": "Location is traditional and uncertain; placed in the north-west coastal zone."
+ },
+ {
+  "id": "mahiyangana",
+  "name": "Mahiyangana",
+  "lat": 7.3194,
+  "lng": 80.9867,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -500,
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "The first visit",
+    "text": "Nine months after his enlightenment the Buddha came to the yakkhas gathered here and drove them away. The deity Sumana Saman received a lock of his hair, which was enshrined in the first stupa on the island.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 1
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 1
+     }
+    ]
+   }
+  ],
+  "wiki": "Mahiyangana Raja Maha Vihara",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 1
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "nagadipa",
+  "name": "Nagadipa (Nainativu)",
+  "lat": 9.61,
+  "lng": 79.77,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": -500,
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "The jewelled throne",
+    "text": "In his fifth year the Buddha came to Nagadipa to settle a war between the naga kings Mahodara and Culodara over a gem-studded throne. Nainativu is also home to the Nagapooshani Amman kovil.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 1
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 2
+     }
+    ]
+   }
+  ],
+  "wiki": "Nagadeepa Purana Vihara",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 1
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 2
+   }
+  ]
+ },
+ {
+  "id": "kelaniya",
+  "name": "Kelaniya",
+  "lat": 6.9553,
+  "lng": 79.922,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": -500,
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "The third visit",
+    "text": "Invited by the naga king Maniakkhika, the Buddha visited Kalyani in his eighth year, then went on to leave his footprint on Sumanakuta.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 1
+     }
+    ]
+   },
+   {
+    "title": "The sea that rose",
+    "text": "King Kelanitissa wrongly put a monk to death, and the sea flooded the land. To appease it he set his daughter adrift in a golden vessel. She came ashore in Ruhuna and became Viharamahadevi, mother of Dutthagamani.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 22
+     }
+    ]
+   },
+   {
+    "title": "Kotte-period temple",
+    "text": "The present temple contains celebrated 20th-century murals by Solias Mendis and earlier fabric from the Kotte period.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Kelaniya Raja Maha Vihara",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 1
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 22
+   }
+  ]
+ },
+ {
+  "id": "dambulla",
+  "name": "Dambulla",
+  "lat": 7.8567,
+  "lng": 80.6492,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "founded": -80,
+  "foundedLabel": "1st c. BCE (traditional)",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The king in hiding",
+    "text": "Tradition holds that Vattagamani Abhaya hid in these caves during his exile and turned them into a temple when he regained the throne.",
+    "basis": "tradition"
+   },
+   {
+    "title": "Painted caves",
+    "text": "Five caves with about 150 images and 2,100 m² of murals, mostly repainted under Kirti Sri Rajasinha in the 18th century.",
+    "basis": "history",
+    "sourceId": "unesco-whc"
+   }
+  ],
+  "wiki": "Dambulla cave temple"
+ },
+ {
+  "id": "tissamaharama",
+  "name": "Tissamaharama (Mahagama)",
+  "altNames": [
+   "Mahagama"
+  ],
+  "lat": 6.2788,
+  "lng": 81.2876,
+  "precision": "approximate",
+  "kind": "city",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -250,
+  "foundedLabel": "3rd-2nd c. BCE (traditional)",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "Capital of Ruhuna",
+    "text": "Mahagama was the seat of the Ruhuna princes. Kavantissa and Viharamahadevi raised their son Gamani here.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 22
+     }
+    ]
+   },
+   {
+    "title": "The Tissa Dagoba",
+    "text": "The great stupa, one of the largest in the south, is attributed to Kavantissa.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Tissamaharama Raja Maha Vihara",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 22
+   }
+  ]
+ },
+ {
+  "id": "aluvihare",
+  "name": "Aluvihare",
+  "lat": 7.4977,
+  "lng": 80.6213,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "founded": -80,
+  "foundedLabel": "1st c. BCE (traditional)",
+  "stories": [
+   {
+    "title": "The written word",
+    "text": "Here, according to tradition, 500 monks wrote down the Tipitaka and its commentaries on palm leaves. The library was destroyed in the 1848 rebellion and rewriting began afterwards.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "dipavamsa",
+      "chapter": 20
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 33
+     }
+    ]
+   }
+  ],
+  "wiki": "Aluvihare Rock Temple",
+  "chronicle": [
+   {
+    "work": "dipavamsa",
+    "chapter": 20
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "mantai",
+  "name": "Mantai (Mahatittha)",
+  "altNames": [
+   "Mahatittha",
+   "Matota"
+  ],
+  "lat": 8.975,
+  "lng": 79.92,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "stories": [
+   {
+    "title": "Thiruketheeswaram",
+    "text": "One of the five ancient Isvarams of Siva, praised in Tevaram hymns. It stands by the old port of Mantai, was destroyed by the Portuguese, and was rebuilt in the 20th century.",
+    "basis": "history",
+    "sourceId": "indrapala2005"
+   }
+  ],
+  "wiki": "Ketheeswaram temple"
+ },
+ {
+  "id": "kalawewa",
+  "name": "Kala Wewa",
+  "lat": 8.02,
+  "lng": 80.54,
+  "precision": "approximate",
+  "kind": "natural",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": 460,
+  "foundedLabel": "5th c. CE",
+  "stories": [
+   {
+    "title": "\"This is all my treasure\"",
+    "text": "When his son Kassapa demanded the royal treasure, the captive Dhatusena led him to Kala Wewa, bathed in its waters and declared that this was all his wealth. He was then killed, walled up alive according to the chronicle.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 38
+     }
+    ]
+   }
+  ],
+  "wiki": "Kala Wewa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "sigiriya",
+  "name": "Sigiriya",
+  "altNames": [
+   "Sihagiri"
+  ],
+  "lat": 7.957,
+  "lng": 80.7603,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "palace",
+  "religion": "buddhist",
+  "founded": 477,
+  "foundedLabel": "5th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The parricide's rock",
+    "text": "Kassapa built a palace on the summit of Sihagiri after killing his father. He met his brother Moggallana in battle in 495, and when his elephant turned aside, his army thought he was retreating. Abandoned, he took his own life.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 39
+     }
+    ]
+   },
+   {
+    "title": "The Mirror Wall verses",
+    "text": "From the 8th to 10th centuries visitors wrote verses on the polished wall, many addressed to the painted women of the frescoes.",
+    "basis": "history",
+    "sourceId": "paranavitana1956"
+   }
+  ],
+  "wiki": "Sigiriya",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 39
+   }
+  ]
+ },
+ {
+  "id": "polonnaruwa",
+  "name": "Polonnaruwa",
+  "altNames": [
+   "Pulatthinagara",
+   "Jananathamangalam (Chola)"
+  ],
+  "lat": 7.9403,
+  "lng": 81.0003,
+  "precision": "exact",
+  "kind": "city",
+  "stories": [
+   {
+    "title": "Pulatthinagara",
+    "text": "A Chola provincial capital from 1017, it became the Sinhala capital under Vijayabahu I. Parakramabahu I enclosed it with walls, palaces and parks.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 73
+     }
+    ]
+   }
+  ],
+  "wiki": "Polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 58
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 73
+   }
+  ]
+ },
+ {
+  "id": "parakrama-samudra",
+  "name": "Parakrama Samudra",
+  "lat": 7.915,
+  "lng": 80.985,
+  "precision": "approximate",
+  "kind": "natural",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": 1160,
+  "foundedLabel": "12th c. CE",
+  "stories": [
+   {
+    "title": "\"Not one drop of rain...\"",
+    "text": "The Culavamsa puts in the king's mouth the maxim that not even a little water from the rain should flow into the sea without being made useful to man. The \"sea of Parakrama\" joined older tanks into a single great reservoir.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 79
+     }
+    ]
+   }
+  ],
+  "wiki": "Parakrama Samudra",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 79
+   }
+  ]
+ },
+ {
+  "id": "dambadeniya",
+  "name": "Dambadeniya",
+  "lat": 7.37,
+  "lng": 80.15,
+  "precision": "approximate",
+  "kind": "city",
+  "siteType": "palace",
+  "religion": "buddhist",
+  "founded": 1220,
+  "foundedLabel": "13th c. CE",
+  "stories": [
+   {
+    "title": "Vijayasundararamaya",
+    "text": "Here Parakramabahu II held a festival for the recovered Tooth Relic; the Vijayasundararamaya temple stands on the site.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 82
+     }
+    ]
+   }
+  ],
+  "wiki": "Dambadeniya",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 81
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 82
+   }
+  ]
+ },
+ {
+  "id": "yapahuwa",
+  "name": "Yapahuwa",
+  "lat": 7.8186,
+  "lng": 80.3083,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "palace",
+  "religion": "buddhist",
+  "founded": 1272,
+  "foundedLabel": "13th c. CE",
+  "stories": [
+   {
+    "title": "Stairway of lions",
+    "text": "Bhuvanekabahu I made this rock his capital and housed the Tooth Relic in the temple at the head of an ornamental stone stairway.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 90
+     }
+    ]
+   }
+  ],
+  "wiki": "Yapahuwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ]
+ },
+ {
+  "id": "kurunegala",
+  "name": "Kurunegala",
+  "lat": 7.4867,
+  "lng": 80.3647,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "gampola",
+  "name": "Gampola",
+  "lat": 7.1642,
+  "lng": 80.5767,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "jaffna",
+  "name": "Jaffna",
+  "altNames": [
+   "Yalpanam"
+  ],
+  "lat": 9.6615,
+  "lng": 80.0255,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "nallur",
+  "name": "Nallur",
+  "lat": 9.6747,
+  "lng": 80.0294,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 1250,
+  "foundedLabel": "13th c. (present temple 1734/1749)",
+  "stories": [
+   {
+    "title": "Royal capital and temple",
+    "text": "The capital of the Aryacakravartis was centred on the Kandaswamy temple. The Portuguese destroyed it in 1620, and the present temple was rebuilt under Dutch rule.",
+    "basis": "history",
+    "sourceId": "indrapala2005"
+   }
+  ],
+  "wiki": "Nallur Kandaswamy Kovil"
+ },
+ {
+  "id": "puttalam",
+  "name": "Puttalam (Battala)",
+  "altNames": [
+   "Battala"
+  ],
+  "lat": 8.0362,
+  "lng": 79.8283,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "adams-peak",
+  "name": "Sri Pada (Adam's Peak)",
+  "altNames": [
+   "Samanalakanda"
+  ],
+  "lat": 6.8096,
+  "lng": 80.4994,
+  "precision": "exact",
+  "kind": "natural",
+  "siteType": "shrine",
+  "religion": "multi",
+  "founded": -500,
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "Sri Pada",
+    "text": "Buddhists venerate the footprint as the Buddha's, left on his third visit; Hindus attribute it to Siva, and Muslims and many Christians to Adam.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 1
+     }
+    ]
+   },
+   {
+    "title": "Ibn Battuta's climb",
+    "text": "In 1344 Ibn Battuta climbed the peak by chains fixed into the rock, as pilgrims did before the modern stairways.",
+    "basis": "history",
+    "sourceId": "gibb1994"
+   }
+  ],
+  "wiki": "Adam's Peak",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "galle",
+  "name": "Galle",
+  "lat": 6.0269,
+  "lng": 80.217,
+  "precision": "exact",
+  "kind": "city",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1588,
+  "foundedLabel": "Portuguese 1588; Dutch from 1663",
+  "groups": [
+   "unesco"
+  ],
+  "wiki": "Galle Fort"
+ },
+ {
+  "id": "kotte",
+  "name": "Kotte (Sri Jayawardenepura)",
+  "lat": 6.8905,
+  "lng": 79.9026,
+  "precision": "approximate",
+  "kind": "city",
+  "siteType": "palace",
+  "religion": "buddhist",
+  "founded": 1412,
+  "foundedLabel": "15th c.",
+  "stories": [
+   {
+    "title": "The fortress of victory",
+    "text": "Alakesvara built Kotte as a fortress against the Jaffna kingdom; Parakramabahu VI made it the royal capital.",
+    "basis": "history",
+    "sourceId": "somaratna1975"
+   }
+  ],
+  "wiki": "Sri Jayawardenepura Kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 91
+   }
+  ]
+ },
+ {
+  "id": "sitawaka",
+  "name": "Sitawaka (Avissawella)",
+  "lat": 6.955,
+  "lng": 80.21,
+  "precision": "approximate",
+  "kind": "city",
+  "siteType": "temple",
+  "religion": "hindu",
+  "founded": 1581,
+  "foundedLabel": "16th c.",
+  "stories": [
+   {
+    "title": "The unfinished Berendi Kovil",
+    "text": "Rajasinha I, who converted to Saivism, began this granite temple. The Portuguese destroyed the city after his death.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Berendi Kovil",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 93
+   }
+  ]
+ },
+ {
+  "id": "kandy",
+  "name": "Kandy (Senkadagala)",
+  "altNames": [
+   "Senkadagalapura",
+   "Mahanuwara"
+  ],
+  "lat": 7.2936,
+  "lng": 80.6413,
+  "precision": "exact",
+  "kind": "city",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1595,
+  "foundedLabel": "Tooth temple from c. 1595",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Sri Dalada Maligawa",
+    "text": "Vimaladharmasuriya I brought the Tooth Relic to Kandy. The temple was rebuilt by later kings; the octagonal Pattirippuwa was added under Sri Vikrama Rajasinha.",
+    "basis": "history",
+    "sourceId": "seneviratne1978"
+   },
+   {
+    "title": "The Esala Perahera",
+    "text": "The great annual procession joins the cults of the four guardian gods with the Tooth Relic, an arrangement attributed to Kirti Sri Rajasinha.",
+    "basis": "history",
+    "sourceId": "seneviratne1978"
+   },
+   {
+    "title": "Bombing of 1998",
+    "text": "The temple was damaged by an LTTE truck bomb on 25 January 1998 and later restored.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Temple of the Tooth",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 94
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 99
+   }
+  ]
+ },
+ {
+  "id": "colombo",
+  "name": "Colombo",
+  "lat": 6.9344,
+  "lng": 79.8428,
+  "precision": "exact",
+  "kind": "city"
+ },
+ {
+  "id": "mulleriyawa",
+  "name": "Mulleriyawa",
+  "lat": 6.933,
+  "lng": 79.933,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "danture",
+  "name": "Danture",
+  "lat": 7.28,
+  "lng": 80.54,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "gannoruwa",
+  "name": "Gannoruwa",
+  "lat": 7.278,
+  "lng": 80.595,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "trincomalee",
+  "name": "Trincomalee",
+  "lat": 8.5778,
+  "lng": 81.2336,
+  "precision": "exact",
+  "kind": "city"
+ },
+ {
+  "id": "badulla",
+  "name": "Badulla / Uva-Wellassa",
+  "lat": 6.9934,
+  "lng": 81.055,
+  "precision": "region",
+  "kind": "region"
+ },
+ {
+  "id": "matale",
+  "name": "Matale",
+  "lat": 7.4675,
+  "lng": 80.6234,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "loolecondera",
+  "name": "Loolecondera Estate",
+  "lat": 7.18,
+  "lng": 80.67,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "panadura",
+  "name": "Panadura",
+  "lat": 6.7132,
+  "lng": 79.9026,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "vaddukoddai",
+  "name": "Vaddukoddai",
+  "lat": 9.733,
+  "lng": 79.95,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "galle-face",
+  "name": "Galle Face Green",
+  "lat": 6.9271,
+  "lng": 79.845,
+  "precision": "exact",
+  "kind": "site"
+ },
+ {
+  "id": "mullivaikkal",
+  "name": "Mullivaikkal",
+  "lat": 9.31,
+  "lng": 80.795,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "peraliya",
+  "name": "Peraliya",
+  "lat": 6.172,
+  "lng": 80.1,
+  "precision": "approximate",
+  "kind": "site"
+ },
+ {
+  "id": "batticaloa",
+  "name": "Batticaloa",
+  "lat": 7.717,
+  "lng": 81.7,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "negombo",
+  "name": "Negombo (Katuwapitiya)",
+  "lat": 7.249,
+  "lng": 79.854,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "bellanbandi-palassa",
+  "name": "Bellanbandi Palassa",
+  "lat": 6.38,
+  "lng": 80.85,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Open-air Mesolithic burial site, Ratnapura District."
+ },
+ {
+  "id": "dambana",
+  "name": "Dambana",
+  "lat": 7.36,
+  "lng": 81.11,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Present-day centre of a Vedda community near Mahiyangana."
+ },
+ {
+  "id": "ibbankatuwa",
+  "name": "Ibbankatuwa",
+  "lat": 7.83,
+  "lng": 80.65,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Megalithic cist cemetery near Dambulla."
+ },
+ {
+  "id": "kantarodai",
+  "name": "Kantarodai (Kandarodai)",
+  "lat": 9.745,
+  "lng": 80.027,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "1st mill. BCE - 1st mill. CE",
+  "stories": [
+   {
+    "title": "Field of small stupas",
+    "text": "About 60 small coral-stone stupa bases, part of an early Buddhist and urban settlement in the Jaffna peninsula.",
+    "basis": "archaeology",
+    "sourceId": "ragupathy1987"
+   }
+  ],
+  "wiki": "Kantarodai Purana Vihara"
+ },
+ {
+  "id": "godavaya",
+  "name": "Godavaya",
+  "lat": 6.11,
+  "lng": 81.03,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Ancient port near the Walawe estuary, Ambalantota.",
+  "siteType": "ruins",
+  "religion": "buddhist",
+  "founded": -100,
+  "foundedLabel": "1st c. BCE - 2nd c. CE"
+ },
+ {
+  "id": "samanalawewa",
+  "name": "Samanalawewa",
+  "lat": 6.68,
+  "lng": 80.79,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Ancient iron-smelting landscape on the southern escarpment."
+ },
+ {
+  "id": "ritigala",
+  "name": "Ritigala",
+  "lat": 8.115,
+  "lng": 80.65,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -400,
+  "foundedLabel": "Traditional 4th c. BCE; monastery 9th c. CE",
+  "stories": [
+   {
+    "title": "Pandukabhaya's stronghold",
+    "text": "The young Pandukabhaya fortified himself on Arittha mountain for seven years in his war against his uncles.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 10
+     }
+    ]
+   },
+   {
+    "title": "The forest monks",
+    "text": "In the 9th century Sena I gave Ritigala to the Pamsukulika ascetics. Its double-platform padhanaghara meditation buildings have no images, in keeping with their austerity.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 50
+     }
+    ]
+   }
+  ],
+  "wiki": "Ritigala",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 10
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 50
+   }
+  ]
+ },
+ {
+  "id": "avukana",
+  "name": "Avukana",
+  "lat": 8.011,
+  "lng": 80.513,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "sculpture",
+  "religion": "buddhist",
+  "founded": 460,
+  "foundedLabel": "5th-9th c. CE (debated)",
+  "stories": [
+   {
+    "title": "The Avukana Buddha",
+    "text": "This standing Buddha, about 12 m tall and carved from a single rock face, is popularly attributed to Dhatusena, near his Kala Wewa. Stylistic dating ranges to the 8th-9th century.",
+    "basis": "tradition",
+    "sourceId": "vonschroeder1990"
+   },
+   {
+    "title": "Rival of the pupil",
+    "text": "A legend contrasts the master who carved Avukana with his pupil who carved the unfinished Sasseruwa image nearby.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Avukana Buddha statue"
+ },
+ {
+  "id": "koneswaram",
+  "name": "Koneswaram (Trincomalee)",
+  "lat": 8.583,
+  "lng": 81.245,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 600,
+  "foundedLabel": "Praised in 7th-c. hymns",
+  "stories": [
+   {
+    "title": "Tirukonamalai in the Tevaram",
+    "text": "The Saiva saint Sambandar praised the temple on Swami Rock in the Tevaram hymns (7th c.).",
+    "basis": "history",
+    "sourceId": "indrapala2005"
+   },
+   {
+    "title": "Gokanna and Mahasena",
+    "text": "The Mahavamsa says Mahasena destroyed a temple of the gods at Gokanna and built a vihara there. Its identification with Koneswaram is debated.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 37
+     }
+    ]
+   },
+   {
+    "title": "Thrown into the sea",
+    "text": "In 1622-24 the Portuguese under Constantino de Sá de Noronha demolished the temple and used its stones for a fort. Images were later recovered from the sea.",
+    "basis": "history",
+    "sourceId": "queyroz1930"
+   }
+  ],
+  "wiki": "Koneswaram Temple",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 37
+   }
+  ]
+ },
+ {
+  "id": "dondra",
+  "name": "Devinuwara (Dondra)",
+  "lat": 5.922,
+  "lng": 80.589,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "multi",
+  "founded": 700,
+  "foundedLabel": "Traditional; 7th-16th c.",
+  "stories": [
+   {
+    "title": "The city of the god",
+    "text": "Devinuwara's great temple of Upulvan/Vishnu was famed throughout the Indian Ocean. Ibn Battuta described its thousand Brahmins and devadasis.",
+    "basis": "history",
+    "sourceId": "gibb1994"
+   },
+   {
+    "title": "Destroyed by the Portuguese",
+    "text": "In 1587-88 a Portuguese force under Thomé de Sousa sacked the temple.",
+    "basis": "history",
+    "sourceId": "queyroz1930"
+   }
+  ],
+  "wiki": "Devinuwara"
+ },
+ {
+  "id": "gal-oya",
+  "name": "Gal Oya (Senanayake Samudra)",
+  "lat": 7.21,
+  "lng": 81.52,
+  "precision": "approximate",
+  "kind": "natural"
+ },
+ {
+  "id": "victoria-dam",
+  "name": "Victoria Reservoir (Mahaweli)",
+  "lat": 7.24,
+  "lng": 80.785,
+  "precision": "approximate",
+  "kind": "natural"
+ },
+ {
+  "id": "katunayake",
+  "name": "Katunayake",
+  "lat": 7.17,
+  "lng": 79.88,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "mannar",
+  "name": "Mannar",
+  "lat": 8.977,
+  "lng": 79.911,
+  "precision": "approximate",
+  "kind": "city"
+ },
+ {
+  "id": "mavil-aru",
+  "name": "Mavil Aru",
+  "lat": 8.39,
+  "lng": 81.25,
+  "precision": "approximate",
+  "kind": "site",
+  "description": "Irrigation sluice south of Trincomalee."
+ },
+ {
+  "id": "sri-maha-bodhi",
+  "name": "Sri Maha Bodhi",
+  "lat": 8.3446,
+  "lng": 80.3966,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "founded": -249,
+  "foundedLabel": "Traditional 3rd c. BCE",
+  "groups": [
+   "atamasthana",
+   "solosmasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The coming of the Bodhi branch",
+    "text": "Asoka sent a branch of the Bodhi tree of Bodh Gaya with the nun Sanghamitta. Devanampiya Tissa received it at Jambukola and planted it in the Mahamegha garden, and saplings grown from its seeds were distributed across the island.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 18
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 16
+     }
+    ]
+   },
+   {
+    "title": "Oldest historically documented tree?",
+    "text": "Faxian saw the tree being venerated c. 410 CE. Its continuous history is often cited as making it the oldest human-planted tree with a documented history, though the claim rests on the tradition.",
+    "basis": "history",
+    "sourceId": "legge1886"
+   }
+  ],
+  "wiki": "Jaya Sri Maha Bodhi",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 18
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 19
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 16
+   }
+  ]
+ },
+ {
+  "id": "ruwanwelisaya",
+  "name": "Ruwanwelisaya (Mahathupa)",
+  "lat": 8.35,
+  "lng": 80.3964,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -140,
+  "foundedLabel": "2nd c. BCE (traditional)",
+  "groups": [
+   "atamasthana",
+   "solosmasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "A stupa the king did not live to see",
+    "text": "Dutthagamani started the Great Thupa after his victory. Dying, he was carried on a litter to see the stupa, whose unfinished parts his brother Saddhatissa had covered with white cloth and bamboo.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 28
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 29
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 30
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 31
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 32
+     }
+    ]
+   },
+   {
+    "title": "Materials from the earth",
+    "text": "The chronicle tells how bricks, copper, silver, pearls and gems appeared miraculously across the island for the building.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 28
+     }
+    ]
+   }
+  ],
+  "wiki": "Ruwanwelisaya",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 28
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 29
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 30
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 31
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 32
+   }
+  ]
+ },
+ {
+  "id": "thuparamaya",
+  "name": "Thuparamaya",
+  "lat": 8.3553,
+  "lng": 80.3964,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -247,
+  "foundedLabel": "3rd c. BCE (traditional)",
+  "groups": [
+   "atamasthana",
+   "solosmasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The first stupa",
+    "text": "At Mahinda's request, the collarbone relic of the Buddha was brought from Asoka's India and Sakka's heaven and enshrined in the island's first stupa. The relic casket's arrival on an elephant marks the founding of relic worship in Lanka.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 17
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 15
+     }
+    ]
+   },
+   {
+    "title": "The vatadage",
+    "text": "The stupa was later surrounded by pillared rings carrying a roof (vatadage), and the stone columns still stand.",
+    "basis": "archaeology",
+    "sourceId": "bandaranayake1974"
+   }
+  ],
+  "wiki": "Thuparamaya",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 17
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 15
+   }
+  ]
+ },
+ {
+  "id": "lovamahapaya",
+  "name": "Lovamahapaya (Brazen Palace)",
+  "lat": 8.3463,
+  "lng": 80.3975,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -150,
+  "foundedLabel": "2nd c. BCE (traditional)",
+  "groups": [
+   "atamasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "A nine-storeyed uposatha house",
+    "text": "Dutthagamani built a nine-storeyed chapter house roofed with copper tiles for the monks. It was rebuilt many times; today 1,600 stone pillars remain.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 27
+     }
+    ]
+   }
+  ],
+  "wiki": "Lovamahapaya",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 27
+   }
+  ]
+ },
+ {
+  "id": "abhayagiri",
+  "name": "Abhayagiri Vihara",
+  "lat": 8.3707,
+  "lng": 80.3955,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -89,
+  "foundedLabel": "1st c. BCE (traditional)",
+  "groups": [
+   "atamasthana",
+   "solosmasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The insult of Giri",
+    "text": "When Vattagamani fled the Dravidian invaders, a Jain ascetic named Giri jeered at him. Returning to power, the king destroyed Giri's hermitage and built a monastery there, named after himself (Abhaya) and Giri.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 33
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 20
+     }
+    ]
+   },
+   {
+    "title": "A rival to the Mahavihara",
+    "text": "Abhayagiri was open to Mahayana and other currents and was often at odds with the Mahavihara. Faxian counted 5,000 monks there c. 410 CE.",
+    "basis": "history",
+    "sourceId": "legge1886"
+   }
+  ],
+  "wiki": "Abhayagiri vihāra",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "jetavanaramaya",
+  "name": "Jetavanaramaya",
+  "lat": 8.3518,
+  "lng": 80.4037,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 276,
+  "foundedLabel": "3rd-4th c. CE",
+  "groups": [
+   "atamasthana",
+   "solosmasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Built on the ruins of the Mahavihara's power",
+    "text": "Mahasena, a supporter of Abhayagiri, built the Jetavana on Mahavihara land. At about 122 m originally, it was among the tallest structures of the ancient world.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 37
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 22
+     }
+    ]
+   }
+  ],
+  "wiki": "Jetavanaramaya",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 37
+   }
+  ]
+ },
+ {
+  "id": "mirisaveti",
+  "name": "Mirisaveti Stupa",
+  "lat": 8.3407,
+  "lng": 80.3887,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -160,
+  "foundedLabel": "2nd c. BCE (traditional)",
+  "groups": [
+   "atamasthana",
+   "solosmasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The forgotten pepper",
+    "text": "Dutthagamani ate a pepper dish without first offering it to the sangha. As penance he built this stupa where his spear containing a relic had become fixed in the ground.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 26
+     }
+    ]
+   }
+  ],
+  "wiki": "Mirisaveti Stupa",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 26
+   }
+  ]
+ },
+ {
+  "id": "lankaramaya",
+  "name": "Lankaramaya",
+  "lat": 8.3622,
+  "lng": 80.3925,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -80,
+  "foundedLabel": "1st c. BCE (traditional)",
+  "groups": [
+   "atamasthana",
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "A vatadage stupa",
+    "text": "Attributed to Vattagamani Abhaya, this small stupa retains rings of pillars from a vatadage roof.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Lankaramaya"
+ },
+ {
+  "id": "isurumuniya",
+  "name": "Isurumuniya",
+  "lat": 8.3346,
+  "lng": 80.3866,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": -250,
+  "foundedLabel": "3rd c. BCE (traditional)",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Issarasamanarama",
+    "text": "The chronicle says Devanampiya Tissa built a monastery here for 500 newly ordained noblemen.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 20
+     }
+    ]
+   },
+   {
+    "title": "The Lovers",
+    "text": "A celebrated Gupta-influenced relief (c. 6th-8th c.) shows a couple, popularly identified with Prince Saliya, son of Dutthagamani, and the low-caste maiden Asokamala, for whom he renounced the throne.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Isurumuniya",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 20
+   }
+  ]
+ },
+ {
+  "id": "kuttam-pokuna",
+  "name": "Kuttam Pokuna (Twin Ponds)",
+  "lat": 8.374,
+  "lng": 80.4017,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "buddhist",
+  "founded": 800,
+  "foundedLabel": "c. 8th-10th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Engineering for monks",
+    "text": "Two stepped bathing pools of the Abhayagiri complex are fed through underground conduits and filtering chambers, a fine example of Anuradhapura-period hydraulic design.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Kuttam Pokuna"
+ },
+ {
+  "id": "samadhi-statue",
+  "name": "Samadhi Statue",
+  "lat": 8.3713,
+  "lng": 80.4,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "sculpture",
+  "religion": "buddhist",
+  "founded": 350,
+  "foundedLabel": "c. 3rd-4th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The seated Buddha",
+    "text": "A limestone Buddha in meditation, among the finest examples of early Sri Lankan sculpture. Dating is stylistic and debated.",
+    "basis": "archaeology",
+    "sourceId": "vonschroeder1990"
+   }
+  ],
+  "wiki": "Samadhi Statue"
+ },
+ {
+  "id": "vessagiri",
+  "name": "Vessagiri",
+  "lat": 8.329,
+  "lng": 80.388,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -250,
+  "foundedLabel": "3rd c. BCE (traditional)",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Caves of the merchants",
+    "text": "A rock-shelter monastery with early Brahmi donative inscriptions. Tradition says it was founded for 500 Vaisya (merchant) converts.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 20
+     }
+    ]
+   }
+  ],
+  "wiki": "Vessagiri",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 20
+   }
+  ]
+ },
+ {
+  "id": "abhaya-wewa",
+  "name": "Abhaya Wewa (Basawakkulama)",
+  "lat": 8.354,
+  "lng": 80.385,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": -430,
+  "foundedLabel": "Traditional 5th-4th c. BCE",
+  "stories": [
+   {
+    "title": "The first great tank",
+    "text": "Attributed by the chronicle to Pandukabhaya at the founding of the city, this is one of the oldest reservoirs in South Asia.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 10
+     }
+    ]
+   }
+  ],
+  "wiki": "Basawakkulama Lake",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "id": "tissa-wewa",
+  "name": "Tissa Wewa (Anuradhapura)",
+  "lat": 8.335,
+  "lng": 80.392,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": -300,
+  "foundedLabel": "3rd c. BCE (traditional)",
+  "stories": [
+   {
+    "title": "Royal tank",
+    "text": "Attributed to Devanampiya Tissa; it supplied the royal gardens.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Tissa Wewa"
+ },
+ {
+  "id": "dighavapi",
+  "name": "Dighavapi",
+  "lat": 7.276,
+  "lng": 81.77,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -150,
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "Where the Buddha meditated",
+    "text": "The chronicle records that the Buddha rested here in meditation with his disciples on his third visit. The stupa was later associated with Saddhatissa as ruler of Dighavapi.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 1
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 24
+     }
+    ]
+   }
+  ],
+  "wiki": "Deegawapi",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 1
+   }
+  ]
+ },
+ {
+  "id": "muthiyangana",
+  "name": "Muthiyangana (Badulla)",
+  "lat": 6.983,
+  "lng": 81.058,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -250,
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "Relics of the third visit",
+    "text": "Tradition holds that the Buddha visited here on his third journey and that a stupa was raised over relics given to the local ruler. The site's place in the Mahavamsa is debated.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Muthiyangana Raja Maha Vihara"
+ },
+ {
+  "id": "kataragama-kiri-vehera",
+  "name": "Kiri Vehera (Kataragama)",
+  "lat": 6.42,
+  "lng": 81.335,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -250,
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "The kshatriyas of Kajaragama",
+    "text": "The chronicle names the princes of Kajaragama among those who attended the planting of the Bodhi tree.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "title": "Shared sacred ground",
+    "text": "Kataragama is a pilgrimage site for Buddhists (Kiri Vehera), Hindus (Murugan/Skanda), Muslims (Khidr) and the Vedda.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Kiri Vehera",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 19
+   }
+  ]
+ },
+ {
+  "id": "diva-guhava",
+  "name": "Diva Guhava (location debated)",
+  "lat": 6.82,
+  "lng": 80.48,
+  "precision": "region",
+  "kind": "site",
+  "description": "Exact location unknown; placed near Sri Pada.",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "The cave of rest",
+    "text": "Tradition says the Buddha rested in a cave near Sri Pada after leaving his footprint. Its identification is disputed: candidates include Batatotalena and Kuragala.",
+    "basis": "tradition"
+   }
+  ]
+ },
+ {
+  "id": "pidurangala",
+  "name": "Pidurangala",
+  "lat": 7.966,
+  "lng": 80.761,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Early Brahmi period; restored 5th c.",
+  "stories": [
+   {
+    "title": "The monks who moved",
+    "text": "Tradition holds that Kassapa resettled the monks living at Sigiriya on neighbouring Pidurangala and endowed its monastery, which has early cave inscriptions and a brick reclining Buddha.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Pidurangala"
+ },
+ {
+  "id": "nalanda-gedige",
+  "name": "Nalanda Gedige",
+  "lat": 7.672,
+  "lng": 80.636,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "multi",
+  "founded": 800,
+  "foundedLabel": "8th-10th c. CE",
+  "stories": [
+   {
+    "title": "Hindu form, Buddhist use",
+    "text": "A stone shrine in South Indian Pallava style with Tantric Buddhist sculpture. It sits near the island's geographic centre and was moved stone by stone when the Bowatenna reservoir was built.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Nalanda Gedige"
+ },
+ {
+  "id": "tantirimale",
+  "name": "Tantirimale",
+  "lat": 8.58,
+  "lng": 80.28,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -249,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "A halt of the Bodhi tree",
+    "text": "Tradition says the Bodhi branch stopped here on its journey from Jambukola to Anuradhapura, and one of its saplings was planted here.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Tantirimale Raja Maha Vihara"
+ },
+ {
+  "id": "medirigiriya",
+  "name": "Medirigiriya Vatadage",
+  "lat": 8.137,
+  "lng": 80.973,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 650,
+  "foundedLabel": "7th-8th c. CE",
+  "stories": [
+   {
+    "title": "Mandalagiri",
+    "text": "A circular relic house with three rings of slender stone columns on a hill, one of the finest surviving vatadages.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Medirigiriya Vatadage"
+ },
+ {
+  "id": "gal-vihara",
+  "name": "Gal Vihara",
+  "lat": 7.966,
+  "lng": 81.0047,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "sculpture",
+  "religion": "buddhist",
+  "founded": 1160,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Uttararama",
+    "text": "Parakramabahu I had four great Buddha images carved into a granite face, including a 14 m reclining Buddha. An inscription here records his unification of the sangha.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 78
+     }
+    ]
+   }
+  ],
+  "wiki": "Gal Vihara",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 78
+   }
+  ]
+ },
+ {
+  "id": "polonnaruwa-vatadage",
+  "name": "Polonnaruwa Vatadage",
+  "lat": 7.94733,
+  "lng": 81.00146,
+  "precision": "exact",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 1180,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "A house for the Tooth",
+    "text": "Attributed to Parakramabahu I or Nissanka Malla, it is one of several buildings of the Dalada Maluwa, the Tooth Relic quadrangle.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Polonnaruwa Vatadage",
+  "description": "Position aligned to satellite imagery with the in-app Align tool (not surveyed)."
+ },
+ {
+  "id": "rankoth-vehera",
+  "name": "Rankoth Vehera",
+  "lat": 7.958,
+  "lng": 81.003,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 1190,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Nissanka Malla's stupa",
+    "text": "Its inscriptions credit Nissanka Malla; it is the largest stupa in Polonnaruwa.",
+    "basis": "history",
+    "sourceId": "epigraphia-zeylanica"
+   }
+  ],
+  "wiki": "Rankoth Vehera"
+ },
+ {
+  "id": "siva-devale-polonnaruwa",
+  "name": "Siva Devale No. 2 (Polonnaruwa)",
+  "lat": 7.947,
+  "lng": 81.001,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 1020,
+  "foundedLabel": "11th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Chola Hindu temple",
+    "text": "Built under the Chola occupation, possibly by Rajaraja I's officials; it is the oldest standing structure in Polonnaruwa and carries Tamil inscriptions.",
+    "basis": "archaeology",
+    "sourceId": "indrapala2005"
+   }
+  ],
+  "wiki": "Shiva Devale No. 2"
+ },
+ {
+  "id": "dimbulagala",
+  "name": "Dimbulagala",
+  "lat": 7.86,
+  "lng": 81.12,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Early Brahmi period",
+  "stories": [
+   {
+    "title": "Mountain of hermits",
+    "text": "A rock-shelter monastery with early inscriptions, an important forest-monastery centre in the Polonnaruwa period.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Dimbulagala Raja Maha Vihara"
+ },
+ {
+  "id": "somawathiya",
+  "name": "Somawathiya",
+  "lat": 8.12,
+  "lng": 81.17,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "A tooth relic of tradition",
+    "text": "Tradition holds that the stupa enshrines a tooth relic and was built for Princess Somawathi of Ruhuna.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Somawathiya Chaitya"
+ },
+ {
+  "id": "seruwila",
+  "name": "Seruwila Mangala Raja Maha Vihara",
+  "lat": 8.36,
+  "lng": 81.31,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Traditional 2nd c. BCE",
+  "stories": [
+   {
+    "title": "Kavantissa's stupa",
+    "text": "Attributed to Kavantissa, father of Dutthagamani, and said to enshrine a forehead-bone relic.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Seruwila Mangala Raja Maha Vihara"
+ },
+ {
+  "id": "kirinda",
+  "name": "Kirinda",
+  "lat": 6.215,
+  "lng": 81.33,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "The princess from the sea",
+    "text": "The golden vessel carrying Kelanitissa's daughter came ashore here. Kavantissa received her and named her Viharamahadevi.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 22
+     }
+    ]
+   }
+  ],
+  "wiki": "Kirinda Temple",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 22
+   }
+  ]
+ },
+ {
+  "id": "magul-maha-vihara",
+  "name": "Magul Maha Viharaya (Lahugala)",
+  "lat": 6.9,
+  "lng": 81.7,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "A royal wedding",
+    "text": "Local tradition makes this the place of Kavantissa's marriage to Viharamahadevi.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Magul Maha Viharaya"
+ },
+ {
+  "id": "situlpahuwa",
+  "name": "Sithulpawwa",
+  "lat": 6.4,
+  "lng": 81.47,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "2nd c. BCE (traditional)",
+  "stories": [
+   {
+    "title": "Cittalapabbata",
+    "text": "A large forest monastery, identified with the Cittalapabbata of the chronicles, in what is now Yala.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Sithulpawwa Rajamaha Viharaya"
+ },
+ {
+  "id": "mulkirigala",
+  "name": "Mulkirigala",
+  "lat": 6.12,
+  "lng": 80.73,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Traditional; paintings 18th c.",
+  "stories": [
+   {
+    "title": "Where Turnour found the key",
+    "text": "Tradition says that here George Turnour found the commentary (tika) that unlocked the Pali of the Mahavamsa for his 1837 translation.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Mulkirigala Raja Maha Vihara"
+ },
+ {
+  "id": "maligawila",
+  "name": "Maligawila Buddha",
+  "lat": 6.79,
+  "lng": 81.43,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "sculpture",
+  "religion": "buddhist",
+  "founded": 650,
+  "foundedLabel": "c. 7th c. CE",
+  "stories": [
+   {
+    "title": "Prince Aggabodhi's image",
+    "text": "A standing limestone Buddha about 11 m tall, traditionally attributed to a prince Aggabodhi. It fell and was re-erected in 1991.",
+    "basis": "tradition",
+    "sourceId": "vonschroeder1990"
+   }
+  ],
+  "wiki": "Maligawila Buddha statue"
+ },
+ {
+  "id": "buduruwagala",
+  "name": "Buduruwagala",
+  "lat": 6.6738,
+  "lng": 81.145,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "sculpture",
+  "religion": "buddhist",
+  "founded": 900,
+  "foundedLabel": "9th-10th c. CE",
+  "stories": [
+   {
+    "title": "Mahayana in the south",
+    "text": "Seven figures carved in relief, including a 15 m Buddha flanked by Avalokitesvara and Tara. They are evidence of Mahayana devotion.",
+    "basis": "archaeology",
+    "sourceId": "vonschroeder1990"
+   }
+  ],
+  "wiki": "Buduruwagala"
+ },
+ {
+  "id": "lankatilaka-kandy",
+  "name": "Lankatilaka Vihara (Kandy)",
+  "lat": 7.2289,
+  "lng": 80.5656,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "multi",
+  "founded": 1344,
+  "foundedLabel": "1344 CE",
+  "stories": [
+   {
+    "title": "Architect from South India",
+    "text": "Built for Bhuvanekabahu IV, it combines Sinhala and South Indian forms. Its rock inscriptions in Sinhala and Tamil name the builders.",
+    "basis": "history",
+    "sourceId": "epigraphia-zeylanica"
+   }
+  ],
+  "wiki": "Lankatilaka Vihara",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ]
+ },
+ {
+  "id": "gadaladeniya",
+  "name": "Gadaladeniya Vihara",
+  "lat": 7.2577,
+  "lng": 80.564,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1344,
+  "foundedLabel": "1344 CE",
+  "stories": [
+   {
+    "title": "Vijayanagara style",
+    "text": "A stone shrine designed by the South Indian architect Ganesvarachari, showing Dravidian and Vijayanagara influence.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Gadaladeniya Viharaya"
+ },
+ {
+  "id": "embekke",
+  "name": "Embekke Devale",
+  "lat": 7.216,
+  "lng": 80.57,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "founded": 1370,
+  "foundedLabel": "14th c. (rebuilt Kandyan period)",
+  "stories": [
+   {
+    "title": "Carved wood",
+    "text": "The drummers' hall of this Kataragama devale is famous for its more than 500 carved wooden panels.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Embekka Devalaya"
+ },
+ {
+  "id": "degaldoruwa",
+  "name": "Degaldoruwa Raja Maha Vihara",
+  "lat": 7.304,
+  "lng": 80.66,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "founded": 1771,
+  "foundedLabel": "1771 CE",
+  "stories": [
+   {
+    "title": "Kandyan painting",
+    "text": "A cave temple begun under Kirti Sri Rajasinha and completed under Rajadhi Rajasinha, with outstanding Kandyan-school jataka murals.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Degaldoruwa Raja Maha Vihara"
+ },
+ {
+  "id": "ridi-vihara",
+  "name": "Ridi Viharaya",
+  "lat": 7.533,
+  "lng": 80.495,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "founded": -140,
+  "foundedLabel": "Traditional 2nd c. BCE",
+  "stories": [
+   {
+    "title": "The silver of the Mahathupa",
+    "text": "Tradition says silver ore found here paid for the building of the Ruwanwelisaya, and Dutthagamani founded the temple in gratitude.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 28
+     }
+    ]
+   }
+  ],
+  "wiki": "Ridi Viharaya",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 28
+   }
+  ]
+ },
+ {
+  "id": "arankele",
+  "name": "Arankele",
+  "lat": 7.6,
+  "lng": 80.39,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 550,
+  "foundedLabel": "6th c. CE",
+  "stories": [
+   {
+    "title": "Forest hermitage",
+    "text": "A forest monastery with a stone-paved meditation walk (cankamana) and double-platform buildings like those at Ritigala.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Arankele"
+ },
+ {
+  "id": "panduwasnuwara",
+  "name": "Panduwasnuwara",
+  "lat": 7.6,
+  "lng": 80.1,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "palace",
+  "religion": "buddhist",
+  "founded": 1140,
+  "foundedLabel": "12th c. CE",
+  "stories": [
+   {
+    "title": "Parakramabahu's southern seat",
+    "text": "As ruler of Dakkhinadesa, the young Parakramabahu built Parakramapura here before taking Polonnaruwa.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 66
+     }
+    ]
+   }
+  ],
+  "wiki": "Panduwasnuwara",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 66
+   }
+  ]
+ },
+ {
+  "id": "dedigama",
+  "name": "Dedigama (Kotavehera)",
+  "lat": 7.265,
+  "lng": 80.273,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 1120,
+  "foundedLabel": "12th c. CE",
+  "stories": [
+   {
+    "title": "Birthplace of a king",
+    "text": "The chronicle gives Punkhagama (Dedigama) as the birthplace of Parakramabahu I. A relic chamber excavated at the Kotavehera yielded fine objects now in the site museum.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 62
+     }
+    ]
+   }
+  ],
+  "wiki": "Dedigama Kotavehera",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 62
+   }
+  ]
+ },
+ {
+  "id": "daftar-jailani",
+  "name": "Daftar Jailani",
+  "lat": 6.66,
+  "lng": 80.88,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "mosque",
+  "religion": "muslim",
+  "founded": 1000,
+  "foundedLabel": "Traditional; shrine 19th c.",
+  "stories": [
+   {
+    "title": "The saint's cave",
+    "text": "A cave shrine on Kuragala rock associated by Sufi tradition with Abdul Qadir Jilani. The rock also has early Brahmi inscriptions from a Buddhist monastery, and the site has been disputed.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Daftar Jailani"
+ },
+ {
+  "id": "kechimalai",
+  "name": "Ketchimalai Mosque (Beruwala)",
+  "lat": 6.478,
+  "lng": 79.983,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "mosque",
+  "religion": "muslim",
+  "founded": 900,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "First landing",
+    "text": "Tradition holds that Arab traders landed at Beruwala, making it among the earliest Muslim settlements on the island.",
+    "basis": "tradition",
+    "sourceId": "dewaraja1994"
+   }
+  ],
+  "wiki": "Ketchimalai Mosque"
+ },
+ {
+  "id": "wolvendaal",
+  "name": "Wolvendaal Church",
+  "lat": 6.943,
+  "lng": 79.86,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "founded": 1749,
+  "foundedLabel": "1749 CE",
+  "stories": [
+   {
+    "title": "Dutch Reformed",
+    "text": "A cruciform church built by the VOC. Governors, including members of the van Goens family, are buried there.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Wolvendaal Church"
+ },
+ {
+  "id": "talawila",
+  "name": "St Anne's Church, Talawila",
+  "lat": 8.12,
+  "lng": 79.72,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "founded": 1700,
+  "foundedLabel": "18th c. (traditional)",
+  "stories": [
+   {
+    "title": "Feast of St Anne",
+    "text": "A major Catholic pilgrimage site on the Kalpitiya peninsula, linked to the survival of Catholicism under Dutch restrictions.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "St. Anne's Church, Talawila"
+ },
+ {
+  "id": "madhu",
+  "name": "Our Lady of Madhu",
+  "lat": 8.86,
+  "lng": 80.2,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "founded": 1670,
+  "foundedLabel": "c. 1670",
+  "stories": [
+   {
+    "title": "Flight into the forest",
+    "text": "Catholics fleeing Dutch persecution at Mantai carried a statue of the Virgin into the Vanni forest, founding the shrine. It has been a refuge for civilians in modern wars.",
+    "basis": "tradition",
+    "sourceId": "boudens1957"
+   }
+  ],
+  "wiki": "Shrine of Our Lady of Madhu"
+ },
+ {
+  "id": "munneswaram",
+  "name": "Munneswaram",
+  "lat": 7.58,
+  "lng": 79.83,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 1000,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Linked to the Ramayana",
+    "text": "Tradition connects the temple with Rama. It was destroyed by the Portuguese and rebuilt under Kirti Sri Rajasinha.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Munneswaram temple"
+ },
+ {
+  "id": "naguleswaram",
+  "name": "Naguleswaram (Keerimalai)",
+  "lat": 9.818,
+  "lng": 80.004,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 600,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Healing springs",
+    "text": "One of the five Isvarams, by the Keerimalai springs whose waters were believed to heal, including the mongoose-faced sage Nakula.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Naguleswaram temple"
+ },
+ {
+  "id": "jaffna-fort",
+  "name": "Jaffna Fort",
+  "lat": 9.662,
+  "lng": 80.009,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1619,
+  "foundedLabel": "Portuguese 1619; Dutch rebuilt 1680",
+  "stories": [
+   {
+    "title": "Pentagonal bastions",
+    "text": "Built by the Portuguese and rebuilt by the Dutch as one of Asia's largest European forts, it was fought over repeatedly in the civil war.",
+    "basis": "history",
+    "sourceId": "arasaratnam1958"
+   }
+  ],
+  "wiki": "Jaffna Fort"
+ },
+ {
+  "id": "fort-frederick",
+  "name": "Fort Frederick (Trincomalee)",
+  "lat": 8.58,
+  "lng": 81.24,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1624,
+  "foundedLabel": "1624 CE",
+  "stories": [
+   {
+    "title": "Built of temple stones",
+    "text": "The Portuguese built the fort with stones from the demolished Koneswaram, and the Dutch and British later held it.",
+    "basis": "history",
+    "sourceId": "queyroz1930"
+   }
+  ],
+  "wiki": "Fort Frederick"
+ },
+ {
+  "id": "matara-star-fort",
+  "name": "Star Fort, Matara",
+  "lat": 5.946,
+  "lng": 80.546,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1765,
+  "foundedLabel": "1765 CE",
+  "stories": [
+   {
+    "title": "After the Matara rebellion",
+    "text": "The Dutch built this six-pointed fort after Kandyan forces took Matara in 1761.",
+    "basis": "history",
+    "sourceId": "dewaraja1988"
+   }
+  ],
+  "wiki": "Star Fort, Matara"
+ },
+ {
+  "id": "dakkhina-thupa",
+  "name": "Dakkhina Thupa",
+  "lat": 8.3378,
+  "lng": 80.3953,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -50,
+  "foundedLabel": "1st c. BCE (traditional)",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Tomb of Elara?",
+    "text": "The chronicle says Dutthagamani raised a monument where Elara fell and ordered all to honour it. Paranavitana identified this stupa as that monument, a view most scholars now reject; inscriptions suggest it was built by a minister, Uttara.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 25
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 25
+   }
+  ],
+  "wiki": "Dakkhina Stupa"
+ },
+ {
+  "id": "ratnaprasada",
+  "name": "Ratnaprasada",
+  "lat": 8.3735,
+  "lng": 80.3972,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 750,
+  "foundedLabel": "8th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Finest guardstone",
+    "text": "The Abhayagiri chapter house has the finest naga-king guardstone of the Anuradhapura period.",
+    "basis": "archaeology",
+    "sourceId": "bandaranayake1974"
+   }
+  ],
+  "wiki": "Ratnaprasadaya"
+ },
+ {
+  "id": "mahasen-palace",
+  "name": "\"Mahasen's Palace\" moonstone",
+  "lat": 8.3745,
+  "lng": 80.3983,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "ruins",
+  "religion": "buddhist",
+  "founded": 800,
+  "foundedLabel": "c. 8th-9th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The moonstone",
+    "text": "A building in the Abhayagiri complex with the most celebrated sandakada pahana (moonstone), whose concentric bands of animals and lotus are read as an allegory of samsara.",
+    "basis": "archaeology",
+    "sourceId": "bandaranayake1974"
+   }
+  ],
+  "wiki": "Sandakada pahana"
+ },
+ {
+  "id": "eth-pokuna",
+  "name": "Eth Pokuna",
+  "lat": 8.369,
+  "lng": 80.393,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "buddhist",
+  "founded": 700,
+  "foundedLabel": "c. 7th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Elephant pond",
+    "text": "A huge rock-cut tank of the Abhayagiri monastery, fed by underground channels from Periyamkulama.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Eth Pokuna"
+ },
+ {
+  "id": "western-monasteries",
+  "name": "Western Monasteries (Padhanaghara)",
+  "lat": 8.345,
+  "lng": 80.375,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 800,
+  "foundedLabel": "8th-10th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Austere meditation houses",
+    "text": "Double-platform buildings of the Pamsukulika ascetics. They have no images, but their urinals are carved with fine ornament, read as a rejection of luxury.",
+    "basis": "archaeology",
+    "sourceId": "bandaranayake1974"
+   }
+  ],
+  "wiki": "Western Monasteries"
+ },
+ {
+  "id": "kantaka-cetiya",
+  "name": "Kantaka Cetiya (Mihintale)",
+  "lat": 8.3508,
+  "lng": 80.5085,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -100,
+  "foundedLabel": "2nd-1st c. BCE",
+  "stories": [
+   {
+    "title": "The oldest frontispieces",
+    "text": "Its four vahalkada frontispieces carry some of the earliest surviving Sinhalese relief sculpture, with Brahmi inscriptions naming donors.",
+    "basis": "archaeology",
+    "sourceId": "paranavitana1970"
+   }
+  ],
+  "wiki": "Kantaka Chetiya"
+ },
+ {
+  "id": "naga-pokuna-mihintale",
+  "name": "Naga Pokuna and Kaludiya Pokuna (Mihintale)",
+  "lat": 8.346,
+  "lng": 80.505,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Early historic",
+  "stories": [
+   {
+    "title": "Pools of the sacred hill",
+    "text": "Rock pools of the Mihintale monastery; the Naga Pokuna has a five-headed cobra carved in the rock.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Naga Pokuna"
+ },
+ {
+  "id": "vijitapura",
+  "name": "Vijitapura",
+  "lat": 8.04,
+  "lng": 80.52,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "ruins",
+  "religion": "secular",
+  "founded": -161,
+  "foundedLabel": "2nd c. BCE (traditional)",
+  "stories": [
+   {
+    "title": "Elara's strongest fortress",
+    "text": "Dutthagamani besieged Vijitapura for four months, the hardest fight of his campaign north. His elephant Kandula broke down its gate.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 25
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 25
+   }
+  ],
+  "wiki": "Vijithapura"
+ },
+ {
+  "id": "sasseruwa",
+  "name": "Sasseruwa",
+  "lat": 8.065,
+  "lng": 80.485,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "sculpture",
+  "religion": "buddhist",
+  "founded": -150,
+  "foundedLabel": "Monastery 2nd c. BCE; image 5th-8th c.",
+  "stories": [
+   {
+    "title": "The unfinished colossus",
+    "text": "A rock-cut standing Buddha, said to be the pupil's rival to the master's image at Avukana. The monastery has early Brahmi cave inscriptions.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Sasseruwa"
+ },
+ {
+  "id": "minneriya-tank",
+  "name": "Minneriya Tank",
+  "lat": 8.035,
+  "lng": 80.895,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": 276,
+  "foundedLabel": "3rd c. CE",
+  "stories": [
+   {
+    "title": "Mahasena the tank-builder",
+    "text": "The chronicle credits Mahasena with Manihira (Minneriya) among 16 great tanks. He was later deified locally as \"Minneri Deviyo\".",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 37
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 37
+   }
+  ],
+  "wiki": "Minneriya Tank"
+ },
+ {
+  "id": "kantale-tank",
+  "name": "Kantale Tank (Gangatala)",
+  "lat": 8.36,
+  "lng": 80.99,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": 610,
+  "foundedLabel": "7th c. CE (traditional)",
+  "stories": [
+   {
+    "title": "Aggabodhi II's tank",
+    "text": "The chronicle credits Aggabodhi II with Gangatalavapi. The dam breached catastrophically in 1986.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 42
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 42
+   }
+  ],
+  "wiki": "Kantale Tank"
+ },
+ {
+  "id": "giritale-tank",
+  "name": "Giritale Tank",
+  "lat": 7.99,
+  "lng": 80.93,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": 610,
+  "foundedLabel": "7th c. CE",
+  "stories": [
+   {
+    "title": "Girittha",
+    "text": "Attributed to Aggabodhi II and later enlarged; part of the Polonnaruwa irrigation network.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Giritale Tank"
+ },
+ {
+  "id": "padaviya-tank",
+  "name": "Padaviya Tank",
+  "lat": 8.83,
+  "lng": 80.77,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "multi",
+  "founded": 300,
+  "foundedLabel": "1st mill. CE",
+  "stories": [
+   {
+    "title": "Frontier reservoir",
+    "text": "A great northern tank with a Buddhist monastery and Tamil merchant-guild inscriptions of the Chola period nearby.",
+    "basis": "archaeology",
+    "sourceId": "indrapala2005"
+   }
+  ],
+  "wiki": "Padaviya Tank"
+ },
+ {
+  "id": "yoda-ela",
+  "name": "Yoda Ela (Jaya Ganga)",
+  "lat": 8.2,
+  "lng": 80.47,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "reservoir",
+  "religion": "secular",
+  "founded": 460,
+  "foundedLabel": "5th c. CE",
+  "stories": [
+   {
+    "title": "The giant canal",
+    "text": "An 87 km canal carrying water from Kala Wewa to Anuradhapura at a gradient of about 10-20 cm per km, attributed to Dhatusena.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 38
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ],
+  "wiki": "Jaya Ganga"
+ },
+ {
+  "id": "namal-uyana",
+  "name": "Namal Uyana",
+  "lat": 7.86,
+  "lng": 80.47,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 800,
+  "foundedLabel": "Monastery 8th c.; ironwood forest",
+  "stories": [
+   {
+    "title": "Forest of ironwood",
+    "text": "A forest of na trees (Mesua ferrea) around an ancient forest monastery, beside a rose-quartz ridge.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Namal Uyana"
+ },
+ {
+  "id": "tiriyaya",
+  "name": "Girihandu Seya (Tiriyaya)",
+  "lat": 8.865,
+  "lng": 81.01,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -100,
+  "foundedLabel": "Traditional; vatadage 7th-8th c.",
+  "stories": [
+   {
+    "title": "The merchants' hair relics",
+    "text": "Tradition holds that the merchants Tapassu and Bhalluka, the Buddha's first lay followers, enshrined hair relics here. A Pallava-period inscription and vatadage survive.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Girihandu Seya"
+ },
+ {
+  "id": "velgam-vehera",
+  "name": "Velgam Vehera",
+  "lat": 8.62,
+  "lng": 81.12,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "multi",
+  "founded": -100,
+  "foundedLabel": "Founded 2nd-1st c. BCE; Chola-period use",
+  "stories": [
+   {
+    "title": "A Buddhist monastery under Chola patronage",
+    "text": "Tamil inscriptions call it Rajarajap-perumpalli after Rajaraja I, showing Chola-period support for a Buddhist site and Tamil Buddhism.",
+    "basis": "history",
+    "sourceId": "indrapala2005"
+   }
+  ],
+  "wiki": "Velgam Vehera"
+ },
+ {
+  "id": "lankapatuna",
+  "name": "Lankapatuna",
+  "lat": 8.43,
+  "lng": 81.33,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "founded": 310,
+  "foundedLabel": "Traditional 4th c. CE",
+  "stories": [
+   {
+    "title": "Landing of the Tooth",
+    "text": "Tradition says the princess Hemamala and prince Danta landed here with the Tooth Relic, hidden in her hair, after fleeing Kalinga.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Lankapatuna Samudragiri Viharaya"
+ },
+ {
+  "id": "kanniya",
+  "name": "Kanniya Hot Springs",
+  "lat": 8.607,
+  "lng": 81.197,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "multi",
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Seven wells",
+    "text": "Hindu tradition connects the seven springs with Ravana; Buddhist monastery ruins nearby show early use.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Kanniya Hot wells"
+ },
+ {
+  "id": "hatthavanagalla",
+  "name": "Attanagalla (Hatthavanagalla Vihara)",
+  "lat": 7.11,
+  "lng": 80.13,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 250,
+  "foundedLabel": "3rd c. CE (traditional)",
+  "stories": [
+   {
+    "title": "The king who gave his head",
+    "text": "The exiled king Sirisanghabodhi, rather than cause bloodshed, gave his own head to a poor traveller so he could claim the reward offered by the usurper Gothabhaya.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 36
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ],
+  "wiki": "Attanagalla Rajamaha Viharaya"
+ },
+ {
+  "id": "beligala",
+  "name": "Beligala",
+  "lat": 7.24,
+  "lng": 80.36,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1220,
+  "foundedLabel": "13th c. CE",
+  "stories": [
+   {
+    "title": "Hiding place of the relics",
+    "text": "Vijayabahu III kept the Tooth and Bowl relics in a temple on Beligala rock before moving them to Dambadeniya.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 81
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 81
+   }
+  ],
+  "wiki": "Beligala"
+ },
+ {
+  "id": "kotmale",
+  "name": "Kotmale",
+  "lat": 7.05,
+  "lng": 80.6,
+  "precision": "region",
+  "kind": "region",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "foundedLabel": "Traditional refuge",
+  "stories": [
+   {
+    "title": "Refuge of princes and relics",
+    "text": "In the chronicles the hill country of Kotmale is a refuge: Dutthagamani's retreat and the hiding place of the Tooth Relic during Magha's rule.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 24
+     },
+     {
+      "work": "culavamsa",
+      "chapter": 81
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 24
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 81
+   }
+  ],
+  "wiki": "Kotmale"
+ },
+ {
+  "id": "atadage",
+  "name": "Atadage (Polonnaruwa)",
+  "lat": 7.9488,
+  "lng": 81.0011,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1070,
+  "foundedLabel": "11th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "House of the Tooth",
+    "text": "Built by Vijayabahu I for the Tooth Relic. The Velaikkara Tamil inscription recording the mercenaries' oath to protect it stands here.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 60
+     }
+    ],
+    "sourceId": "epigraphia-zeylanica"
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 60
+   }
+  ],
+  "wiki": "Atadage"
+ },
+ {
+  "id": "hatadage",
+  "name": "Hatadage (Polonnaruwa)",
+  "lat": 7.9486,
+  "lng": 81.0015,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1190,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Built in sixty days?",
+    "text": "Nissanka Malla's Tooth Relic temple. Its name is popularly explained as \"built in 60 hours/days\", though more likely it refers to the relics housed there.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 80
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ],
+  "wiki": "Hatadage"
+ },
+ {
+  "id": "nissanka-lata-mandapa",
+  "name": "Nissanka Lata Mandapaya",
+  "lat": 7.9485,
+  "lng": 81.0005,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "founded": 1190,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Lotus-stalk columns",
+    "text": "A small pavilion with stone columns carved like lotus stalks, where Nissanka Malla listened to chanting.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Nissanka Lata Mandapaya"
+ },
+ {
+  "id": "thuparama-polonnaruwa",
+  "name": "Thuparama Gedige (Polonnaruwa)",
+  "lat": 7.948,
+  "lng": 81.0003,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1150,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Vaulted image house",
+    "text": "The best-preserved brick gedige, with a corbelled vault in Sinhala-Dravidian style.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Thuparama Gedige"
+ },
+ {
+  "id": "lankatilaka-polonnaruwa",
+  "name": "Lankatilaka (Polonnaruwa)",
+  "lat": 7.9645,
+  "lng": 81.001,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1160,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The great image house",
+    "text": "A towering brick image house whose walls still rise about 17 m around a headless standing Buddha; Parakramabahu I's Jetavana monastery.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 78
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 78
+   }
+  ],
+  "wiki": "Lankatilaka Vihara (Polonnaruwa)"
+ },
+ {
+  "id": "kiri-vehera-polonnaruwa",
+  "name": "Kiri Vehera (Polonnaruwa)",
+  "lat": 7.9625,
+  "lng": 81.0015,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 1160,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "White stupa",
+    "text": "A stupa of the Alahana Parivena still bearing original lime plaster, attributed to Queen Subhadra.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Kiri Vehera (Polonnaruwa)"
+ },
+ {
+  "id": "tivanka-pilimage",
+  "name": "Tivanka Pilimage",
+  "lat": 7.9705,
+  "lng": 81.004,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1160,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Thrice-bent Buddha",
+    "text": "An image house with the most extensive surviving Polonnaruwa-period murals, showing jatakas and gods.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Tivanka Pilimage"
+ },
+ {
+  "id": "potgul-vehera",
+  "name": "Potgul Vehera and the statue",
+  "lat": 7.9255,
+  "lng": 81.005,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "sculpture",
+  "religion": "buddhist",
+  "founded": 1180,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The sage or the king?",
+    "text": "A rock-cut statue of a bearded man holding a palm-leaf book, popularly identified as Parakramabahu I. Others see a sage such as Pulasti or Kapila. Nearby is a circular library.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Potgul Vehera"
+ },
+ {
+  "id": "demala-maha-seya",
+  "name": "Demala Maha Seya",
+  "lat": 7.976,
+  "lng": 81.004,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 1170,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "The unfinished giant",
+    "text": "Said to have been built by Tamil prisoners of war after Parakramabahu's South Indian campaigns, it would have been the largest stupa in the world but was left unfinished.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 76
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 76
+   }
+  ],
+  "wiki": "Damila Maha Seya"
+ },
+ {
+  "id": "pabalu-vehera",
+  "name": "Pabalu Vehera",
+  "lat": 7.9545,
+  "lng": 81.004,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": 1190,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Stupa of beads",
+    "text": "Named after the glass beads found on the site and attributed to Queen Rupavati.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Pabalu Vehera"
+ },
+ {
+  "id": "siva-devale-1",
+  "name": "Siva Devale No. 1 (Polonnaruwa)",
+  "lat": 7.949,
+  "lng": 81.0045,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 1200,
+  "foundedLabel": "13th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Pandyan-style temple",
+    "text": "A stone Siva temple of the 13th century whose fine bronzes are now in the Colombo Museum.",
+    "basis": "archaeology"
+   }
+  ],
+  "wiki": "Shiva Devale No. 1"
+ },
+ {
+  "id": "polonnaruwa-palace",
+  "name": "Royal Palace of Parakramabahu (Vijayotpaya)",
+  "lat": 7.944,
+  "lng": 81.0005,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "palace",
+  "religion": "buddhist",
+  "founded": 1160,
+  "foundedLabel": "12th c. CE",
+  "groups": [
+   "unesco"
+  ],
+  "stories": [
+   {
+    "title": "Seven storeys",
+    "text": "The Culavamsa describes a seven-storeyed palace with 1,000 rooms; the massive brick walls still stand.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 73
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 73
+   }
+  ],
+  "wiki": "Royal Palace of King Parakramabahu"
+ },
+ {
+  "id": "rajagala",
+  "name": "Rajagala",
+  "lat": 7.4,
+  "lng": 81.6,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "2nd c. BCE onward",
+  "stories": [
+   {
+    "title": "Monastery of the elder Arittha",
+    "text": "Inscriptions are said to refer to Arittha, who escorted the Bodhi tree; more than 600 ruins lie on the rock.",
+    "basis": "tradition",
+    "sourceId": "paranavitana1970"
+   }
+  ],
+  "wiki": "Rajagala"
+ },
+ {
+  "id": "buddhangala",
+  "name": "Buddhangala",
+  "lat": 7.31,
+  "lng": 81.63,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Early Brahmi period",
+  "stories": [
+   {
+    "title": "Forest hermitage",
+    "text": "An ancient monastery on a rock above Ampara, with early cave inscriptions.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Buddhangala"
+ },
+ {
+  "id": "muhudu-maha-vihara",
+  "name": "Muhudu Maha Viharaya (Pottuvil)",
+  "lat": 6.876,
+  "lng": 81.834,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -150,
+  "foundedLabel": "Traditional 2nd c. BCE",
+  "stories": [
+   {
+    "title": "A rival landing",
+    "text": "Eastern tradition says Viharamahadevi's vessel came ashore here, not at Kirinda.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Muhudu Maha Viharaya"
+ },
+ {
+  "id": "kudumbigala",
+  "name": "Kudumbigala",
+  "lat": 6.69,
+  "lng": 81.73,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Early Brahmi period",
+  "stories": [
+   {
+    "title": "Two hundred caves",
+    "text": "A large forest hermitage in the Kumana wilderness, with numerous drip-ledged caves.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Kudumbigala Monastery Sanctuary"
+ },
+ {
+  "id": "okanda",
+  "name": "Okanda Murugan Kovil",
+  "lat": 6.656,
+  "lng": 81.773,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Start of the pada yatra",
+    "text": "The pilgrims' foot pilgrimage to Kataragama through Kumana and Yala starts here.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Okanda Sri Murugan Kovil"
+ },
+ {
+  "id": "thirukkovil",
+  "name": "Thirukkovil Sithira Velayutha Swami Kovil",
+  "lat": 7.12,
+  "lng": 81.85,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "East coast Murugan temple",
+    "text": "An important Murugan temple of the east coast; it was damaged in the 2004 tsunami.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Thirukkovil Sithira Velayutha Swami Kovil"
+ },
+ {
+  "id": "thanthonreeswarar",
+  "name": "Thanthonreeswarar Kovil (Kokkadicholai)",
+  "lat": 7.62,
+  "lng": 81.71,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 1000,
+  "foundedLabel": "Traditional; Chola-era tradition",
+  "stories": [
+   {
+    "title": "The self-manifested lingam",
+    "text": "A Siva temple of the Batticaloa region with traditions reaching to the Chola period.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Thanthonreeswarar Kovil"
+ },
+ {
+  "id": "mamangam",
+  "name": "Mamanga Pillaiyar Kovil (Batticaloa)",
+  "lat": 7.74,
+  "lng": 81.68,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Rama's arrow",
+    "text": "Tradition says Rama made the temple tank with an arrow; its annual festival draws pilgrims from across the east.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Mamangam Pillaiyar Temple"
+ },
+ {
+  "id": "yatala-vehera",
+  "name": "Yatala Vehera",
+  "lat": 6.29,
+  "lng": 81.29,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "3rd-2nd c. BCE (traditional)",
+  "stories": [
+   {
+    "title": "Mahanaga's stupa",
+    "text": "Attributed to Yatthalayaka Tissa, son of Mahanaga, the founder of the Ruhuna line. It has an elephant wall and a moat.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Yatala Vehera"
+ },
+ {
+  "id": "sandagiri",
+  "name": "Sandagiri Seya",
+  "lat": 6.28,
+  "lng": 81.28,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Moon-hill stupa",
+    "text": "One of the great stupas of ancient Mahagama.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Sandagiri Stupa"
+ },
+ {
+  "id": "kataragama-devale",
+  "name": "Kataragama Maha Devale",
+  "lat": 6.418,
+  "lng": 81.333,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "multi",
+  "foundedLabel": "Traditional",
+  "groups": [
+   "solosmasthana"
+  ],
+  "stories": [
+   {
+    "title": "God of Kataragama",
+    "text": "A shrine of Skanda/Murugan, worshipped by Buddhists as Kataragama deviyo. Its Esala festival includes fire-walking and kavadi.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Kataragama temple"
+ },
+ {
+  "id": "dematamal",
+  "name": "Dematamal Viharaya (Okkampitiya)",
+  "lat": 6.76,
+  "lng": 81.31,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": -150,
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Prince Tissa's refuge",
+    "text": "Tradition links the temple with Prince Saddhatissa during the war between the brothers.",
+    "basis": "tradition"
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 24
+   }
+  ],
+  "wiki": "Dematamal Viharaya"
+ },
+ {
+  "id": "dowa",
+  "name": "Dowa Rock Temple",
+  "lat": 6.83,
+  "lng": 81.02,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "founded": -80,
+  "foundedLabel": "Traditional 1st c. BCE",
+  "stories": [
+   {
+    "title": "The hidden king again",
+    "text": "Like Dambulla, tradition says Vattagamani took refuge here; an unfinished rock-cut Buddha stands about 12 m high.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Dowa Temple"
+ },
+ {
+  "id": "wewurukannala",
+  "name": "Wewurukannala Vihara",
+  "lat": 5.98,
+  "lng": 80.68,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1700,
+  "foundedLabel": "18th c.; colossal image 1970s",
+  "stories": [
+   {
+    "title": "Giant seated Buddha",
+    "text": "The temple is known for a 50 m seated Buddha (1970s) and a \"hell\" tunnel of painted punishments.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Wewurukannala Vihara"
+ },
+ {
+  "id": "totagamuwa",
+  "name": "Totagamuwa Vijayaba Pirivena",
+  "lat": 6.18,
+  "lng": 80.11,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 1420,
+  "foundedLabel": "15th c. CE",
+  "stories": [
+   {
+    "title": "The poet-monk",
+    "text": "Totagamuve Sri Rahula, the leading scholar-poet of Parakramabahu VI's reign, taught here. He wrote the Selalihini Sandesaya.",
+    "basis": "history",
+    "sourceId": "somaratna1975"
+   }
+  ],
+  "wiki": "Thotagamuwe Sri Rahula Thera"
+ },
+ {
+  "id": "rumassala",
+  "name": "Rumassala",
+  "lat": 6.02,
+  "lng": 80.24,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "hindu",
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "A fragment of the Himalaya",
+    "text": "The Ramayana tradition says Hanuman dropped part of the medicinal mountain here, explaining its unusual flora.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Rumassala"
+ },
+ {
+  "id": "kalutara-bodhiya",
+  "name": "Kalutara Bodhiya",
+  "lat": 6.5833,
+  "lng": 79.96,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "stupa",
+  "religion": "buddhist",
+  "founded": -200,
+  "foundedLabel": "Traditional (one of the 32 Bodhi saplings)",
+  "stories": [
+   {
+    "title": "Sapling by the river",
+    "text": "Tradition counts the Kalutara Bodhi among the saplings of the Sri Maha Bodhi. The hollow stupa (1970s) contains a chamber with paintings.",
+    "basis": "tradition"
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 19
+   }
+  ],
+  "wiki": "Kalutara Bodhiya"
+ },
+ {
+  "id": "ratnapura-saman-devale",
+  "name": "Maha Saman Devale (Ratnapura)",
+  "lat": 6.69,
+  "lng": 80.38,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "founded": 1270,
+  "foundedLabel": "13th c. (traditional)",
+  "stories": [
+   {
+    "title": "God of Sri Pada",
+    "text": "A shrine of the deity Saman, guardian of Sri Pada. The Portuguese built a church on the site, and the devale was restored under Kandy.",
+    "basis": "history",
+    "sourceId": "queyroz1930"
+   }
+  ],
+  "wiki": "Maha Saman Devale"
+ },
+ {
+  "id": "delgamuwa",
+  "name": "Delgamuwa Raja Maha Vihara",
+  "lat": 6.73,
+  "lng": 80.39,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1550,
+  "foundedLabel": "16th c. refuge",
+  "stories": [
+   {
+    "title": "The relic in the grinding stone",
+    "text": "Tradition says the Tooth Relic was hidden from the Portuguese in a grinding stone (kurakkan gala) at this temple before it was taken to Kandy.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Delgamuwa Raja Maha Vihara"
+ },
+ {
+  "id": "pepiliyana",
+  "name": "Pepiliyana Sunethra Devi Pirivena",
+  "lat": 6.85,
+  "lng": 79.9,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 1415,
+  "foundedLabel": "15th c. CE",
+  "stories": [
+   {
+    "title": "A king's gift to his mother",
+    "text": "Parakramabahu VI founded this pirivena in memory of his mother, Queen Sunetra Devi; a slab inscription records the endowment.",
+    "basis": "history",
+    "sourceId": "somaratna1975"
+   }
+  ],
+  "wiki": "Sunethra Mahadevi Pirivena"
+ },
+ {
+  "id": "natha-devale",
+  "name": "Natha Devale (Kandy)",
+  "lat": 7.2938,
+  "lng": 80.6405,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "founded": 1380,
+  "foundedLabel": "14th c. CE",
+  "stories": [
+   {
+    "title": "Oldest building in Kandy",
+    "text": "A Gampola-period shrine of Natha (Avalokitesvara). Kandyan kings received their royal names here.",
+    "basis": "history",
+    "sourceId": "seneviratne1978"
+   }
+  ],
+  "wiki": "Natha Devalaya"
+ },
+ {
+  "id": "malwatte",
+  "name": "Malwatte Maha Viharaya",
+  "lat": 7.2925,
+  "lng": 80.6425,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 1753,
+  "foundedLabel": "18th c.",
+  "stories": [
+   {
+    "title": "Seat of the Siyam Nikaya",
+    "text": "One of the two chapters of the Siyam Nikaya, which share custody of the Tooth Relic temple. Upali Thera from Siam conducted ordinations here.",
+    "basis": "history",
+    "sourceId": "malalgoda1976"
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 100
+   }
+  ],
+  "wiki": "Malwathu Maha Viharaya"
+ },
+ {
+  "id": "asgiriya",
+  "name": "Asgiriya Maha Viharaya",
+  "lat": 7.3,
+  "lng": 80.633,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "monastery",
+  "religion": "buddhist",
+  "founded": 1753,
+  "foundedLabel": "18th c.",
+  "stories": [
+   {
+    "title": "The second chapter",
+    "text": "The Asgiriya chapter of the Siyam Nikaya, historically linked to forest-dwelling monks.",
+    "basis": "history",
+    "sourceId": "malalgoda1976"
+   }
+  ],
+  "wiki": "Asgiri Maha Viharaya"
+ },
+ {
+  "id": "hindagala",
+  "name": "Hindagala Raja Maha Vihara",
+  "lat": 7.27,
+  "lng": 80.59,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "cave-temple",
+  "religion": "buddhist",
+  "founded": 600,
+  "foundedLabel": "6th-7th c. CE paintings",
+  "stories": [
+   {
+    "title": "Anuradhapura-period painting",
+    "text": "A rock-shelter painting of the Buddha in Indra's cave, among the oldest surviving Sri Lankan Buddhist paintings outside Sigiriya.",
+    "basis": "archaeology",
+    "sourceId": "vonschroeder1990"
+   }
+  ],
+  "wiki": "Hindagala Temple"
+ },
+ {
+  "id": "hanguranketa",
+  "name": "Hanguranketa",
+  "lat": 7.15,
+  "lng": 80.78,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "palace",
+  "religion": "buddhist",
+  "founded": 1640,
+  "foundedLabel": "17th c.",
+  "stories": [
+   {
+    "title": "Rajasinha II's refuge",
+    "text": "Rajasinha II retreated here when Kandy was threatened, and later kings kept a palace. Knox describes the court's movements.",
+    "basis": "history",
+    "sourceId": "knox1681"
+   }
+  ],
+  "wiki": "Hanguranketha"
+ },
+ {
+  "id": "galmaduwa",
+  "name": "Galmaduwa Gedige (Kundasale)",
+  "lat": 7.28,
+  "lng": 80.68,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1747,
+  "foundedLabel": "18th c.",
+  "stories": [
+   {
+    "title": "Unfinished stone temple",
+    "text": "Begun under Kirti Sri Rajasinha in a South Indian gopuram-like form and never completed.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Galmaduwa Gedige"
+ },
+ {
+  "id": "niyamgampaya",
+  "name": "Niyamgampaya (Gampola)",
+  "lat": 7.16,
+  "lng": 80.57,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1340,
+  "foundedLabel": "14th c.",
+  "stories": [
+   {
+    "title": "Relic temple of Gampola",
+    "text": "Tradition says the Tooth Relic was housed here during the Gampola period; carved stone foundations survive.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Niyamgampaya Viharaya"
+ },
+ {
+  "id": "padeniya",
+  "name": "Padeniya Raja Maha Vihara",
+  "lat": 7.64,
+  "lng": 80.24,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1750,
+  "foundedLabel": "Kandyan period",
+  "stories": [
+   {
+    "title": "Kandyan woodwork",
+    "text": "An image house on 28 carved wooden pillars, typical of Kandyan-era village temples.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Padeniya Raja Maha Vihara"
+ },
+ {
+  "id": "muthumariamman-matale",
+  "name": "Sri Muthumariamman Kovil (Matale)",
+  "lat": 7.47,
+  "lng": 80.62,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 1874,
+  "foundedLabel": "19th c.",
+  "stories": [
+   {
+    "title": "Hill-country Hindu temple",
+    "text": "A major Amman temple of the Indian Tamil community, with a towering gopuram.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Sri Muthumariamman Temple"
+ },
+ {
+  "id": "jambukola",
+  "name": "Jambukola Pattana (Dambakola Patuna)",
+  "lat": 9.815,
+  "lng": 80.04,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "buddhist",
+  "founded": -249,
+  "foundedLabel": "Traditional 3rd c. BCE",
+  "stories": [
+   {
+    "title": "Where the Bodhi tree landed",
+    "text": "The Bodhi branch arrived by sea at Jambukola, where Devanampiya Tissa waded into the water to receive it. A sapling was planted here.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 16
+     }
+    ]
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 19
+   }
+  ],
+  "wiki": "Dambakola Patuna Sri Sangamitta Viharaya"
+ },
+ {
+  "id": "vallipuram",
+  "name": "Vallipuram",
+  "lat": 9.79,
+  "lng": 80.24,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "multi",
+  "founded": 100,
+  "foundedLabel": "Inscription 2nd c. CE",
+  "stories": [
+   {
+    "title": "A gold plate from the north",
+    "text": "A gold-plate inscription found here, dated to the reign of Vasabha, records the founding of a vihara in Nakadiva (Jaffna). It is early evidence of Anuradhapura authority and Buddhism in the north. A Vishnu kovil stands at the site today.",
+    "basis": "history",
+    "sourceId": "paranavitana1983"
+   }
+  ],
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ],
+  "wiki": "Vallipuram"
+ },
+ {
+  "id": "nilavarai",
+  "name": "Nilavarai well",
+  "lat": 9.73,
+  "lng": 80.1,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "shrine",
+  "religion": "hindu",
+  "foundedLabel": "Traditional",
+  "stories": [
+   {
+    "title": "Bottomless well",
+    "text": "A deep natural well that tradition links to Rama.",
+    "basis": "tradition"
+   }
+  ],
+  "wiki": "Nilavarai"
+ },
+ {
+  "id": "delft-fort",
+  "name": "Delft (Neduntheevu) Dutch Fort",
+  "lat": 9.52,
+  "lng": 79.7,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1680,
+  "foundedLabel": "17th c.",
+  "stories": [
+   {
+    "title": "Island outpost",
+    "text": "Ruined coral-stone fort and horse stables of the Portuguese and Dutch, who bred horses on the island.",
+    "basis": "history",
+    "sourceId": "arasaratnam1958"
+   }
+  ],
+  "wiki": "Delft Island"
+ },
+ {
+  "id": "kalpitiya-fort",
+  "name": "Kalpitiya Dutch Fort",
+  "lat": 8.23,
+  "lng": 79.76,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1676,
+  "foundedLabel": "1676",
+  "stories": [
+   {
+    "title": "Guarding the cinnamon and the coast",
+    "text": "The VOC fort controlled the northwest coast and trade with Kandy through Puttalam.",
+    "basis": "history",
+    "sourceId": "arasaratnam1958"
+   }
+  ],
+  "wiki": "Kalpitiya Fort"
+ },
+ {
+  "id": "negombo-fort",
+  "name": "Negombo Dutch Fort",
+  "lat": 7.21,
+  "lng": 79.835,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1644,
+  "foundedLabel": "1644 (rebuilt 1672)",
+  "stories": [
+   {
+    "title": "Cinnamon gate",
+    "text": "Taken by the Dutch from the Portuguese in 1644 and rebuilt. Negombo was the hub of the cinnamon trade.",
+    "basis": "history",
+    "sourceId": "arasaratnam1958"
+   }
+  ],
+  "wiki": "Negombo Fort"
+ },
+ {
+  "id": "batticaloa-fort",
+  "name": "Batticaloa Dutch Fort",
+  "lat": 7.714,
+  "lng": 81.695,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "founded": 1628,
+  "foundedLabel": "1628 (Portuguese); Dutch 1638",
+  "stories": [
+   {
+    "title": "First Dutch foothold",
+    "text": "The Dutch took it in 1638 in alliance with Rajasinha II, their first conquest on the island.",
+    "basis": "history",
+    "sourceId": "arasaratnam1958"
+   }
+  ],
+  "wiki": "Batticaloa fort"
+ },
+ {
+  "id": "st-anthony-kochchikade",
+  "name": "St Anthony's Shrine, Kochchikade",
+  "lat": 6.9469,
+  "lng": 79.856,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "founded": 1834,
+  "foundedLabel": "1830s",
+  "stories": [
+   {
+    "title": "Shrine of all faiths",
+    "text": "Visited by people of every religion on Tuesdays; it was one of the targets of the 2019 Easter Sunday attacks.",
+    "basis": "history",
+    "sourceId": "pcoi-easter-2021"
+   }
+  ],
+  "wiki": "St. Anthony's Shrine, Kochchikade"
+ },
+ {
+  "id": "red-mosque",
+  "name": "Jami Ul-Alfar Mosque (Red Mosque)",
+  "lat": 6.9385,
+  "lng": 79.851,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "mosque",
+  "religion": "muslim",
+  "founded": 1908,
+  "foundedLabel": "1908",
+  "stories": [
+   {
+    "title": "Pettah landmark",
+    "text": "A red-and-white candy-striped mosque built for the Muslim traders of Pettah.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Jami Ul-Alfar Mosque"
+ },
+ {
+  "id": "ponnambalavaneswarar",
+  "name": "Sri Ponnambalavaneswarar Kovil",
+  "lat": 6.95,
+  "lng": 79.863,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "founded": 1857,
+  "foundedLabel": "1857; granite rebuild 1907",
+  "stories": [
+   {
+    "title": "Ramanathan's temple",
+    "text": "Built by Ponnambalam Mudaliyar and rebuilt in granite by Sir Ponnambalam Ramanathan.",
+    "basis": "history"
+   }
+  ],
+  "wiki": "Sri Ponnambalavaneswarar Temple"
+ },
+ {
+  "id": "gangaramaya",
+  "name": "Gangaramaya Temple",
+  "lat": 6.9167,
+  "lng": 79.8565,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "founded": 1885,
+  "foundedLabel": "Late 19th c.",
+  "stories": [
+   {
+    "title": "A temple-museum",
+    "text": "Founded by Hikkaduwe Sri Sumangala, a leader of the Buddhist revival. It runs the Navam Perahera.",
+    "basis": "history",
+    "sourceId": "malalgoda1976"
+   }
+  ],
+  "wiki": "Gangaramaya Temple"
+ }
+]

@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "independence-1948",
+    "title": "Independence of Ceylon",
+    "start": 1948,
+    "dateLabel": "4 February 1948",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "Under the Ceylon Independence Act 1947, Ceylon became an independent dominion within the Commonwealth, with D. S. Senanayake of the United National Party as Prime Minister. Defence agreements allowed Britain to keep bases at Trincomalee and Katunayake.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Act of the UK Parliament conferring independence.",
+        "sourceId": "independence-act-1947"
+      },
+      {
+        "type": "synthesis",
+        "description": "The transfer of power.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "independence",
+      "dominion"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Dominion of Ceylon"
+  },
+  {
+    "id": "citizenship-act-1948",
+    "title": "Ceylon Citizenship Act",
+    "start": 1948,
+    "dateLabel": "1948 (with the 1949 franchise amendment)",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "hill-country"
+    ],
+    "summary": "The Citizenship Act and the 1949 Parliamentary Elections Amendment set descent-based and registration criteria that most Indian Tamil plantation workers could not meet, leaving several hundred thousand people stateless and without the vote. Later Indo-Lankan agreements (1964, 1974) and legislation (1988, 2003) gradually resolved their status.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Text of the Act.",
+        "sourceId": "citizenship-act-1948"
+      },
+      {
+        "type": "synthesis",
+        "description": "Consequences for the Malaiyaha Tamil community.",
+        "sourceId": "wickramasinghe2014"
+      },
+      {
+        "type": "legal-official",
+        "description": "Parliamentary debates on the measure.",
+        "sourceId": "hansard-sl"
+      }
+    ],
+    "tags": [
+      "citizenship",
+      "malaiyaha-tamils",
+      "plantation"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "sinhala-only-1956",
+    "title": "Official Language Act ('Sinhala Only')",
+    "start": 1956,
+    "dateLabel": "1956",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "galle-face"
+    ],
+    "summary": "S. W. R. D. Bandaranaike's MEP government made Sinhala the sole official language. A Federal Party satyagraha at Galle Face was attacked by a mob. The Act is widely seen as a turning point in relations between Sinhalese and Tamils.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Text of the Act.",
+        "sourceId": "official-language-act-1956"
+      },
+      {
+        "type": "synthesis",
+        "description": "Consequences for ethnic relations.",
+        "sourceId": "tambiah1986"
+      },
+      {
+        "type": "synthesis",
+        "description": "Tamil political response.",
+        "sourceId": "wilson2000"
+      },
+      {
+        "type": "legal-official",
+        "description": "Parliamentary debates on the measure.",
+        "sourceId": "hansard-sl"
+      }
+    ],
+    "perspectives": [
+      {
+        "label": "Supporters at the time",
+        "view": "Ending the privilege of English-educated elites and empowering the Sinhala-speaking majority.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "label": "Tamil and critical view",
+        "view": "Exclusion of Tamil speakers from state employment and public life.",
+        "sourceId": "wilson2000"
+      }
+    ],
+    "tags": [
+      "language-policy",
+      "ethnic-relations"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Sinhala Only Act"
+  },
+  {
+    "id": "riots-1958",
+    "title": "Anti-Tamil riots of 1958",
+    "start": 1958,
+    "dateLabel": "May-June 1958",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "island",
+      "colombo"
+    ],
+    "summary": "After the Bandaranaike-Chelvanayakam Pact was abrogated, widespread communal violence, mainly against Tamils, killed hundreds of people and led to a state of emergency.",
+    "evidence": [
+      {
+        "type": "contemporary-report",
+        "description": "Contemporary journalist's account (written under censorship conditions).",
+        "sourceId": "vittachi1958"
+      },
+      {
+        "type": "synthesis",
+        "description": "Analysis of the riots.",
+        "sourceId": "tambiah1986"
+      }
+    ],
+    "tags": [
+      "riots",
+      "ethnic-violence"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "swrd-assassination",
+    "title": "Assassination of S. W. R. D. Bandaranaike",
+    "start": 1959,
+    "dateLabel": "25-26 September 1959",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "Prime Minister Bandaranaike was shot at his residence by a Buddhist monk, Talduwe Somarama, and died the next day. The trial uncovered a conspiracy involving a senior monk of the Kelaniya temple.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Account of the assassination and its aftermath.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "assassination"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "sirimavo-1960",
+    "title": "Sirimavo Bandaranaike: world's first woman prime minister",
+    "start": 1960,
+    "dateLabel": "21 July 1960",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "Sirimavo Bandaranaike led the Sri Lanka Freedom Party to victory and became the world's first woman elected head of government. Her governments nationalised key sectors and pursued non-alignment.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Political history 1960-65.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "women",
+      "slfp"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "jvp-1971",
+    "title": "JVP insurrection of 1971",
+    "start": 1971,
+    "dateLabel": "April 1971",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "The Janatha Vimukthi Peramuna, a movement of mostly rural Sinhala youth, launched coordinated attacks on police stations. The government suppressed the uprising with foreign military assistance.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Causes and suppression of the insurrection.",
+        "sourceId": "wickramasinghe2014"
+      },
+      {
+        "type": "synthesis",
+        "description": "Narrative account.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "historiography": "The death toll is disputed. Official figures were around 1,200, while other estimates are several times higher.",
+    "tags": [
+      "jvp",
+      "insurgency",
+      "youth"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "republic-1972",
+    "title": "Republic of Sri Lanka proclaimed",
+    "start": 1972,
+    "dateLabel": "22 May 1972",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "A new constitution ended dominion status, renamed the country Sri Lanka, and gave Buddhism 'the foremost place'. It removed the minority safeguard in Section 29 of the Soulbury Constitution.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "1972 Constitution.",
+        "sourceId": "constitution-1972"
+      },
+      {
+        "type": "synthesis",
+        "description": "Implications for minorities.",
+        "sourceId": "wilson2000"
+      },
+      {
+        "type": "legal-official",
+        "description": "Parliamentary debates on the measure.",
+        "sourceId": "hansard-sl"
+      }
+    ],
+    "tags": [
+      "constitution",
+      "republic"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "vaddukoddai-resolution",
+    "title": "Vaddukoddai Resolution",
+    "start": 1976,
+    "dateLabel": "14 May 1976",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "vaddukoddai"
+    ],
+    "summary": "At its first national convention the Tamil United Liberation Front adopted a resolution calling for a sovereign state of Tamil Eelam. This was a decisive shift from federalism to separatism.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Text and context of the resolution.",
+        "sourceId": "wilson2000"
+      }
+    ],
+    "tags": [
+      "tamil-nationalism",
+      "tulf"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "constitution-1978",
+    "title": "1978 Constitution and executive presidency",
+    "start": 1978,
+    "dateLabel": "7 September 1978",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "kotte"
+    ],
+    "summary": "J. R. Jayewardene's UNP government introduced a Gaullist-style executive presidency and proportional representation. Together with economic liberalisation from 1977, this reshaped the state. Parliament moved to Sri Jayawardenepura Kotte in 1982.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "1978 Constitution.",
+        "sourceId": "constitution-1978"
+      },
+      {
+        "type": "synthesis",
+        "description": "Political consequences.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "tags": [
+      "constitution",
+      "presidency",
+      "liberalisation"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "jaffna-library-burning",
+    "title": "Burning of the Jaffna Public Library",
+    "start": 1981,
+    "dateLabel": "31 May - 1 June 1981",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "jaffna"
+    ],
+    "summary": "During violence around district council elections, the Jaffna Public Library was burned. It was one of the largest libraries in Asia, and the commonly cited estimate is about 97,000 books and manuscripts destroyed. Security forces and organised groups were implicated, and the event became a lasting symbol of Tamil grievance.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Account of the 1981 violence in Jaffna.",
+        "sourceId": "tambiah1986"
+      },
+      {
+        "type": "synthesis",
+        "description": "Significance for Tamil politics.",
+        "sourceId": "wilson2000"
+      }
+    ],
+    "tags": [
+      "cultural-destruction",
+      "jaffna"
+    ],
+    "review": {
+      "status": "draft",
+      "notes": "Volume count is an estimate; add contemporary reports."
+    },
+    "wiki": "Burning of Jaffna Public Library"
+  },
+  {
+    "id": "black-july-1983",
+    "title": "Black July: anti-Tamil pogrom",
+    "start": 1983,
+    "dateLabel": "23-30 July 1983",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "jaffna"
+    ],
+    "summary": "After the LTTE ambushed an army patrol at Thirunelveli, Jaffna, killing 13 soldiers, mobs attacked Tamils and their property across the south, in some cases using electoral lists. Tamil prisoners were killed inside Welikada prison. The violence pushed many Tamils to emigrate or to join militant groups, and is generally treated as the start of the civil war.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Analysis of the violence and its organisation.",
+        "sourceId": "tambiah1986"
+      },
+      {
+        "type": "synthesis",
+        "description": "Political consequences.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "perspectives": [
+      {
+        "label": "Casualty estimates",
+        "view": "Government figures at the time were in the hundreds; other estimates run to about 3,000 dead.",
+        "sourceId": "tambiah1986"
+      }
+    ],
+    "tags": [
+      "civil-war",
+      "ethnic-violence",
+      "diaspora"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Black July"
+  },
+  {
+    "id": "indo-lanka-accord",
+    "title": "Indo-Sri Lanka Accord and the IPKF",
+    "start": 1987,
+    "end": 1990,
+    "dateLabel": "Accord 29 July 1987; IPKF 1987-1990",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "jaffna"
+    ],
+    "summary": "Rajiv Gandhi and J. R. Jayewardene signed an accord leading to the 13th Amendment and provincial councils. An Indian Peace Keeping Force deployed to the north-east, ended up fighting the LTTE, and withdrew in March 1990.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Text of the Accord.",
+        "sourceId": "indo-lanka-accord-1987"
+      },
+      {
+        "type": "synthesis",
+        "description": "Consequences in the north-east and the south.",
+        "sourceId": "wickramasinghe2014"
+      },
+      {
+        "type": "contemporary-report",
+        "description": "Contemporary documentation of IPKF and LTTE abuses.",
+        "sourceId": "hoole1990"
+      }
+    ],
+    "tags": [
+      "india",
+      "13th-amendment",
+      "devolution"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Indo-Sri Lanka Accord"
+  },
+  {
+    "id": "jvp-1987-89",
+    "title": "Second JVP insurrection and counter-terror",
+    "start": 1987,
+    "end": 1989,
+    "dateLabel": "1987-1989",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "The JVP waged an armed campaign in the south, partly in opposition to the Accord, marked by assassinations and enforced strikes. State counter-insurgency, including death squads, crushed it. Tens of thousands were killed or disappeared.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Overview of the insurrection and its suppression.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "historiography": "Estimates of the dead and disappeared range widely, commonly 30,000-60,000. The 1990s Presidential Commissions on disappearances should be added as primary evidence.",
+    "tags": [
+      "jvp",
+      "disappearances",
+      "human-rights"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "ceasefire-2002",
+    "title": "Norwegian-facilitated ceasefire",
+    "start": 2002,
+    "end": 2008,
+    "dateLabel": "22 February 2002 - January 2008",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "The government and the LTTE signed a ceasefire monitored by the Sri Lanka Monitoring Mission, and peace talks followed. Violence escalated from 2005-06, and the government formally withdrew from the agreement in January 2008.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Text of the ceasefire agreement.",
+        "sourceId": "cfa2002"
+      }
+    ],
+    "tags": [
+      "peace-process",
+      "norway"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "tsunami-2004",
+    "title": "Indian Ocean tsunami",
+    "start": 2004,
+    "dateLabel": "26 December 2004",
+    "category": "disaster",
+    "confidence": "established",
+    "placeIds": [
+      "galle",
+      "peraliya",
+      "batticaloa"
+    ],
+    "summary": "The tsunami struck the east, south and west coasts, killing about 35,000 people in Sri Lanka and displacing hundreds of thousands. At Peraliya a crowded passenger train was swept away, the worst rail disaster in history.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "International evaluation of the response, with impact figures.",
+        "sourceId": "tec2006"
+      }
+    ],
+    "tags": [
+      "tsunami",
+      "natural-disaster"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "2004 Indian Ocean earthquake and tsunami"
+  },
+  {
+    "id": "war-end-2009",
+    "title": "End of the civil war",
+    "start": 2009,
+    "dateLabel": "January - 19 May 2009",
+    "category": "conflict",
+    "confidence": "contested",
+    "placeIds": [
+      "mullivaikkal"
+    ],
+    "summary": "Government forces defeated the LTTE in its last enclave around Mullivaikkal, and LTTE leader V. Prabhakaran was killed. The final months caused very heavy civilian casualties among people trapped in the 'No Fire Zones'. The scale of those casualties and responsibility for them are still disputed.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "UN Panel of Experts report on accountability.",
+        "sourceId": "un-poe-2011"
+      },
+      {
+        "type": "legal-official",
+        "description": "Government-appointed commission report.",
+        "sourceId": "llrc2011"
+      }
+    ],
+    "perspectives": [
+      {
+        "label": "UN Panel of Experts (2011)",
+        "view": "Found credible allegations of serious violations by both sides, and said a number of credible sources estimated that as many as 40,000 civilians may have been killed.",
+        "sourceId": "un-poe-2011"
+      },
+      {
+        "label": "LLRC (2011)",
+        "view": "Concluded that the security forces did not deliberately target civilians, while acknowledging civilian casualties and recommending further investigation of specific incidents.",
+        "sourceId": "llrc2011"
+      }
+    ],
+    "historiography": "This is one of the most contested episodes in recent Sri Lankan history. Accountability processes continue at the UN Human Rights Council.",
+    "tags": [
+      "civil-war",
+      "human-rights",
+      "accountability"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Sri Lankan Civil War"
+  },
+  {
+    "id": "easter-attacks-2019",
+    "title": "Easter Sunday attacks",
+    "start": 2019,
+    "dateLabel": "21 April 2019",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "negombo",
+      "batticaloa"
+    ],
+    "summary": "Coordinated suicide bombings by members of a local Islamist group struck three churches and three luxury hotels, killing more than 250 people. Investigations found that prior intelligence warnings had not been acted on.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Final report of the Presidential Commission of Inquiry.",
+        "sourceId": "pcoi-easter-2021"
+      }
+    ],
+    "tags": [
+      "terrorism",
+      "intelligence-failure"
+    ],
+    "review": {
+      "status": "draft",
+      "notes": "Confirm final official death toll."
+    },
+    "wiki": "2019 Sri Lanka Easter bombings"
+  },
+  {
+    "id": "crisis-2022",
+    "title": "Economic collapse and the Aragalaya",
+    "start": 2022,
+    "dateLabel": "2022",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "galle-face",
+      "colombo"
+    ],
+    "summary": "With foreign reserves exhausted and shortages of fuel, food and medicine, Sri Lanka suspended external debt payments in April 2022. A mass protest movement (the Aragalaya, 'struggle') centred on 'GotaGoGama' at Galle Face forced President Gotabaya Rajapaksa to flee and resign in July 2022. An IMF Extended Fund Facility was approved in March 2023.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "IMF staff report documenting the crisis and programme.",
+        "sourceId": "imf2023"
+      }
+    ],
+    "tags": [
+      "economic-crisis",
+      "protest",
+      "debt"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "2022 Sri Lankan political crisis"
+  },
+  {
+    "id": "elections-2024",
+    "title": "Anura Kumara Dissanayake elected; NPP landslide",
+    "start": 2024,
+    "dateLabel": "September - November 2024",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "kotte"
+    ],
+    "summary": "Anura Kumara Dissanayake of the National People's Power, a coalition led by the JVP, won the 21 September 2024 presidential election. In the parliamentary election of 14 November 2024 the NPP won a two-thirds majority (159 of 225 seats).",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Official election results.",
+        "sourceId": "ecsl2024"
+      }
+    ],
+    "tags": [
+      "elections",
+      "npp",
+      "jvp"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "gal-oya-1949",
+    "title": "Gal Oya scheme and dry-zone colonisation",
+    "start": 1949,
+    "end": 1953,
+    "dateLabel": "1949-1953",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "gal-oya"
+    ],
+    "summary": "The first great post-independence river-basin project dammed the Gal Oya and settled thousands of colonists, mostly Sinhalese, in the Eastern Province. In 1956 it was the scene of anti-Tamil violence.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Colonisation and ethnic conflict in the dry zone.",
+        "sourceId": "peebles1990"
+      }
+    ],
+    "wiki": "Gal Oya Development Project",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "hartal-1953",
+    "title": "The 1953 Hartal",
+    "start": 1953,
+    "dateLabel": "12 August 1953",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "A mass general strike against cuts to the rice subsidy, led by left parties, was met with emergency rule and shootings. Prime Minister Dudley Senanayake resigned soon after.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "The Hartal and its political impact.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "wiki": "Hartal 1953",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "bc-pact-1957",
+    "title": "Bandaranaike-Chelvanayakam Pact",
+    "start": 1957,
+    "end": 1958,
+    "dateLabel": "26 July 1957; abrogated April 1958",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "An agreement on regional councils and the reasonable use of Tamil was abandoned after protests by the UNP and sections of the Buddhist clergy. Its failure preceded the 1958 riots.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Text, negotiation and abrogation.",
+        "sourceId": "wilson2000"
+      }
+    ],
+    "wiki": "Bandaranaike–Chelvanayakam Pact",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "sirima-shastri-1964",
+    "title": "Sirima-Shastri Pact",
+    "start": 1964,
+    "dateLabel": "30 October 1964",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "hill-country"
+    ],
+    "summary": "India and Ceylon agreed on the repatriation of 525,000 stateless people of Indian origin and Ceylon citizenship for 300,000. The fate of the rest was settled in 1974.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "The stateless question.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "wiki": "Sirima–Shastri Pact",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "ltte-founded",
+    "title": "Founding of the LTTE",
+    "start": 1976,
+    "dateLabel": "5 May 1976",
+    "category": "conflict",
+    "confidence": "probable",
+    "placeIds": [
+      "jaffna"
+    ],
+    "summary": "V. Prabhakaran renamed his Tamil New Tigers the Liberation Tigers of Tamil Eelam. It became the dominant Tamil militant group, eliminating rivals in the 1980s.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Development of Tamil militancy.",
+        "sourceId": "wilson2000"
+      },
+      {
+        "type": "contemporary-report",
+        "description": "Inside account of militancy and its violence.",
+        "sourceId": "hoole1990"
+      }
+    ],
+    "wiki": "Liberation Tigers of Tamil Eelam",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "open-economy-1977",
+    "title": "Open economy and the Mahaweli acceleration",
+    "start": 1977,
+    "end": 1990,
+    "dateLabel": "from 1977",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "katunayake",
+      "victoria-dam"
+    ],
+    "summary": "The UNP government liberalised trade, opened the Katunayake export zone and compressed the Mahaweli scheme into six years with major dams (Victoria, Kotmale, Randenigala) and settlement areas.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Liberalisation and its consequences.",
+        "sourceId": "wickramasinghe2014"
+      },
+      {
+        "type": "synthesis",
+        "description": "Settlement policy and ethnic tension.",
+        "sourceId": "peebles1990"
+      }
+    ],
+    "wiki": "Mahaweli Development programme",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "muslim-expulsion-1990",
+    "title": "Expulsion of Muslims from the Northern Province",
+    "start": 1990,
+    "dateLabel": "October 1990",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "jaffna",
+      "mannar"
+    ],
+    "summary": "The LTTE ordered the entire Muslim population of the Northern Province, about 75,000 people, to leave within days. Most lived as refugees in Puttalam for decades.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Study of the displaced Northern Muslims.",
+        "sourceId": "hasbullah2001"
+      }
+    ],
+    "wiki": "Expulsion of Muslims from the Northern Province",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "premadasa-assassinated",
+    "title": "Assassination of President Premadasa",
+    "start": 1993,
+    "dateLabel": "1 May 1993",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "President Ranasinghe Premadasa was killed by an LTTE suicide bomber at a May Day rally.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Political history.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "wiki": "Ranasinghe Premadasa",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "riviresa-1995",
+    "title": "Fall of Jaffna to government forces",
+    "start": 1995,
+    "dateLabel": "October - December 1995",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "jaffna"
+    ],
+    "summary": "Operation Riviresa recaptured Jaffna town. Before the army entered, the LTTE moved several hundred thousand civilians out of the peninsula into the Vanni.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Course of the war.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "wiki": "Operation Riviresa",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "citizenship-2003",
+    "title": "Citizenship for persons of Indian origin",
+    "start": 2003,
+    "dateLabel": "2003",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "hill-country"
+    ],
+    "summary": "Parliament granted citizenship to all remaining stateless persons of Indian origin resident since 1964, closing the question opened in 1948.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Act No. 35 of 2003.",
+        "sourceId": "citizenship-2003"
+      }
+    ],
+    "tags": [
+      "citizenship",
+      "malaiyaha-tamils"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "mavil-aru-2006",
+    "title": "Mavil Aru and the final phase of the war",
+    "start": 2006,
+    "end": 2009,
+    "dateLabel": "July 2006 - May 2009",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "mavil-aru",
+      "mullivaikkal"
+    ],
+    "summary": "The LTTE closed the Mavil Aru sluice gates, and the military operation that followed became the start of Eelam War IV. Government forces took the east (2007) and then the Vanni.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Background narrative of the final phase.",
+        "sourceId": "un-poe-2011"
+      },
+      {
+        "type": "legal-official",
+        "description": "Government commission's account.",
+        "sourceId": "llrc2011"
+      }
+    ],
+    "wiki": "Eelam War IV",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "election-2015",
+    "title": "Defeat of Mahinda Rajapaksa and the 19th Amendment",
+    "start": 2015,
+    "dateLabel": "January - April 2015",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "kotte"
+    ],
+    "summary": "Maithripala Sirisena, the common opposition candidate, won the presidency. The 19th Amendment curbed presidential powers and restored independent commissions.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Official results.",
+        "sourceId": "ecsl-archive"
+      },
+      {
+        "type": "legal-official",
+        "description": "Constitution as amended.",
+        "sourceId": "constitution-1978"
+      }
+    ],
+    "wiki": "2015 Sri Lankan presidential election",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "temple-entry-1968",
+    "title": "Maviddapuram temple-entry struggle",
+    "start": 1968,
+    "dateLabel": "1968",
+    "category": "society",
+    "confidence": "established",
+    "placeIds": [
+      "jaffna"
+    ],
+    "summary": "So-called \"minority Tamils\" (oppressed castes) campaigned, partly with left-party support, for entry to the Maviddapuram Kandaswamy temple and other high-caste Hindu temples in Jaffna, provoking violent resistance. It is a key episode in the politics of caste within Tamil society.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Analysis of the 1968 crisis.",
+        "sourceId": "pfaffenberger1990"
+      }
+    ],
+    "tags": [
+      "caste",
+      "hinduism",
+      "jaffna"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  }
+]

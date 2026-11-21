@@ -1,0 +1,744 @@
+[
+  {
+    "id": "vijayabahu-restoration",
+    "title": "Vijayabahu I expels the Cholas",
+    "start": 1070,
+    "dateLabel": "c. 1070 CE",
+    "category": "polity",
+    "confidence": "established",
+    "placeIds": [
+      "polonnaruwa"
+    ],
+    "summary": "From his base in Ruhuna, Vijayabahu I drove the Cholas out of Rajarata and made Polonnaruwa his capital. He restored the Buddhist sangha by bringing ordained monks from Ramanna (Lower Burma).",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Vijayabahu's campaigns and reign.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa chs. 57-60"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Inscriptions of Vijayabahu I and the Chola-period records.",
+        "sourceId": "epigraphia-zeylanica"
+      }
+    ],
+    "tags": [
+      "chola",
+      "restoration"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 57
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 58
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 59
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 60
+      }
+    ],
+    "wiki": "Vijayabahu I"
+  },
+  {
+    "id": "parakramabahu-i",
+    "title": "Reign of Parakramabahu I",
+    "start": 1153,
+    "end": 1186,
+    "dateLabel": "1153-1186 CE",
+    "category": "polity",
+    "confidence": "established",
+    "placeIds": [
+      "polonnaruwa",
+      "parakrama-samudra"
+    ],
+    "summary": "Parakramabahu I reunified the island and unified the Buddhist fraternities under the Mahavihara. He undertook vast irrigation works including the Parakrama Samudra and sent expeditions to South India and to Ramanna (Burma). Polonnaruwa reached its architectural peak in his reign.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "The Culavamsa's extended treatment of Parakramabahu I.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa chs. 62-79"
+      },
+      {
+        "type": "architectural",
+        "description": "Ancient City of Polonnaruwa, World Heritage inscription 1982.",
+        "sourceId": "unesco-whc"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Galvihara inscription recording the reform of the sangha.",
+        "sourceId": "epigraphia-zeylanica",
+        "locator": "Vol. II"
+      }
+    ],
+    "historiography": "The Culavamsa's account was written as royal panegyric. Liyanagamage and others argue that the cost of his wars and building works helped bring about Polonnaruwa's later decline.",
+    "tags": [
+      "irrigation",
+      "sangha-reform",
+      "polonnaruwa"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 62
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 66
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 70
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 73
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 76
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 78
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 79
+      }
+    ],
+    "wiki": "Parakramabahu I"
+  },
+  {
+    "id": "nissanka-malla",
+    "title": "Nissanka Malla and the Galpota inscription",
+    "start": 1187,
+    "end": 1196,
+    "dateLabel": "1187-1196 CE",
+    "category": "polity",
+    "confidence": "established",
+    "placeIds": [
+      "polonnaruwa"
+    ],
+    "summary": "Nissanka Malla was a ruler of Kalinga origin who left more inscriptions than any other Sri Lankan king. The 'stone book' (Galpota) at Polonnaruwa sets out his ideology of kingship, including the claim that only Buddhists of the Kalinga line were fit to rule.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Galpota and other Nissanka Malla inscriptions.",
+        "sourceId": "epigraphia-zeylanica",
+        "locator": "Vol. II"
+      },
+      {
+        "type": "chronicle",
+        "description": "Brief account of his reign.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 80"
+      }
+    ],
+    "tags": [
+      "epigraphy",
+      "kingship",
+      "kalinga"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 80
+      }
+    ],
+    "wiki": "Nissanka Malla of Polonnaruwa"
+  },
+  {
+    "id": "magha-invasion",
+    "title": "Invasion of Kalinga Magha",
+    "start": 1215,
+    "end": 1236,
+    "dateLabel": "1215 - c. 1236 CE",
+    "category": "conflict",
+    "confidence": "contested",
+    "placeIds": [
+      "polonnaruwa",
+      "dambadeniya"
+    ],
+    "summary": "The Culavamsa describes the invader Magha, with Kerala and Tamil soldiers, ruling harshly at Polonnaruwa. Sinhala political centres moved to the south-west, and the Rajarata hydraulic heartland went into long-term decline.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Account of Magha's invasion and rule.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 80"
+      },
+      {
+        "type": "synthesis",
+        "description": "Analysis of the decline of Polonnaruwa and the drift to the south-west.",
+        "sourceId": "liyanagamage1968"
+      }
+    ],
+    "historiography": "How destructive Magha's rule was, how far it caused the 'drift to the south-west', and whether he founded the Jaffna kingdom are all debated. Other proposed causes include malaria, the cost of war, and irrigation that had become unsustainable.",
+    "perspectives": [
+      {
+        "label": "Chronicle",
+        "view": "A catastrophic invasion that destroyed the Buddhist order in Rajarata.",
+        "sourceId": "geiger1929"
+      },
+      {
+        "label": "Revisionist",
+        "view": "Decline had several causes and had already begun; the chronicle's account is rhetorical.",
+        "sourceId": "indrapala2005"
+      }
+    ],
+    "tags": [
+      "drift-to-southwest",
+      "kalinga"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 80
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 81
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 83
+      }
+    ],
+    "wiki": "Kalinga Magha"
+  },
+  {
+    "id": "dambadeniya-parakramabahu-ii",
+    "title": "Dambadeniya and Parakramabahu II",
+    "start": 1236,
+    "end": 1270,
+    "dateLabel": "c. 1236-1270 CE",
+    "category": "polity",
+    "confidence": "probable",
+    "placeIds": [
+      "dambadeniya"
+    ],
+    "summary": "From Dambadeniya, Parakramabahu II drove back Magha's forces, recovered the tooth and bowl relics, and repelled the invasion of Chandrabhanu of Tambralinga. His court was a centre of Sinhala and Pali literature.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Parakramabahu II's reign.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa chs. 81-88"
+      },
+      {
+        "type": "synthesis",
+        "description": "Political history of the Dambadeniya period.",
+        "sourceId": "liyanagamage1968"
+      }
+    ],
+    "tags": [
+      "literature",
+      "relics"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 82
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 83
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 88
+      }
+    ],
+    "wiki": "Parakramabahu II"
+  },
+  {
+    "id": "yapahuwa",
+    "title": "Yapahuwa rock fortress and the loss of the Tooth Relic",
+    "start": 1272,
+    "end": 1284,
+    "dateLabel": "c. 1272-1284 CE",
+    "category": "polity",
+    "confidence": "probable",
+    "placeIds": [
+      "yapahuwa"
+    ],
+    "summary": "Bhuvanekabahu I fortified Yapahuwa, whose ornate stairway housed the tooth relic. After his death a Pandyan army took the relic to South India, and Parakramabahu III later recovered it by negotiation.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Yapahuwa period and the Pandyan seizure of the relic.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 90"
+      }
+    ],
+    "tags": [
+      "fortress",
+      "relic",
+      "pandya"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 90
+      }
+    ],
+    "wiki": "Yapahuwa"
+  },
+  {
+    "id": "jaffna-kingdom",
+    "title": "Rise of the Jaffna kingdom (Aryacakravartis)",
+    "start": 1250,
+    "end": 1619,
+    "dateLabel": "13th century - 1619",
+    "dateNote": "The kingdom's founding date and founder are debated.",
+    "category": "polity",
+    "confidence": "contested",
+    "placeIds": [
+      "nallur",
+      "jaffna"
+    ],
+    "summary": "A Tamil kingdom ruled by the Aryacakravarti dynasty, centred on Nallur, controlled the Jaffna peninsula and at its height the north-west pearl fisheries. Ibn Battuta met its ruler at Puttalam in 1344.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Ibn Battuta's meeting with 'Ayri Shakarwati', who ruled the pearl coast.",
+        "sourceId": "gibb1994"
+      },
+      {
+        "type": "synthesis",
+        "description": "Discussion of the background to the northern Tamil polity.",
+        "sourceId": "indrapala2005"
+      },
+      {
+        "type": "synthesis",
+        "description": "Later Tamil chronicle tradition (Yalpana Vaipava Malai, 18th c.) summarised in standard histories.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "chronicle",
+        "description": "The kingdom's own later chronicle tradition.",
+        "sourceId": "brito1879"
+      }
+    ],
+    "historiography": "Some historians tie the origins to Magha's invasion and others to Pandyan expansion. The main Tamil chronicle, the Yalpana Vaipava Malai, is late (18th century), so contemporary inscriptions and foreign accounts carry the most weight. The primary sources for this entry need expanding.",
+    "tags": [
+      "tamil",
+      "northern-kingdom"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "yalpana-vaipava-malai",
+        "chapter": 4
+      },
+      {
+        "work": "yalpana-vaipava-malai",
+        "chapter": 5
+      }
+    ]
+  },
+  {
+    "id": "ibn-battuta",
+    "title": "Ibn Battuta's pilgrimage to Adam's Peak",
+    "start": 1344,
+    "dateLabel": "1344 CE",
+    "category": "foreign-contact",
+    "confidence": "established",
+    "placeIds": [
+      "puttalam",
+      "adams-peak",
+      "galle"
+    ],
+    "summary": "The Moroccan traveller Ibn Battuta landed at Battala (Puttalam), was received by the Aryacakravarti ruler, and climbed Sri Pada, which Muslims venerate as the site of Adam's footprint. He then travelled south to Dinawar (Dondra) and Galle.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Ibn Battuta's account of Ceylon.",
+        "sourceId": "gibb1994"
+      }
+    ],
+    "tags": [
+      "pilgrimage",
+      "islam",
+      "travel"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Ibn Battuta"
+  },
+  {
+    "id": "gampola-period",
+    "title": "The Gampola kingdom and its temples",
+    "start": 1341,
+    "end": 1408,
+    "dateLabel": "1341-1408 CE",
+    "category": "culture",
+    "confidence": "probable",
+    "placeIds": [
+      "gampola"
+    ],
+    "summary": "With the capital at Gampola, kings of this period built the Lankatilaka and Gadaladeniya temples, which mix Sinhala, South Indian and Vijayanagara architectural styles. Real power often lay with the Alagakkonara ministers.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Lankatilaka and Gadaladeniya temples; political narrative.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Temple inscriptions of the Gampola period.",
+        "sourceId": "epigraphia-zeylanica"
+      }
+    ],
+    "tags": [
+      "architecture"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "galle-trilingual",
+    "title": "Zheng He's trilingual inscription at Galle",
+    "start": 1409,
+    "dateLabel": "1409 CE (dated Yongle 7)",
+    "category": "foreign-contact",
+    "confidence": "established",
+    "placeIds": [
+      "galle"
+    ],
+    "summary": "A stone slab erected by the Ming admiral Zheng He records offerings in Chinese to the Buddha, in Tamil to Tenavarai Nayanar, and in Persian to Allah. It was discovered in Galle in 1911 and is now in the Colombo National Museum.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Edition of the inscription.",
+        "sourceId": "epigraphia-zeylanica",
+        "locator": "Vol. III"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Context of the Ming voyages.",
+        "sourceId": "wade2005"
+      }
+    ],
+    "tags": [
+      "china",
+      "ming",
+      "religious-plurality"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Galle Trilingual Inscription"
+  },
+  {
+    "id": "ming-alakesvara",
+    "title": "Ming forces capture Vira Alakesvara",
+    "start": 1411,
+    "dateLabel": "1411 CE",
+    "category": "conflict",
+    "confidence": "probable",
+    "placeIds": [
+      "kotte"
+    ],
+    "summary": "On a return voyage, Zheng He's forces fought the ruler Vira Alakesvara and took him to Nanjing as a captive. Ming records then describe the Ming court's role in installing a successor, and the episode shows the military side of the 'treasure voyages'.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Ming Shilu and other Chinese records, analysed as evidence of Ming military intervention.",
+        "sourceId": "wade2005"
+      },
+      {
+        "type": "synthesis",
+        "description": "Sri Lankan political context.",
+        "sourceId": "somaratna1975"
+      }
+    ],
+    "tags": [
+      "china",
+      "ming",
+      "intervention"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "parakramabahu-vi-kotte",
+    "title": "Parakramabahu VI unifies the island from Kotte",
+    "start": 1412,
+    "end": 1467,
+    "dateLabel": "1412-1467 CE",
+    "category": "polity",
+    "confidence": "probable",
+    "placeIds": [
+      "kotte",
+      "jaffna"
+    ],
+    "summary": "Parakramabahu VI ruled from Kotte for over fifty years and was the last king to bring the whole island under one rule. His forces, led by Sapumal Kumaraya, conquered Jaffna around 1450. His reign was a high point of Sinhala literature, including the sandesa poems and the work of Totagamuve Sri Rahula.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Political history of Kotte to 1521.",
+        "sourceId": "somaratna1975"
+      },
+      {
+        "type": "chronicle",
+        "description": "Culavamsa account of the reign.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 91"
+      }
+    ],
+    "tags": [
+      "unification",
+      "literature"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 91
+      },
+      {
+        "work": "rajavaliya",
+        "chapter": 7
+      }
+    ],
+    "wiki": "Parakramabahu VI"
+  },
+  {
+    "id": "kandy-emergence",
+    "title": "Emergence of the Kandyan kingdom",
+    "start": 1469,
+    "dateLabel": "Later 15th century",
+    "dateNote": "The founding date and first king (Senasammata Vikramabahu) are approximate.",
+    "category": "polity",
+    "confidence": "contested",
+    "placeIds": [
+      "kandy"
+    ],
+    "summary": "In the late 15th century the hill country around Senkadagala broke away from Kotte under Senasammata Vikramabahu. It became the core of the Kandyan kingdom, which stayed independent of European rule until 1815.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Narrative of Kandy's emergence.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "kandy",
+      "hill-country"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "historiography": "Sources for Kandy's origins are sparse and late. Dates for the first independent ruler vary between the 1460s and 1470s, and Kandy's status as a separate kingdom (rather than a Kotte dependency) was only consolidated in the 16th century."
+  },
+  {
+    "id": "velaikkara-inscription",
+    "title": "Velaikkara inscription: Tamil guardians of the Tooth Relic",
+    "start": 1120,
+    "dateLabel": "early 12th c. CE",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "polonnaruwa"
+    ],
+    "summary": "A Tamil inscription records that the Velaikkara mercenaries undertook to protect the Tooth Relic temple at Polonnaruwa, built under Vijayabahu I. It shows South Indian soldiers acting as guardians of the Buddhist palladium.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Edition of the Velaikkara slab inscription.",
+        "sourceId": "epigraphia-zeylanica",
+        "locator": "Vol. II"
+      }
+    ],
+    "tags": [
+      "tamil",
+      "tooth-relic",
+      "mercenaries"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "nainativu-inscription",
+    "title": "Nainativu Tamil inscription of Parakramabahu I",
+    "start": 1160,
+    "dateLabel": "12th c. CE",
+    "category": "economy",
+    "confidence": "probable",
+    "placeIds": [
+      "nagadipa"
+    ],
+    "summary": "A Tamil royal edict of Parakramabahu I regulating foreign merchants and shipwrecked cargo at the northern port of Uratturai (Kayts). It shows royal control of trade and the use of Tamil in royal administration.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Discussion of the inscription.",
+        "sourceId": "indrapala2005"
+      }
+    ],
+    "tags": [
+      "trade",
+      "tamil",
+      "epigraphy"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "devinuwara-sack",
+    "title": "Portuguese sack of Devinuwara",
+    "start": 1587,
+    "dateLabel": "1587-88",
+    "category": "conflict",
+    "confidence": "probable",
+    "placeIds": [
+      "dondra"
+    ],
+    "summary": "A Portuguese raiding force destroyed the celebrated temple of Upulvan/Vishnu at Devinuwara, one of the great shrines of the Indian Ocean world.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Portuguese account of the raid.",
+        "sourceId": "queyroz1930"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Earlier description of the temple's splendour.",
+        "sourceId": "gibb1994"
+      }
+    ],
+    "tags": [
+      "portuguese",
+      "temple-destruction"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "koneswaram-destroyed",
+    "title": "Destruction of Koneswaram",
+    "start": 1622,
+    "end": 1624,
+    "dateLabel": "1622-1624",
+    "category": "conflict",
+    "confidence": "probable",
+    "placeIds": [
+      "koneswaram",
+      "fort-frederick"
+    ],
+    "summary": "Captain-General Constantino de Sá de Noronha demolished the Koneswaram temple on Swami Rock and built a fort with its stones, one of several major Hindu temples destroyed by the Portuguese.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Portuguese account.",
+        "sourceId": "queyroz1930"
+      },
+      {
+        "type": "synthesis",
+        "description": "Antiquity of the shrine in Tevaram literature.",
+        "sourceId": "indrapala2005"
+      }
+    ],
+    "tags": [
+      "portuguese",
+      "hindu",
+      "temple-destruction"
+    ],
+    "wiki": "Koneswaram Temple",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "muslims-resettled-east",
+    "title": "Senarat resettles Muslims in the east",
+    "start": 1626,
+    "dateLabel": "c. 1626",
+    "category": "society",
+    "confidence": "traditional",
+    "placeIds": [
+      "batticaloa"
+    ],
+    "summary": "After the Portuguese expelled Muslims from the lowlands, the Kandyan king Senarat is said to have resettled several thousand of them in the Batticaloa region. Tradition places the origins of many eastern Muslim communities here.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Muslim settlement and the Kandyan kingdom.",
+        "sourceId": "dewaraja1994"
+      }
+    ],
+    "tags": [
+      "muslims",
+      "kandy",
+      "east"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "medieval-coinage",
+    "title": "Medieval Sinhala coinage: the kahavanu and massa",
+    "start": 950,
+    "end": 1300,
+    "dateLabel": "c. 10th - 13th c. CE",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "polonnaruwa",
+      "island"
+    ],
+    "summary": "Gold kahavanu and copper massa coins bearing the standing and seated \"king\" figure and royal names in Nagari (e.g. Sri Lankesvara, Parakramabahu). They circulated widely and were imitated in South India.",
+    "evidence": [
+      {
+        "type": "numismatic",
+        "description": "Typology of the \"Ceylon man\" coinage.",
+        "sourceId": "codrington1924"
+      }
+    ],
+    "tags": [
+      "coins"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  }
+]

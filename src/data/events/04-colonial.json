@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "portuguese-arrival",
+    "title": "First Portuguese arrival",
+    "start": 1505,
+    "dateLabel": "1505 or 1506",
+    "dateNote": "Portuguese chroniclers disagree on the year of Lourenço de Almeida's landfall. Several modern scholars favour 1506.",
+    "category": "colonial",
+    "confidence": "contested",
+    "placeIds": [
+      "galle",
+      "colombo"
+    ],
+    "summary": "A Portuguese fleet under Lourenço de Almeida reached the island, probably driven there by weather, and made contact with the Kotte court. Within a few years the Portuguese had a fortified factory at Colombo to control the cinnamon trade.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Later Portuguese narrative of the conquest (written 1680s).",
+        "sourceId": "queyroz1930"
+      },
+      {
+        "type": "synthesis",
+        "description": "Critical discussion of the date and early relations with Kotte.",
+        "sourceId": "strathern2007"
+      },
+      {
+        "type": "chronicle",
+        "description": "Sinhala chronicle account of the newcomers who \"eat a kind of white stone and drink blood\" (bread and wine).",
+        "sourceId": "suraweera2000"
+      }
+    ],
+    "tags": [
+      "portuguese",
+      "cinnamon"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "historiography": "Older histories give 1505, following Portuguese chronicle tradition. Re-examination of the chronicles and of Portuguese fleet records has led several historians to argue for 1506. Sinhala sources (e.g. the Rajavaliya) describe the newcomers' arrival in memorable but non-datable terms.",
+    "wiki": "Portuguese Ceylon",
+    "chronicle": [
+      {
+        "work": "rajavaliya",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "id": "vijayaba-kollaya",
+    "title": "Vijayaba Kollaya: partition of Kotte",
+    "start": 1521,
+    "dateLabel": "1521",
+    "category": "polity",
+    "confidence": "probable",
+    "placeIds": [
+      "kotte",
+      "sitawaka"
+    ],
+    "summary": "Three of Vijayabahu VI's sons killed their father in the 'plunder of Vijayabahu'. They then divided the kingdom into Kotte (Bhuvanekabahu VII), Sitawaka (Mayadunne) and Raigama, and the rivalry between them drew the Portuguese into the island's politics.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Narrative of the partition and its consequences.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "synthesis",
+        "description": "Kotte-Portuguese relations after 1521.",
+        "sourceId": "strathern2007"
+      }
+    ],
+    "tags": [
+      "kotte",
+      "sitawaka"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "mulleriyawa",
+    "title": "Battle of Mulleriyawa",
+    "start": 1559,
+    "dateLabel": "1559 or 1562",
+    "dateNote": "The date varies between sources.",
+    "category": "conflict",
+    "confidence": "contested",
+    "placeIds": [
+      "mulleriyawa"
+    ],
+    "summary": "Sitawaka forces under Tikiri Banda, later Rajasinghe I, inflicted a heavy defeat on a Portuguese-Kotte army near Colombo. Sinhala tradition remembers it as one of the worst Portuguese defeats in Asia.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Portuguese account of the Sitawaka wars.",
+        "sourceId": "queyroz1930"
+      },
+      {
+        "type": "synthesis",
+        "description": "Context of the Sitawaka-Portuguese conflict.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "historiography": "Portuguese and Sinhala sources disagree on the scale of the battle. Casualty figures are uncertain.",
+    "tags": [
+      "sitawaka",
+      "portuguese"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Battle of Mulleriyawa"
+  },
+  {
+    "id": "dharmapala-donation",
+    "title": "Dharmapala bequeaths Kotte to the Portuguese crown",
+    "start": 1580,
+    "end": 1597,
+    "dateLabel": "Donation 1580; Dharmapala d. 1597",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "kotte",
+      "colombo"
+    ],
+    "summary": "Dharmapala of Kotte was baptised as Dom João in 1557 and depended on Portuguese arms. In 1580 he signed a deed bequeathing his kingdom to the King of Portugal. When he died in 1597, the Portuguese claimed sovereignty over the lowlands.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Analysis of conversion, kingship and the donation.",
+        "sourceId": "strathern2007"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Portuguese account.",
+        "sourceId": "queyroz1930"
+      }
+    ],
+    "tags": [
+      "portuguese",
+      "kotte",
+      "conversion"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "rajasinghe-i",
+    "title": "Rajasinghe I of Sitawaka and the siege of Colombo",
+    "start": 1581,
+    "end": 1593,
+    "dateLabel": "Reign 1581-1593; siege 1587-88",
+    "category": "conflict",
+    "confidence": "probable",
+    "placeIds": [
+      "sitawaka",
+      "colombo"
+    ],
+    "summary": "Rajasinghe I briefly controlled most of the island outside Jaffna and the Portuguese forts. He besieged Colombo for over a year without taking it. Later Buddhist tradition remembers him harshly for converting to Saivism.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Portuguese accounts of the siege.",
+        "sourceId": "queyroz1930"
+      },
+      {
+        "type": "synthesis",
+        "description": "Sitawaka's rise and fall.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "sitawaka",
+      "siege"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "danture",
+    "title": "Battle of Danture",
+    "start": 1594,
+    "dateLabel": "1594",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "danture",
+      "kandy"
+    ],
+    "summary": "A Portuguese expedition under Pedro Lopes de Sousa tried to install the Catholic princess Dona Catarina on the Kandyan throne. Konappu Bandara, now Vimaladharmasuriya I, destroyed the army in the passes near Kandy and married Dona Catarina himself, securing Kandy's independence.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Detailed study of Portuguese rule and the Danture campaign.",
+        "sourceId": "abeyasinghe1966"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Portuguese narrative.",
+        "sourceId": "queyroz1930"
+      }
+    ],
+    "tags": [
+      "kandy",
+      "portuguese"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Battle of Danture"
+  },
+  {
+    "id": "jaffna-annexed",
+    "title": "Portuguese annexation of Jaffna",
+    "start": 1619,
+    "dateLabel": "1619",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "jaffna",
+      "nallur"
+    ],
+    "summary": "The Portuguese deposed and executed Cankili II, the last king of Jaffna, and annexed the kingdom. The Nallur temple was destroyed and a period of missionary activity followed.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Portuguese account of the conquest of Jaffna.",
+        "sourceId": "queyroz1930"
+      },
+      {
+        "type": "synthesis",
+        "description": "Narrative of the annexation.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "jaffna",
+      "portuguese"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "yalpana-vaipava-malai",
+        "chapter": 8
+      }
+    ]
+  },
+  {
+    "id": "gannoruwa-voc-treaty",
+    "title": "Battle of Gannoruwa and the Kandy-VOC treaty",
+    "start": 1638,
+    "dateLabel": "March - May 1638",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "gannoruwa",
+      "kandy"
+    ],
+    "summary": "Rajasinghe II of Kandy destroyed a Portuguese army at Gannoruwa and, in May 1638, made a treaty with the Dutch East India Company (VOC) to expel the Portuguese. The Dutch took the coastal forts and kept them for themselves instead of handing them back to Kandy.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Dutch-Kandyan relations and the 1638 treaty.",
+        "sourceId": "arasaratnam1958"
+      },
+      {
+        "type": "synthesis",
+        "description": "Campaign narrative.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "kandy",
+      "dutch",
+      "portuguese",
+      "treaty"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "dutch-take-colombo",
+    "title": "Dutch capture Colombo and Jaffna",
+    "start": 1656,
+    "end": 1658,
+    "dateLabel": "Colombo May 1656; Jaffna June 1658",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "jaffna"
+    ],
+    "summary": "After a long siege, Colombo surrendered to the VOC in May 1656. The fall of Jaffna in 1658 ended Portuguese power on the island, and the Dutch now controlled the maritime provinces.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Study of the establishment of Dutch power.",
+        "sourceId": "arasaratnam1958"
+      }
+    ],
+    "tags": [
+      "dutch",
+      "voc"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "knox-captivity",
+    "title": "Robert Knox's captivity in the Kandyan kingdom",
+    "start": 1660,
+    "end": 1679,
+    "dateLabel": "1660-1679 (published 1681)",
+    "category": "society",
+    "confidence": "established",
+    "placeIds": [
+      "kandy"
+    ],
+    "summary": "The English sailor Robert Knox was held in the Kandyan kingdom for nineteen years. His Historical Relation (1681) is the fullest eyewitness account of 17th-century Kandyan society, government and agriculture.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Knox's own account.",
+        "sourceId": "knox1681"
+      }
+    ],
+    "historiography": "This is a valuable ethnographic source, but it reflects Knox's position as a captive and as a Protestant Englishman.",
+    "tags": [
+      "kandy",
+      "eyewitness"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "galle-fort",
+    "title": "Dutch fortification of Galle",
+    "start": 1663,
+    "end": 1796,
+    "dateLabel": "From 1663",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "galle"
+    ],
+    "summary": "The VOC rebuilt the Portuguese fort at Galle into a bastioned town. It was the Dutch headquarters on the island until Colombo replaced it and is now a World Heritage site (inscribed 1988).",
+    "evidence": [
+      {
+        "type": "architectural",
+        "description": "Old Town of Galle and its Fortifications, World Heritage inscription 1988.",
+        "sourceId": "unesco-whc"
+      }
+    ],
+    "tags": [
+      "dutch",
+      "architecture",
+      "fort"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "siamese-upasampada",
+    "title": "Restoration of higher ordination from Siam",
+    "start": 1753,
+    "dateLabel": "1753",
+    "category": "religion",
+    "confidence": "established",
+    "placeIds": [
+      "kandy"
+    ],
+    "summary": "At the urging of the monk Valivita Saranankara, King Kirti Sri Rajasinha brought Thai monks led by Upali to restore upasampada (higher ordination), which had lapsed. This founded the Siyam Nikaya and began the 18th-century Buddhist revival.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Detailed analysis of the revival and the Siyam Nikaya.",
+        "sourceId": "malalgoda1976"
+      },
+      {
+        "type": "chronicle",
+        "description": "The final section of the Culavamsa, compiled in the 18th century.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 100"
+      }
+    ],
+    "tags": [
+      "buddhism",
+      "siam",
+      "nikaya"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 100
+      }
+    ],
+    "wiki": "Siam Nikaya"
+  },
+  {
+    "id": "british-take-maritime",
+    "title": "British take the Dutch maritime provinces",
+    "start": 1795,
+    "end": 1802,
+    "dateLabel": "Trincomalee 1795; Colombo Feb 1796; Crown Colony 1802",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "trincomalee",
+      "colombo"
+    ],
+    "summary": "During the French Revolutionary Wars, British forces took Trincomalee (1795) and Colombo (1796) from the Dutch. Under the Treaty of Amiens (1802) the maritime provinces became a British Crown Colony.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Narrative of the British takeover.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "archival",
+        "description": "Documents of early British policy.",
+        "sourceId": "mendis1956"
+      }
+    ],
+    "tags": [
+      "british",
+      "dutch"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "first-kandyan-war",
+    "title": "First Kandyan War",
+    "start": 1803,
+    "dateLabel": "1803",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "kandy"
+    ],
+    "summary": "A British expedition occupied Kandy and installed a puppet king. Disease and Kandyan resistance then forced it to surrender, and most of the British garrison was killed in June 1803.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Narrative of the 1803 war.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "kandy",
+      "british"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "kandyan-convention",
+    "title": "Kandyan Convention: end of the Kandyan kingdom",
+    "start": 1815,
+    "dateLabel": "2 March 1815",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "kandy"
+    ],
+    "summary": "With the backing of disaffected Kandyan chiefs, the British deposed Sri Vikrama Rajasinha and exiled him to Vellore. The Kandyan Convention transferred sovereignty to the British crown and guaranteed protection to Buddhism and the chiefs' privileges, ending more than two thousand years of indigenous monarchy.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Text of the Convention, including clause 5 on the protection of Buddhism.",
+        "sourceId": "kandyan-convention-1815"
+      },
+      {
+        "type": "synthesis",
+        "description": "Account of the annexation.",
+        "sourceId": "codrington1926"
+      },
+      {
+        "type": "synthesis",
+        "description": "Narrative of the annexation.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "historiography": "The British commitment to 'maintain and protect' Buddhism (clause 5) became a point of contention with missionaries and later with Buddhist revivalists.",
+    "tags": [
+      "kandy",
+      "british",
+      "sovereignty"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Kandyan Convention"
+  },
+  {
+    "id": "uva-wellassa",
+    "title": "Uva-Wellassa rebellion",
+    "start": 1817,
+    "end": 1818,
+    "dateLabel": "1817-1818",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "badulla",
+      "kandy"
+    ],
+    "summary": "A widespread rising against British rule began in Uva and Wellassa and spread across the Kandyan provinces under leaders including Keppetipola Disawe. It was crushed with scorched-earth tactics, the killing of cattle and the destruction of irrigation works, and many rebel leaders were executed.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Narrative of the rebellion and its suppression.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "synthesis",
+        "description": "Interpretation in modern historiography.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "historiography": "Since independence it has been commemorated as a national liberation struggle. In the 2010s the Sri Lankan state formally revoked the colonial-era designation of its leaders as traitors and recognised them as national heroes (date of gazette to be verified).",
+    "tags": [
+      "rebellion",
+      "british",
+      "kandy"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Uva Rebellion"
+  },
+  {
+    "id": "colebrooke-cameron",
+    "title": "Colebrooke-Cameron reforms",
+    "start": 1833,
+    "dateLabel": "1833",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "island"
+    ],
+    "summary": "A Commission of Eastern Inquiry recommended, and the colonial government carried out, a unified administration for the whole island. It abolished rajakariya (compulsory service), introduced Executive and Legislative Councils, created a uniform judicial system and promoted English education.",
+    "evidence": [
+      {
+        "type": "archival",
+        "description": "Edited reports and documents of the Commission.",
+        "sourceId": "mendis1956"
+      }
+    ],
+    "tags": [
+      "british",
+      "administration",
+      "reform"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Colebrooke–Cameron Commission"
+  },
+  {
+    "id": "coffee-economy",
+    "title": "Coffee plantations and Indian Tamil labour",
+    "start": 1830,
+    "end": 1885,
+    "dateLabel": "1830s-1880s",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "hill-country",
+      "kandy"
+    ],
+    "summary": "British planters cleared the highlands for coffee, helped by the Crown Lands Encroachment Ordinance (1840), which turned much village land into Crown land. Hundreds of thousands of South Indian Tamil workers were recruited. Coffee leaf rust (Hemileia vastatrix), first reported in 1869, destroyed the industry by the 1880s.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Political economy of the Kandyan highlands under coffee.",
+        "sourceId": "bandarage1983"
+      },
+      {
+        "type": "synthesis",
+        "description": "Labour migration and conditions.",
+        "sourceId": "jayawardena1972"
+      }
+    ],
+    "tags": [
+      "plantation",
+      "coffee",
+      "labour",
+      "land"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "matale-rebellion",
+    "title": "Matale rebellion of 1848",
+    "start": 1848,
+    "dateLabel": "July 1848",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "matale"
+    ],
+    "summary": "New taxes provoked protests and an uprising centred on Matale, led by Gongalegoda Banda and Purang Appu. Governor Torrington declared martial law and ordered executions. Criticism in Parliament led to his recall.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Narrative and analysis of the 1848 rebellion.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "rebellion",
+      "taxation",
+      "british"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Matale rebellion"
+  },
+  {
+    "id": "tea-loolecondera",
+    "title": "Commercial tea planting begins at Loolecondera",
+    "start": 1867,
+    "dateLabel": "1867",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "loolecondera",
+      "hill-country"
+    ],
+    "summary": "James Taylor planted the first commercial tea on Loolecondera estate. After coffee rust, tea spread rapidly, and 'Ceylon tea' became the island's main export, shaping the hill country's demography and economy.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Transition from coffee to tea.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "plantation",
+      "tea"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "panadura-debate",
+    "title": "The Panadura Debate",
+    "start": 1873,
+    "dateLabel": "August 1873",
+    "category": "religion",
+    "confidence": "established",
+    "placeIds": [
+      "panadura"
+    ],
+    "summary": "A public debate between the Buddhist monk Mohottivatte Gunananda and Christian clergy drew large crowds. Its published English account helped bring Henry Steel Olcott to the island and marked a turning point in the Buddhist revival.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Buddhist-Christian controversies of the 1860s-70s.",
+        "sourceId": "malalgoda1976"
+      }
+    ],
+    "tags": [
+      "buddhist-revival",
+      "missionaries"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "olcott-arrival",
+    "title": "Olcott and the Buddhist Theosophical Society",
+    "start": 1880,
+    "dateLabel": "1880",
+    "category": "religion",
+    "confidence": "established",
+    "placeIds": [
+      "galle",
+      "colombo"
+    ],
+    "summary": "Henry Steel Olcott and Helena Blavatsky arrived in Galle in May 1880 and publicly took the Buddhist precepts. Olcott's Buddhist Theosophical Society founded Buddhist schools such as Ananda College (1886) and helped shape 'Protestant Buddhism'.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Role of Olcott in the revival.",
+        "sourceId": "malalgoda1976"
+      }
+    ],
+    "tags": [
+      "buddhist-revival",
+      "education"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "riots-1915",
+    "title": "1915 riots and martial law",
+    "start": 1915,
+    "dateLabel": "May-June 1915",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "gampola",
+      "kandy",
+      "colombo"
+    ],
+    "summary": "A dispute over a Buddhist procession passing a mosque at Gampola grew into Sinhala-Muslim (mainly against Coast Moors) riots across the south-west. The colonial government declared martial law and arrested many Sinhala leaders, which helped galvanise the nationalist movement.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Account of the riots and repression.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "synthesis",
+        "description": "Economic background to the riots.",
+        "sourceId": "jayawardena1972"
+      }
+    ],
+    "tags": [
+      "riots",
+      "martial-law",
+      "muslims"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "ceylon-national-congress",
+    "title": "Ceylon National Congress founded",
+    "start": 1919,
+    "dateLabel": "1919",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "The Ceylon National Congress was founded under Sir Ponnambalam Arunachalam to campaign for constitutional reform. Within a few years it split along communal lines over representation.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Constitutional reform movement.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "synthesis",
+        "description": "Communal representation debates.",
+        "sourceId": "wilson2000"
+      }
+    ],
+    "tags": [
+      "nationalism",
+      "constitution"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "donoughmore",
+    "title": "Donoughmore Constitution and universal suffrage",
+    "start": 1931,
+    "dateLabel": "1931",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "island",
+      "colombo"
+    ],
+    "summary": "The Donoughmore Constitution created a State Council with executive committees and gave the vote to all adults, men and women, aged 21 and over. This made Ceylon one of the first Asian colonies with universal adult suffrage.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "The Donoughmore reforms.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "suffrage",
+      "constitution"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "malaria-1934",
+    "title": "Malaria epidemic of 1934-35",
+    "start": 1934,
+    "end": 1935,
+    "dateLabel": "1934-1935",
+    "category": "disaster",
+    "confidence": "established",
+    "placeIds": [
+      "kurunegala",
+      "island"
+    ],
+    "summary": "After drought, a severe malaria epidemic swept the wet-zone margins and caused very high mortality, with estimates often given around 80,000 deaths. The Suriya Mal volunteer relief movement and the political response helped shape the left movement.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Official medical report on the epidemic.",
+        "sourceId": "briercliffe1935"
+      }
+    ],
+    "tags": [
+      "malaria",
+      "public-health"
+    ],
+    "review": {
+      "status": "draft",
+      "notes": "Verify mortality estimate against Briercliffe 1935."
+    }
+  },
+  {
+    "id": "easter-raid-1942",
+    "title": "Japanese air raids on Colombo and Trincomalee",
+    "start": 1942,
+    "dateLabel": "5 and 9 April 1942",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "trincomalee"
+    ],
+    "summary": "Japanese carrier aircraft raided Colombo on Easter Sunday (5 April 1942) and Trincomalee on 9 April, sinking British warships including HMS Hermes. Ceylon was a key Allied base and later the headquarters of South East Asia Command at Kandy.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Narrative history of the Indian Ocean raid.",
+        "sourceId": "tomlinson1976"
+      }
+    ],
+    "tags": [
+      "ww2",
+      "japan"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Easter Sunday Raid"
+  },
+  {
+    "id": "joseph-vaz",
+    "title": "Joseph Vaz and Catholic survival under the Dutch",
+    "start": 1687,
+    "end": 1711,
+    "dateLabel": "1687-1711",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "kandy",
+      "jaffna"
+    ],
+    "summary": "With Catholicism banned in Dutch territory, the Goan Oratorian Joseph Vaz entered the island in disguise, worked secretly and later found protection in Kandy. He rebuilt the Catholic community and was canonised in 2015.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "The Catholic Church under the VOC.",
+        "sourceId": "boudens1957"
+      }
+    ],
+    "wiki": "Joseph Vaz",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "dutch-administration",
+    "title": "VOC administration: tombos and Roman-Dutch law",
+    "start": 1658,
+    "end": 1796,
+    "dateLabel": "1658-1796",
+    "category": "colonial",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "galle",
+      "jaffna"
+    ],
+    "summary": "The VOC registered land, people and caste duties in tombos (registers), monopolised cinnamon, and introduced Roman-Dutch law. That law remains the residual common law of Sri Lanka, and the Tesawalamai customary code of Jaffna was codified in 1707.",
+    "evidence": [
+      {
+        "type": "archival",
+        "description": "Records of the Dutch government of coastal Ceylon.",
+        "sourceId": "slna-voc"
+      },
+      {
+        "type": "synthesis",
+        "description": "Establishment of Dutch power and administration.",
+        "sourceId": "arasaratnam1958"
+      }
+    ],
+    "tags": [
+      "dutch",
+      "law",
+      "administration"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "nayakkar-succession",
+    "title": "The Nayakkar dynasty takes the Kandyan throne",
+    "start": 1739,
+    "dateLabel": "1739",
+    "category": "polity",
+    "confidence": "established",
+    "placeIds": [
+      "kandy"
+    ],
+    "summary": "When Vira Narendrasinha died without a royal heir, his queen's brother from Madurai became Sri Vijaya Rajasinha. Four Telugu-speaking Nayakkar kings followed, who patronised Buddhism while keeping South Indian kinship ties.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Kandyan kingdom 1707-1782.",
+        "sourceId": "dewaraja1988"
+      },
+      {
+        "type": "chronicle",
+        "description": "Account of the succession.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 98"
+      }
+    ],
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 97
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 98
+      }
+    ],
+    "wiki": "Nayaks of Kandy",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "kandy-esala-perahera",
+    "title": "The Kandy Esala Perahera",
+    "start": 1681,
+    "end": 1775,
+    "dateLabel": "Described 1681; reorganised c. 1775",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "kandy"
+    ],
+    "summary": "The annual procession of the four guardian deities was described by Robert Knox. Tradition holds that Kirti Sri Rajasinha placed the Tooth Relic at its head, linking kingship, gods and the Buddha.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Knox's description of the perahera.",
+        "sourceId": "knox1681"
+      },
+      {
+        "type": "synthesis",
+        "description": "Ritual and the Kandyan state.",
+        "sourceId": "seneviratne1978"
+      }
+    ],
+    "wiki": "Kandy Esala Perahera",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "dutch-capture-kandy-1765",
+    "title": "Dutch capture of Kandy and the Treaty of 1766",
+    "start": 1765,
+    "end": 1766,
+    "dateLabel": "1765-1766",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "kandy",
+      "colombo"
+    ],
+    "summary": "After Kandyan attacks on the maritime provinces (1761), a VOC army took and sacked Kandy in 1765. Under the 1766 treaty Kandy ceded the entire coastal belt, cutting the kingdom off from the sea.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Detailed narrative.",
+        "sourceId": "dewaraja1988"
+      },
+      {
+        "type": "archival",
+        "description": "VOC records of the campaign and treaty.",
+        "sourceId": "slna-voc"
+      }
+    ],
+    "tags": [
+      "dutch",
+      "kandy",
+      "treaty"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "arumuga-navalar",
+    "title": "Arumuga Navalar and the Saiva revival",
+    "start": 1848,
+    "end": 1879,
+    "dateLabel": "c. 1848-1879",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "jaffna"
+    ],
+    "summary": "Arumuga Navalar answered Protestant missionary activity in Jaffna by founding Saiva schools, printing Tamil religious texts, and standardising Saiva practice and Tamil prose.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Navalar's role in Tamil cultural revival.",
+        "sourceId": "wilson2000"
+      }
+    ],
+    "wiki": "Arumuka Navalar",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "anagarika-dharmapala",
+    "title": "Anagarika Dharmapala and the Maha Bodhi Society",
+    "start": 1891,
+    "end": 1933,
+    "dateLabel": "1891-1933",
+    "category": "religion",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "Dharmapala founded the Maha Bodhi Society (1891) to restore Bodh Gaya to Buddhist control and became the leading voice of Sinhala Buddhist revivalism. He mixed moral reform with anti-colonial and sometimes ethnic polemic.",
+    "evidence": [
+      {
+        "type": "archival",
+        "description": "Collected speeches, essays and letters.",
+        "sourceId": "guruge1965"
+      },
+      {
+        "type": "synthesis",
+        "description": "The revival context.",
+        "sourceId": "malalgoda1976"
+      }
+    ],
+    "wiki": "Anagarika Dharmapala",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "general-strike-1923",
+    "title": "The 1923 general strike",
+    "start": 1923,
+    "dateLabel": "1923",
+    "category": "society",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "A. E. Goonesinha's Ceylon Labour Union led a general strike in Colombo, establishing organised labour as a political force.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "History of the labour movement.",
+        "sourceId": "jayawardena1972"
+      }
+    ],
+    "wiki": "A. E. Goonesinha",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "soulbury-commission",
+    "title": "Soulbury Commission and the independence constitution",
+    "start": 1944,
+    "end": 1947,
+    "dateLabel": "1944-1947",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "The Soulbury Commission recommended a Westminster-style constitution. Its Section 29 barred laws that discriminated against any community, a safeguard later removed by the 1972 constitution.",
+    "evidence": [
+      {
+        "type": "legal-official",
+        "description": "Report of the Commission (Cmd. 6677).",
+        "sourceId": "soulbury1945"
+      },
+      {
+        "type": "synthesis",
+        "description": "Debates on minority safeguards.",
+        "sourceId": "wilson2000"
+      }
+    ],
+    "wiki": "Soulbury Commission",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "free-education-1945",
+    "title": "Free education",
+    "start": 1945,
+    "dateLabel": "1945",
+    "category": "society",
+    "confidence": "established",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "Under C. W. W. Kannangara, the State Council made education free from kindergarten to university, transforming social mobility and literacy.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "The free education reforms.",
+        "sourceId": "desilva1981"
+      },
+      {
+        "type": "synthesis",
+        "description": "Long-term social effects.",
+        "sourceId": "wickramasinghe2014"
+      }
+    ],
+    "wiki": "C. W. W. Kannangara",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "ddt-malaria-1946",
+    "title": "DDT spraying and the mortality decline",
+    "start": 1946,
+    "end": 1950,
+    "dateLabel": "1946-1950",
+    "category": "society",
+    "confidence": "established",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "Island-wide DDT spraying from 1946 coincided with a dramatic fall in the death rate, a textbook case in demographic history.",
+    "evidence": [
+      {
+        "type": "scientific",
+        "description": "Analysis of mortality decline and malaria control.",
+        "sourceId": "gray1974"
+      }
+    ],
+    "historiography": "Gray argued that malaria control explains only part of the decline, against earlier claims that it caused most of it. Improved nutrition and health services also contributed.",
+    "tags": [
+      "public-health",
+      "malaria",
+      "demography"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "east-coast-society",
+    "title": "Mukkuvar chiefdoms and Tamil-Muslim society on the east coast",
+    "start": 1500,
+    "end": 1900,
+    "dateLabel": "16th - 19th c.",
+    "category": "society",
+    "confidence": "probable",
+    "placeIds": [
+      "batticaloa"
+    ],
+    "summary": "In the Batticaloa region, matrilineal Mukkuvar Tamil chiefs and Muslim communities shared a distinctive society of matrilineal clans (kudi), temple honours and paddy cultivation, under loose Kandyan overlordship.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Ethnography and history of the east coast.",
+        "sourceId": "mcgilvray2008"
+      },
+      {
+        "type": "synthesis",
+        "description": "Muslim settlement in the east.",
+        "sourceId": "dewaraja1994"
+      }
+    ],
+    "tags": [
+      "east",
+      "muslims",
+      "matriliny",
+      "caste"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "caste-competition",
+    "title": "Caste competition and the rise of new elites",
+    "start": 1700,
+    "end": 1931,
+    "dateLabel": "18th - early 20th c.",
+    "category": "society",
+    "confidence": "established",
+    "placeIds": [
+      "colombo",
+      "panadura"
+    ],
+    "summary": "Under the Dutch and British, coastal castes such as the Karava, Salagama and Durava gained wealth from cinnamon, arrack renting, plantations and trade. They challenged the Goyigama elite for status and political leadership.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "The rise of a Karava elite.",
+        "sourceId": "roberts1982"
+      },
+      {
+        "type": "synthesis",
+        "description": "Sociology of the Sinhalese caste system.",
+        "sourceId": "ryan1953"
+      }
+    ],
+    "tags": [
+      "caste",
+      "elites"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "ceylon-rupee",
+    "title": "The Ceylon rupee replaces sterling accounts",
+    "start": 1872,
+    "dateLabel": "1872",
+    "category": "economy",
+    "confidence": "probable",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "The Indian-linked rupee, divided into cents, became the colony's currency, reflecting the economic integration of Ceylon's plantation economy with British India.",
+    "evidence": [
+      {
+        "type": "numismatic",
+        "description": "Colonial currency history.",
+        "sourceId": "codrington1924"
+      }
+    ],
+    "tags": [
+      "coins",
+      "currency"
+    ],
+    "wiki": "Sri Lankan rupee",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "women-suffrage",
+    "title": "Women's Franchise Union and the vote",
+    "start": 1927,
+    "end": 1931,
+    "dateLabel": "1927-1931",
+    "category": "politics",
+    "confidence": "established",
+    "placeIds": [
+      "colombo"
+    ],
+    "summary": "The Women's Franchise Union (1927) campaigned before the Donoughmore Commission. In 1931 women gained the vote on equal terms with men at 21, among the earliest in Asia, and the first women entered the State Council.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "Women's movement and suffrage in Ceylon.",
+        "sourceId": "jayawardena1986"
+      },
+      {
+        "type": "synthesis",
+        "description": "The Donoughmore reforms.",
+        "sourceId": "desilva1981"
+      }
+    ],
+    "tags": [
+      "women",
+      "suffrage"
+    ],
+    "review": {
+      "status": "draft",
+      "notes": "Name the first women State Council members (1931-32) from primary sources."
+    }
+  },
+  {
+    "id": "dasa-sil-mata",
+    "title": "Revival of Buddhist women renunciants",
+    "start": 1905,
+    "end": 1998,
+    "dateLabel": "1900s - 1998",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "colombo",
+      "kandy"
+    ],
+    "summary": "Early in the 20th century, laywomen inspired by the Buddhist revival took up ten-precept renunciation as dasa sil mata, outside the defunct bhikkhuni order. Full bhikkhuni ordination was restored for Sri Lankan nuns from 1996-98 but is still not recognised by the main nikayas.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "History of the dasa sil mata movement.",
+        "sourceId": "bartholomeusz1994"
+      }
+    ],
+    "historiography": "Whether the restored bhikkhuni ordination is valid is still contested within Theravada.",
+    "tags": [
+      "women",
+      "buddhism",
+      "nuns"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  }
+]

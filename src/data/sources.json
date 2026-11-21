@@ -1,0 +1,795 @@
+[
+  {
+    "id": "deraniyagala1992",
+    "authors": "Deraniyagala, S. U.",
+    "year": "1992",
+    "title": "The Prehistory of Sri Lanka: An Ecological Perspective (2 parts)",
+    "publication": "Memoir Vol. 8",
+    "publisher": "Department of Archaeological Survey, Colombo",
+    "kind": "secondary",
+    "notes": "Standard synthesis of Sri Lankan prehistory and the Anuradhapura Gedige excavations."
+  },
+  {
+    "id": "kennedy1989",
+    "authors": "Kennedy, K. A. R. & Deraniyagala, S. U.",
+    "year": "1989",
+    "title": "Fossil remains of 28,000-year-old hominids from Sri Lanka",
+    "publication": "Current Anthropology 30(3): 394-399",
+    "kind": "secondary"
+  },
+  {
+    "id": "perera2011",
+    "authors": "Perera, N., Kourampas, N., Simpson, I. A., Deraniyagala, S. U., Bulbeck, D., Kamminga, J., et al.",
+    "year": "2011",
+    "title": "People of the ancient rainforest: Late Pleistocene foragers at the Batadomba-lena rockshelter, Sri Lanka",
+    "publication": "Journal of Human Evolution 61(3): 254-269",
+    "kind": "secondary",
+    "doi": "10.1016/j.jhevol.2011.04.001"
+  },
+  {
+    "id": "roberts2015",
+    "authors": "Roberts, P., Perera, N., Wedage, O., Deraniyagala, S., Perera, J., Eregama, S., et al.",
+    "year": "2015",
+    "title": "Direct evidence for human reliance on rainforest resources in late Pleistocene Sri Lanka",
+    "publication": "Science 347(6227): 1246-1249",
+    "kind": "secondary",
+    "doi": "10.1126/science.aaa1230"
+  },
+  {
+    "id": "wedage2019",
+    "authors": "Wedage, O., Amano, N., Langley, M. C., Douka, K., Blinkhorn, J., Crowther, A., et al.",
+    "year": "2019",
+    "title": "Specialized rainforest hunting by Homo sapiens ~45,000 years ago",
+    "publication": "Nature Communications 10: 739",
+    "kind": "secondary",
+    "doi": "10.1038/s41467-019-08623-1"
+  },
+  {
+    "id": "langley2020",
+    "authors": "Langley, M. C., Amano, N., Wedage, O., Deraniyagala, S., Pathmalal, M. M., Perera, N., et al.",
+    "year": "2020",
+    "title": "Bows and arrows and complex symbolic displays 48,000 years ago in the South Asian tropics",
+    "publication": "Science Advances 6(24): eaba3831",
+    "kind": "secondary",
+    "doi": "10.1126/sciadv.aba3831"
+  },
+  {
+    "id": "premathilake2006",
+    "authors": "Premathilake, R.",
+    "year": "2006",
+    "title": "Relationship of environmental changes in central Sri Lanka to possible prehistoric land-use and climate changes",
+    "publication": "Palaeogeography, Palaeoclimatology, Palaeoecology 240: 468-496",
+    "kind": "secondary"
+  },
+  {
+    "id": "coningham1999",
+    "authors": "Coningham, R. A. E.",
+    "year": "1999",
+    "title": "Anuradhapura: The British-Sri Lankan Excavations at Anuradhapura Salgaha Watta 2. Volume 1: The Site",
+    "publication": "BAR International Series 824",
+    "publisher": "Archaeopress, Oxford",
+    "kind": "secondary"
+  },
+  {
+    "id": "coningham1996",
+    "authors": "Coningham, R. A. E., Allchin, F. R., Batt, C. M. & Lucy, D.",
+    "year": "1996",
+    "title": "Passage to India? Anuradhapura and the early use of the Brahmi script",
+    "publication": "Cambridge Archaeological Journal 6(1): 73-97",
+    "kind": "secondary",
+    "doi": "10.1017/S0959774300001608"
+  },
+  {
+    "id": "begley1981",
+    "authors": "Begley, V., Lukacs, J. R. & Kennedy, K. A. R.",
+    "year": "1981",
+    "title": "Excavations of Iron Age burials at Pomparippu, 1970",
+    "publication": "Ancient Ceylon 4",
+    "publisher": "Department of Archaeology, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "weisshaar2001",
+    "authors": "Weisshaar, H.-J., Roth, H. & Wijeyapala, W. (eds)",
+    "year": "2001",
+    "title": "Ancient Ruhuna: Sri Lankan-German Archaeological Project in the Southern Province, Vol. 1",
+    "publisher": "Philipp von Zabern, Mainz",
+    "kind": "secondary"
+  },
+  {
+    "id": "carswell2013",
+    "authors": "Carswell, J., Deraniyagala, S. & Graham, A. (eds)",
+    "year": "2013",
+    "title": "Mantai: City by the Sea",
+    "publisher": "Linden Soft, Aichwald",
+    "kind": "secondary"
+  },
+  {
+    "id": "paranavitana1970",
+    "authors": "Paranavitana, S.",
+    "year": "1970",
+    "title": "Inscriptions of Ceylon, Vol. I: Containing Cave Inscriptions from 3rd Century B.C. to 1st Century A.D. and Other Inscriptions in the Early Brahmi Script",
+    "publisher": "Department of Archaeology, Colombo",
+    "kind": "primary",
+    "notes": "Edition and translation of c. 1,200 early Brahmi inscriptions."
+  },
+  {
+    "id": "paranavitana1956",
+    "authors": "Paranavitana, S.",
+    "year": "1956",
+    "title": "Sigiri Graffiti, being Sinhalese Verses of the Eighth, Ninth and Tenth Centuries (2 vols)",
+    "publisher": "Oxford University Press for the Government of Ceylon",
+    "kind": "primary"
+  },
+  {
+    "id": "epigraphia-zeylanica",
+    "authors": "Wickremasinghe, D. M. de Z., Codrington, H. W., Paranavitana, S. et al. (eds)",
+    "year": "1904-",
+    "title": "Epigraphia Zeylanica, being Lithic and Other Inscriptions of Ceylon (Vols I-VIII)",
+    "publisher": "Archaeological Survey of Ceylon",
+    "kind": "primary"
+  },
+  {
+    "id": "hultzsch1925",
+    "authors": "Hultzsch, E.",
+    "year": "1925",
+    "title": "Inscriptions of Asoka (Corpus Inscriptionum Indicarum, Vol. I, new edn)",
+    "publisher": "Clarendon Press, Oxford",
+    "kind": "primary"
+  },
+  {
+    "id": "geiger1912",
+    "authors": "Geiger, W. (trans.), assisted by Bode, M. H.",
+    "year": "1912",
+    "title": "The Mahavamsa, or the Great Chronicle of Ceylon",
+    "publisher": "Pali Text Society / Oxford University Press, London",
+    "kind": "primary",
+    "notes": "Composed c. 5th-6th century CE (attributed to Mahanama). Narrative history with a Mahavihara Buddhist perspective; dates before c. 3rd century BCE are traditional."
+  },
+  {
+    "id": "geiger1929",
+    "authors": "Geiger, W. (trans.), English trans. Rickmers, C. M.",
+    "year": "1929-1930",
+    "title": "Culavamsa, being the More Recent Part of the Mahavamsa (2 parts)",
+    "publisher": "Pali Text Society / Oxford University Press, London",
+    "kind": "primary",
+    "notes": "Continuation of the Mahavamsa compiled in stages (c. 13th, 14th and 18th centuries)."
+  },
+  {
+    "id": "oldenberg1879",
+    "authors": "Oldenberg, H. (ed. & trans.)",
+    "year": "1879",
+    "title": "The Dipavamsa: An Ancient Buddhist Historical Record",
+    "publisher": "Williams and Norgate, London",
+    "kind": "primary",
+    "notes": "The earliest surviving Sri Lankan chronicle, c. 4th century CE."
+  },
+  {
+    "id": "legge1886",
+    "authors": "Legge, J. (trans.)",
+    "year": "1886",
+    "title": "A Record of Buddhistic Kingdoms: Being an Account by the Chinese Monk Fa-Hien of his Travels in India and Ceylon (A.D. 399-414)",
+    "publisher": "Clarendon Press, Oxford",
+    "kind": "primary"
+  },
+  {
+    "id": "mccrindle1897",
+    "authors": "McCrindle, J. W. (trans.)",
+    "year": "1897",
+    "title": "The Christian Topography of Cosmas, an Egyptian Monk",
+    "publisher": "Hakluyt Society, London",
+    "kind": "primary"
+  },
+  {
+    "id": "pliny-rackham",
+    "authors": "Pliny the Elder; Rackham, H. (trans.)",
+    "year": "1942",
+    "title": "Natural History, Vol. II: Books 3-7 (Loeb Classical Library 352)",
+    "publisher": "Harvard University Press / Heinemann",
+    "kind": "primary"
+  },
+  {
+    "id": "gibb1994",
+    "authors": "Gibb, H. A. R. & Beckingham, C. F. (trans.)",
+    "year": "1994",
+    "title": "The Travels of Ibn Battuta, A.D. 1325-1354, Vol. IV",
+    "publisher": "Hakluyt Society, London",
+    "kind": "primary"
+  },
+  {
+    "id": "queyroz1930",
+    "authors": "Queyroz, F. de; Perera, S. G. (trans.)",
+    "year": "1930",
+    "title": "The Temporal and Spiritual Conquest of Ceylon (3 vols; Portuguese original 1687)",
+    "publisher": "Government Printer, Colombo",
+    "kind": "primary"
+  },
+  {
+    "id": "knox1681",
+    "authors": "Knox, R.",
+    "year": "1681",
+    "title": "An Historical Relation of the Island Ceylon in the East Indies",
+    "publisher": "Richard Chiswell, London",
+    "kind": "primary"
+  },
+  {
+    "id": "mendis1956",
+    "authors": "Mendis, G. C. (ed.)",
+    "year": "1956",
+    "title": "The Colebrooke-Cameron Papers: Documents on British Colonial Policy in Ceylon, 1796-1833 (2 vols)",
+    "publisher": "Oxford University Press",
+    "kind": "primary"
+  },
+  {
+    "id": "ray1959",
+    "authors": "Ray, H. C. & Paranavitana, S. (eds)",
+    "year": "1959-1960",
+    "title": "University of Ceylon History of Ceylon, Vol. I (Parts 1-2): From the Earliest Times to 1505",
+    "publisher": "Ceylon University Press, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "desilva1981",
+    "authors": "De Silva, K. M.",
+    "year": "1981",
+    "title": "A History of Sri Lanka",
+    "publisher": "C. Hurst, London / University of California Press (rev. edn 2005, Vijitha Yapa / Penguin)",
+    "kind": "secondary"
+  },
+  {
+    "id": "codrington1926",
+    "authors": "Codrington, H. W.",
+    "year": "1926",
+    "title": "A Short History of Ceylon",
+    "publisher": "Macmillan, London",
+    "kind": "secondary"
+  },
+  {
+    "id": "gunawardana1979",
+    "authors": "Gunawardana, R. A. L. H.",
+    "year": "1979",
+    "title": "Robe and Plough: Monasticism and Economic Interest in Early Medieval Sri Lanka",
+    "publisher": "University of Arizona Press, Tucson",
+    "kind": "secondary"
+  },
+  {
+    "id": "bandaranayake1974",
+    "authors": "Bandaranayake, S.",
+    "year": "1974",
+    "title": "Sinhalese Monastic Architecture: The Viharas of Anuradhapura",
+    "publisher": "E. J. Brill, Leiden",
+    "kind": "secondary"
+  },
+  {
+    "id": "indrapala2005",
+    "authors": "Indrapala, K.",
+    "year": "2005",
+    "title": "The Evolution of an Ethnic Identity: The Tamils in Sri Lanka c. 300 BCE to c. 1200 CE",
+    "publisher": "MV Publications, Sydney",
+    "kind": "secondary"
+  },
+  {
+    "id": "spencer1976",
+    "authors": "Spencer, G. W.",
+    "year": "1976",
+    "title": "The politics of plunder: the Cholas in eleventh-century Ceylon",
+    "publication": "Journal of Asian Studies 35(3): 405-419",
+    "kind": "secondary",
+    "doi": "10.2307/2053272"
+  },
+  {
+    "id": "liyanagamage1968",
+    "authors": "Liyanagamage, A.",
+    "year": "1968",
+    "title": "The Decline of Polonnaruwa and the Rise of Dambadeniya (c. 1180-1270 A.D.)",
+    "publisher": "Department of Cultural Affairs, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "somaratna1975",
+    "authors": "Somaratna, G. P. V.",
+    "year": "1975",
+    "title": "The Political History of the Kingdom of Kotte, 1400-1521",
+    "publisher": "Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "wade2005",
+    "authors": "Wade, G.",
+    "year": "2005",
+    "title": "The Zheng He voyages: a reassessment",
+    "publication": "Journal of the Malaysian Branch of the Royal Asiatic Society 78(1): 37-58",
+    "kind": "secondary"
+  },
+  {
+    "id": "strathern2007",
+    "authors": "Strathern, A.",
+    "year": "2007",
+    "title": "Kingship and Conversion in Sixteenth-Century Sri Lanka: Portuguese Imperialism in a Buddhist Land",
+    "publisher": "Cambridge University Press",
+    "kind": "secondary"
+  },
+  {
+    "id": "abeyasinghe1966",
+    "authors": "Abeyasinghe, T.",
+    "year": "1966",
+    "title": "Portuguese Rule in Ceylon, 1594-1612",
+    "publisher": "Lake House, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "arasaratnam1958",
+    "authors": "Arasaratnam, S.",
+    "year": "1958",
+    "title": "Dutch Power in Ceylon, 1658-1687",
+    "publisher": "Djambatan, Amsterdam",
+    "kind": "secondary"
+  },
+  {
+    "id": "malalgoda1976",
+    "authors": "Malalgoda, K.",
+    "year": "1976",
+    "title": "Buddhism in Sinhalese Society, 1750-1900: A Study of Religious Revival and Change",
+    "publisher": "University of California Press, Berkeley",
+    "kind": "secondary"
+  },
+  {
+    "id": "bandarage1983",
+    "authors": "Bandarage, A.",
+    "year": "1983",
+    "title": "Colonialism in Sri Lanka: The Political Economy of the Kandyan Highlands, 1833-1886",
+    "publisher": "Mouton, Berlin",
+    "kind": "secondary"
+  },
+  {
+    "id": "jayawardena1972",
+    "authors": "Jayawardena, K.",
+    "year": "1972",
+    "title": "The Rise of the Labor Movement in Ceylon",
+    "publisher": "Duke University Press, Durham NC",
+    "kind": "secondary"
+  },
+  {
+    "id": "briercliffe1935",
+    "authors": "Briercliffe, R.",
+    "year": "1935",
+    "title": "The Ceylon Malaria Epidemic, 1934-35: Report by the Director of Medical and Sanitary Services",
+    "publication": "Sessional Paper XXII of 1935",
+    "publisher": "Government Press, Colombo",
+    "kind": "official"
+  },
+  {
+    "id": "tomlinson1976",
+    "authors": "Tomlinson, M.",
+    "year": "1976",
+    "title": "The Most Dangerous Moment: The Japanese Assault on Ceylon, 1942",
+    "publisher": "William Kimber, London",
+    "kind": "secondary"
+  },
+  {
+    "id": "wickramasinghe2014",
+    "authors": "Wickramasinghe, N.",
+    "year": "2014",
+    "title": "Sri Lanka in the Modern Age: A History (2nd edn)",
+    "publisher": "Hurst / Oxford University Press",
+    "kind": "secondary"
+  },
+  {
+    "id": "tambiah1986",
+    "authors": "Tambiah, S. J.",
+    "year": "1986",
+    "title": "Sri Lanka: Ethnic Fratricide and the Dismantling of Democracy",
+    "publisher": "University of Chicago Press",
+    "kind": "secondary"
+  },
+  {
+    "id": "wilson2000",
+    "authors": "Wilson, A. J.",
+    "year": "2000",
+    "title": "Sri Lankan Tamil Nationalism: Its Origins and Development in the Nineteenth and Twentieth Centuries",
+    "publisher": "Hurst, London",
+    "kind": "secondary"
+  },
+  {
+    "id": "vittachi1958",
+    "authors": "Vittachi, T.",
+    "year": "1958",
+    "title": "Emergency '58: The Story of the Ceylon Race Riots",
+    "publisher": "André Deutsch, London",
+    "kind": "secondary"
+  },
+  {
+    "id": "independence-act-1947",
+    "authors": "Parliament of the United Kingdom",
+    "year": "1947",
+    "title": "Ceylon Independence Act 1947 (11 & 12 Geo. 6 c. 7)",
+    "kind": "official",
+    "url": "https://www.legislation.gov.uk/ukpga/Geo6/11-12/7"
+  },
+  {
+    "id": "citizenship-act-1948",
+    "authors": "Parliament of Ceylon",
+    "year": "1948",
+    "title": "Ceylon Citizenship Act, No. 18 of 1948",
+    "kind": "official"
+  },
+  {
+    "id": "official-language-act-1956",
+    "authors": "Parliament of Ceylon",
+    "year": "1956",
+    "title": "Official Language Act, No. 33 of 1956",
+    "kind": "official"
+  },
+  {
+    "id": "constitution-1972",
+    "authors": "Constituent Assembly of Sri Lanka",
+    "year": "1972",
+    "title": "The Constitution of Sri Lanka (Ceylon), 22 May 1972",
+    "kind": "official"
+  },
+  {
+    "id": "constitution-1978",
+    "authors": "Parliament of Sri Lanka",
+    "year": "1978",
+    "title": "The Constitution of the Democratic Socialist Republic of Sri Lanka",
+    "kind": "official",
+    "url": "https://www.parliament.lk/constitution"
+  },
+  {
+    "id": "indo-lanka-accord-1987",
+    "authors": "Governments of India and Sri Lanka",
+    "year": "1987",
+    "title": "Indo-Sri Lanka Agreement to Establish Peace and Normalcy in Sri Lanka, Colombo, 29 July 1987",
+    "kind": "official",
+    "url": "https://peacemaker.un.org/srilanka-india-agreement87"
+  },
+  {
+    "id": "cfa2002",
+    "authors": "Government of the Democratic Socialist Republic of Sri Lanka & Liberation Tigers of Tamil Eelam",
+    "year": "2002",
+    "title": "Agreement on a Ceasefire, 22 February 2002",
+    "kind": "official",
+    "url": "https://peacemaker.un.org/srilanka-ceasefire2002"
+  },
+  {
+    "id": "tec2006",
+    "authors": "Telford, J., Cosgrave, J. & Houghton, R.",
+    "year": "2006",
+    "title": "Joint Evaluation of the International Response to the Indian Ocean Tsunami: Synthesis Report",
+    "publisher": "Tsunami Evaluation Coalition, London",
+    "kind": "official"
+  },
+  {
+    "id": "un-poe-2011",
+    "authors": "United Nations Secretary-General's Panel of Experts",
+    "year": "2011",
+    "title": "Report of the Secretary-General's Panel of Experts on Accountability in Sri Lanka (31 March 2011)",
+    "publisher": "United Nations, New York",
+    "kind": "official"
+  },
+  {
+    "id": "llrc2011",
+    "authors": "Commission of Inquiry on Lessons Learnt and Reconciliation",
+    "year": "2011",
+    "title": "Report of the Commission of Inquiry on Lessons Learnt and Reconciliation (November 2011)",
+    "publisher": "Government of Sri Lanka, Colombo",
+    "kind": "official"
+  },
+  {
+    "id": "pcoi-easter-2021",
+    "authors": "Presidential Commission of Inquiry to Investigate and Inquire into the Easter Sunday Attacks",
+    "year": "2021",
+    "title": "Final Report of the Presidential Commission of Inquiry on the Easter Sunday Attacks",
+    "publisher": "Government of Sri Lanka, Colombo",
+    "kind": "official"
+  },
+  {
+    "id": "imf2023",
+    "authors": "International Monetary Fund",
+    "year": "2023",
+    "title": "Sri Lanka: Request for an Extended Arrangement under the Extended Fund Facility (Country Report No. 23/116)",
+    "publisher": "IMF, Washington DC",
+    "kind": "official"
+  },
+  {
+    "id": "ecsl2024",
+    "authors": "Election Commission of Sri Lanka",
+    "year": "2024",
+    "title": "Official results: Presidential Election (21 September 2024) and Parliamentary Election (14 November 2024)",
+    "kind": "official",
+    "url": "https://elections.gov.lk"
+  },
+  {
+    "id": "unesco-whc",
+    "authors": "UNESCO World Heritage Centre",
+    "year": "1982-2010",
+    "title": "World Heritage List: Sri Lanka (inscription dossiers and advisory body evaluations)",
+    "kind": "reference",
+    "url": "https://whc.unesco.org/en/statesparties/lk"
+  },
+  {
+    "id": "seligmann1911",
+    "authors": "Seligmann, C. G. & Seligmann, B. Z.",
+    "year": "1911",
+    "title": "The Veddas",
+    "publisher": "Cambridge University Press",
+    "kind": "primary",
+    "notes": "Ethnography based on fieldwork in 1907-1908."
+  },
+  {
+    "id": "ranaweera2014",
+    "authors": "Ranaweera, L., Kaewsutthi, S., Win Tun, A., Boonyarit, H., Poolsuwan, S. & Lertrit, P.",
+    "year": "2014",
+    "title": "Mitochondrial DNA history of Sri Lankan ethnic people: their relations within the island and with the Indian subcontinental populations",
+    "publication": "Journal of Human Genetics 59: 28-36",
+    "kind": "secondary"
+  },
+  {
+    "id": "bandaranayake1994",
+    "authors": "Bandaranayake, S. & Mogren, M. (eds)",
+    "year": "1994",
+    "title": "Further Studies in the Settlement Archaeology of the Sigiriya-Dambulla Region",
+    "publisher": "Postgraduate Institute of Archaeology, University of Kelaniya, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "ragupathy1987",
+    "authors": "Ragupathy, P.",
+    "year": "1987",
+    "title": "Early Settlements in Jaffna: An Archaeological Survey",
+    "publisher": "Madras",
+    "kind": "secondary"
+  },
+  {
+    "id": "mahadevan2003",
+    "authors": "Mahadevan, I.",
+    "year": "2003",
+    "title": "Early Tamil Epigraphy: From the Earliest Times to the Sixth Century A.D.",
+    "publication": "Harvard Oriental Series 62",
+    "publisher": "Cre-A, Chennai / Harvard University Press",
+    "kind": "primary"
+  },
+  {
+    "id": "juleff1996",
+    "authors": "Juleff, G.",
+    "year": "1996",
+    "title": "An ancient wind-powered iron smelting technology in Sri Lanka",
+    "publication": "Nature 379: 60-63",
+    "kind": "secondary"
+  },
+  {
+    "id": "juleff1998",
+    "authors": "Juleff, G.",
+    "year": "1998",
+    "title": "Early Iron and Steel in Sri Lanka: A Study of the Samanalawewa Area",
+    "publication": "Materialien zur Allgemeinen und Vergleichenden Archäologie 54",
+    "publisher": "Philipp von Zabern, Mainz",
+    "kind": "secondary"
+  },
+  {
+    "id": "muthucumarana2014",
+    "authors": "Muthucumarana, R., Gaur, A. S., Chandraratne, W. M., Manders, M., et al.",
+    "year": "2014",
+    "title": "An early historic assemblage offshore of Godawaya, Sri Lanka: evidence for early regional seafaring in South Asia",
+    "publication": "Journal of Maritime Archaeology 9(1): 41-58",
+    "kind": "secondary"
+  },
+  {
+    "id": "walburg2008",
+    "authors": "Walburg, R.",
+    "year": "2008",
+    "title": "Coins and Tokens from Ancient Ceylon (Ancient Ruhuna, Vol. 2)",
+    "publisher": "Reichert, Wiesbaden",
+    "kind": "secondary"
+  },
+  {
+    "id": "paranavitana1983",
+    "authors": "Paranavitana, S. (Part II ed. Dias, M.)",
+    "year": "1983-2001",
+    "title": "Inscriptions of Ceylon, Vol. II (Parts I-II): Late Brahmi Inscriptions",
+    "publisher": "Department of Archaeology, Colombo",
+    "kind": "primary"
+  },
+  {
+    "id": "vonschroeder1990",
+    "authors": "von Schroeder, U.",
+    "year": "1990",
+    "title": "Buddhist Sculptures of Sri Lanka",
+    "publisher": "Visual Dharma Publications, Hong Kong",
+    "kind": "secondary"
+  },
+  {
+    "id": "dewaraja1988",
+    "authors": "Dewaraja, L. S.",
+    "year": "1988",
+    "title": "The Kandyan Kingdom of Sri Lanka, 1707-1782 (2nd edn)",
+    "publisher": "Lake House, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "dewaraja1994",
+    "authors": "Dewaraja, L.",
+    "year": "1994",
+    "title": "The Muslims of Sri Lanka: One Thousand Years of Ethnic Harmony, 900-1915",
+    "publisher": "Lanka Islamic Foundation, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "seneviratne1978",
+    "authors": "Seneviratne, H. L.",
+    "year": "1978",
+    "title": "Rituals of the Kandyan State",
+    "publisher": "Cambridge University Press",
+    "kind": "secondary"
+  },
+  {
+    "id": "boudens1957",
+    "authors": "Boudens, R.",
+    "year": "1957",
+    "title": "The Catholic Church in Ceylon under Dutch Rule",
+    "publisher": "Catholic Book Agency, Rome",
+    "kind": "secondary"
+  },
+  {
+    "id": "suraweera2000",
+    "authors": "Suraweera, A. V. (trans.)",
+    "year": "2000",
+    "title": "Rajavaliya: A Comprehensive Account of the Kings of Sri Lanka",
+    "publisher": "Educational Publications Department, Colombo",
+    "kind": "primary",
+    "notes": "Sinhala prose chronicle, compiled in stages c. 17th-18th century."
+  },
+  {
+    "id": "brito1879",
+    "authors": "Brito, C. (trans.)",
+    "year": "1879",
+    "title": "The Yalpana-Vaipava-Malai, or The History of the Kingdom of Jaffna",
+    "publisher": "Colombo",
+    "kind": "primary",
+    "notes": "Tamil chronicle composed c. 1736 under Dutch patronage."
+  },
+  {
+    "id": "slna-voc",
+    "authors": "Sri Lanka National Archives",
+    "year": "1640-1796",
+    "title": "Records of the Dutch Central Government of Coastal Ceylon (VOC archives, Lot 1)",
+    "publisher": "Department of National Archives, Colombo",
+    "kind": "primary"
+  },
+  {
+    "id": "guruge1965",
+    "authors": "Guruge, A. (ed.)",
+    "year": "1965",
+    "title": "Return to Righteousness: A Collection of Speeches, Essays and Letters of the Anagarika Dharmapala",
+    "publisher": "Government Press, Colombo",
+    "kind": "primary"
+  },
+  {
+    "id": "gray1974",
+    "authors": "Gray, R. H.",
+    "year": "1974",
+    "title": "The decline of mortality in Ceylon and the demographic effects of malaria control",
+    "publication": "Population Studies 28(2): 205-229",
+    "kind": "secondary"
+  },
+  {
+    "id": "peebles1990",
+    "authors": "Peebles, P.",
+    "year": "1990",
+    "title": "Colonization and ethnic conflict in the Dry Zone of Sri Lanka",
+    "publication": "Journal of Asian Studies 49(1): 30-55",
+    "kind": "secondary"
+  },
+  {
+    "id": "soulbury1945",
+    "authors": "Commission on Constitutional Reform (Lord Soulbury, chair)",
+    "year": "1945",
+    "title": "Ceylon: Report of the Commission on Constitutional Reform (Cmd. 6677)",
+    "publisher": "HMSO, London",
+    "kind": "official"
+  },
+  {
+    "id": "hoole1990",
+    "authors": "Hoole, R., Somasundaram, D., Sritharan, K. & Thiranagama, R.",
+    "year": "1990",
+    "title": "The Broken Palmyra: The Tamil Crisis in Sri Lanka - An Inside Account",
+    "publisher": "Sri Lanka Studies Institute, Claremont CA",
+    "kind": "primary",
+    "notes": "Contemporary human-rights documentation by University Teachers for Human Rights (Jaffna) founders."
+  },
+  {
+    "id": "hasbullah2001",
+    "authors": "Hasbullah, S. H.",
+    "year": "2001",
+    "title": "Muslim Refugees: The Forgotten People in Sri Lanka's Ethnic Conflict",
+    "publisher": "Research and Action Forum for Social Development, Colombo",
+    "kind": "secondary"
+  },
+  {
+    "id": "citizenship-2003",
+    "authors": "Parliament of Sri Lanka",
+    "year": "2003",
+    "title": "Grant of Citizenship to Persons of Indian Origin Act, No. 35 of 2003",
+    "kind": "official"
+  },
+  {
+    "id": "ecsl-archive",
+    "authors": "Election Commission of Sri Lanka",
+    "year": "1947-",
+    "title": "Official election results archive",
+    "kind": "official",
+    "url": "https://elections.gov.lk"
+  },
+  {
+    "id": "kandyan-convention-1815",
+    "authors": "British Government in Ceylon and the Kandyan chiefs",
+    "year": "1815",
+    "title": "The Kandyan Convention (Proclamation of 2 March 1815)",
+    "kind": "official",
+    "notes": "Text reproduced in many collections; cite the Government Gazette or a published edition when reviewing."
+  },
+  {
+    "id": "hansard-sl",
+    "authors": "Parliament of Ceylon / Sri Lanka",
+    "year": "1947-",
+    "title": "Hansard: Parliamentary Debates",
+    "kind": "official",
+    "url": "https://www.parliament.lk/en/business-of-parliament/hansards"
+  },
+  {
+    "id": "jayawardena1986",
+    "authors": "Jayawardena, K.",
+    "year": "1986",
+    "title": "Feminism and Nationalism in the Third World",
+    "publisher": "Zed Books, London",
+    "kind": "secondary"
+  },
+  {
+    "id": "bartholomeusz1994",
+    "authors": "Bartholomeusz, T. J.",
+    "year": "1994",
+    "title": "Women under the Bo Tree: Buddhist Nuns in Sri Lanka",
+    "publisher": "Cambridge University Press",
+    "kind": "secondary"
+  },
+  {
+    "id": "ryan1953",
+    "authors": "Ryan, B.",
+    "year": "1953",
+    "title": "Caste in Modern Ceylon: The Sinhalese System in Transition",
+    "publisher": "Rutgers University Press, New Brunswick",
+    "kind": "secondary"
+  },
+  {
+    "id": "roberts1982",
+    "authors": "Roberts, M.",
+    "year": "1982",
+    "title": "Caste Conflict and Elite Formation: The Rise of a Karava Elite in Sri Lanka, 1500-1931",
+    "publisher": "Cambridge University Press",
+    "kind": "secondary"
+  },
+  {
+    "id": "pfaffenberger1990",
+    "authors": "Pfaffenberger, B.",
+    "year": "1990",
+    "title": "The political construction of defensive nationalism: the 1968 temple-entry crisis in northern Sri Lanka",
+    "publication": "Journal of Asian Studies 49(1): 78-96",
+    "kind": "secondary"
+  },
+  {
+    "id": "codrington1924",
+    "authors": "Codrington, H. W.",
+    "year": "1924",
+    "title": "Ceylon Coins and Currency (Memoirs of the Colombo Museum, Series A, No. 3)",
+    "publisher": "Colombo Museum",
+    "kind": "secondary"
+  },
+  {
+    "id": "mcgilvray2008",
+    "authors": "McGilvray, D. B.",
+    "year": "2008",
+    "title": "Crucible of Conflict: Tamil and Muslim Society on the East Coast of Sri Lanka",
+    "publisher": "Duke University Press, Durham NC",
+    "kind": "secondary"
+  }
+]

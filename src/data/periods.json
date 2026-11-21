@@ -1,0 +1,321 @@
+[
+  {
+    "id": "stone-age",
+    "name": "Stone Age (Palaeolithic-Mesolithic)",
+    "start": -128050,
+    "end": -900,
+    "track": "era",
+    "color": "#8d7b68",
+    "description": "Hunter-gatherer occupation from the Middle Palaeolithic (contested earliest dates) through the microlithic 'Balangoda culture', which persisted alongside Iron Age communities.",
+    "sourceIds": [
+      "deraniyagala1992"
+    ]
+  },
+  {
+    "id": "iron-age",
+    "name": "Protohistoric Early Iron Age",
+    "start": -900,
+    "end": -500,
+    "track": "era",
+    "color": "#a0522d",
+    "description": "Iron, horses, cattle, rice cultivation and black-and-red ware appear; megalithic burials. Dated at Anuradhapura from c. 900 BCE.",
+    "sourceIds": [
+      "deraniyagala1992",
+      "coningham1999"
+    ]
+  },
+  {
+    "id": "early-historic",
+    "name": "Early Historic",
+    "start": -500,
+    "end": 300,
+    "track": "era",
+    "color": "#c0873f",
+    "description": "Urbanisation, Brahmi writing, state formation and the establishment of Buddhism.",
+    "sourceIds": [
+      "coningham1999"
+    ]
+  },
+  {
+    "id": "middle-historic",
+    "name": "Middle Historic",
+    "start": 300,
+    "end": 1200,
+    "track": "era",
+    "color": "#b5a642",
+    "description": "Mature Anuradhapura and Polonnaruwa states, monumental hydraulic works, Indian Ocean trade.",
+    "sourceIds": [
+      "coningham1999",
+      "ray1959"
+    ]
+  },
+  {
+    "id": "late-historic",
+    "name": "Late Historic",
+    "start": 1200,
+    "end": 1505,
+    "track": "era",
+    "color": "#7a9a5b",
+    "description": "Shift of political centres to the south-west and the hill country; the Jaffna kingdom in the north.",
+    "sourceIds": [
+      "liyanagamage1968",
+      "ray1959"
+    ]
+  },
+  {
+    "id": "colonial-era",
+    "name": "Early Modern / Colonial",
+    "start": 1505,
+    "end": 1948,
+    "track": "era",
+    "color": "#4f7c8a",
+    "description": "European maritime empires; the Kandyan kingdom until 1815; British rule over the whole island 1815-1948.",
+    "sourceIds": [
+      "desilva1981"
+    ]
+  },
+  {
+    "id": "post-independence",
+    "name": "Post-independence",
+    "start": 1948,
+    "end": 2026,
+    "track": "era",
+    "color": "#5b5f97",
+    "description": "Dominion of Ceylon (1948-72) and Republic of Sri Lanka (1972-).",
+    "sourceIds": [
+      "desilva1981",
+      "wickramasinghe2014"
+    ]
+  },
+  {
+    "id": "anuradhapura-kingdom",
+    "name": "Anuradhapura",
+    "start": -437,
+    "end": 1017,
+    "track": "polity",
+    "color": "#c97b3c",
+    "capitalPlaceId": "anuradhapura",
+    "description": "Capital from Pandukabhaya (conventional 437 BCE; Geiger 377 BCE) until the Chola conquest of 1017.",
+    "sourceIds": [
+      "geiger1912",
+      "coningham1999"
+    ]
+  },
+  {
+    "id": "polonnaruwa-kingdom",
+    "name": "Polonnaruwa",
+    "start": 1070,
+    "end": 1215,
+    "track": "polity",
+    "color": "#b99c3a",
+    "capitalPlaceId": "polonnaruwa",
+    "description": "Sinhala royal capital from Vijayabahu I's restoration to the invasion of Kalinga Magha.",
+    "sourceIds": [
+      "geiger1929",
+      "liyanagamage1968"
+    ]
+  },
+  {
+    "id": "dambadeniya-kingdom",
+    "name": "Dambadeniya",
+    "start": 1220,
+    "end": 1272,
+    "track": "polity",
+    "color": "#8aa04a",
+    "capitalPlaceId": "dambadeniya",
+    "description": "Capital under Vijayabahu III and Parakramabahu II.",
+    "sourceIds": [
+      "liyanagamage1968"
+    ]
+  },
+  {
+    "id": "yapahuwa-kingdom",
+    "name": "Yapahuwa",
+    "start": 1272,
+    "end": 1284,
+    "track": "polity",
+    "color": "#6f9a52",
+    "capitalPlaceId": "yapahuwa",
+    "description": "Fortified capital of Bhuvanekabahu I.",
+    "sourceIds": [
+      "geiger1929"
+    ]
+  },
+  {
+    "id": "kurunegala-kingdom",
+    "name": "Kurunegala",
+    "start": 1293,
+    "end": 1341,
+    "track": "polity",
+    "color": "#5f9a6a",
+    "capitalPlaceId": "kurunegala",
+    "description": "Capital of several fourteenth-century rulers.",
+    "sourceIds": [
+      "desilva1981"
+    ]
+  },
+  {
+    "id": "gampola-kingdom",
+    "name": "Gampola",
+    "start": 1341,
+    "end": 1408,
+    "track": "polity",
+    "color": "#4f9a80",
+    "capitalPlaceId": "gampola",
+    "description": "Hill-country capital; dominant ministers of the Alagakkonara family.",
+    "sourceIds": [
+      "desilva1981"
+    ]
+  },
+  {
+    "id": "kotte-kingdom",
+    "name": "Kotte",
+    "start": 1412,
+    "end": 1597,
+    "track": "polity",
+    "color": "#3f8c95",
+    "capitalPlaceId": "kotte",
+    "description": "Founded as capital by Parakramabahu VI; bequeathed to the Portuguese crown by Dharmapala (d. 1597).",
+    "sourceIds": [
+      "somaratna1975",
+      "strathern2007"
+    ]
+  },
+  {
+    "id": "sitawaka-kingdom",
+    "name": "Sitawaka",
+    "start": 1521,
+    "end": 1594,
+    "track": "polity",
+    "color": "#7f6aa0",
+    "capitalPlaceId": "sitawaka",
+    "description": "Kingdom of Mayadunne and Rajasinghe I, principal opponent of the Portuguese.",
+    "sourceIds": [
+      "desilva1981",
+      "strathern2007"
+    ]
+  },
+  {
+    "id": "kandy-kingdom",
+    "name": "Kandy",
+    "start": 1469,
+    "end": 1815,
+    "track": "polity",
+    "color": "#9a5f8a",
+    "capitalPlaceId": "kandy",
+    "description": "Hill-country kingdom; independent until the Kandyan Convention of 1815. Start date approximate.",
+    "sourceIds": [
+      "desilva1981"
+    ]
+  },
+  {
+    "id": "jaffna-kingdom",
+    "name": "Jaffna",
+    "start": 1250,
+    "end": 1619,
+    "track": "polity",
+    "color": "#a05f5f",
+    "capitalPlaceId": "nallur",
+    "description": "Kingdom of the Aryacakravarti dynasty in the north. Origins and start date debated (13th century).",
+    "sourceIds": [
+      "indrapala2005",
+      "desilva1981"
+    ]
+  },
+  {
+    "id": "dominion",
+    "name": "Dominion of Ceylon",
+    "start": 1948,
+    "end": 1972,
+    "track": "polity",
+    "color": "#5b6fa8",
+    "capitalPlaceId": "colombo",
+    "description": "Independent dominion within the Commonwealth.",
+    "sourceIds": [
+      "independence-act-1947"
+    ]
+  },
+  {
+    "id": "republic",
+    "name": "Republic of Sri Lanka",
+    "start": 1972,
+    "end": 2026,
+    "track": "polity",
+    "color": "#4a4f8c",
+    "capitalPlaceId": "kotte",
+    "description": "Republic from 22 May 1972. Sri Jayawardenepura Kotte became the legislative capital in 1982; Colombo remains the commercial capital.",
+    "sourceIds": [
+      "constitution-1972",
+      "constitution-1978"
+    ]
+  },
+  {
+    "id": "chola-rule",
+    "name": "Chola rule",
+    "start": 1017,
+    "end": 1070,
+    "track": "foreign",
+    "color": "#b5533c",
+    "capitalPlaceId": "polonnaruwa",
+    "description": "Rajarata administered as a Chola province (Mummudi-cola-mandalam) from Polonnaruwa.",
+    "sourceIds": [
+      "spencer1976",
+      "indrapala2005"
+    ]
+  },
+  {
+    "id": "magha-rule",
+    "name": "Kalinga Magha",
+    "start": 1215,
+    "end": 1236,
+    "track": "foreign",
+    "color": "#c46a4a",
+    "capitalPlaceId": "polonnaruwa",
+    "description": "Rule of the invader Magha at Polonnaruwa; end date approximate.",
+    "sourceIds": [
+      "geiger1929",
+      "liyanagamage1968"
+    ]
+  },
+  {
+    "id": "portuguese",
+    "name": "Portuguese",
+    "start": 1505,
+    "end": 1658,
+    "track": "foreign",
+    "color": "#2e7d6b",
+    "capitalPlaceId": "colombo",
+    "description": "Portuguese presence and, from 1597, rule over much of the maritime lowlands.",
+    "sourceIds": [
+      "strathern2007",
+      "abeyasinghe1966"
+    ]
+  },
+  {
+    "id": "dutch",
+    "name": "Dutch (VOC)",
+    "start": 1658,
+    "end": 1796,
+    "track": "foreign",
+    "color": "#d17a22",
+    "capitalPlaceId": "colombo",
+    "description": "Dutch East India Company rule over the maritime provinces.",
+    "sourceIds": [
+      "arasaratnam1958"
+    ]
+  },
+  {
+    "id": "british",
+    "name": "British",
+    "start": 1796,
+    "end": 1948,
+    "track": "foreign",
+    "color": "#a33b3b",
+    "capitalPlaceId": "colombo",
+    "description": "East India Company (1796-1802) then Crown Colony; whole island from 1815.",
+    "sourceIds": [
+      "desilva1981",
+      "mendis1956"
+    ]
+  }
+]

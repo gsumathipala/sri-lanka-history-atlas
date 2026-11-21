@@ -1,0 +1,1291 @@
+[
+  {
+    "id": "pandukabhaya-anuradhapura",
+    "title": "Anuradhapura becomes the royal capital",
+    "start": -437,
+    "dateLabel": "Conventional 437 BCE (Geiger: 377 BCE)",
+    "dateNote": "Chronicle chronology. Archaeology shows the city's main expansion and fortification in roughly the 4th-3rd centuries BCE.",
+    "category": "polity",
+    "confidence": "traditional",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "The Mahavamsa credits King Pandukabhaya with laying out Anuradhapura as a planned capital with gates, cemeteries, tanks and quarters for different communities. Excavations show the settlement growing into a fortified city with a rampart and moat.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Pandukabhaya's founding and layout of the city.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa ch. 10"
+      },
+      {
+        "type": "archaeological",
+        "description": "Urban growth and fortification phases at Salgaha Watta 2.",
+        "sourceId": "coningham1999"
+      }
+    ],
+    "tags": [
+      "urbanism",
+      "kingship"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 10
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 11
+      }
+    ],
+    "wiki": "Pandukabhaya of Anuradhapura"
+  },
+  {
+    "id": "mahinda-mission",
+    "title": "Mahinda's mission and royal adoption of Buddhism",
+    "start": -250,
+    "dateLabel": "c. mid-3rd century BCE (traditional 247 BCE)",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "mihintale",
+      "anuradhapura"
+    ],
+    "summary": "According to the chronicles, the monk Mahinda, son of the Mauryan emperor Asoka, met King Devanampiya Tissa at Mihintale and converted him. The Mahavihara monastery was then founded at Anuradhapura. Hundreds of cave inscriptions recording gifts of caves to the sangha appear from this period.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Mahinda's arrival on Missaka mountain and the conversion of the king.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa chs. 13-15"
+      },
+      {
+        "type": "chronicle",
+        "description": "Earlier account of the mission.",
+        "sourceId": "oldenberg1879",
+        "locator": "Dipavamsa ch. 12"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Asokan Rock Edicts II and XIII name Tambapamni among lands that received Asoka's dhamma and medical provisions.",
+        "sourceId": "hultzsch1925",
+        "locator": "Rock Edicts II, XIII"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Early Brahmi cave donations to the sangha at Mihintale and elsewhere.",
+        "sourceId": "paranavitana1970"
+      }
+    ],
+    "historiography": "The Asokan edicts confirm contact but do not mention Mahinda. The personal details of the mission come from later monastic chronicles. Buddhism may have arrived earlier and more gradually through trade.",
+    "tags": [
+      "buddhism",
+      "mauryan",
+      "asoka"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 12
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 13
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 14
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 15
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 16
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 12
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 13
+      }
+    ],
+    "wiki": "Mahinda (Buddhist monk)"
+  },
+  {
+    "id": "sri-maha-bodhi",
+    "title": "Planting of the Sri Maha Bodhi",
+    "start": -249,
+    "dateLabel": "Traditional c. 249 BCE",
+    "category": "religion",
+    "confidence": "traditional",
+    "placeIds": [
+      "sri-maha-bodhi",
+      "anuradhapura"
+    ],
+    "summary": "The chronicles tell how the nun Sanghamitta brought a sapling of the Bodhi tree from Bodh Gaya, which was planted in the Mahamegha garden. The Sri Maha Bodhi at Anuradhapura is venerated as that tree.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Bringing and planting of the Bodhi sapling.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa chs. 18-19"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Faxian describes the Bodhi tree and its veneration in the early 5th century CE.",
+        "sourceId": "legge1886",
+        "locator": "ch. XXXVIII"
+      }
+    ],
+    "historiography": "Faxian confirms the tree was being venerated by c. 410 CE. There is no independent evidence for the 3rd-century BCE date, but the chronicles present it as continuous.",
+    "tags": [
+      "buddhism",
+      "bodhi-tree"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 18
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 19
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 16
+      }
+    ],
+    "wiki": "Jaya Sri Maha Bodhi"
+  },
+  {
+    "id": "early-brahmi-caves",
+    "title": "Early Brahmi cave inscriptions across the island",
+    "start": -250,
+    "end": 100,
+    "dateLabel": "c. 3rd century BCE - 1st century CE",
+    "category": "culture",
+    "confidence": "established",
+    "placeIds": [
+      "mihintale",
+      "dambulla",
+      "island"
+    ],
+    "summary": "More than a thousand short Prakrit inscriptions in early Brahmi script record gifts of rock-shelter dwellings to Buddhist monks. They name donors including chiefs (parumaka), householders, merchants and royalty, and are a key source for social structure.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Corpus edition and translation of the early Brahmi inscriptions.",
+        "sourceId": "paranavitana1970"
+      }
+    ],
+    "historiography": "Paranavitana's readings are foundational but some have been revised. A few inscriptions name individuals with Tamil associations, which bears on early ethnic history (see Indrapala 2005).",
+    "tags": [
+      "epigraphy",
+      "brahmi",
+      "buddhism"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "tissamaharama-ruhuna",
+    "title": "Urban centre at Tissamaharama (Ruhuna)",
+    "start": -400,
+    "end": 900,
+    "dateLabel": "c. 4th century BCE - 1st millennium CE",
+    "category": "polity",
+    "confidence": "established",
+    "placeIds": [
+      "tissamaharama"
+    ],
+    "summary": "Excavations at Akurugoda in Tissamaharama reveal a major early historic town in the southern region of Ruhuna, with workshops, coins and imported goods. The chronicles describe Mahagama as the seat of a southern dynasty.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Sri Lankan-German excavations of the early town.",
+        "sourceId": "weisshaar2001"
+      },
+      {
+        "type": "chronicle",
+        "description": "Mahagama as a seat of rulers in Ruhuna.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa ch. 22"
+      }
+    ],
+    "tags": [
+      "urbanism",
+      "ruhuna"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "dutthagamani-elara",
+    "title": "Dutthagamani defeats Elara",
+    "start": -161,
+    "dateLabel": "Conventional 161 BCE (Geiger: 101 BCE)",
+    "category": "conflict",
+    "confidence": "traditional",
+    "placeIds": [
+      "anuradhapura",
+      "tissamaharama"
+    ],
+    "summary": "The Mahavamsa's longest narrative tells how Dutthagamani of Ruhuna fought a campaign north against Elara, a Chola-origin king who had ruled Anuradhapura for many years. He killed Elara in single combat, unified the island under one ruler, and then built great Buddhist monuments.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Elara's reign and the campaign of Dutthagamani.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa chs. 21-25"
+      }
+    ],
+    "historiography": "The account was written centuries later with strong religious framing. The chronicle itself calls Elara a just ruler. In the 20th century the episode became a powerful and contested symbol in nationalist discourse.",
+    "perspectives": [
+      {
+        "label": "Chronicle framing",
+        "view": "A war to restore the Buddhist dispensation; the chronicle also records that Dutthagamani honoured Elara's tomb.",
+        "sourceId": "geiger1912"
+      },
+      {
+        "label": "Modern scholarship",
+        "view": "The episode reflects competition between regional elites and was later reworked as an ethnic narrative.",
+        "sourceId": "tambiah1986"
+      }
+    ],
+    "tags": [
+      "kingship",
+      "historiography"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 21
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 22
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 23
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 24
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 25
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 19
+      }
+    ],
+    "wiki": "Dutugamunu"
+  },
+  {
+    "id": "ruwanwelisaya",
+    "title": "Construction of the Mahathupa (Ruwanwelisaya)",
+    "start": -140,
+    "dateLabel": "Traditional 2nd century BCE",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "ruwanwelisaya"
+    ],
+    "summary": "The chronicles credit Dutthagamani with starting the Great Stupa, completed by his brother Saddhatissa. It remains one of the defining monuments of the Anuradhapura sacred city, which UNESCO inscribed in 1982.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Detailed account of the construction and enshrinement.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa chs. 28-32"
+      },
+      {
+        "type": "architectural",
+        "description": "Standing monument (heavily restored in the 20th century).",
+        "sourceId": "bandaranayake1974"
+      },
+      {
+        "type": "legal-official",
+        "description": "Sacred City of Anuradhapura, World Heritage inscription 1982.",
+        "sourceId": "unesco-whc"
+      }
+    ],
+    "tags": [
+      "stupa",
+      "architecture"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 28
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 29
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 30
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 31
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 32
+      }
+    ],
+    "wiki": "Ruwanwelisaya"
+  },
+  {
+    "id": "pali-canon-written",
+    "title": "Pali Canon committed to writing at Aluvihare",
+    "start": -80,
+    "dateLabel": "Conventional c. 89-77 BCE (Geiger: 29-17 BCE)",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "aluvihare"
+    ],
+    "summary": "During the reign of Vattagamani Abhaya, after a period of famine and invasion, monks wrote down the Tipitaka and its commentaries, which until then had been passed on orally. Tradition places this at Aluvihare near Matale.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Writing down of the canon in the reign of Vattagamani.",
+        "sourceId": "oldenberg1879",
+        "locator": "Dipavamsa ch. 20"
+      },
+      {
+        "type": "chronicle",
+        "description": "Parallel account.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa ch. 33"
+      }
+    ],
+    "historiography": "The writing-down is widely accepted. The specific location at Aluvihare comes from later tradition rather than the earliest chronicles.",
+    "tags": [
+      "buddhism",
+      "texts",
+      "theravada"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 33
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 20
+      }
+    ],
+    "wiki": "Aluvihare Rock Temple"
+  },
+  {
+    "id": "pliny-embassy",
+    "title": "Embassy from Taprobane to Emperor Claudius",
+    "start": 45,
+    "dateLabel": "c. 41-54 CE",
+    "category": "foreign-contact",
+    "confidence": "probable",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "Pliny the Elder records that a freedman of Annius Plocamus was blown off course to Taprobane. The king then sent an embassy of four envoys to Rome, and Pliny reports their descriptions of the island.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Pliny's account of Taprobane and the embassy.",
+        "sourceId": "pliny-rackham",
+        "locator": "Natural History 6.81-91"
+      }
+    ],
+    "historiography": "This is the fullest classical description of the island, though it mixes reliable report with marvel literature. Roman coins found widely in Sri Lanka (mostly late Roman) show later trade connections.",
+    "tags": [
+      "rome",
+      "trade",
+      "taprobane"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "mantai-emporium",
+    "title": "Mantai: Indian Ocean port city",
+    "start": -200,
+    "end": 1000,
+    "dateLabel": "c. 2nd century BCE - c. 11th century CE",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "mantai"
+    ],
+    "summary": "Mantai (Mahatittha), opposite the Indian coast near Mannar, was the island's chief port for long-distance trade. Excavations recovered Chinese ceramics, Islamic glazed wares, Mediterranean and Persian material, and evidence of bead and gem working.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Final report on the 1980-84 excavations.",
+        "sourceId": "carswell2013"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Cosmas describes Sielediba as a hub between China and the West in the 6th century.",
+        "sourceId": "mccrindle1897",
+        "locator": "Book XI"
+      }
+    ],
+    "tags": [
+      "trade",
+      "port",
+      "indian-ocean"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "mahasena-jetavana",
+    "title": "Mahasena builds the Jetavana and great tanks",
+    "start": 276,
+    "end": 303,
+    "dateLabel": "Reign traditionally c. 276-303 CE",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "jetavanaramaya",
+      "anuradhapura"
+    ],
+    "summary": "King Mahasena backed the Abhayagiri faction against the Mahavihara and built the Jetavana stupa, at the time among the tallest structures in the world. He is also credited with major reservoirs, including Minneriya.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Mahasena's reign and conflict with the Mahavihara.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa ch. 37"
+      },
+      {
+        "type": "architectural",
+        "description": "Jetavana stupa; analysis of monastic architecture.",
+        "sourceId": "bandaranayake1974"
+      },
+      {
+        "type": "synthesis",
+        "description": "Economic role of monasteries and irrigation.",
+        "sourceId": "gunawardana1979"
+      }
+    ],
+    "historiography": "The Mahavamsa was written from the Mahavihara's point of view, so its portrayal of Mahasena is partisan.",
+    "tags": [
+      "buddhism",
+      "irrigation",
+      "monastic-politics"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 37
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 22
+      }
+    ],
+    "wiki": "Mahasena of Anuradhapura"
+  },
+  {
+    "id": "tooth-relic-arrives",
+    "title": "The Tooth Relic arrives from Kalinga",
+    "start": 310,
+    "dateLabel": "Early 4th century CE (reign of Sirimeghavanna)",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "The Culavamsa records that the Buddha's tooth relic was brought from Kalinga in the reign of Sirimeghavanna. The relic became the palladium of Sri Lankan kingship and moved with the capital through the centuries, finally to Kandy.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Arrival of the tooth relic.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 37"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Faxian describes the annual tooth-relic festival at Anuradhapura c. 410 CE.",
+        "sourceId": "legge1886",
+        "locator": "ch. XXXVIII"
+      }
+    ],
+    "tags": [
+      "buddhism",
+      "relic",
+      "kingship"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 37
+      }
+    ],
+    "wiki": "Relic of the tooth of the Buddha"
+  },
+  {
+    "id": "faxian-visit",
+    "title": "Chinese pilgrim Faxian in Lanka",
+    "start": 410,
+    "end": 412,
+    "dateLabel": "c. 410-412 CE",
+    "category": "foreign-contact",
+    "confidence": "established",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "The monk Faxian spent about two years at Anuradhapura collecting Vinaya texts. He described the Abhayagiri monastery with 5,000 monks, the Mahavihara with 3,000, the jade Buddha image and merchants from many lands, and his account is an independent check on the chronicles.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Faxian's account of Simhala.",
+        "sourceId": "legge1886",
+        "locator": "chs. XXXVIII-XL"
+      }
+    ],
+    "tags": [
+      "china",
+      "pilgrimage",
+      "buddhism"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "wiki": "Faxian"
+  },
+  {
+    "id": "buddhaghosa",
+    "title": "Buddhaghosa and the Pali commentaries",
+    "start": 420,
+    "end": 450,
+    "dateLabel": "Early-mid 5th century CE",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "The Indian scholar-monk Buddhaghosa worked at the Mahavihara, composing the Visuddhimagga and translating the Sinhala commentaries into Pali. This work shaped Theravada orthodoxy across South and Southeast Asia.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Buddhaghosa's arrival and work.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 37"
+      }
+    ],
+    "tags": [
+      "buddhism",
+      "theravada",
+      "texts"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 37
+      }
+    ],
+    "wiki": "Buddhaghosa"
+  },
+  {
+    "id": "dhatusena-kalawewa",
+    "title": "Dhatusena builds Kala Wewa",
+    "start": 460,
+    "dateLabel": "Reign traditionally c. 455-473 CE",
+    "category": "economy",
+    "confidence": "probable",
+    "placeIds": [
+      "kalawewa",
+      "anuradhapura"
+    ],
+    "summary": "King Dhatusena expelled South Indian rulers and built the great Kala Wewa reservoir, linked to Anuradhapura by the gently graded Jaya Ganga (Yoda Ela) canal, an outstanding example of ancient hydraulic engineering.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Dhatusena's reign and works.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 38"
+      },
+      {
+        "type": "synthesis",
+        "description": "Irrigation economy and monastic landholding.",
+        "sourceId": "gunawardana1979"
+      }
+    ],
+    "tags": [
+      "irrigation",
+      "hydraulic-civilisation"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 38
+      }
+    ],
+    "wiki": "Kala Wewa"
+  },
+  {
+    "id": "kassapa-sigiriya",
+    "title": "Kassapa I's palace-fortress at Sigiriya",
+    "start": 477,
+    "end": 495,
+    "dateLabel": "Reign traditionally 477-495 CE",
+    "category": "polity",
+    "confidence": "probable",
+    "placeIds": [
+      "sigiriya"
+    ],
+    "summary": "After deposing his father Dhatusena, Kassapa I moved the capital to Sihagiri, a rock with palace, water gardens, frescoes and a lion gateway. Visitors' verses scratched on the Mirror Wall from the 8th to 10th centuries are an important source for early Sinhala.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Kassapa's parricide and the building of Sihagiri.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 39"
+      },
+      {
+        "type": "epigraphic",
+        "description": "The Mirror Wall graffiti.",
+        "sourceId": "paranavitana1956"
+      },
+      {
+        "type": "legal-official",
+        "description": "Ancient City of Sigiriya, World Heritage inscription 1982.",
+        "sourceId": "unesco-whc"
+      }
+    ],
+    "historiography": "Paranavitana later argued, citing 'interlinear inscriptions' that only he could read, that Sigiriya was designed as the abode of the god Kuvera. Most epigraphers reject these readings. The site also had an earlier and later life as a Buddhist monastery.",
+    "tags": [
+      "architecture",
+      "art",
+      "kingship"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 39
+      }
+    ],
+    "wiki": "Sigiriya"
+  },
+  {
+    "id": "cosmas-sielediba",
+    "title": "Cosmas describes Sielediba as an entrepot",
+    "start": 550,
+    "dateLabel": "Mid-6th century CE",
+    "category": "foreign-contact",
+    "confidence": "probable",
+    "placeIds": [
+      "mantai",
+      "island"
+    ],
+    "summary": "The Christian Topography of Cosmas Indicopleustes describes the island as a meeting point for ships from China and from Persia and the Red Sea. It notes a Persian Christian church on the island and an audience at court between Roman and Persian merchants.",
+    "evidence": [
+      {
+        "type": "foreign-account",
+        "description": "Description of Taprobane/Sielediba.",
+        "sourceId": "mccrindle1897",
+        "locator": "Book XI"
+      },
+      {
+        "type": "archaeological",
+        "description": "Material evidence for long-distance trade at Mantai.",
+        "sourceId": "carswell2013"
+      }
+    ],
+    "tags": [
+      "trade",
+      "christianity",
+      "byzantium"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "chola-conquest",
+    "title": "Chola conquest and the end of Anuradhapura",
+    "start": 993,
+    "end": 1017,
+    "dateLabel": "993-1017 CE",
+    "category": "conflict",
+    "confidence": "established",
+    "placeIds": [
+      "anuradhapura",
+      "polonnaruwa"
+    ],
+    "summary": "Rajaraja I of the Chola empire invaded the north around 993, and Rajendra I completed the conquest in 1017, capturing King Mahinda V and taking him to India. Anuradhapura was sacked, and the Cholas ruled Rajarata from Polonnaruwa, renamed Jananathamangalam, where Hindu temples were built.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Chola invasion and the capture of Mahinda V.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 55"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Chola royal inscriptions and Tamil inscriptions in Sri Lanka, analysed for the politics of the conquest.",
+        "sourceId": "spencer1976"
+      },
+      {
+        "type": "synthesis",
+        "description": "Chola-period Siva devales at Polonnaruwa.",
+        "sourceId": "indrapala2005"
+      }
+    ],
+    "tags": [
+      "chola",
+      "south-india",
+      "invasion"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 55
+      }
+    ],
+    "wiki": "Chola conquest of Anuradhapura"
+  },
+  {
+    "id": "early-chronology-problem",
+    "title": "The chronology problem of the early kings",
+    "start": -543,
+    "end": 200,
+    "dateLabel": "6th c. BCE - 2nd c. CE",
+    "category": "culture",
+    "confidence": "contested",
+    "placeIds": [
+      "island"
+    ],
+    "summary": "The chronicles count dates from the Buddha's death, traditionally placed in 544 BCE. That would make Devanampiya Tissa (accession 307 BCE) too early to be a contemporary of Asoka (c. 268-232 BCE). Geiger therefore re-based the chronology on c. 483 BCE, shifting early reigns about 60 years later.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Regnal years as given in the chronicle.",
+        "sourceId": "geiger1912",
+        "locator": "Introduction and chs. 6-37"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Asokan edicts used to anchor the synchronism.",
+        "sourceId": "hultzsch1925"
+      },
+      {
+        "type": "synthesis",
+        "description": "Discussion of alternative chronologies.",
+        "sourceId": "ray1959"
+      }
+    ],
+    "historiography": "This atlas stores rulers in the conventional chronology and gives Geiger's dates where they differ. Events dated through the Asokan synchronism (Mahinda's mission, the Bodhi tree) are placed c. 250 BCE. Expect apparent mismatches of about 60 years before the 2nd century CE.",
+    "tags": [
+      "chronology",
+      "methodology"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "thuparama-founded",
+    "title": "Thuparama: the first stupa",
+    "start": -247,
+    "dateLabel": "Traditional, reign of Devanampiya Tissa",
+    "category": "religion",
+    "confidence": "traditional",
+    "placeIds": [
+      "thuparamaya"
+    ],
+    "summary": "The chronicle says relics, including the right collarbone of the Buddha, were enshrined in the Thuparama, the island's first stupa.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "The arrival of the relics.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa ch. 17"
+      },
+      {
+        "type": "architectural",
+        "description": "Stupa and vatadage remains.",
+        "sourceId": "bandaranayake1974"
+      }
+    ],
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 17
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 15
+      }
+    ],
+    "wiki": "Thuparamaya",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "abhayagiri-founded",
+    "title": "Founding of Abhayagiri Vihara",
+    "start": -89,
+    "dateLabel": "Traditional c. 89 BCE (Geiger: 29 BCE)",
+    "category": "religion",
+    "confidence": "probable",
+    "placeIds": [
+      "abhayagiri"
+    ],
+    "summary": "Vattagamani Abhaya founded Abhayagiri after regaining his throne. It became the great rival of the Mahavihara, open to Mahayana teachings, and an international centre. Faxian found 5,000 monks there.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Founding of Abhayagiri.",
+        "sourceId": "geiger1912",
+        "locator": "Mahavamsa ch. 33"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Description of Abhayagiri c. 410 CE.",
+        "sourceId": "legge1886",
+        "locator": "ch. XXXVIII"
+      },
+      {
+        "type": "synthesis",
+        "description": "Monastic economy and sectarian rivalry.",
+        "sourceId": "gunawardana1979"
+      }
+    ],
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 33
+      },
+      {
+        "work": "dipavamsa",
+        "chapter": 20
+      }
+    ],
+    "wiki": "Abhayagiri vihāra",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "godavaya-port",
+    "title": "Godavaya: early port and shipwreck",
+    "start": -100,
+    "end": 150,
+    "dateLabel": "c. 1st c. BCE - 2nd c. CE",
+    "category": "economy",
+    "confidence": "probable",
+    "placeIds": [
+      "godavaya"
+    ],
+    "summary": "Divers found a cargo wreck off Godavaya carrying glass ingots, iron and stone querns, possibly the oldest known shipwreck in South Asian waters. On land, a rock inscription attributed to Gajabahu I grants the harbour's customs revenue to a monastery.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Underwater survey and analysis of the assemblage.",
+        "sourceId": "muthucumarana2014"
+      },
+      {
+        "type": "epigraphic",
+        "description": "Godavaya inscription of the reign of Gajabahu I.",
+        "sourceId": "paranavitana1983"
+      }
+    ],
+    "historiography": "The wreck's date rests on a limited number of radiocarbon samples.",
+    "tags": [
+      "maritime",
+      "trade",
+      "shipwreck"
+    ],
+    "wiki": "Godawaya",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "roman-coins",
+    "title": "Roman and local coinage in circulation",
+    "start": 300,
+    "end": 500,
+    "dateLabel": "c. 4th - 5th c. CE (Roman issues)",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "island",
+      "mantai",
+      "tissamaharama"
+    ],
+    "summary": "Late Roman bronze coins and local imitations are found in large numbers across Sri Lanka, alongside earlier punch-marked coins and local 'Lakshmi plaque' issues. They show the island's place in Indian Ocean exchange.",
+    "evidence": [
+      {
+        "type": "numismatic",
+        "description": "Catalogue and analysis of coins from Tissamaharama and elsewhere.",
+        "sourceId": "walburg2008"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Cosmas's story of the Roman and Persian coins at the Sinhala court.",
+        "sourceId": "mccrindle1897",
+        "locator": "Book XI"
+      }
+    ],
+    "tags": [
+      "coins",
+      "trade",
+      "rome"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "samanalawewa-iron",
+    "title": "Wind-powered iron smelting at Samanalawewa",
+    "start": 600,
+    "end": 1100,
+    "dateLabel": "c. 7th - 11th c. CE",
+    "category": "economy",
+    "confidence": "probable",
+    "placeIds": [
+      "samanalawewa"
+    ],
+    "summary": "Survey of the southern escarpment found dozens of furnace sites positioned to catch the monsoon winds. Experimental reconstruction showed they could produce high-carbon steel, making Sri Lanka a candidate source of the famed 'Serendib' steel.",
+    "evidence": [
+      {
+        "type": "archaeological",
+        "description": "Field survey, excavation and experimental smelting.",
+        "sourceId": "juleff1996"
+      },
+      {
+        "type": "archaeological",
+        "description": "Full monograph.",
+        "sourceId": "juleff1998"
+      }
+    ],
+    "tags": [
+      "technology",
+      "iron",
+      "steel"
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "avukana-buddha",
+    "title": "The Avukana Buddha",
+    "start": 460,
+    "dateLabel": "5th-9th c. CE (debated)",
+    "category": "culture",
+    "confidence": "contested",
+    "placeIds": [
+      "avukana"
+    ],
+    "summary": "A colossal rock-cut standing Buddha about 12 m tall. Tradition attributes it to Dhatusena, but art historians date it to between the 5th and 9th centuries on stylistic grounds.",
+    "evidence": [
+      {
+        "type": "architectural",
+        "description": "Stylistic analysis of the image.",
+        "sourceId": "vonschroeder1990"
+      }
+    ],
+    "historiography": "The traditional attribution comes from its closeness to Dhatusena's Kala Wewa, not from an inscription.",
+    "wiki": "Avukana Buddha statue",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "dambulla-cave-temple",
+    "title": "Dambulla cave temple",
+    "start": -80,
+    "end": 1780,
+    "dateLabel": "1st c. BCE - 18th c. CE",
+    "category": "religion",
+    "confidence": "established",
+    "placeIds": [
+      "dambulla"
+    ],
+    "summary": "A rock-shelter monastery with early Brahmi donative inscriptions grew into the island's largest cave temple. Kirti Sri Rajasinha had its interiors repainted in the 18th century.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Early Brahmi inscriptions at the site.",
+        "sourceId": "paranavitana1970"
+      },
+      {
+        "type": "architectural",
+        "description": "World Heritage inscription 1991.",
+        "sourceId": "unesco-whc"
+      }
+    ],
+    "wiki": "Dambulla cave temple",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "manavamma-pallava",
+    "title": "Manavamma takes the throne with Pallava help",
+    "start": 684,
+    "end": 718,
+    "dateLabel": "Reign 684-718 CE",
+    "category": "polity",
+    "confidence": "probable",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "Manavamma, an exiled prince, served the Pallava king Narasimhavarman I and returned with a Pallava army to win the throne. The episode marks close ties with the Pallava court, visible in art and architecture.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Manavamma's exile and return.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa ch. 47"
+      }
+    ],
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 47
+      }
+    ],
+    "wiki": "Manavanna",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "pandyan-sack-ninth",
+    "title": "Pandyan sack of Anuradhapura and reprisal",
+    "start": 840,
+    "end": 865,
+    "dateLabel": "mid-9th c. CE",
+    "category": "conflict",
+    "confidence": "probable",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "Under Sena I the Pandyan king Srimara Srivallabha invaded and plundered Anuradhapura. Sena II then sent an army that sacked Madurai and placed a Pandyan prince on the throne.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Invasion under Sena I and counter-invasion under Sena II.",
+        "sourceId": "geiger1929",
+        "locator": "Culavamsa chs. 50-51"
+      },
+      {
+        "type": "synthesis",
+        "description": "South Indian context.",
+        "sourceId": "indrapala2005"
+      }
+    ],
+    "chronicle": [
+      {
+        "work": "culavamsa",
+        "chapter": 50
+      },
+      {
+        "work": "culavamsa",
+        "chapter": 51
+      }
+    ],
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "badulla-pillar",
+    "title": "Badulla pillar inscription: regulating a market",
+    "start": 950,
+    "dateLabel": "10th c. CE (reign of Udaya IV)",
+    "category": "economy",
+    "confidence": "probable",
+    "placeIds": [
+      "badulla"
+    ],
+    "summary": "A long inscribed pillar sets out royal regulations for the market town of Hopitigama: fair weights, tolls and the punishment of crimes. It is rare direct evidence for trade and local administration.",
+    "evidence": [
+      {
+        "type": "epigraphic",
+        "description": "Text and translation of the pillar inscription.",
+        "sourceId": "epigraphia-zeylanica"
+      }
+    ],
+    "tags": [
+      "trade",
+      "administration"
+    ],
+    "wiki": "Badulla pillar inscription",
+    "review": {
+      "status": "draft",
+      "notes": "Add the volume and page for the Epigraphia Zeylanica edition."
+    }
+  },
+  {
+    "id": "early-muslim-traders",
+    "title": "Early Muslim traders and the Colombo Kufic inscription",
+    "start": 948,
+    "dateLabel": "10th c. CE",
+    "category": "foreign-contact",
+    "confidence": "probable",
+    "placeIds": [
+      "colombo",
+      "kechimalai"
+    ],
+    "summary": "Arab and Persian merchants were active in the island's ports from the late first millennium. A Kufic tombstone found in Colombo, dated to the mid-10th century, is among the earliest Islamic inscriptions in Sri Lanka.",
+    "evidence": [
+      {
+        "type": "synthesis",
+        "description": "History of Muslim settlement.",
+        "sourceId": "dewaraja1994"
+      },
+      {
+        "type": "foreign-account",
+        "description": "Arab geographers and Cosmas on earlier trade.",
+        "sourceId": "mccrindle1897"
+      }
+    ],
+    "tags": [
+      "islam",
+      "trade"
+    ],
+    "review": {
+      "status": "draft",
+      "notes": "Verify the inscription date and edition."
+    }
+  },
+  {
+    "id": "early-coinage",
+    "title": "Early coinage: punch-marked coins and Lakshmi plaques",
+    "start": -300,
+    "end": 300,
+    "dateLabel": "c. 3rd c. BCE - 3rd c. CE",
+    "category": "economy",
+    "confidence": "established",
+    "placeIds": [
+      "tissamaharama",
+      "anuradhapura",
+      "island"
+    ],
+    "summary": "The earliest money on the island includes punch-marked silver coins (kahapana) and locally cast 'Lakshmi plaques' showing a goddess standing on a lotus, found in early historic levels.",
+    "evidence": [
+      {
+        "type": "numismatic",
+        "description": "Coins from the Tissamaharama excavations.",
+        "sourceId": "walburg2008"
+      },
+      {
+        "type": "numismatic",
+        "description": "Classic survey of Ceylon coinage.",
+        "sourceId": "codrington1924"
+      }
+    ],
+    "tags": [
+      "coins"
+    ],
+    "wiki": "Lakshmi plaques",
+    "review": {
+      "status": "draft"
+    }
+  },
+  {
+    "id": "bhikkhuni-order",
+    "title": "Founding of the bhikkhuni order",
+    "start": -249,
+    "end": 1017,
+    "dateLabel": "3rd c. BCE - c. 11th c. CE",
+    "category": "religion",
+    "confidence": "traditional",
+    "placeIds": [
+      "anuradhapura"
+    ],
+    "summary": "The chronicles say Queen Anula and her women were ordained by Sanghamitta, founding the order of nuns. Sri Lankan nuns took the ordination lineage to China in 433 CE. The order seems to have died out in the turmoil of the 11th century.",
+    "evidence": [
+      {
+        "type": "chronicle",
+        "description": "Ordination of Anula and the coming of Sanghamitta.",
+        "sourceId": "geiger1912"
+      },
+      {
+        "type": "synthesis",
+        "description": "History of Buddhist women renunciants in Sri Lanka.",
+        "sourceId": "bartholomeusz1994"
+      }
+    ],
+    "historiography": "The transmission of the lineage to China is recorded in Chinese sources and is central to modern debates over reviving the order.",
+    "tags": [
+      "women",
+      "buddhism",
+      "nuns"
+    ],
+    "review": {
+      "status": "draft"
+    },
+    "chronicle": [
+      {
+        "work": "mahavamsa",
+        "chapter": 18
+      },
+      {
+        "work": "mahavamsa",
+        "chapter": 19
+      }
+    ]
+  }
+]

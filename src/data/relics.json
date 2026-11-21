@@ -1,0 +1,491 @@
+[
+ {
+  "id": "tooth-relic",
+  "name": "Sacred Tooth Relic (Sri Dalada)",
+  "altNames": [
+   "Dalada",
+   "Danta dhatu"
+  ],
+  "kind": "saririka",
+  "journey": true,
+  "color": "#c2185b",
+  "wiki": "Relic of the tooth of the Buddha",
+  "summary": "The left canine tooth of the Buddha, brought from Kalinga in the 4th century. Whoever held it held the right to rule, so it moved with the capital for fifteen centuries.",
+  "historiography": "The Portuguese claimed to have captured the tooth at Jaffna in 1560 and burned it in Goa in 1561. Sinhala tradition answers that the relic taken was a replica, or that the real one was already hidden at Delgamuwa. Some stations rest only on later tradition.",
+  "stations": [
+   {
+    "placeId": "lankapatuna",
+    "start": 310,
+    "end": 310,
+    "label": "c. 310 CE",
+    "note": "Landed, in tradition, by Hemamala and Danta.",
+    "basis": "tradition"
+   },
+   {
+    "placeId": "anuradhapura",
+    "start": 310,
+    "end": 1017,
+    "label": "c. 310-1017",
+    "note": "Kept in the Dhammacakka house by the palace; Faxian saw its annual procession c. 410.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 37
+     }
+    ],
+    "sourceId": "legge1886"
+   },
+   {
+    "placeId": "tissamaharama",
+    "start": 1017,
+    "end": 1070,
+    "label": "1017-1070",
+    "note": "Taken south to Ruhuna, beyond Chola control (region; exact place unknown).",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 55
+     }
+    ]
+   },
+   {
+    "placeId": "atadage",
+    "start": 1070,
+    "end": 1215,
+    "label": "1070-1215",
+    "note": "Housed by Vijayabahu I in the Atadage, later in Nissanka Malla's Hatadage, at Polonnaruwa.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 60
+     }
+    ]
+   },
+   {
+    "placeId": "kotmale",
+    "start": 1215,
+    "end": 1220,
+    "label": "c. 1215-1220",
+    "note": "Hidden in the Kotmale hills during Magha's rule.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 81
+     }
+    ]
+   },
+   {
+    "placeId": "beligala",
+    "start": 1220,
+    "end": 1236,
+    "label": "c. 1220-1236",
+    "note": "Enshrined by Vijayabahu III on Beligala.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 81
+     }
+    ]
+   },
+   {
+    "placeId": "dambadeniya",
+    "start": 1236,
+    "end": 1272,
+    "label": "1236-1272",
+    "note": "Parakramabahu II held a great festival for it at Dambadeniya.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 82
+     }
+    ]
+   },
+   {
+    "placeId": "yapahuwa",
+    "start": 1272,
+    "end": 1284,
+    "label": "1272-1284",
+    "note": "Housed at the head of the lion stairway.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 90
+     }
+    ]
+   },
+   {
+    "placeId": "polonnaruwa",
+    "start": 1288,
+    "end": 1293,
+    "label": "c. 1288-1293",
+    "note": "Recovered from the Pandyans by Parakramabahu III after it had been carried to South India (c. 1284).",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 90
+     }
+    ]
+   },
+   {
+    "placeId": "kurunegala",
+    "start": 1293,
+    "end": 1341,
+    "label": "1293-1341",
+    "note": "Kept at the Kurunegala court.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 90
+     }
+    ]
+   },
+   {
+    "placeId": "niyamgampaya",
+    "start": 1341,
+    "end": 1412,
+    "label": "1341-1412",
+    "note": "Gampola period.",
+    "basis": "tradition"
+   },
+   {
+    "placeId": "kotte",
+    "start": 1412,
+    "end": 1551,
+    "label": "1412-c. 1551",
+    "note": "Parakramabahu VI built a three-storeyed relic temple at Kotte.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 91
+     }
+    ]
+   },
+   {
+    "placeId": "delgamuwa",
+    "start": 1551,
+    "end": 1592,
+    "label": "c. 1551-1592",
+    "note": "Hidden from the Portuguese, in tradition inside a grinding stone.",
+    "basis": "tradition"
+   },
+   {
+    "placeId": "kandy",
+    "start": 1592,
+    "end": 2026,
+    "label": "c. 1592-present",
+    "note": "Brought to Kandy by Vimaladharmasuriya I; the Sri Dalada Maligawa.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 94
+     }
+    ],
+    "sourceId": "seneviratne1978"
+   }
+  ]
+ },
+ {
+  "id": "bowl-relic",
+  "name": "Sacred Bowl Relic (Patra Dhatu)",
+  "kind": "paribhogika",
+  "journey": true,
+  "color": "#6a1b9a",
+  "wiki": "Buddha's alms bowl",
+  "summary": "The Buddha's alms bowl, said by the chronicle to have been sent by Asoka, was kept in the royal palace. It travelled with the Tooth Relic as a second palladium until it disappears from the record in the Kotte period.",
+  "historiography": "Its fate after the 15th-16th century is unknown.",
+  "stations": [
+   {
+    "placeId": "anuradhapura",
+    "start": -249,
+    "end": 1017,
+    "label": "3rd c. BCE-1017",
+    "note": "Kept in the royal palace.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 20
+     }
+    ]
+   },
+   {
+    "placeId": "atadage",
+    "start": 1070,
+    "end": 1215,
+    "label": "1070-1215",
+    "note": "At Polonnaruwa with the Tooth.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 60
+     }
+    ]
+   },
+   {
+    "placeId": "beligala",
+    "start": 1220,
+    "end": 1236,
+    "label": "c. 1220-1236",
+    "note": "With the Tooth on Beligala.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 81
+     }
+    ]
+   },
+   {
+    "placeId": "dambadeniya",
+    "start": 1236,
+    "end": 1272,
+    "label": "1236-1272",
+    "note": "Dambadeniya.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 82
+     }
+    ]
+   },
+   {
+    "placeId": "kotte",
+    "start": 1412,
+    "end": 1500,
+    "label": "15th c.",
+    "note": "Last securely recorded in the Kotte period.",
+    "basis": "tradition"
+   }
+  ]
+ },
+ {
+  "id": "bodhi-tree",
+  "name": "Sri Maha Bodhi and its saplings",
+  "kind": "paribhogika",
+  "journey": false,
+  "color": "#2e7d32",
+  "wiki": "Jaya Sri Maha Bodhi",
+  "summary": "A branch of the Bodhi tree of Bodh Gaya, the most venerated object of use (paribhogika) relic. The Mahavamsa names the places where the first eight saplings were planted. Tradition later counts 32 saplings across the island.",
+  "stations": [
+   {
+    "placeId": "jambukola",
+    "start": -249,
+    "label": "3rd c. BCE",
+    "note": "Landing place of the branch; first of the saplings.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "placeId": "sri-maha-bodhi",
+    "start": -249,
+    "label": "3rd c. BCE",
+    "note": "The mother tree in the Mahamegha garden.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "placeId": "thuparamaya",
+    "start": -249,
+    "label": "3rd c. BCE",
+    "note": "Sapling at the Thuparama.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "placeId": "isurumuniya",
+    "start": -249,
+    "label": "3rd c. BCE",
+    "note": "Sapling at the Issarasamanarama.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "placeId": "mihintale",
+    "start": -249,
+    "label": "3rd c. BCE",
+    "note": "Sapling at the Cetiyapabbata monastery.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "placeId": "kataragama-kiri-vehera",
+    "start": -249,
+    "label": "3rd c. BCE",
+    "note": "Sapling at Kajaragama.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "placeId": "tantirimale",
+    "start": -249,
+    "label": "Traditional",
+    "note": "Halting place of the branch; sapling.",
+    "basis": "tradition"
+   },
+   {
+    "placeId": "kalutara-bodhiya",
+    "start": -200,
+    "label": "Traditional",
+    "note": "Counted among the 32 saplings in later tradition.",
+    "basis": "tradition"
+   }
+  ]
+ },
+ {
+  "id": "body-relics",
+  "name": "Enshrined body relics (Sarira Dhatu)",
+  "kind": "saririka",
+  "journey": false,
+  "color": "#c77700",
+  "summary": "Corporeal relics of the Buddha enshrined in the great stupas, as recorded in the chronicles and later tradition.",
+  "stations": [
+   {
+    "placeId": "mahiyangana",
+    "start": -500,
+    "label": "Traditional",
+    "note": "Hair relic given to the deity Sumana; later the neck bone (giva dhatu) brought by the thera Sarabhu.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 1
+     }
+    ]
+   },
+   {
+    "placeId": "thuparamaya",
+    "start": -247,
+    "label": "3rd c. BCE",
+    "note": "Right collarbone relic.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 17
+     }
+    ]
+   },
+   {
+    "placeId": "ruwanwelisaya",
+    "start": -140,
+    "label": "2nd c. BCE",
+    "note": "A drona (measure) of relics obtained from the nagas of Ramagama.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 31
+     }
+    ]
+   },
+   {
+    "placeId": "mirisaveti",
+    "start": -160,
+    "label": "2nd c. BCE",
+    "note": "Relic in the king's spear.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 26
+     }
+    ]
+   },
+   {
+    "placeId": "tiriyaya",
+    "start": -100,
+    "label": "Traditional",
+    "note": "Hair relics of the merchants Tapassu and Bhalluka.",
+    "basis": "tradition"
+   },
+   {
+    "placeId": "seruwila",
+    "start": -200,
+    "label": "Traditional",
+    "note": "Forehead-bone relic (lalata dhatu).",
+    "basis": "tradition"
+   },
+   {
+    "placeId": "somawathiya",
+    "start": -200,
+    "label": "Traditional",
+    "note": "A tooth relic in tradition.",
+    "basis": "tradition"
+   },
+   {
+    "placeId": "muthiyangana",
+    "start": -250,
+    "label": "Traditional",
+    "note": "Relics of the third visit.",
+    "basis": "tradition"
+   }
+  ]
+ },
+ {
+  "id": "sri-pada-footprint",
+  "name": "The Sacred Footprint (Sri Pada)",
+  "kind": "uddesika",
+  "journey": false,
+  "color": "#455a64",
+  "wiki": "Adam's Peak",
+  "summary": "The footprint on Samanalakanda is venerated by four religions. Buddhists hold it to be the Buddha's, impressed on his third visit.",
+  "stations": [
+   {
+    "placeId": "adams-peak",
+    "start": -500,
+    "label": "Traditional",
+    "note": "The footprint shrine on the summit.",
+    "basis": "chronicle",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 1
+     }
+    ]
+   }
+  ]
+ }
+]

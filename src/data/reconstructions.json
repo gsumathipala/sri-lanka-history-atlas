@@ -1,0 +1,262 @@
+[
+ {
+  "placeId": "ruwanwelisaya",
+  "type": "stupa",
+  "shape": "bubble",
+  "diameter": 92,
+  "height": 103,
+  "platform": {
+   "side": 145,
+   "height": 2.5,
+   "elephantWall": true
+  },
+  "state": "As restored (completed 1940) — close to the profile described for the original",
+  "confidence": "approximate",
+  "note": "Commonly cited figures: height c. 103 m, circumference c. 290 m. The elephant wall (Hasti-prakaraya) surrounds a raised square terrace.",
+  "sourceIds": [
+   "bandaranayake1974",
+   "unesco-whc"
+  ]
+ },
+ {
+  "placeId": "jetavanaramaya",
+  "type": "stupa",
+  "shape": "bubble",
+  "diameter": 110,
+  "height": 122,
+  "platform": {
+   "side": 175,
+   "height": 2
+  },
+  "state": "Original height as built (c. 4th c. CE); today c. 71 m",
+  "confidence": "uncertain",
+  "note": "The original height of about 122 m (400 ft) is the figure usually given, making it among the tallest structures of the ancient world; the dome diameter here is an estimate.",
+  "sourceIds": [
+   "bandaranayake1974"
+  ]
+ },
+ {
+  "placeId": "abhayagiri",
+  "type": "stupa",
+  "shape": "bubble",
+  "diameter": 94,
+  "height": 108,
+  "platform": {
+   "side": 150,
+   "height": 2
+  },
+  "state": "Estimated original height; today c. 75 m",
+  "confidence": "uncertain",
+  "note": "Estimates of the original height vary; treat this model as indicative of scale only.",
+  "sourceIds": [
+   "bandaranayake1974"
+  ]
+ },
+ {
+  "placeId": "mirisaveti",
+  "type": "stupa",
+  "shape": "bubble",
+  "diameter": 50,
+  "height": 59,
+  "platform": {
+   "side": 90,
+   "height": 1.5
+  },
+  "state": "Restored profile",
+  "confidence": "uncertain",
+  "note": "Dimensions indicative.",
+  "sourceIds": [
+   "bandaranayake1974"
+  ]
+ },
+ {
+  "placeId": "thuparamaya",
+  "type": "vatadage",
+  "shape": "bell",
+  "diameter": 18,
+  "height": 19,
+  "vatadage": {
+   "platformRadius": 20,
+   "platformHeight": 3,
+   "rings": [
+    {
+     "radius": 11,
+     "count": 32
+    },
+    {
+     "radius": 13.5,
+     "count": 40
+    },
+    {
+     "radius": 16,
+     "count": 48
+    },
+    {
+     "radius": 18.5,
+     "count": 56
+    }
+   ],
+   "pillarHeight": 6.5
+  },
+  "state": "Bell-shaped stupa (rebuilt 1862) with the pillar rings of the vatadage",
+  "confidence": "illustrative",
+  "note": "The stupa profile follows the present monument. The number and spacing of pillar rings are illustrative (the surviving pillars are fewer). Whether vatadages carried a roof, and its form, is debated, so none is shown.",
+  "sourceIds": [
+   "bandaranayake1974"
+  ]
+ },
+ {
+  "placeId": "lankaramaya",
+  "type": "vatadage",
+  "shape": "bell",
+  "diameter": 14,
+  "height": 15,
+  "vatadage": {
+   "platformRadius": 16,
+   "platformHeight": 3,
+   "rings": [
+    {
+     "radius": 9,
+     "count": 24
+    },
+    {
+     "radius": 11.5,
+     "count": 32
+    },
+    {
+     "radius": 14,
+     "count": 40
+    }
+   ],
+   "pillarHeight": 5
+  },
+  "state": "Schematic",
+  "confidence": "illustrative",
+  "note": "Pillar arrangement illustrative.",
+  "sourceIds": [
+   "bandaranayake1974"
+  ]
+ },
+ {
+  "placeId": "polonnaruwa-vatadage",
+  "type": "vatadage",
+  "shape": "bubble",
+  "diameter": 17,
+  "height": 14,
+  "vatadage": {
+   "platformRadius": 19,
+   "platformHeight": 4,
+   "rings": [
+    {
+     "radius": 11,
+     "count": 16
+    },
+    {
+     "radius": 13.5,
+     "count": 20
+    },
+    {
+     "radius": 16,
+     "count": 32
+    }
+   ],
+   "pillarHeight": 5
+  },
+  "state": "Schematic; the stupa core survives only to a low height",
+  "confidence": "illustrative",
+  "note": "Two-tier circular platform with four entrances and Buddha images; pillar rings illustrative; the stupa's original height is unknown.",
+  "sourceIds": [
+   "unesco-whc"
+  ]
+ },
+ {
+  "placeId": "medirigiriya",
+  "type": "vatadage",
+  "shape": "bubble",
+  "diameter": 8,
+  "height": 8,
+  "vatadage": {
+   "platformRadius": 11,
+   "platformHeight": 2.5,
+   "rings": [
+    {
+     "radius": 6,
+     "count": 16
+    },
+    {
+     "radius": 8,
+     "count": 20
+    },
+    {
+     "radius": 10,
+     "count": 32
+    }
+   ],
+   "pillarHeight": 5.5
+  },
+  "state": "Schematic",
+  "confidence": "illustrative",
+  "note": "Three concentric rings of slender pillars survive; the stupa is restored only in part.",
+  "sourceIds": []
+ },
+ {
+  "placeId": "rankoth-vehera",
+  "type": "stupa",
+  "shape": "bubble",
+  "diameter": 55,
+  "height": 55,
+  "platform": {
+   "side": 110,
+   "height": 1.5
+  },
+  "state": "Estimated original profile",
+  "confidence": "uncertain",
+  "note": "Indicative dimensions.",
+  "sourceIds": [
+   "epigraphia-zeylanica"
+  ]
+ },
+ {
+  "placeId": "kiri-vehera-polonnaruwa",
+  "type": "stupa",
+  "shape": "bubble",
+  "diameter": 26,
+  "height": 25,
+  "state": "Present form (original lime plaster survives)",
+  "confidence": "uncertain",
+  "note": "Indicative dimensions.",
+  "sourceIds": []
+ },
+ {
+  "placeId": "tissamaharama",
+  "type": "stupa",
+  "shape": "bubble",
+  "diameter": 50,
+  "height": 55,
+  "platform": {
+   "side": 90,
+   "height": 1.5
+  },
+  "state": "Restored profile",
+  "confidence": "uncertain",
+  "note": "Indicative dimensions.",
+  "sourceIds": []
+ },
+ {
+  "placeId": "lovamahapaya",
+  "type": "pillar-hall",
+  "grid": {
+   "cols": 40,
+   "rows": 40,
+   "spacing": 1.55,
+   "pillarHeight": 3.7
+  },
+  "state": "The surviving field of 1,600 stone pillars",
+  "confidence": "approximate",
+  "note": "The Mahavamsa describes a nine-storeyed building 100 cubits square and 100 cubits high, roofed with copper tiles. The upper storeys were timber; only the stone pillar field is modelled, as its superstructure is unknown.",
+  "sourceIds": [
+   "geiger1912",
+   "bandaranayake1974"
+  ]
+ }
+]

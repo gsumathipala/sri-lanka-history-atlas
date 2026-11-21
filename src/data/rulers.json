@@ -1,0 +1,4768 @@
+[
+ {
+  "id": "vijaya",
+  "name": "Vijaya",
+  "start": -543,
+  "end": -505,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "tambapanni",
+  "summary": "Legendary founder of the Sinhala royal line.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "483-445 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 6
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 7
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 9
+   }
+  ],
+  "wiki": "Prince Vijaya"
+ },
+ {
+  "id": "upatissa-regent",
+  "name": "Upatissa (regent)",
+  "start": -505,
+  "end": -504,
+  "role": "regent",
+  "polity": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 8
+   }
+  ]
+ },
+ {
+  "id": "panduvasudeva",
+  "name": "Panduvasudeva",
+  "start": -504,
+  "end": -474,
+  "role": "king",
+  "polity": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "444-414 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 8
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "id": "abhaya",
+  "name": "Abhaya",
+  "start": -474,
+  "end": -454,
+  "role": "king",
+  "polity": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "414-394 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 9
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 10
+   }
+  ]
+ },
+ {
+  "id": "tissa-interregnum",
+  "name": "Tissa (interregnum)",
+  "start": -454,
+  "end": -437,
+  "role": "regent",
+  "polity": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 9
+   }
+  ]
+ },
+ {
+  "id": "pandukabhaya",
+  "name": "Pandukabhaya",
+  "start": -437,
+  "end": -367,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Founder of Anuradhapura as royal capital.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "377-307 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 10
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 11
+   }
+  ],
+  "wiki": "Pandukabhaya of Anuradhapura"
+ },
+ {
+  "id": "mutasiva",
+  "name": "Mutasiva",
+  "start": -367,
+  "end": -307,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "307-247 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 11
+   }
+  ]
+ },
+ {
+  "id": "devanampiya-tissa",
+  "name": "Devanampiya Tissa",
+  "start": -307,
+  "end": -267,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Contemporary of Asoka; the Mahavamsa makes him the first Buddhist king.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "247-207 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 11
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 14
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 15
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 17
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 18
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 19
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 20
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 11
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 12
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 17
+   }
+  ],
+  "wiki": "Devanampiya Tissa of Anuradhapura"
+ },
+ {
+  "id": "uttiya",
+  "name": "Uttiya",
+  "start": -267,
+  "end": -257,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "207-197 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 20
+   }
+  ]
+ },
+ {
+  "id": "mahasiva",
+  "name": "Mahasiva",
+  "start": -257,
+  "end": -247,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 21
+   }
+  ]
+ },
+ {
+  "id": "suratissa",
+  "name": "Suratissa",
+  "start": -247,
+  "end": -237,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 21
+   }
+  ]
+ },
+ {
+  "id": "sena-and-guttika",
+  "name": "Sena and Guttika",
+  "start": -237,
+  "end": -215,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Horse-traders from South India; the first recorded foreign rulers.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 21
+   }
+  ]
+ },
+ {
+  "id": "asela",
+  "name": "Asela",
+  "start": -215,
+  "end": -205,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 21
+   }
+  ]
+ },
+ {
+  "id": "elara",
+  "name": "Elara",
+  "start": -205,
+  "end": -161,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "A Chola-origin ruler whom the chronicle praises for his justice.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "145-101 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 21
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 25
+   }
+  ],
+  "wiki": "Elara (monarch)"
+ },
+ {
+  "id": "dutthagamani",
+  "name": "Dutthagamani",
+  "start": -161,
+  "end": -137,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Unifier of the island in the chronicle tradition; builder of the Ruwanwelisaya.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "101-77 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 22
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 23
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 24
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 25
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 26
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 27
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 28
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 29
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 30
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 31
+   },
+   {
+    "work": "mahavamsa",
+    "chapter": 32
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 19
+   },
+   {
+    "work": "rajavaliya",
+    "chapter": 3
+   }
+  ],
+  "wiki": "Dutugamunu"
+ },
+ {
+  "id": "saddha-tissa",
+  "name": "Saddha Tissa",
+  "start": -137,
+  "end": -119,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "thulatthana",
+  "name": "Thulatthana",
+  "start": -119,
+  "end": -119,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "lanja-tissa",
+  "name": "Lanja Tissa",
+  "start": -119,
+  "end": -109,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "khallata-naga",
+  "name": "Khallata Naga",
+  "start": -109,
+  "end": -103,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "vattagamani-abhaya-first-reign",
+  "name": "Vattagamani Abhaya (first reign)",
+  "start": -103,
+  "end": -103,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Driven out by the five Dravidians.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "43 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 20
+   }
+  ],
+  "wiki": "Valagamba of Anuradhapura"
+ },
+ {
+  "id": "pulahatta",
+  "name": "Pulahatta",
+  "start": -103,
+  "end": -100,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "First of the five Dravidian rulers.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "bahiya",
+  "name": "Bahiya",
+  "start": -100,
+  "end": -98,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "panaya-mara",
+  "name": "Panaya Mara",
+  "start": -98,
+  "end": -91,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "pilaya-mara",
+  "name": "Pilaya Mara",
+  "start": -91,
+  "end": -90,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "dathika",
+  "name": "Dathika",
+  "start": -90,
+  "end": -89,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   }
+  ]
+ },
+ {
+  "id": "vattagamani-abhaya-second-reign",
+  "name": "Vattagamani Abhaya (second reign)",
+  "start": -89,
+  "end": -77,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Founded Abhayagiri; the canon was written down in his reign.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "geiger": "29-17 BCE",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 33
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 20
+   }
+  ],
+  "wiki": "Valagamba of Anuradhapura"
+ },
+ {
+  "id": "mahaculi-mahatissa",
+  "name": "Mahaculi Mahatissa",
+  "start": -77,
+  "end": -63,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "coranaga",
+  "name": "Coranaga",
+  "start": -63,
+  "end": -51,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "kuda-tissa",
+  "name": "Kuda Tissa",
+  "start": -51,
+  "end": -48,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "siva-i",
+  "name": "Siva I",
+  "start": -48,
+  "end": -48,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Consort of Anula.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "vatuka",
+  "name": "Vatuka",
+  "start": -48,
+  "end": -47,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "darubhatika-tissa",
+  "name": "Darubhatika Tissa",
+  "start": -47,
+  "end": -47,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "niliya",
+  "name": "Niliya",
+  "start": -47,
+  "end": -47,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "anula",
+  "name": "Anula",
+  "start": -47,
+  "end": -42,
+  "role": "queen",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "First queen regnant in the chronicles.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ],
+  "wiki": "Anula of Anuradhapura"
+ },
+ {
+  "id": "kutakanna-tissa",
+  "name": "Kutakanna Tissa",
+  "start": -42,
+  "end": -20,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "bhatikabhaya",
+  "name": "Bhatikabhaya",
+  "start": -20,
+  "end": 7,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "mahadathika-mahanaga",
+  "name": "Mahadathika Mahanaga",
+  "start": 7,
+  "end": 19,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 34
+   }
+  ]
+ },
+ {
+  "id": "amandagamani-abhaya",
+  "name": "Amandagamani Abhaya",
+  "start": 19,
+  "end": 29,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "kanirajanu-tissa",
+  "name": "Kanirajanu Tissa",
+  "start": 29,
+  "end": 32,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "culabhaya",
+  "name": "Culabhaya",
+  "start": 32,
+  "end": 33,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "sivali",
+  "name": "Sivali",
+  "start": 33,
+  "end": 33,
+  "role": "queen",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "ilanaga",
+  "name": "Ilanaga",
+  "start": 33,
+  "end": 43,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "candamukha-siva",
+  "name": "Candamukha Siva",
+  "start": 43,
+  "end": 52,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "yasalalaka-tissa",
+  "name": "Yasalalaka Tissa",
+  "start": 52,
+  "end": 60,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "subharaja",
+  "name": "Subharaja",
+  "start": 60,
+  "end": 66,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "A gatekeeper who took the throne.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "vasabha",
+  "name": "Vasabha",
+  "start": 67,
+  "end": 111,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Builder of many tanks and canals.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ],
+  "wiki": "Vasabha of Anuradhapura"
+ },
+ {
+  "id": "vankanasika-tissa",
+  "name": "Vankanasika Tissa",
+  "start": 111,
+  "end": 114,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "gajabahu-i",
+  "name": "Gajabahu I",
+  "start": 114,
+  "end": 136,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Later tradition links him to the Pattini cult and the Tamil epic Silappatikaram.",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ],
+  "wiki": "Gajabahu I"
+ },
+ {
+  "id": "mahallaka-naga",
+  "name": "Mahallaka Naga",
+  "start": 136,
+  "end": 143,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 35
+   }
+  ]
+ },
+ {
+  "id": "bhatika-tissa",
+  "name": "Bhatika Tissa",
+  "start": 143,
+  "end": 167,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "kanittha-tissa",
+  "name": "Kanittha Tissa",
+  "start": 167,
+  "end": 186,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "cula-naga",
+  "name": "Cula Naga",
+  "start": 186,
+  "end": 187,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "kuda-naga",
+  "name": "Kuda Naga",
+  "start": 187,
+  "end": 189,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "siri-naga-i",
+  "name": "Siri Naga I",
+  "start": 189,
+  "end": 209,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "dateNote": "Conventional chronology (Buddhist era reckoned from 544 BCE). Geiger's corrected chronology, which aligns Devanampiya Tissa with Asoka, places reigns before the 2nd century CE c. 60 years later.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "voharika-tissa",
+  "name": "Voharika Tissa",
+  "start": 209,
+  "end": 231,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Suppressed the Vetulya doctrine.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "abhaya-naga",
+  "name": "Abhaya Naga",
+  "start": 231,
+  "end": 240,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "siri-naga-ii",
+  "name": "Siri Naga II",
+  "start": 240,
+  "end": 242,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "vijaya-kumara",
+  "name": "Vijaya Kumara",
+  "start": 242,
+  "end": 243,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "sangha-tissa-i",
+  "name": "Sangha Tissa I",
+  "start": 243,
+  "end": 247,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "sirisanghabodhi",
+  "name": "Sirisanghabodhi",
+  "start": 247,
+  "end": 249,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Remembered as a model of piety.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "gothabhaya",
+  "name": "Gothabhaya",
+  "start": 249,
+  "end": 262,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "jettha-tissa-i",
+  "name": "Jettha Tissa I",
+  "start": 263,
+  "end": 273,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 36
+   }
+  ]
+ },
+ {
+  "id": "mahasena",
+  "name": "Mahasena",
+  "start": 273,
+  "end": 301,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Builder of Jetavana and Minneriya; patron of Abhayagiri.",
+  "chronicle": [
+   {
+    "work": "mahavamsa",
+    "chapter": 37
+   },
+   {
+    "work": "dipavamsa",
+    "chapter": 22
+   }
+  ],
+  "wiki": "Mahasena of Anuradhapura"
+ },
+ {
+  "id": "sirimeghavanna",
+  "name": "Sirimeghavanna",
+  "start": 301,
+  "end": 328,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "The Tooth Relic arrived in his reign.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 37
+   }
+  ]
+ },
+ {
+  "id": "jettha-tissa-ii",
+  "name": "Jettha Tissa II",
+  "start": 328,
+  "end": 337,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 37
+   }
+  ]
+ },
+ {
+  "id": "buddhadasa",
+  "name": "Buddhadasa",
+  "start": 337,
+  "end": 365,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Physician-king.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 37
+   }
+  ]
+ },
+ {
+  "id": "upatissa-i",
+  "name": "Upatissa I",
+  "start": 365,
+  "end": 406,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 37
+   }
+  ]
+ },
+ {
+  "id": "mahanama",
+  "name": "Mahanama",
+  "start": 406,
+  "end": 428,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Buddhaghosa worked in his reign.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 37
+   }
+  ]
+ },
+ {
+  "id": "chattagahaka-jantu",
+  "name": "Chattagahaka Jantu",
+  "start": 428,
+  "end": 428,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "mittasena",
+  "name": "Mittasena",
+  "start": 428,
+  "end": 429,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "pandu",
+  "name": "Pandu",
+  "start": 429,
+  "end": 434,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "First of six Pandyan rulers.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "parinda",
+  "name": "Parinda",
+  "start": 434,
+  "end": 437,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "khudda-parinda",
+  "name": "Khudda Parinda",
+  "start": 437,
+  "end": 452,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "tiritara",
+  "name": "Tiritara",
+  "start": 452,
+  "end": 452,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "dathiya",
+  "name": "Dathiya",
+  "start": 452,
+  "end": 455,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "pithiya",
+  "name": "Pithiya",
+  "start": 455,
+  "end": 455,
+  "role": "invader",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ]
+ },
+ {
+  "id": "dhatusena",
+  "name": "Dhatusena",
+  "start": 455,
+  "end": 473,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Expelled the Pandyans; built Kala Wewa.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 38
+   }
+  ],
+  "wiki": "Dhatusena of Anuradhapura"
+ },
+ {
+  "id": "kassapa-i",
+  "name": "Kassapa I",
+  "start": 473,
+  "end": 495,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "sigiriya",
+  "summary": "Moved the capital to Sigiriya.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 39
+   }
+  ],
+  "wiki": "Kashyapa I of Anuradhapura"
+ },
+ {
+  "id": "moggallana-i",
+  "name": "Moggallana I",
+  "start": 495,
+  "end": 512,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 39
+   }
+  ],
+  "wiki": "Moggallana I of Anuradhapura"
+ },
+ {
+  "id": "kumara-dhatusena",
+  "name": "Kumara Dhatusena",
+  "start": 512,
+  "end": 520,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Tradition makes him a poet and links him to Kalidasa.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 41
+   }
+  ]
+ },
+ {
+  "id": "kittisena",
+  "name": "Kittisena",
+  "start": 520,
+  "end": 520,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 41
+   }
+  ]
+ },
+ {
+  "id": "sivaka",
+  "name": "Sivaka",
+  "start": 520,
+  "end": 521,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 41
+   }
+  ]
+ },
+ {
+  "id": "upatissa-ii",
+  "name": "Upatissa II",
+  "start": 522,
+  "end": 524,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 41
+   }
+  ]
+ },
+ {
+  "id": "silakala",
+  "name": "Silakala",
+  "start": 524,
+  "end": 537,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 41
+   }
+  ]
+ },
+ {
+  "id": "dathappabhuti",
+  "name": "Dathappabhuti",
+  "start": 537,
+  "end": 537,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 41
+   }
+  ]
+ },
+ {
+  "id": "moggallana-ii",
+  "name": "Moggallana II",
+  "start": 537,
+  "end": 556,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 41
+   }
+  ]
+ },
+ {
+  "id": "kittisirimegha",
+  "name": "Kittisirimegha",
+  "start": 556,
+  "end": 556,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 42
+   }
+  ]
+ },
+ {
+  "id": "mahanaga",
+  "name": "Mahanaga",
+  "start": 556,
+  "end": 568,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 42
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-i",
+  "name": "Aggabodhi I",
+  "start": 568,
+  "end": 601,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 42
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-ii",
+  "name": "Aggabodhi II",
+  "start": 601,
+  "end": 611,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 42
+   }
+  ]
+ },
+ {
+  "id": "sangha-tissa-ii",
+  "name": "Sangha Tissa II",
+  "start": 611,
+  "end": 611,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 44
+   }
+  ]
+ },
+ {
+  "id": "moggallana-iii",
+  "name": "Moggallana III",
+  "start": 611,
+  "end": 617,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 44
+   }
+  ]
+ },
+ {
+  "id": "silameghavanna",
+  "name": "Silameghavanna",
+  "start": 617,
+  "end": 626,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 44
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-iii",
+  "name": "Aggabodhi III",
+  "start": 626,
+  "end": 641,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Reigned intermittently amid civil war with Jettha Tissa III.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 44
+   }
+  ]
+ },
+ {
+  "id": "jettha-tissa-iii",
+  "name": "Jettha Tissa III",
+  "start": 632,
+  "end": 632,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 44
+   }
+  ]
+ },
+ {
+  "id": "dathopa-tissa-i",
+  "name": "Dathopa Tissa I",
+  "start": 641,
+  "end": 650,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 45
+   }
+  ]
+ },
+ {
+  "id": "kassapa-ii",
+  "name": "Kassapa II",
+  "start": 650,
+  "end": 659,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 45
+   }
+  ]
+ },
+ {
+  "id": "dappula-i",
+  "name": "Dappula I",
+  "start": 659,
+  "end": 659,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 45
+   }
+  ]
+ },
+ {
+  "id": "dathopa-tissa-ii",
+  "name": "Dathopa Tissa II",
+  "start": 659,
+  "end": 667,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 45
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-iv",
+  "name": "Aggabodhi IV",
+  "start": 667,
+  "end": 683,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 46
+   }
+  ]
+ },
+ {
+  "id": "datta",
+  "name": "Datta",
+  "start": 683,
+  "end": 684,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 46
+   }
+  ]
+ },
+ {
+  "id": "hatthadatha",
+  "name": "Hatthadatha",
+  "start": 684,
+  "end": 684,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 46
+   }
+  ]
+ },
+ {
+  "id": "manavamma",
+  "name": "Manavamma",
+  "start": 684,
+  "end": 718,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Gained the throne with Pallava military support.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 47
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-v",
+  "name": "Aggabodhi V",
+  "start": 718,
+  "end": 724,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 48
+   }
+  ]
+ },
+ {
+  "id": "kassapa-iii",
+  "name": "Kassapa III",
+  "start": 724,
+  "end": 730,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 48
+   }
+  ]
+ },
+ {
+  "id": "mahinda-i",
+  "name": "Mahinda I",
+  "start": 730,
+  "end": 733,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 48
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-vi",
+  "name": "Aggabodhi VI",
+  "start": 733,
+  "end": 772,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 48
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-vii",
+  "name": "Aggabodhi VII",
+  "start": 772,
+  "end": 777,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 48
+   }
+  ]
+ },
+ {
+  "id": "mahinda-ii",
+  "name": "Mahinda II",
+  "start": 777,
+  "end": 797,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 48
+   }
+  ]
+ },
+ {
+  "id": "udaya-i",
+  "name": "Udaya I",
+  "start": 797,
+  "end": 801,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 48
+   }
+  ]
+ },
+ {
+  "id": "mahinda-iii",
+  "name": "Mahinda III",
+  "start": 801,
+  "end": 804,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 49
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-viii",
+  "name": "Aggabodhi VIII",
+  "start": 804,
+  "end": 815,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 49
+   }
+  ]
+ },
+ {
+  "id": "dappula-ii",
+  "name": "Dappula II",
+  "start": 815,
+  "end": 831,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 49
+   }
+  ]
+ },
+ {
+  "id": "aggabodhi-ix",
+  "name": "Aggabodhi IX",
+  "start": 831,
+  "end": 833,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 49
+   }
+  ]
+ },
+ {
+  "id": "sena-i",
+  "name": "Sena I",
+  "start": 833,
+  "end": 853,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Anuradhapura was sacked by the Pandyan Srimara Srivallabha.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 50
+   }
+  ]
+ },
+ {
+  "id": "sena-ii",
+  "name": "Sena II",
+  "start": 853,
+  "end": 887,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Invaded the Pandya kingdom and sacked Madurai.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 51
+   }
+  ]
+ },
+ {
+  "id": "udaya-ii",
+  "name": "Udaya II",
+  "start": 887,
+  "end": 898,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 51
+   }
+  ]
+ },
+ {
+  "id": "kassapa-iv",
+  "name": "Kassapa IV",
+  "start": 898,
+  "end": 914,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 52
+   }
+  ]
+ },
+ {
+  "id": "kassapa-v",
+  "name": "Kassapa V",
+  "start": 914,
+  "end": 923,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 52
+   }
+  ]
+ },
+ {
+  "id": "dappula-iii",
+  "name": "Dappula III",
+  "start": 923,
+  "end": 924,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 53
+   }
+  ]
+ },
+ {
+  "id": "dappula-iv",
+  "name": "Dappula IV",
+  "start": 924,
+  "end": 935,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 53
+   }
+  ]
+ },
+ {
+  "id": "udaya-iii",
+  "name": "Udaya III",
+  "start": 935,
+  "end": 938,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 53
+   }
+  ]
+ },
+ {
+  "id": "sena-iii",
+  "name": "Sena III",
+  "start": 938,
+  "end": 946,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 53
+   }
+  ]
+ },
+ {
+  "id": "udaya-iv",
+  "name": "Udaya IV",
+  "start": 946,
+  "end": 954,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 53
+   }
+  ]
+ },
+ {
+  "id": "sena-iv",
+  "name": "Sena IV",
+  "start": 954,
+  "end": 956,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 53
+   }
+  ]
+ },
+ {
+  "id": "mahinda-iv",
+  "name": "Mahinda IV",
+  "start": 956,
+  "end": 972,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 54
+   }
+  ]
+ },
+ {
+  "id": "sena-v",
+  "name": "Sena V",
+  "start": 972,
+  "end": 982,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 54
+   }
+  ]
+ },
+ {
+  "id": "mahinda-v",
+  "name": "Mahinda V",
+  "start": 982,
+  "end": 1017,
+  "role": "king",
+  "polity": "anuradhapura",
+  "capitalPlaceId": "anuradhapura",
+  "summary": "Last king of Anuradhapura; captured by the Cholas and died in India.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 55
+   }
+  ],
+  "wiki": "Mahinda V"
+ },
+ {
+  "id": "rajaraja-i",
+  "name": "Rajaraja I",
+  "start": 993,
+  "end": 1014,
+  "role": "foreign-sovereign",
+  "polity": "chola",
+  "capitalPlaceId": "polonnaruwa",
+  "summary": "Chola emperor; invaded northern Lanka c. 993.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 55
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ],
+  "wiki": "Rajaraja I"
+ },
+ {
+  "id": "rajendra-i",
+  "name": "Rajendra I",
+  "start": 1014,
+  "end": 1044,
+  "role": "foreign-sovereign",
+  "polity": "chola",
+  "capitalPlaceId": "polonnaruwa",
+  "summary": "Completed the conquest in 1017.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 55
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ],
+  "wiki": "Rajendra I"
+ },
+ {
+  "id": "rajadhiraja-i",
+  "name": "Rajadhiraja I",
+  "start": 1044,
+  "end": 1054,
+  "role": "foreign-sovereign",
+  "polity": "chola",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 55
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "rajendra-ii",
+  "name": "Rajendra II",
+  "start": 1054,
+  "end": 1063,
+  "role": "foreign-sovereign",
+  "polity": "chola",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 55
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "virarajendra",
+  "name": "Virarajendra",
+  "start": 1063,
+  "end": 1070,
+  "role": "foreign-sovereign",
+  "polity": "chola",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 55
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "kassapa-vi-vikramabahu",
+  "name": "Kassapa VI (Vikramabahu)",
+  "start": 1029,
+  "end": 1041,
+  "role": "king",
+  "polity": "ruhuna",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "mahalana-kitti",
+  "name": "Mahalana Kitti",
+  "start": 1041,
+  "end": 1044,
+  "role": "king",
+  "polity": "ruhuna",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "vikkama-pandu",
+  "name": "Vikkama Pandu",
+  "start": 1044,
+  "end": 1047,
+  "role": "king",
+  "polity": "ruhuna",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "jagatipala",
+  "name": "Jagatipala",
+  "start": 1047,
+  "end": 1051,
+  "role": "king",
+  "polity": "ruhuna",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "parakkama-pandu",
+  "name": "Parakkama Pandu",
+  "start": 1051,
+  "end": 1053,
+  "role": "king",
+  "polity": "ruhuna",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 56
+   }
+  ]
+ },
+ {
+  "id": "loka",
+  "name": "Loka",
+  "start": 1053,
+  "end": 1059,
+  "role": "king",
+  "polity": "ruhuna",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 57
+   }
+  ]
+ },
+ {
+  "id": "vijayabahu-i",
+  "name": "Vijayabahu I",
+  "start": 1055,
+  "end": 1110,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "summary": "Expelled the Cholas and restored the sangha.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 57
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 58
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 59
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 60
+   }
+  ],
+  "wiki": "Vijayabahu I"
+ },
+ {
+  "id": "jayabahu-i",
+  "name": "Jayabahu I",
+  "start": 1110,
+  "end": 1111,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 61
+   }
+  ]
+ },
+ {
+  "id": "vikramabahu-i",
+  "name": "Vikramabahu I",
+  "start": 1111,
+  "end": 1132,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 61
+   }
+  ]
+ },
+ {
+  "id": "gajabahu-ii",
+  "name": "Gajabahu II",
+  "start": 1132,
+  "end": 1153,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 61
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 70
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-i",
+  "name": "Parakramabahu I",
+  "start": 1153,
+  "end": 1186,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "summary": "Reunified the island; great builder and irrigator.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 62
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 66
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 70
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 73
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 76
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 78
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 79
+   }
+  ],
+  "wiki": "Parakramabahu I"
+ },
+ {
+  "id": "vijayabahu-ii",
+  "name": "Vijayabahu II",
+  "start": 1186,
+  "end": 1187,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "mahinda-vi",
+  "name": "Mahinda VI",
+  "start": 1187,
+  "end": 1187,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "nissanka-malla",
+  "name": "Nissanka Malla",
+  "start": 1187,
+  "end": 1196,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "summary": "Prolific author of inscriptions, including the Galpota.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ],
+  "wiki": "Nissanka Malla of Polonnaruwa"
+ },
+ {
+  "id": "vira-bahu-i",
+  "name": "Vira Bahu I",
+  "start": 1196,
+  "end": 1196,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "vikramabahu-ii",
+  "name": "Vikramabahu II",
+  "start": 1196,
+  "end": 1196,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "chodaganga",
+  "name": "Chodaganga",
+  "start": 1196,
+  "end": 1197,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "lilavati-first-reign",
+  "name": "Lilavati (first reign)",
+  "start": 1197,
+  "end": 1200,
+  "role": "queen",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "summary": "Widow of Parakramabahu I; reigned three times.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ],
+  "wiki": "Lilavati of Polonnaruwa"
+ },
+ {
+  "id": "sahassa-malla",
+  "name": "Sahassa Malla",
+  "start": 1200,
+  "end": 1202,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "kalyanavati",
+  "name": "Kalyanavati",
+  "start": 1202,
+  "end": 1208,
+  "role": "queen",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "dharmasoka",
+  "name": "Dharmasoka",
+  "start": 1208,
+  "end": 1209,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "anikanga",
+  "name": "Anikanga",
+  "start": 1209,
+  "end": 1209,
+  "role": "king",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "lilavati-second-reign",
+  "name": "Lilavati (second reign)",
+  "start": 1209,
+  "end": 1210,
+  "role": "queen",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "lokissara",
+  "name": "Lokissara",
+  "start": 1210,
+  "end": 1211,
+  "role": "invader",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "lilavati-third-reign",
+  "name": "Lilavati (third reign)",
+  "start": 1211,
+  "end": 1212,
+  "role": "queen",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "parakrama-pandu",
+  "name": "Parakrama Pandu",
+  "start": 1212,
+  "end": 1215,
+  "role": "invader",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   }
+  ]
+ },
+ {
+  "id": "kalinga-magha",
+  "name": "Kalinga Magha",
+  "start": 1215,
+  "end": 1236,
+  "role": "invader",
+  "polity": "polonnaruwa",
+  "capitalPlaceId": "polonnaruwa",
+  "summary": "Invader whose rule is portrayed as catastrophic in the Culavamsa; possibly connected with the origins of the Jaffna kingdom.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 80
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 81
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 83
+   }
+  ],
+  "wiki": "Kalinga Magha"
+ },
+ {
+  "id": "vijayabahu-iii",
+  "name": "Vijayabahu III",
+  "start": 1220,
+  "end": 1236,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "dambadeniya",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 81
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-ii",
+  "name": "Parakramabahu II",
+  "start": 1236,
+  "end": 1270,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "dambadeniya",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 82
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 83
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 88
+   }
+  ],
+  "wiki": "Parakramabahu II"
+ },
+ {
+  "id": "chandrabhanu",
+  "name": "Chandrabhanu",
+  "start": 1247,
+  "end": 1262,
+  "role": "invader",
+  "polity": "dambadeniya",
+  "summary": "Ruler of Tambralinga (Malay Peninsula) who invaded twice.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 83
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 88
+   }
+  ]
+ },
+ {
+  "id": "vijayabahu-iv",
+  "name": "Vijayabahu IV",
+  "start": 1270,
+  "end": 1272,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "dambadeniya",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 88
+   }
+  ]
+ },
+ {
+  "id": "bhuvanekabahu-i",
+  "name": "Bhuvanekabahu I",
+  "start": 1272,
+  "end": 1284,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "yapahuwa",
+  "summary": "Ruled from the rock fortress of Yapahuwa.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ],
+  "wiki": "Bhuvanaikabahu I"
+ },
+ {
+  "id": "parakramabahu-iii",
+  "name": "Parakramabahu III",
+  "start": 1287,
+  "end": 1293,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "polonnaruwa",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ]
+ },
+ {
+  "id": "bhuvanekabahu-ii",
+  "name": "Bhuvanekabahu II",
+  "start": 1293,
+  "end": 1302,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "kurunegala",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-iv",
+  "name": "Parakramabahu IV",
+  "start": 1302,
+  "end": 1326,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "kurunegala",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ]
+ },
+ {
+  "id": "bhuvanekabahu-iii",
+  "name": "Bhuvanekabahu III",
+  "start": 1326,
+  "end": 1335,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "kurunegala",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ]
+ },
+ {
+  "id": "vijayabahu-v",
+  "name": "Vijayabahu V",
+  "start": 1335,
+  "end": 1341,
+  "role": "king",
+  "polity": "dambadeniya",
+  "capitalPlaceId": "kurunegala",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   }
+  ]
+ },
+ {
+  "id": "bhuvanekabahu-iv",
+  "name": "Bhuvanekabahu IV",
+  "start": 1341,
+  "end": 1351,
+  "role": "king",
+  "polity": "gampola",
+  "capitalPlaceId": "gampola",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 90
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 91
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-v",
+  "name": "Parakramabahu V",
+  "start": 1344,
+  "end": 1359,
+  "role": "king",
+  "polity": "gampola",
+  "capitalPlaceId": "gampola",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 91
+   }
+  ]
+ },
+ {
+  "id": "vikramabahu-iii",
+  "name": "Vikramabahu III",
+  "start": 1357,
+  "end": 1374,
+  "role": "king",
+  "polity": "gampola",
+  "capitalPlaceId": "gampola",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 91
+   }
+  ]
+ },
+ {
+  "id": "bhuvanekabahu-v",
+  "name": "Bhuvanekabahu V",
+  "start": 1371,
+  "end": 1408,
+  "role": "king",
+  "polity": "gampola",
+  "capitalPlaceId": "gampola",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 91
+   }
+  ]
+ },
+ {
+  "id": "vira-alakesvara",
+  "name": "Vira Alakesvara",
+  "start": 1397,
+  "end": 1411,
+  "role": "king",
+  "polity": "gampola",
+  "capitalPlaceId": "kotte",
+  "summary": "Powerful minister-king captured by Ming forces in 1411.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 91
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-vi",
+  "name": "Parakramabahu VI",
+  "start": 1412,
+  "end": 1467,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "summary": "Last king to rule the whole island.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 91
+   },
+   {
+    "work": "rajavaliya",
+    "chapter": 7
+   }
+  ],
+  "wiki": "Parakramabahu VI"
+ },
+ {
+  "id": "jayabahu-ii",
+  "name": "Jayabahu II",
+  "start": 1467,
+  "end": 1472,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "bhuvanekabahu-vi",
+  "name": "Bhuvanekabahu VI",
+  "start": 1472,
+  "end": 1480,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-vii",
+  "name": "Parakramabahu VII",
+  "start": 1480,
+  "end": 1484,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-viii",
+  "name": "Parakramabahu VIII",
+  "start": 1484,
+  "end": 1508,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "parakramabahu-ix",
+  "name": "Parakramabahu IX",
+  "start": 1508,
+  "end": 1528,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "vijayabahu-vi",
+  "name": "Vijayabahu VI",
+  "start": 1513,
+  "end": 1521,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "bhuvanekabahu-vii",
+  "name": "Bhuvanekabahu VII",
+  "start": 1521,
+  "end": 1551,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "dharmapala",
+  "name": "Dharmapala",
+  "start": 1551,
+  "end": 1597,
+  "role": "king",
+  "polity": "kotte",
+  "capitalPlaceId": "kotte",
+  "summary": "Baptised Dom João; bequeathed his kingdom to Portugal.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ],
+  "wiki": "Dharmapala of Kotte"
+ },
+ {
+  "id": "mayadunne",
+  "name": "Mayadunne",
+  "start": 1521,
+  "end": 1581,
+  "role": "king",
+  "polity": "sitawaka",
+  "capitalPlaceId": "sitawaka",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   },
+   {
+    "work": "rajavaliya",
+    "chapter": 9
+   }
+  ],
+  "wiki": "Mayadunne of Sitawaka"
+ },
+ {
+  "id": "rajasinha-i",
+  "name": "Rajasinha I",
+  "start": 1581,
+  "end": 1593,
+  "role": "king",
+  "polity": "sitawaka",
+  "capitalPlaceId": "sitawaka",
+  "summary": "Besieged Portuguese Colombo; converted to Saivism.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 93
+   },
+   {
+    "work": "rajavaliya",
+    "chapter": 9
+   }
+  ],
+  "wiki": "Rajasinghe I"
+ },
+ {
+  "id": "rajasuriya",
+  "name": "Rajasuriya",
+  "start": 1593,
+  "end": 1594,
+  "role": "king",
+  "polity": "sitawaka",
+  "capitalPlaceId": "sitawaka",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 93
+   }
+  ]
+ },
+ {
+  "id": "senasammata-vikramabahu",
+  "name": "Senasammata Vikramabahu",
+  "start": 1469,
+  "end": 1511,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "jayavira-bandara",
+  "name": "Jayavira Bandara",
+  "start": 1511,
+  "end": 1552,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 92
+   }
+  ]
+ },
+ {
+  "id": "karaliyadde-bandara",
+  "name": "Karaliyadde Bandara",
+  "start": 1552,
+  "end": 1582,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 93
+   }
+  ]
+ },
+ {
+  "id": "vimaladharmasuriya-i",
+  "name": "Vimaladharmasuriya I",
+  "start": 1590,
+  "end": 1604,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "summary": "Victor of Danture (1594); married Dona Catarina.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 94
+   },
+   {
+    "work": "rajavaliya",
+    "chapter": 10
+   }
+  ],
+  "wiki": "Vimaladharmasuriya I"
+ },
+ {
+  "id": "senarat",
+  "name": "Senarat",
+  "start": 1604,
+  "end": 1635,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 94
+   }
+  ],
+  "wiki": "Senarat of Kandy"
+ },
+ {
+  "id": "rajasinha-ii",
+  "name": "Rajasinha II",
+  "start": 1635,
+  "end": 1687,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "summary": "Allied with the Dutch against the Portuguese; held Robert Knox captive.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 95
+   }
+  ],
+  "wiki": "Rajasinghe II"
+ },
+ {
+  "id": "vimaladharmasuriya-ii",
+  "name": "Vimaladharmasuriya II",
+  "start": 1687,
+  "end": 1707,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 96
+   }
+  ]
+ },
+ {
+  "id": "vira-narendrasinha",
+  "name": "Vira Narendrasinha",
+  "start": 1707,
+  "end": 1739,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 97
+   }
+  ],
+  "wiki": "Vira Narendrasinha"
+ },
+ {
+  "id": "sri-vijaya-rajasinha",
+  "name": "Sri Vijaya Rajasinha",
+  "start": 1739,
+  "end": 1747,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "summary": "First king of the Nayakkar dynasty.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 98
+   }
+  ],
+  "wiki": "Sri Vijaya Rajasinha"
+ },
+ {
+  "id": "kirti-sri-rajasinha",
+  "name": "Kirti Sri Rajasinha",
+  "start": 1747,
+  "end": 1782,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "summary": "Patron of the 18th-century Buddhist revival.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 99
+   },
+   {
+    "work": "culavamsa",
+    "chapter": 100
+   }
+  ],
+  "wiki": "Kirti Sri Rajasinha"
+ },
+ {
+  "id": "sri-rajadhi-rajasinha",
+  "name": "Sri Rajadhi Rajasinha",
+  "start": 1782,
+  "end": 1798,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 101
+   }
+  ],
+  "wiki": "Sri Rajadhi Rajasinha"
+ },
+ {
+  "id": "sri-vikrama-rajasinha",
+  "name": "Sri Vikrama Rajasinha",
+  "start": 1798,
+  "end": 1815,
+  "role": "king",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "summary": "Last king of Lanka; deposed in 1815 and exiled to Vellore.",
+  "wiki": "Sri Vikrama Rajasinha"
+ },
+ {
+  "id": "dona-catarina",
+  "name": "Dona Catarina",
+  "start": 1581,
+  "end": 1582,
+  "role": "queen",
+  "polity": "kandy",
+  "capitalPlaceId": "kandy",
+  "summary": "Kandyan princess raised by the Portuguese; queen consort of Vimaladharmasuriya I and later Senarat.",
+  "dateNote": "Her claim to rule in her own right is debated; dates approximate.",
+  "chronicle": [
+   {
+    "work": "culavamsa",
+    "chapter": 94
+   }
+  ],
+  "wiki": "Dona Catherina of Kandy"
+ },
+ {
+  "id": "kulasekara-cinkaiariyan",
+  "name": "Kulasekara Cinkaiariyan",
+  "start": 1277,
+  "end": 1284,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain.",
+  "chronicle": [
+   {
+    "work": "yalpana-vaipava-malai",
+    "chapter": 4
+   }
+  ]
+ },
+ {
+  "id": "kulothunga-cinkaiariyan",
+  "name": "Kulothunga Cinkaiariyan",
+  "start": 1284,
+  "end": 1292,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "vikrama-cinkaiariyan",
+  "name": "Vikrama Cinkaiariyan",
+  "start": 1292,
+  "end": 1302,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "varothaya-cinkaiariyan",
+  "name": "Varothaya Cinkaiariyan",
+  "start": 1302,
+  "end": 1325,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "martanda-cinkaiariyan",
+  "name": "Martanda Cinkaiariyan",
+  "start": 1325,
+  "end": 1347,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "gunabhooshana-cinkaiariyan",
+  "name": "Gunabhooshana Cinkaiariyan",
+  "start": 1347,
+  "end": 1380,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "virodaya-cinkaiariyan",
+  "name": "Virodaya Cinkaiariyan",
+  "start": 1380,
+  "end": 1410,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "jeyaveera-cinkaiariyan",
+  "name": "Jeyaveera Cinkaiariyan",
+  "start": 1410,
+  "end": 1440,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "gunaveera-cinkaiariyan",
+  "name": "Gunaveera Cinkaiariyan",
+  "start": 1440,
+  "end": 1450,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "sapumal-kumaraya-kotte-rule",
+  "name": "Sapumal Kumaraya (Kotte rule)",
+  "start": 1450,
+  "end": 1467,
+  "role": "sub-king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "summary": "Conquered Jaffna for Parakramabahu VI; later king of Kotte as Bhuvanekabahu VI.",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain.",
+  "chronicle": [
+   {
+    "work": "yalpana-vaipava-malai",
+    "chapter": 6
+   }
+  ]
+ },
+ {
+  "id": "kanakasooriya-cinkaiariyan",
+  "name": "Kanakasooriya Cinkaiariyan",
+  "start": 1467,
+  "end": 1478,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "singai-pararasasegaram",
+  "name": "Singai Pararasasegaram",
+  "start": 1478,
+  "end": 1519,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain.",
+  "chronicle": [
+   {
+    "work": "yalpana-vaipava-malai",
+    "chapter": 7
+   }
+  ]
+ },
+ {
+  "id": "cankili-i",
+  "name": "Cankili I",
+  "start": 1519,
+  "end": 1561,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "summary": "Resisted the Portuguese; remembered for the massacre of Catholic converts at Mannar (1544).",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain.",
+  "chronicle": [
+   {
+    "work": "yalpana-vaipava-malai",
+    "chapter": 7
+   }
+  ],
+  "wiki": "Cankili I"
+ },
+ {
+  "id": "puviraja-pandaram",
+  "name": "Puviraja Pandaram",
+  "start": 1561,
+  "end": 1565,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "kasi-nainar",
+  "name": "Kasi Nainar",
+  "start": 1565,
+  "end": 1570,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "periyapillai",
+  "name": "Periyapillai",
+  "start": 1570,
+  "end": 1582,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "puviraja-pandaram-second-reign",
+  "name": "Puviraja Pandaram (second reign)",
+  "start": 1582,
+  "end": 1591,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "ethirimana-cinkam",
+  "name": "Ethirimana Cinkam",
+  "start": 1591,
+  "end": 1615,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain."
+ },
+ {
+  "id": "cankili-ii",
+  "name": "Cankili II",
+  "start": 1617,
+  "end": 1619,
+  "role": "king",
+  "polity": "jaffna",
+  "capitalPlaceId": "nallur",
+  "summary": "Last king of Jaffna; executed by the Portuguese.",
+  "dateNote": "Regnal dates follow the Yalpana Vaipava Malai tradition and later reconstructions; the early dates especially are uncertain.",
+  "chronicle": [
+   {
+    "work": "yalpana-vaipava-malai",
+    "chapter": 8
+   }
+  ],
+  "wiki": "Cankili II"
+ },
+ {
+  "id": "pedro-lopes-de-sousa",
+  "name": "Pedro Lopes de Sousa",
+  "start": 1594,
+  "end": 1594,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "summary": "Killed at Danture.",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "jeronimo-de-azevedo",
+  "name": "Jerónimo de Azevedo",
+  "start": 1594,
+  "end": 1612,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "summary": "Waged a long war against Kandy and consolidated Portuguese control of the lowlands.",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz.",
+  "wiki": "Jerónimo de Azevedo"
+ },
+ {
+  "id": "francisco-de-meneses",
+  "name": "Francisco de Meneses",
+  "start": 1612,
+  "end": 1614,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "manuel-mascarenhas-homem",
+  "name": "Manuel Mascarenhas Homem",
+  "start": 1614,
+  "end": 1616,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "nuno-alvares-pereira",
+  "name": "Nuno Álvares Pereira",
+  "start": 1616,
+  "end": 1618,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "constantino-de-sa-de-noronha",
+  "name": "Constantino de Sá de Noronha",
+  "start": 1618,
+  "end": 1622,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "jorge-de-albuquerque",
+  "name": "Jorge de Albuquerque",
+  "start": 1622,
+  "end": 1623,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "constantino-de-sa-de-noronha-second-term",
+  "name": "Constantino de Sá de Noronha (second term)",
+  "start": 1623,
+  "end": 1630,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "summary": "Killed at the Battle of Randeniwela (1630).",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "filipe-mascarenhas",
+  "name": "Filipe Mascarenhas",
+  "start": 1630,
+  "end": 1631,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "jorge-de-almeida",
+  "name": "Jorge de Almeida",
+  "start": 1631,
+  "end": 1633,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "diogo-de-melo-de-castro",
+  "name": "Diogo de Melo de Castro",
+  "start": 1633,
+  "end": 1635,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "jorge-de-almeida-second-term",
+  "name": "Jorge de Almeida (second term)",
+  "start": 1635,
+  "end": 1636,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "diogo-de-melo-de-castro-second-term",
+  "name": "Diogo de Melo de Castro (second term)",
+  "start": 1636,
+  "end": 1638,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "summary": "Killed at Gannoruwa (1638).",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "antonio-mascarenhas",
+  "name": "António Mascarenhas",
+  "start": 1638,
+  "end": 1640,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "filipe-mascarenhas-second-term",
+  "name": "Filipe Mascarenhas (second term)",
+  "start": 1640,
+  "end": 1645,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "manuel-mascarenhas-homem-second-term",
+  "name": "Manuel Mascarenhas Homem (second term)",
+  "start": 1645,
+  "end": 1653,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "francisco-de-melo-de-castro",
+  "name": "Francisco de Melo de Castro",
+  "start": 1653,
+  "end": 1655,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "antonio-de-sousa-coutinho",
+  "name": "António de Sousa Coutinho",
+  "start": 1655,
+  "end": 1656,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "antonio-de-amaral-de-meneses",
+  "name": "António de Amaral de Meneses",
+  "start": 1656,
+  "end": 1658,
+  "role": "captain-general",
+  "polity": "portuguese",
+  "capitalPlaceId": "colombo",
+  "dateNote": "List of captains-general to be verified against Abeyasinghe (1966) and Queyroz."
+ },
+ {
+  "id": "willem-jacobszoon-coster",
+  "name": "Willem Jacobszoon Coster",
+  "start": 1640,
+  "end": 1640,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "galle",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "jan-thijssen-payart",
+  "name": "Jan Thijssen Payart",
+  "start": 1640,
+  "end": 1646,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "galle",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "joan-maetsuycker",
+  "name": "Joan Maetsuycker",
+  "start": 1646,
+  "end": 1650,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "galle",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "jacob-van-kittensteyn",
+  "name": "Jacob van Kittensteyn",
+  "start": 1650,
+  "end": 1653,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "galle",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "adriaan-van-der-meijden",
+  "name": "Adriaan van der Meijden",
+  "start": 1653,
+  "end": 1660,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "galle",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "rijcklof-van-goens",
+  "name": "Rijcklof van Goens",
+  "start": 1660,
+  "end": 1661,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "summary": "Led the conquest of the Portuguese territories.",
+  "dateNote": "Dates to be verified against VOC records.",
+  "wiki": "Rijcklof van Goens"
+ },
+ {
+  "id": "adriaan-van-der-meijden-second-term",
+  "name": "Adriaan van der Meijden (second term)",
+  "start": 1661,
+  "end": 1663,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "rijcklof-van-goens-second-term",
+  "name": "Rijcklof van Goens (second term)",
+  "start": 1663,
+  "end": 1675,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "rijcklof-van-goens-the-younger",
+  "name": "Rijcklof van Goens the Younger",
+  "start": 1675,
+  "end": 1679,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "laurens-pijl",
+  "name": "Laurens Pijl",
+  "start": 1679,
+  "end": 1692,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "thomas-van-rhee",
+  "name": "Thomas van Rhee",
+  "start": 1692,
+  "end": 1697,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "gerrit-de-heere",
+  "name": "Gerrit de Heere",
+  "start": 1697,
+  "end": 1702,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "cornelis-jan-simons",
+  "name": "Cornelis Jan Simons",
+  "start": 1703,
+  "end": 1707,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "hendrick-becker",
+  "name": "Hendrick Becker",
+  "start": 1707,
+  "end": 1716,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "isaac-augustijn-rumpf",
+  "name": "Isaac Augustijn Rumpf",
+  "start": 1716,
+  "end": 1723,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "johannes-hertenberg",
+  "name": "Johannes Hertenberg",
+  "start": 1723,
+  "end": 1725,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "joan-paul-schaghen",
+  "name": "Joan Paul Schaghen",
+  "start": 1725,
+  "end": 1726,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "petrus-vuyst",
+  "name": "Petrus Vuyst",
+  "start": 1726,
+  "end": 1729,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "summary": "Notorious for a reign of terror; recalled and executed in Batavia.",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "stephanus-versluys",
+  "name": "Stephanus Versluys",
+  "start": 1729,
+  "end": 1732,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "jacob-christiaan-pielat",
+  "name": "Jacob Christiaan Pielat",
+  "start": 1732,
+  "end": 1734,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "diederik-van-domburg",
+  "name": "Diederik van Domburg",
+  "start": 1734,
+  "end": 1736,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "gustaaf-willem-van-imhoff",
+  "name": "Gustaaf Willem van Imhoff",
+  "start": 1736,
+  "end": 1740,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "summary": "Later Governor-General of the Dutch East Indies.",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "willem-maurits-bruyninck",
+  "name": "Willem Maurits Bruyninck",
+  "start": 1740,
+  "end": 1742,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "daniel-overbeek",
+  "name": "Daniel Overbeek",
+  "start": 1742,
+  "end": 1743,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "julius-valentijn-stein-van-gollenesse",
+  "name": "Julius Valentijn Stein van Gollenesse",
+  "start": 1743,
+  "end": 1751,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "gerard-joan-vreelandt",
+  "name": "Gerard Joan Vreelandt",
+  "start": 1751,
+  "end": 1752,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "joan-gideon-loten",
+  "name": "Joan Gideon Loten",
+  "start": 1752,
+  "end": 1757,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "jan-schreuder",
+  "name": "Jan Schreuder",
+  "start": 1757,
+  "end": 1762,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "lubbert-jan-van-eck",
+  "name": "Lubbert Jan van Eck",
+  "start": 1762,
+  "end": 1765,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "summary": "Led the 1765 capture of Kandy.",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "anthony-mooyaart",
+  "name": "Anthony Mooyaart",
+  "start": 1765,
+  "end": 1765,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "iman-willem-falck",
+  "name": "Iman Willem Falck",
+  "start": 1765,
+  "end": 1785,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "summary": "Negotiated the 1766 treaty with Kandy; began cinnamon plantations.",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "willem-jacob-van-de-graaff",
+  "name": "Willem Jacob van de Graaff",
+  "start": 1785,
+  "end": 1794,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "johan-gerard-van-angelbeek",
+  "name": "Johan Gerard van Angelbeek",
+  "start": 1794,
+  "end": 1796,
+  "role": "governor",
+  "polity": "dutch",
+  "capitalPlaceId": "colombo",
+  "dateNote": "Dates to be verified against VOC records."
+ },
+ {
+  "id": "frederick-north",
+  "name": "Frederick North",
+  "start": 1798,
+  "end": 1805,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "First civil governor of Ceylon.",
+  "wiki": "Frederick North, 5th Earl of Guilford"
+ },
+ {
+  "id": "thomas-maitland",
+  "name": "Thomas Maitland",
+  "start": 1805,
+  "end": 1811,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "john-wilson-acting",
+  "name": "John Wilson (acting)",
+  "start": 1811,
+  "end": 1812,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "robert-brownrigg",
+  "name": "Robert Brownrigg",
+  "start": 1812,
+  "end": 1820,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "Annexed the Kandyan kingdom (1815) and suppressed the 1817-18 rebellion.",
+  "wiki": "Sir Robert Brownrigg, 1st Baronet"
+ },
+ {
+  "id": "edward-barnes",
+  "name": "Edward Barnes",
+  "start": 1820,
+  "end": 1831,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "Built the Colombo-Kandy road; acting 1820-22, governor 1824-31."
+ },
+ {
+  "id": "edward-paget",
+  "name": "Edward Paget",
+  "start": 1822,
+  "end": 1823,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "robert-wilmot-horton",
+  "name": "Robert Wilmot-Horton",
+  "start": 1831,
+  "end": 1837,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "Implemented the Colebrooke-Cameron reforms."
+ },
+ {
+  "id": "james-alexander-stewart-mackenzie",
+  "name": "James Alexander Stewart-Mackenzie",
+  "start": 1837,
+  "end": 1841,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "colin-campbell",
+  "name": "Colin Campbell",
+  "start": 1841,
+  "end": 1847,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "george-byng-7th-viscount-torrington",
+  "name": "George Byng, 7th Viscount Torrington",
+  "start": 1847,
+  "end": 1850,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "Governor during the 1848 rebellion; recalled."
+ },
+ {
+  "id": "george-william-anderson",
+  "name": "George William Anderson",
+  "start": 1850,
+  "end": 1855,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "henry-george-ward",
+  "name": "Henry George Ward",
+  "start": 1855,
+  "end": 1860,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "charles-justin-maccarthy",
+  "name": "Charles Justin MacCarthy",
+  "start": 1860,
+  "end": 1863,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "hercules-robinson",
+  "name": "Hercules Robinson",
+  "start": 1865,
+  "end": 1872,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "william-henry-gregory",
+  "name": "William Henry Gregory",
+  "start": 1872,
+  "end": 1877,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "Founded the Colombo Museum (1877)."
+ },
+ {
+  "id": "james-robert-longden",
+  "name": "James Robert Longden",
+  "start": 1877,
+  "end": 1883,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "arthur-hamilton-gordon",
+  "name": "Arthur Hamilton-Gordon",
+  "start": 1883,
+  "end": 1890,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "arthur-havelock",
+  "name": "Arthur Havelock",
+  "start": 1890,
+  "end": 1895,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "joseph-west-ridgeway",
+  "name": "Joseph West Ridgeway",
+  "start": 1896,
+  "end": 1903,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "henry-arthur-blake",
+  "name": "Henry Arthur Blake",
+  "start": 1903,
+  "end": 1907,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "henry-mccallum",
+  "name": "Henry McCallum",
+  "start": 1907,
+  "end": 1913,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "robert-chalmers",
+  "name": "Robert Chalmers",
+  "start": 1913,
+  "end": 1916,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "Governor during the 1915 riots and martial law."
+ },
+ {
+  "id": "john-anderson",
+  "name": "John Anderson",
+  "start": 1916,
+  "end": 1918,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "william-manning",
+  "name": "William Manning",
+  "start": 1918,
+  "end": 1925,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "hugh-clifford",
+  "name": "Hugh Clifford",
+  "start": 1925,
+  "end": 1927,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "herbert-stanley",
+  "name": "Herbert Stanley",
+  "start": 1927,
+  "end": 1931,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "graeme-thomson",
+  "name": "Graeme Thomson",
+  "start": 1931,
+  "end": 1933,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "reginald-stubbs",
+  "name": "Reginald Stubbs",
+  "start": 1933,
+  "end": 1937,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "andrew-caldecott",
+  "name": "Andrew Caldecott",
+  "start": 1937,
+  "end": 1944,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "henry-monck-mason-moore",
+  "name": "Henry Monck-Mason Moore",
+  "start": 1944,
+  "end": 1948,
+  "role": "governor",
+  "polity": "british",
+  "capitalPlaceId": "colombo",
+  "summary": "Last colonial governor; first Governor-General."
+ },
+ {
+  "id": "henry-monck-mason-moore-governor-general",
+  "name": "Henry Monck-Mason Moore (Governor-General)",
+  "start": 1948,
+  "end": 1949,
+  "role": "governor-general",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "herwald-ramsbotham-1st-viscount-soulbury",
+  "name": "Herwald Ramsbotham, 1st Viscount Soulbury",
+  "start": 1949,
+  "end": 1954,
+  "role": "governor-general",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo",
+  "summary": "Chaired the Soulbury Commission."
+ },
+ {
+  "id": "oliver-goonetilleke",
+  "name": "Oliver Goonetilleke",
+  "start": 1954,
+  "end": 1962,
+  "role": "governor-general",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo",
+  "summary": "First Ceylonese Governor-General."
+ },
+ {
+  "id": "william-gopallawa",
+  "name": "William Gopallawa",
+  "start": 1962,
+  "end": 1972,
+  "role": "governor-general",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo",
+  "summary": "Last Governor-General; then first President (1972-78)."
+ },
+ {
+  "id": "d-s-senanayake",
+  "name": "D. S. Senanayake",
+  "start": 1947,
+  "end": 1952,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo",
+  "wiki": "D. S. Senanayake"
+ },
+ {
+  "id": "dudley-senanayake",
+  "name": "Dudley Senanayake",
+  "start": 1952,
+  "end": 1953,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "john-kotelawala",
+  "name": "John Kotelawala",
+  "start": 1953,
+  "end": 1956,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "s-w-r-d-bandaranaike",
+  "name": "S. W. R. D. Bandaranaike",
+  "start": 1956,
+  "end": 1959,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo",
+  "wiki": "S. W. R. D. Bandaranaike"
+ },
+ {
+  "id": "wijeyananda-dahanayake",
+  "name": "Wijeyananda Dahanayake",
+  "start": 1959,
+  "end": 1960,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "dudley-senanayake-second-term",
+  "name": "Dudley Senanayake (second term)",
+  "start": 1960,
+  "end": 1960,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "sirimavo-bandaranaike",
+  "name": "Sirimavo Bandaranaike",
+  "start": 1960,
+  "end": 1965,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo",
+  "wiki": "Sirimavo Bandaranaike"
+ },
+ {
+  "id": "dudley-senanayake-third-term",
+  "name": "Dudley Senanayake (third term)",
+  "start": 1965,
+  "end": 1970,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "sirimavo-bandaranaike-second-term",
+  "name": "Sirimavo Bandaranaike (second term)",
+  "start": 1970,
+  "end": 1977,
+  "role": "prime-minister",
+  "polity": "dominion",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "j-r-jayewardene-pm",
+  "name": "J. R. Jayewardene (PM)",
+  "start": 1977,
+  "end": 1978,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "ranasinghe-premadasa-pm",
+  "name": "Ranasinghe Premadasa (PM)",
+  "start": 1978,
+  "end": 1989,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "colombo"
+ },
+ {
+  "id": "d-b-wijetunga-pm",
+  "name": "D. B. Wijetunga (PM)",
+  "start": 1989,
+  "end": 1993,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "ranil-wickremesinghe",
+  "name": "Ranil Wickremesinghe",
+  "start": 1993,
+  "end": 1994,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "chandrika-kumaratunga-pm",
+  "name": "Chandrika Kumaratunga (PM)",
+  "start": 1994,
+  "end": 1994,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "sirimavo-bandaranaike-third-term",
+  "name": "Sirimavo Bandaranaike (third term)",
+  "start": 1994,
+  "end": 2000,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "ratnasiri-wickremanayake",
+  "name": "Ratnasiri Wickremanayake",
+  "start": 2000,
+  "end": 2001,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "ranil-wickremesinghe-second-term",
+  "name": "Ranil Wickremesinghe (second term)",
+  "start": 2001,
+  "end": 2004,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "mahinda-rajapaksa-pm",
+  "name": "Mahinda Rajapaksa (PM)",
+  "start": 2004,
+  "end": 2005,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "ratnasiri-wickremanayake-second-term",
+  "name": "Ratnasiri Wickremanayake (second term)",
+  "start": 2005,
+  "end": 2010,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "d-m-jayaratne",
+  "name": "D. M. Jayaratne",
+  "start": 2010,
+  "end": 2015,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "ranil-wickremesinghe-third-term",
+  "name": "Ranil Wickremesinghe (third term)",
+  "start": 2015,
+  "end": 2019,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte",
+  "dateNote": "Ranil Wickremesinghe was briefly displaced by Mahinda Rajapaksa during the October-December 2018 constitutional crisis."
+ },
+ {
+  "id": "mahinda-rajapaksa-second-term-as-pm",
+  "name": "Mahinda Rajapaksa (second term as PM)",
+  "start": 2019,
+  "end": 2022,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "ranil-wickremesinghe-fourth-term",
+  "name": "Ranil Wickremesinghe (fourth term)",
+  "start": 2022,
+  "end": 2022,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "dinesh-gunawardena",
+  "name": "Dinesh Gunawardena",
+  "start": 2022,
+  "end": 2024,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "harini-amarasuriya",
+  "name": "Harini Amarasuriya",
+  "start": 2024,
+  "end": 2026,
+  "role": "prime-minister",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "william-gopallawa-president",
+  "name": "William Gopallawa (President)",
+  "start": 1972,
+  "end": 1978,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "colombo",
+  "summary": "Ceremonial president under the 1972 constitution."
+ },
+ {
+  "id": "j-r-jayewardene",
+  "name": "J. R. Jayewardene",
+  "start": 1978,
+  "end": 1989,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "colombo",
+  "summary": "First executive president.",
+  "wiki": "J. R. Jayewardene"
+ },
+ {
+  "id": "ranasinghe-premadasa",
+  "name": "Ranasinghe Premadasa",
+  "start": 1989,
+  "end": 1993,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte",
+  "summary": "Assassinated 1 May 1993.",
+  "wiki": "Ranasinghe Premadasa"
+ },
+ {
+  "id": "d-b-wijetunga",
+  "name": "D. B. Wijetunga",
+  "start": 1993,
+  "end": 1994,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "chandrika-kumaratunga",
+  "name": "Chandrika Kumaratunga",
+  "start": 1994,
+  "end": 2005,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte",
+  "summary": "First woman executive president.",
+  "wiki": "Chandrika Kumaratunga"
+ },
+ {
+  "id": "mahinda-rajapaksa",
+  "name": "Mahinda Rajapaksa",
+  "start": 2005,
+  "end": 2015,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte",
+  "summary": "President during the final phase of the war.",
+  "wiki": "Mahinda Rajapaksa"
+ },
+ {
+  "id": "maithripala-sirisena",
+  "name": "Maithripala Sirisena",
+  "start": 2015,
+  "end": 2019,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte",
+  "wiki": "Maithripala Sirisena"
+ },
+ {
+  "id": "gotabaya-rajapaksa",
+  "name": "Gotabaya Rajapaksa",
+  "start": 2019,
+  "end": 2022,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte",
+  "summary": "Resigned during the 2022 Aragalaya.",
+  "wiki": "Gotabaya Rajapaksa"
+ },
+ {
+  "id": "ranil-wickremesinghe-president",
+  "name": "Ranil Wickremesinghe (President)",
+  "start": 2022,
+  "end": 2024,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte"
+ },
+ {
+  "id": "anura-kumara-dissanayake",
+  "name": "Anura Kumara Dissanayake",
+  "start": 2024,
+  "end": 2026,
+  "role": "president",
+  "polity": "republic",
+  "capitalPlaceId": "kotte",
+  "summary": "First NPP/JVP president.",
+  "wiki": "Anura Kumara Dissanayake"
+ }
+]
