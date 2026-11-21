@@ -588,3 +588,12 @@ footer {
 .flyover-bar label { display: flex; gap: 6px; align-items: center; }
 .flyover-map { min-height: 0; }
 .flyover-note { font: 12px system-ui, sans-serif; color: var(--muted); padding: 6px 12px; }
+
+/* ---- primary text reader ---- */
+.reader { margin: 8px 0; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); max-height: 420px; overflow-y: auto; font-size: 14.5px; line-height: 1.6; }
+.reader-head { position: sticky; top: -10px; background: var(--bg); padding: 4px 0 6px; border-bottom: 1px solid var(--line); margin-bottom: 6px; }
+.reader-head a { color: var(--accent); }
+.reader p { margin: 6px 0; }
+.reader .verse sup { color: var(--accent); font: 600 10px system-ui, sans-serif; margin-right: 2px; }
+.reader .verse.hl { background: #fff1b8; border-radius: 4px; padding: 2px 4px; }
+@media (prefers-color-scheme: dark) { .reader .verse.hl { background: #4a3d10; } }

@@ -14,6 +14,7 @@ import {
   sourceById,
 } from '../lib/data'
 import { formatRange, formatYear } from '../lib/time'
+import { TextReader, loadTextIndex, type TextIndex } from './TextReader'
 
 /* ------------------------------------------------------------------ */
 /* Wikipedia card: further reading + media, never counted as evidence  */
@@ -104,7 +105,7 @@ export function ChronicleChips({ refs, onChapter }: { refs?: ChronicleRef[]; onC
   return (
     <div className="chron-chips">
       {refs.map((r, i) => (
-        <button key={i} className={`chip chron-${r.work}`} onClick={() => onChapter(chapterKey(r))} title={chapterByKey.get(chapterKey(r))?.title}>
+        <button key={i} className={`chip chron-${r.work}`} onClick={() => onChapter(chapterKey(r) + (r.verses ? `:${r.verses}` : ''))} title={chapterByKey.get(chapterKey(r))?.title}>
           📜 {CHRONICLE_META[r.work].label} {r.chapter}
           {r.verses && <>.{r.verses}</>}
         </button>
@@ -118,6 +119,10 @@ export function ChronicleChips({ refs, onChapter }: { refs?: ChronicleRef[]; onC
 /* ------------------------------------------------------------------ */
 
 const WORKS: ChronicleWork[] = ['dipavamsa', 'mahavamsa', 'culavamsa', 'rajavaliya', 'yalpana-vaipava-malai']
+const TRAVEL: { id: string; label: string }[] = [
+  { id: 'faxian', label: 'Faxian (Legge)' },
+  { id: 'knox', label: 'Knox 1681' },
+]
 
 export function ChroniclesPanel({
   focus,
@@ -132,15 +137,59 @@ export function ChroniclesPanel({
   onRuler: (id: string) => void
   onYear: (y: number) => void
 }) {
-  const [work, setWork] = useState<ChronicleWork>((focus?.split(':')[0] as ChronicleWork) ?? 'mahavamsa')
+  const [fw, fch, fverses] = (focus ?? '').split(':')
+  const focusKey = fw ? `${fw}:${fch}` : undefined
+  const [work, setWork] = useState<string>((fw as ChronicleWork) || 'mahavamsa')
+  const [open, setOpen] = useState<Set<string>>(new Set())
+  const [tindex, setTindex] = useState<TextIndex | null>(null)
   useEffect(() => {
-    if (focus) {
-      setWork(focus.split(':')[0] as ChronicleWork)
-      setTimeout(() => document.getElementById(`ch-${focus}`)?.scrollIntoView({ block: 'start' }), 50)
+    loadTextIndex().then(setTindex)
+  }, [])
+  useEffect(() => {
+    if (focusKey) {
+      setWork(fw)
+      setOpen((o) => new Set(o).add(focusKey))
+      setTimeout(() => document.getElementById(`ch-${focusKey}`)?.scrollIntoView({ block: 'start' }), 50)
     }
-  }, [focus])
+  }, [focus]) // eslint-disable-line react-hooks/exhaustive-deps
+  const hasText = (w: string, n: number) => !!tindex?.[w]?.chapters.some((c) => c.chapter === n)
+  const toggle = (k: string) => setOpen((o) => { const n = new Set(o); if (n.has(k)) n.delete(k); else n.add(k); return n })
+  if (TRAVEL.some((t) => t.id === work)) {
+    const ti = tindex?.[work]
+    return (
+      <div className="chronicles">
+        <h2>Primary texts</h2>
+        <div className="seg">
+          {WORKS.map((w) => (
+            <button key={w} onClick={() => setWork(w)}>
+              {CHRONICLE_META[w].label}
+            </button>
+          ))}
+          {TRAVEL.map((t) => (
+            <button key={t.id} className={t.id === work ? 'on' : ''} onClick={() => setWork(t.id)}>
+              {t.label}
+            </button>
+          ))}
+        </div>
+        {ti?.chapters.map((c) => {
+          const k = `${work}:${c.chapter}`
+          return (
+            <section key={k} className="chapter">
+              <h3 className="chapter-title">
+                <span className="chapter-no">{c.chapter}</span> {c.title}
+              </h3>
+              <button className="chip small" onClick={() => toggle(k)}>
+                📖 {open.has(k) ? 'Hide text' : 'Read text'}
+              </button>
+              {open.has(k) && <TextReader work={work} chapter={c.chapter} />}
+            </section>
+          )
+        })}
+      </div>
+    )
+  }
   const list = chapters.filter((c) => c.work === work).sort((a, b) => a.chapter - b.chapter)
-  const meta = CHRONICLE_META[work]
+  const meta = CHRONICLE_META[work as ChronicleWork]
   const src = meta.sourceId ? sourceById.get(meta.sourceId) : undefined
   return (
     <div className="chronicles">
@@ -151,6 +200,11 @@ export function ChroniclesPanel({
             {CHRONICLE_META[w].label}
           </button>
         ))}
+        {TRAVEL.map((t) => (
+          <button key={t.id} onClick={() => setWork(t.id)}>
+            {t.label}
+          </button>
+        ))}
       </div>
       <p>
         <strong>{meta.label}</strong> ({meta.span}). {meta.description}
@@ -159,14 +213,15 @@ export function ChroniclesPanel({
       <p className="note">
         The vamsas are Buddhist monastic histories with a Mahavihara viewpoint, and are most reliable for the periods closest to when each part was written. Where possible, read them against inscriptions and
         archaeology.
-        {work !== 'mahavamsa' && ' The chapter boundaries and summaries for this chronicle are approximate; check them against the edition.'}
+        {!['mahavamsa', 'dipavamsa'].includes(work) && ' The chapter boundaries and summaries for this chronicle are approximate; check them against the edition.'}
+        {['mahavamsa', 'dipavamsa'].includes(work) && ' Chapter titles and summaries have been checked against the public-domain text, which you can read below.'}
       </p>
       {list.map((c) => {
         const k = chapterKey(c)
         const l = chapterLinks.get(k)
         const y = chapterYear(k)
         return (
-          <section key={k} id={`ch-${k}`} className={`chapter${focus === k ? ' focus' : ''}`}>
+          <section key={k} id={`ch-${k}`} className={`chapter${focusKey === k ? ' focus' : ''}`}>
             <h3 className="chapter-title">
               <span className="chapter-no">{c.chapter}</span> {c.title}
             </h3>
@@ -175,7 +230,13 @@ export function ChroniclesPanel({
               <button className="chip" onClick={() => onYear(y)}>
                 ⏱ Go to {formatYear(y)}
               </button>
+            )}{' '}
+            {hasText(work, c.chapter) && (
+              <button className="chip" onClick={() => toggle(k)}>
+                📖 {open.has(k) ? 'Hide text' : 'Read text'}
+              </button>
             )}
+            {open.has(k) && <TextReader work={work} chapter={c.chapter} verses={focusKey === k ? fverses : undefined} />}
             {l && (
               <div className="chapter-links">
                 {l.rulers.length > 0 && (
