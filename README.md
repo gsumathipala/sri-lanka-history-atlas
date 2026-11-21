@@ -1,5 +1,7 @@
 # Lanka Through Time
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24427114.svg)](https://doi.org/10.5281/zenodo.24427114)
+
 An evidence-based, interactive historical atlas of Sri Lanka, from the Palaeolithic (c. 125,000 BP) to the present.
 
 **Live site:** https://gsumathipala.github.io/sri-lanka-history-atlas/
@@ -67,3 +69,9 @@ Before any public launch, use a commercial or self-hosted tile provider (e.g. Ma
 ### 3D flyover limits
 
 The flyover uses free elevation data (AWS Terrain Tiles, about 30 m resolution). Rocks, hills and escarpments (Sigiriya, Mihintale, Sri Pada, Dambulla, Ritigala) appear in 3D, but buildings and stupas appear only as imagery. True 3D monument models would need Google Photorealistic 3D Tiles (paid API key, via CesiumJS or deck.gl; coverage in Sri Lanka is limited) or photogrammetry from the Department of Archaeology or the Central Cultural Fund.
+
+## How to cite
+
+Sumathipala, S. (2026). *Lanka Through Time: an evidence-based historical atlas of Sri Lanka* (dataset and software). Zenodo. https://doi.org/10.5281/zenodo.24427114
+
+This DOI always resolves to the latest version. Each release also has its own DOI (v0.1.0: https://doi.org/10.5281/zenodo.24427115). Individual entries can be cited with the app's "Cite this entry" button.

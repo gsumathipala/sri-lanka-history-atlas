@@ -6,6 +6,16 @@ authors:
   - family-names: Sumathipala
     given-names: Saranga
 version: 0.1.0
+doi: 10.5281/zenodo.24427114
+url: "https://gsumathipala.github.io/sri-lanka-history-atlas/"
+repository-code: "https://github.com/gsumathipala/sri-lanka-history-atlas"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24427114
+    description: Concept DOI (all versions)
+  - type: doi
+    value: 10.5281/zenodo.24427115
+    description: Version 0.1.0
 date-released: 2026-11-22
 license: CC-BY-4.0
 keywords: [Sri Lanka, history, archaeology, Mahavamsa, Dipavamsa, Culavamsa, historical GIS, digital humanities]
