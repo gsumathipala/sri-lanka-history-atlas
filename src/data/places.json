@@ -115,7 +115,9 @@
   ],
   "wikidata": "Q5724",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img11%20Ruwanwelisaya%20Stupa.jpg",
-  "coordSource": "wikidata:Q5724"
+  "coordSource": "wikidata:Q5724",
+  "nameSi": "අනුරාධපුරය",
+  "nameTa": "அனுராதபுரம்"
  },
  {
   "id": "mihintale",
@@ -178,7 +180,9 @@
    }
   ],
   "wikidata": "Q1478212",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mihintale%20-%20Stupa%20Ambasthala%20i%20Buda.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mihintale%20-%20Stupa%20Ambasthala%20i%20Buda.jpg",
+  "nameSi": "මිහින්තලේ",
+  "nameTa": "மிகிந்தலை"
  },
  {
   "id": "tambapanni",
@@ -233,7 +237,9 @@
   ],
   "wikidata": "Q19718381",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahiyangana%20Dagoba.jpg",
-  "coordSource": "wikidata:Q19718381"
+  "coordSource": "wikidata:Q19718381",
+  "nameSi": "මහියංගණය",
+  "nameTa": "மகியங்கனை"
  },
  {
   "id": "nagadipa",
@@ -279,7 +285,9 @@
   ],
   "wikidata": "Q6958314",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nainathivunakaviharai%202.jpg",
-  "coordSource": "wikidata:Q6958314"
+  "coordSource": "wikidata:Q6958314",
+  "nameSi": "නාගදීපය",
+  "nameTa": "நயினாதீவு"
  },
  {
   "id": "kelaniya",
@@ -337,7 +345,9 @@
   ],
   "wikidata": "Q3610575",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelaniya%20AS1.JPG",
-  "coordSource": "wikidata:Q3610575"
+  "coordSource": "wikidata:Q3610575",
+  "nameSi": "කැලණිය",
+  "nameTa": "களனி"
  },
  {
   "id": "dambulla",
@@ -369,7 +379,9 @@
   "wiki": "Dambulla cave temple",
   "wikidata": "Q45690",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dambulla-temple%20daurat1.jpg",
-  "coordSource": "wikidata:Q45690"
+  "coordSource": "wikidata:Q45690",
+  "nameSi": "දඹුල්ල",
+  "nameTa": "தம்புள்ளை"
  },
  {
   "id": "tissamaharama",
@@ -415,7 +427,9 @@
   ],
   "wikidata": "Q16996741",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissamaharama%20Stupa.JPG",
-  "coordSource": "wikidata:Q16996741"
+  "coordSource": "wikidata:Q16996741",
+  "nameSi": "තිස්සමහාරාමය",
+  "nameTa": "திஸ்ஸமஹாராமை"
  },
  {
   "id": "aluvihare",
@@ -459,7 +473,9 @@
   ],
   "wikidata": "Q19700397",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matale%20aluviharaya.jpg",
-  "coordSource": "wikidata:Q19700397"
+  "coordSource": "wikidata:Q19700397",
+  "nameSi": "අලුවිහාරය",
+  "nameTa": "அலுவிகாரை"
  },
  {
   "id": "mantai",
@@ -484,7 +500,9 @@
   ],
   "wiki": "Ketheeswaram temple",
   "wikidata": "Q6395391",
-  "coordSource": "wikidata:Q6395391"
+  "coordSource": "wikidata:Q6395391",
+  "nameSi": "මාන්තොට",
+  "nameTa": "மாதோட்டம்"
  },
  {
   "id": "kalawewa",
@@ -566,7 +584,9 @@
   ],
   "wikidata": "Q272153",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20of%20Sigiriya%20by%20Binuka.jpg",
-  "coordSource": "wikidata:Q272153"
+  "coordSource": "wikidata:Q272153",
+  "nameSi": "සීගිරිය",
+  "nameTa": "சிகிரியா"
  },
  {
   "id": "polonnaruwa",
@@ -605,7 +625,9 @@
   ],
   "wikidata": "Q394443",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polonnaruwa%2002.jpg",
-  "coordSource": "wikidata:Q394443"
+  "coordSource": "wikidata:Q394443",
+  "nameSi": "පොළොන්නරුව",
+  "nameTa": "பொலன்னறுவை"
  },
  {
   "id": "parakrama-samudra",
@@ -678,7 +700,9 @@
    }
   ],
   "wikidata": "Q1021154",
-  "coordSource": "wikidata:Q1021154"
+  "coordSource": "wikidata:Q1021154",
+  "nameSi": "දඹදෙණිය",
+  "nameTa": "தம்பதெனியா"
  },
  {
   "id": "yapahuwa",
@@ -713,7 +737,9 @@
   ],
   "wikidata": "Q3522473",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yapahuwa%20Lion.jpg",
-  "coordSource": "wikidata:Q3522473"
+  "coordSource": "wikidata:Q3522473",
+  "nameSi": "යාපහුව",
+  "nameTa": "யாப்பகுவ"
  },
  {
   "id": "kurunegala",
@@ -721,7 +747,9 @@
   "lat": 7.4867,
   "lng": 80.3647,
   "precision": "approximate",
-  "kind": "city"
+  "kind": "city",
+  "nameSi": "කුරුණෑගල",
+  "nameTa": "குருணாகல்"
  },
  {
   "id": "gampola",
@@ -729,7 +757,9 @@
   "lat": 7.1642,
   "lng": 80.5767,
   "precision": "approximate",
-  "kind": "city"
+  "kind": "city",
+  "nameSi": "ගම්පොළ",
+  "nameTa": "கம்பளை"
  },
  {
   "id": "jaffna",
@@ -740,7 +770,9 @@
   "lat": 9.6615,
   "lng": 80.0255,
   "precision": "approximate",
-  "kind": "city"
+  "kind": "city",
+  "nameSi": "යාපනය",
+  "nameTa": "யாழ்ப்பாணம்"
  },
  {
   "id": "nallur",
@@ -761,7 +793,9 @@
     "sourceId": "indrapala2005"
    }
   ],
-  "wiki": "Nallur Kandaswamy Kovil"
+  "wiki": "Nallur Kandaswamy Kovil",
+  "nameSi": "නල්ලූර්",
+  "nameTa": "நல்லூர்"
  },
  {
   "id": "puttalam",
@@ -818,7 +852,9 @@
    }
   ],
   "wikidata": "Q60789",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam%27s%20Peak%20-%20February%202020%20%284%29.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam%27s%20Peak%20-%20February%202020%20%284%29.jpg",
+  "nameSi": "ශ්‍රී පාදය",
+  "nameTa": "சிவனொளிபாத மலை"
  },
  {
   "id": "galle",
@@ -837,7 +873,9 @@
   "wiki": "Galle Fort",
   "wikidata": "Q2507050",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Galle%20Fort%20asv2020-01%20img23.jpg",
-  "coordSource": "wikidata:Q2507050"
+  "coordSource": "wikidata:Q2507050",
+  "nameSi": "ගාල්ල",
+  "nameTa": "காலி"
  },
  {
   "id": "kotte",
@@ -867,7 +905,9 @@
   ],
   "wikidata": "Q41963",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fountain%20at%20Diyatha%20Uyana.JPG",
-  "coordSource": "wikidata:Q41963"
+  "coordSource": "wikidata:Q41963",
+  "nameSi": "කෝට්ටේ",
+  "nameTa": "கோட்டை"
  },
  {
   "id": "sitawaka",
@@ -944,7 +984,9 @@
    }
   ],
   "wikidata": "Q289175",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kandy%20asv2020-01%20img33%20Sacred%20Tooth%20Temple.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kandy%20asv2020-01%20img33%20Sacred%20Tooth%20Temple.jpg",
+  "nameSi": "මහනුවර",
+  "nameTa": "கண்டி"
  },
  {
   "id": "colombo",
@@ -952,7 +994,9 @@
   "lat": 6.9344,
   "lng": 79.8428,
   "precision": "exact",
-  "kind": "city"
+  "kind": "city",
+  "nameSi": "කොළඹ",
+  "nameTa": "கொழும்பு"
  },
  {
   "id": "mulleriyawa",
@@ -984,7 +1028,9 @@
   "lat": 8.5778,
   "lng": 81.2336,
   "precision": "exact",
-  "kind": "city"
+  "kind": "city",
+  "nameSi": "ත්‍රිකුණාමලය",
+  "nameTa": "திருகோணமலை"
  },
  {
   "id": "badulla",
@@ -1056,7 +1102,9 @@
   "lat": 7.717,
   "lng": 81.7,
   "precision": "approximate",
-  "kind": "city"
+  "kind": "city",
+  "nameSi": "මඩකලපුව",
+  "nameTa": "மட்டக்களப்பு"
  },
  {
   "id": "negombo",
@@ -1259,7 +1307,9 @@
   ],
   "wikidata": "Q840346",
   "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Lanka-Trincomalee-Tempel.JPG",
-  "coordSource": "wikidata:Q840346"
+  "coordSource": "wikidata:Q840346",
+  "nameSi": "කෝනේශ්වරම්",
+  "nameTa": "திருக்கோணேச்சரம்"
  },
  {
   "id": "dondra",
@@ -1318,7 +1368,9 @@
   "lat": 8.977,
   "lng": 79.911,
   "precision": "approximate",
-  "kind": "city"
+  "kind": "city",
+  "nameSi": "මන්නාරම",
+  "nameTa": "மன்னார்"
  },
  {
   "id": "mavil-aru",
@@ -1388,7 +1440,9 @@
    }
   ],
   "wikidata": "Q944175",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img05%20Jaya%20Sri%20Maha%20Bodhi.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img05%20Jaya%20Sri%20Maha%20Bodhi.jpg",
+  "nameSi": "ජය ශ්‍රී මහා බෝධිය",
+  "nameTa": "ஜய ஸ்ரீ மகா போதி"
  },
  {
   "id": "ruwanwelisaya",
@@ -1470,7 +1524,9 @@
    }
   ],
   "wikidata": "Q3534755",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruwanweli%20Saya%201.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruwanweli%20Saya%201.jpg",
+  "nameSi": "රුවන්වැලිසෑය",
+  "nameTa": "ருவன்வெலிசாய"
  },
  {
   "id": "thuparamaya",
@@ -1523,7 +1579,9 @@
    }
   ],
   "wikidata": "Q7799227",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img34%20Thuparamaya%20Stupa.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img34%20Thuparamaya%20Stupa.jpg",
+  "nameSi": "ථූපාරාමය",
+  "nameTa": "தூபாராமய"
  },
  {
   "id": "lovamahapaya",
@@ -1609,7 +1667,9 @@
     "work": "mahavamsa",
     "chapter": 33
    }
-  ]
+  ],
+  "nameSi": "අභයගිරිය",
+  "nameTa": "அபயகிரி"
  },
  {
   "id": "jetavanaramaya",
@@ -1652,7 +1712,9 @@
    }
   ],
   "wikidata": "Q1961579",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img24%20Jetavanaramaya%20Stupa.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img24%20Jetavanaramaya%20Stupa.jpg",
+  "nameSi": "ජේතවනාරාමය",
+  "nameTa": "ஜேதவனாராமய"
  },
  {
   "id": "mirisaveti",
@@ -4051,7 +4113,9 @@
   "wiki": "Kataragama temple",
   "coordSource": "wikidata:Q15234273",
   "wikidata": "Q15234273",
-  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kataragama%20Maha%20Devale.jpg"
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kataragama%20Maha%20Devale.jpg",
+  "nameSi": "කතරගම දේවාලය",
+  "nameTa": "கதிர்காமம்"
  },
  {
   "id": "dematamal",

@@ -6,6 +6,8 @@
  * to its weight, not to its duration.
  */
 
+import { tr } from './i18n'
+
 export const MIN_YEAR = -128050 // c. 130,000 BP
 export const MAX_YEAR = 2026
 
@@ -64,9 +66,9 @@ export function formatYear(year: number): string {
     const rounded = bp > 20000 ? Math.round(bp / 1000) * 1000 : Math.round(bp / 100) * 100
     return `${rounded.toLocaleString('en-GB')} BP`
   }
-  if (y < 0) return `${(-y).toLocaleString('en-GB')} BCE`
-  if (y === 0) return '1 CE'
-  return y < 1000 ? `${y} CE` : `${y}`
+  if (y < 0) return `${(-y).toLocaleString('en-GB')} ${tr('bce')}`
+  if (y === 0) return `1 ${tr('ce')}`
+  return y < 1000 ? `${y} ${tr('ce')}` : `${y}`
 }
 
 export function formatRange(start: number, end?: number): string {

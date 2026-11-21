@@ -2,6 +2,8 @@ import { Suspense, lazy, useEffect, useMemo, useState } from 'react'
 import type { Category, Confidence } from './types'
 import { CATEGORY_META, CONFIDENCE_META, POLITY_META, ROLE_LABEL, eventById, events, periods, placeById, regions, relicById, rulerById, rulers, rulersAt, sites } from './lib/data'
 import { formatYear, posToYear, yearToPos } from './lib/time'
+import { LANGS, setLang, getLang, useT, type Lang } from './lib/i18n'
+import { catLabel, confLabel } from './lib/data'
 import Timeline from './components/Timeline'
 import MapView from './components/MapView'
 import { About, Bibliography, EventDetail, EventList, EventRow, PlaceDetail } from './components/Panels'
@@ -21,6 +23,7 @@ function readHash() {
 }
 
 export default function App() {
+  const t = useT()
   const initial = readHash()
   const initialEvent = initial.event ? eventById.get(initial.event) : undefined
   const initialRuler = initial.ruler ? rulerById.get(initial.ruler) : undefined
@@ -169,8 +172,8 @@ export default function App() {
     <div className="app">
       <header>
         <div className="brand">
-          <h1>Lanka Through Time</h1>
-          <span className="sub">An evidence-based historical atlas of Sri Lanka</span>
+          <h1>{t('title')}</h1>
+          <span className="sub">{t('subtitle')}</span>
         </div>
         <div className="now">
           <div className="now-year">{formatYear(year)}</div>
@@ -183,18 +186,25 @@ export default function App() {
             ))}
           </div>
         </div>
-        <input className="search" type="search" placeholder="Search events, people, places…" value={query} onChange={(e) => setQuery(e.target.value)} aria-label="Search" />
+        <input className="search" type="search" placeholder={t('search')} value={query} onChange={(e) => setQuery(e.target.value)} aria-label="Search" />
         <nav>
           {(['list', 'tours', 'rulers', 'relics', 'chronicles', 'sources', 'about'] as Panel[]).map((p) => (
             <button key={p} className={panel === p || (p === 'rulers' && panel === 'ruler') || (p === 'relics' && panel === 'relic') || (p === 'tours' && panel === 'tour') ? 'on' : ''} onClick={() => setPanel(p)}>
-              {{ list: 'In view', tours: 'Tours', rulers: 'Rulers', relics: 'Relics', chronicles: 'Chronicles', sources: 'Sources', about: 'About' }[p as string]}
+              {t(`tab_${p}` as 'tab_list')}
             </button>
           ))}
         </nav>
+        <select className="lang" value={getLang()} onChange={(e) => setLang(e.target.value as Lang)} aria-label="Language">
+          {LANGS.map((l) => (
+            <option key={l.id} value={l.id}>
+              {l.label}
+            </option>
+          ))}
+        </select>
       </header>
 
       <div className="banner" role="note">
-        Seed dataset: all {events.length} entries are <strong>unreviewed drafts</strong>. They cite standard scholarly works, but locators and figures still need checking against the sources.
+        {t('banner')}
       </div>
 
       <main>
@@ -202,33 +212,33 @@ export default function App() {
           <MapView events={inWindow} selected={panel === 'event' ? selected : undefined} selectedPlaceId={placeId} capitals={capitals} sites={visibleSites} regions={visibleRegions} relic={relic} relicCurrent={relicCurrent} onPlace={selectPlace} />
           <div className={`legend${legendOpen ? '' : ' collapsed'}`}>
             <button className="legend-toggle" onClick={() => setLegendOpen(!legendOpen)}>
-              {legendOpen ? '▾ Hide filters' : '▸ Layers & filters'}
+              {legendOpen ? t('filters_hide') : t('filters_show')}
             </button>
             <label className={showSites ? 'span2' : 'span2 off'}>
               <input type="checkbox" checked={showSites} onChange={(e) => setShowSites(e.target.checked)} />
-              <span>▲ ☸ ◆ ☾ ✝ ▣</span> Sacred & historic sites ({visibleSites.length})
+              <span>▲ ☸ ◆ ☾ ✝ ▣</span> {t('sites')} ({visibleSites.length})
             </label>
             <label className={showUndated ? 'span2' : 'span2 off'} title="Sites imported from Wikidata without a founding date are hidden unless this is on (or 'All time' is ticked)">
               <input type="checkbox" checked={showUndated} onChange={(e) => setShowUndated(e.target.checked)} />
-              <span>◌</span> Undated imported sites ({sites.filter((x) => x.importedFrom && x.founded === undefined).length})
+              <span>◌</span> {t('undated')} ({sites.filter((x) => x.importedFrom && x.founded === undefined).length})
             </label>
             <label className={showRegions ? 'span2' : 'span2 off'}>
               <input type="checkbox" checked={showRegions} onChange={(e) => setShowRegions(e.target.checked)} />
-              <span>▱</span> Kingdom boundaries, schematic ({visibleRegions.length})
+              <span>▱</span> {t('boundaries')} ({visibleRegions.length})
             </label>
             <hr />
             {ALL_CATS.map((c) => (
               <label key={c} className={cats.has(c) ? '' : 'off'}>
                 <input type="checkbox" checked={cats.has(c)} onChange={() => toggle(cats, c, setCats)} />
                 <span className="dot" style={{ background: CATEGORY_META[c].color }} />
-                {CATEGORY_META[c].label}
+                {catLabel(c)}
               </label>
             ))}
             <hr />
             {ALL_CONF.map((c) => (
               <label key={c} className={confs.has(c) ? '' : 'off'}>
                 <input type="checkbox" checked={confs.has(c)} onChange={() => toggle(confs, c, setConfs)} />
-                <span className={`badge conf-${c}`}>{CONFIDENCE_META[c].label}</span>
+                <span className={`badge conf-${c}`}>{confLabel(c)}</span>
               </label>
             ))}
           </div>
@@ -311,7 +321,7 @@ export default function App() {
       <footer>
         <div className="controls">
           <button onClick={() => setPlaying(!playing)} aria-label={playing ? 'Pause' : 'Play through time'}>
-            {playing ? '❚❚ Pause' : '▶ Travel'}
+            {playing ? t('pause') : t('travel')}
           </button>
           <button onClick={() => setPos(pos - 0.01)} aria-label="Step back">
             ◀
@@ -320,13 +330,13 @@ export default function App() {
             ▶
           </button>
           <label>
-            Window
+            {t('window')}
             <input type="range" min={0.005} max={0.12} step={0.005} value={windowHalf} onChange={(e) => setWindowHalf(+e.target.value)} disabled={showAll} />
           </label>
           <label>
-            <input type="checkbox" checked={showAll} onChange={(e) => setShowAll(e.target.checked)} /> All time
+            <input type="checkbox" checked={showAll} onChange={(e) => setShowAll(e.target.checked)} /> {t('alltime')}
           </label>
-          <span className="muted small">Drag the timeline, or use the arrow keys, to move through time.</span>
+          <span className="muted small">{t('hint')}</span>
         </div>
         <Timeline pos={pos} windowHalf={windowHalf} showAll={showAll} events={filtered} selectedId={selectedId} onPos={setPos} onSelect={selectEvent} onRuler={selectRuler} />
       </footer>

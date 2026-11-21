@@ -58,6 +58,9 @@ export interface Place {
   id: string
   name: string
   altNames?: string[]
+  /** Sinhala and Tamil names */
+  nameSi?: string
+  nameTa?: string
   lat: number
   lng: number
   /** How precisely the coordinates locate the place. */

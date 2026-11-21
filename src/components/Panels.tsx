@@ -12,6 +12,8 @@ import {
 } from '../lib/data'
 import { formatRange, formatYear } from '../lib/time'
 import { ChronicleChips, WikiCard } from './Knowledge'
+import { useT } from '../lib/i18n'
+import { catLabel, confLabel } from '../lib/data'
 import { CiteEntry, ReviewBox, exportBibtex, exportCsl, exportReviews, localReviewCount } from './Review'
 import { RELIGION_COLOR, SITE_SYMBOL, reconByPlace, rulers } from '../lib/data'
 
@@ -20,7 +22,7 @@ const dateOf = (e: HistEvent) => e.dateLabel ?? formatRange(e.start, e.end)
 export function ConfidenceBadge({ c }: { c: HistEvent['confidence'] }) {
   return (
     <span className={`badge conf-${c}`} title={CONFIDENCE_META[c].description}>
-      {CONFIDENCE_META[c].label}
+      {confLabel(c)}
     </span>
   )
 }
@@ -52,11 +54,12 @@ export function EventList({ events, onSelect, heading }: { events: HistEvent[]; 
 }
 
 export function EventDetail({ e, onPlace, onSource, onSelect, onChapter }: { e: HistEvent; onPlace: (id: string) => void; onSource: (id: string) => void; onSelect: (id: string) => void; onChapter: (k: string) => void }) {
+  const t = useT()
   const related = [...new Set(e.placeIds.flatMap((p) => eventsByPlace.get(p) ?? []))].filter((x) => x.id !== e.id).slice(0, 8)
   return (
     <article className="detail">
       <div className="detail-cat" style={{ color: CATEGORY_META[e.category].color }}>
-        {CATEGORY_META[e.category].label}
+        {catLabel(e.category)}
       </div>
       <h2>{e.title}</h2>
       <div className="detail-date">
@@ -83,7 +86,7 @@ export function EventDetail({ e, onPlace, onSource, onSelect, onChapter }: { e: 
         })}
       </div>
 
-      <h3>Evidence</h3>
+      <h3>{t('evidence')}</h3>
       <ol className="evidence">
         {e.evidence.map((ev, i) => {
           const s = sourceById.get(ev.sourceId)
@@ -106,7 +109,7 @@ export function EventDetail({ e, onPlace, onSource, onSelect, onChapter }: { e: 
 
       {e.perspectives && (
         <>
-          <h3>Perspectives</h3>
+          <h3>{t('perspectives')}</h3>
           <ul className="perspectives">
             {e.perspectives.map((p, i) => (
               <li key={i}>
@@ -124,26 +127,26 @@ export function EventDetail({ e, onPlace, onSource, onSelect, onChapter }: { e: 
 
       {e.historiography && (
         <>
-          <h3>Historiography & caveats</h3>
+          <h3>{t('historiography')}</h3>
           <p className="historiography">{e.historiography}</p>
         </>
       )}
 
       {e.chronicle && (
         <>
-          <h3>In the chronicles</h3>
+          <h3>{t('inchronicles')}</h3>
           <ChronicleChips refs={e.chronicle} onChapter={onChapter} />
         </>
       )}
 
       {e.review.notes && <p className="note">Reviewer note: {e.review.notes}</p>}
 
-      <h3>Media & further reading</h3>
+      <h3>{t('media')}</h3>
       <WikiCard title={e.wiki} query={`${e.title} Sri Lanka`} />
 
       {related.length > 0 && (
         <>
-          <h3>Also at these places</h3>
+          <h3>{t('alsohere')}</h3>
           {related.map((r) => (
             <EventRow key={r.id} e={r} onSelect={onSelect} />
           ))}
@@ -164,10 +167,17 @@ export function PlaceDetail({ id, onSelect, onChapter, onRuler, onSource, onFlyo
   if (!p) return null
   const evs = eventsByPlace.get(id) ?? []
   const seatOf = rulers.filter((r) => r.capitalPlaceId === id)
+  const t = useT()
   return (
     <article className="detail">
       <div className="detail-cat">Place</div>
       <h2>{p.name}</h2>
+      {(p.nameSi || p.nameTa) && (
+        <p className="native-names">
+          {p.nameSi && <span lang="si">{p.nameSi}</span>}
+          {p.nameTa && <span lang="ta">{p.nameTa}</span>}
+        </p>
+      )}
       {p.altNames && <p className="muted">Also: {p.altNames.join(', ')}</p>}
       {p.image && (
         <figure className="site-photo">
@@ -228,7 +238,7 @@ export function PlaceDetail({ id, onSelect, onChapter, onRuler, onSource, onFlyo
       {p.description && <p>{p.description}</p>}
       {p.stories && (
         <>
-          <h3>Stories</h3>
+          <h3>{t('stories')}</h3>
           {p.stories.map((st, i) => (
             <div key={i} className="story">
               <div className="story-head">
@@ -264,7 +274,7 @@ export function PlaceDetail({ id, onSelect, onChapter, onRuler, onSource, onFlyo
       ))}
       {p.kind !== 'region' && (
         <>
-          <h3>Media & further reading</h3>
+          <h3>{t('media')}</h3>
           <WikiCard title={p.wiki} query={`${p.name.replace(/\(.*\)/, '')} Sri Lanka`} name={p.name.replace(/\(.*\)/, '').trim().split(/[ ,]/)[0]} />
         </>
       )}

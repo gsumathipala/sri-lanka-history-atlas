@@ -6,7 +6,7 @@
   --line: #e4ddd2;
   --accent: #8a3b12;
   --window: rgba(138, 59, 18, 0.1);
-  font-family: 'Source Serif 4', Georgia, 'Iowan Old Style', serif;
+  font-family: 'Source Serif 4', Georgia, 'Iowan Old Style', 'Noto Serif Sinhala', 'Noto Sans Sinhala', 'Noto Serif Tamil', 'Noto Sans Tamil', serif;
   color: var(--fg);
   background: var(--bg);
 }
@@ -624,3 +624,6 @@ footer {
 .tour-steps { padding-left: 20px; font-size: 14px; }
 .tour-steps li.current a { font-weight: 700; }
 .tour-steps a { color: var(--accent); }
+
+.lang { font: 13px system-ui, 'Noto Sans Sinhala', 'Noto Sans Tamil', sans-serif; padding: 4px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--fg); }
+.native-names { display: flex; gap: 14px; font-size: 17px; margin: -4px 0 6px; color: var(--accent); }

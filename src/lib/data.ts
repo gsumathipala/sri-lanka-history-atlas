@@ -1,3 +1,4 @@
+import { tr, type StrKey } from './i18n'
 import type { Category, ChronicleChapter, ChronicleRef, ChronicleWork, Confidence, EvidenceType, HistEvent, Period, Place, Reconstruction, Region, Relic, Ruler, RulerRole, Source } from '../types'
 import sourcesJson from '../data/sources.json'
 import placesJson from '../data/places.json'
@@ -169,3 +170,6 @@ for (const r of relics) for (const st of r.stations) link(st.chronicle, (l) => {
 
 export const reconstructions = reconJson as unknown as Reconstruction[]
 export const reconByPlace = new Map(reconstructions.map((r) => [r.placeId, r]))
+
+export const catLabel = (c: Category) => tr(`cat_${c}` as StrKey)
+export const confLabel = (c: Confidence) => tr(`conf_${c}` as StrKey)
