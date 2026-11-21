@@ -12,6 +12,7 @@ import {
 } from '../lib/data'
 import { formatRange, formatYear } from '../lib/time'
 import { ChronicleChips, WikiCard } from './Knowledge'
+import { CiteEntry, ReviewBox, exportBibtex, exportCsl, exportReviews, localReviewCount } from './Review'
 import { RELIGION_COLOR, SITE_SYMBOL, reconByPlace, rulers } from '../lib/data'
 
 const dateOf = (e: HistEvent) => e.dateLabel ?? formatRange(e.start, e.end)
@@ -148,6 +149,9 @@ export function EventDetail({ e, onPlace, onSource, onSelect, onChapter }: { e: 
           ))}
         </>
       )}
+      <h3>Cite & review</h3>
+      <CiteEntry e={e} />
+      <ReviewBox e={e} />
       <p className="permalink">
         Permalink: <code>#event={e.id}</code>
       </p>
@@ -273,6 +277,17 @@ export function Bibliography({ focus, onSelect }: { focus?: string; onSelect: (i
   return (
     <div className="bibliography">
       <h2>Bibliography ({sources.length})</h2>
+      <div className="bib-actions">
+        <button className="chip" onClick={() => exportBibtex()}>
+          ⬇ BibTeX
+        </button>
+        <button className="chip" onClick={() => exportCsl()}>
+          ⬇ CSL-JSON (Zotero)
+        </button>
+        <button className="chip" onClick={exportReviews}>
+          ⬇ Export my reviews ({localReviewCount()})
+        </button>
+      </div>
       <p className="muted">Each source is linked to the events that cite it. Primary sources are editions or translations of original texts, inscriptions and documents.</p>
       {sorted.map((s) => {
         const evs = eventsBySource.get(s.id) ?? []
