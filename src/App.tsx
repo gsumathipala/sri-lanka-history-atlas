@@ -11,9 +11,10 @@ import { About, Bibliography, EventDetail, EventList, EventRow, PlaceDetail } fr
 import { ChroniclesPanel, RulerDetail, RulerRow, RulersPanel } from './components/Knowledge'
 import { RelicDetail, RelicsPanel, currentStation } from './components/Relics'
 import { TourPlayer, ToursPanel, tourById } from './components/Tours'
+import { NearPanel } from './components/Near'
 const Flyover = lazy(() => import('./components/Flyover'))
 
-type Panel = 'list' | 'event' | 'place' | 'sources' | 'about' | 'rulers' | 'ruler' | 'chronicles' | 'relics' | 'relic' | 'tours' | 'tour'
+type Panel = 'list' | 'event' | 'place' | 'sources' | 'about' | 'rulers' | 'ruler' | 'chronicles' | 'relics' | 'relic' | 'tours' | 'tour' | 'near'
 
 const ALL_CATS = Object.keys(CATEGORY_META) as Category[]
 const ALL_CONF = Object.keys(CONFIDENCE_META) as Confidence[]
@@ -198,6 +199,9 @@ export default function App() {
             </button>
           ))}
         </nav>
+        <button className="near-btn" onClick={() => setPanel('near')}>
+          {t('near')}
+        </button>
         <select className="lang" value={getLang()} onChange={(e) => setLang(e.target.value as Lang)} aria-label="Language">
           {LANGS.map((l) => (
             <option key={l.id} value={l.id}>
@@ -316,6 +320,8 @@ export default function App() {
               onEvent={selectEvent}
               onPlace={selectPlace}
             />
+          ) : panel === 'near' ? (
+            <NearPanel onPlace={selectPlace} />
           ) : panel === 'tours' ? (
             <ToursPanel onStart={(id) => (setTourId(id), setTourStep(0), setTourPlaying(false), setPanel('tour'))} />
           ) : panel === 'relic' && relic ? (

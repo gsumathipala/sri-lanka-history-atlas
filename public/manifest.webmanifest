@@ -1,0 +1,14 @@
+{
+  "name": "Lanka Through Time",
+  "short_name": "Lanka History",
+  "description": "An evidence-based historical atlas of Sri Lanka",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf7f2",
+  "theme_color": "#8a3b12",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
