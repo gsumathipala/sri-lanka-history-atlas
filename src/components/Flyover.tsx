@@ -7,14 +7,14 @@ maplibregl.setWorkerUrl(workerUrl)
 import * as THREE from 'three'
 import type { Place } from '../types'
 import { placeById, reconByPlace, reconstructions } from '../lib/data'
-import { buildReconstruction } from '../lib/reconstruct'
+import { buildReconstruction, phaseAt } from '../lib/reconstruct'
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js'
 
 /** Session overrides from the Align tool: placeId -> corrected [lng, lat]. */
 export const alignOverrides = new Map<string, [number, number]>()
 
 /** A MapLibre custom layer drawing every reconstruction with three.js, seated on the terrain. */
-function reconstructionLayer(map: maplibregl.Map, visible: { current: boolean }): maplibregl.CustomLayerInterface {
+function reconstructionLayer(map: maplibregl.Map, visible: { current: boolean }, year: number): maplibregl.CustomLayerInterface {
   const items = reconstructions
     .map((r) => ({ r, p: placeById.get(r.placeId)! }))
     .filter((x) => x.p)
@@ -36,9 +36,9 @@ function reconstructionLayer(map: maplibregl.Map, visible: { current: boolean })
             map.triggerRepaint()
           },
           undefined,
-          () => scene.add(buildReconstruction(x.r)),
+          () => scene.add(buildReconstruction(x.r, year)),
         )
-      } else scene.add(buildReconstruction(x.r))
+      } else scene.add(buildReconstruction(x.r, year))
       return { ...x, scene, elev: 0 }
     })
   const camera = new THREE.Camera()
@@ -85,10 +85,17 @@ function reconstructionLayer(map: maplibregl.Map, visible: { current: boolean })
  */
 const IMAGERY = import.meta.env.VITE_FLYOVER_IMAGERY_URL ?? 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}'
 
-export default function Flyover({ place, onClose }: { place: Place; onClose: () => void }) {
+export default function Flyover({ place, onClose, year = 2026 }: { place: Place; onClose: () => void; year?: number }) {
   const ref = useRef<HTMLDivElement>(null)
   const mapRef = useRef<maplibregl.Map | null>(null)
   const recon = reconByPlace.get(place.id)
+  const [phaseYear, setPhaseYear] = useState(() => {
+    // show the monument as it stood at the timeline date (or as built, if the date is before construction)
+    const ph = recon?.phases
+    if (!ph?.length) return year
+    return year < ph[0].from ? ph[0].from : year
+  })
+  const phase = recon ? phaseAt(recon, phaseYear) : undefined
   const [orbit, setOrbit] = useState(true)
   // monuments are true-scale, so keep relief true-scale when a reconstruction is shown
   const [exag, setExag] = useState(recon ? 1 : 2)
@@ -156,7 +163,7 @@ export default function Flyover({ place, onClose }: { place: Place; onClose: () 
     let raf = 0
     let flying = true
     map.on('load', () => {
-      map.addLayer(reconstructionLayer(map, showReconRef))
+      map.addLayer(reconstructionLayer(map, showReconRef, phaseYear))
       const size = recon?.diameter ?? (recon?.grid ? recon.grid.cols * recon.grid.spacing : 0)
       const zoom = place.precision === 'region' ? 12 : recon ? Math.min(17.6, Math.max(15.8, 18.6 - Math.log2(Math.max(20, size) / 12))) : 15.5
       map.flyTo({ center: [place.lng, place.lat], zoom, pitch: recon ? 62 : 72, bearing: -30, duration: 6000, essential: true })
@@ -182,6 +189,13 @@ export default function Flyover({ place, onClose }: { place: Place; onClose: () 
     const map = mapRef.current
     if (map?.isStyleLoaded()) map.setTerrain({ source: 'dem', exaggeration: exag })
   }, [exag])
+  // rebuild the models when the phase changes
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map?.getLayer('reconstructions')) return
+    map.removeLayer('reconstructions')
+    map.addLayer(reconstructionLayer(map, showReconRef, phaseYear))
+  }, [phaseYear])
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => e.key === 'Escape' && onClose()
@@ -203,6 +217,15 @@ export default function Flyover({ place, onClose }: { place: Place; onClose: () 
               <button className={showRecon ? 'on' : ''} onClick={() => setShowRecon(true)}>
                 Reconstruction
               </button>
+            </span>
+          )}
+          {recon?.phases && showRecon && (
+            <span className="seg">
+              {recon.phases.map((p) => (
+                <button key={p.from} className={phase === p ? 'on' : ''} onClick={() => setPhaseYear(p.from)} title={p.label}>
+                  {p.state === 'as-built' ? 'As built' : p.state === 'ruin' ? 'Ruin' : 'Restored'}
+                </button>
+              ))}
             </span>
           )}
           <button className={aligning ? 'on' : ''} onClick={() => (setAligning(!aligning), setOrbit(false))} title="Click the real monument in the imagery to correct the site position">
@@ -227,7 +250,7 @@ export default function Flyover({ place, onClose }: { place: Place; onClose: () 
         <div className="flyover-note">
           {recon ? (
             <>
-              <strong>Schematic reconstruction</strong> ({recon.confidence}): {recon.state}. {recon.note} Proportions of the terraces, square chamber and spire follow the conventional stupa scheme; the model is not
+              <strong>Schematic reconstruction</strong> ({recon.confidence}){phase ? `, showing: ${phase.label}` : ''}: {recon.state}. {recon.note} Proportions of the terraces, square chamber and spire follow the conventional stupa scheme; the model is not
               survey data. Other reconstructed monuments nearby are also shown.
             </>
           ) : (

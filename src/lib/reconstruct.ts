@@ -21,15 +21,16 @@ const SHAPE_EXP: Record<NonNullable<Reconstruction['shape']>, number> = {
   'paddy-heap': 1.6, // lower, conical
 }
 
-function stupa(diameter: number, height: number, shape: Reconstruction['shape'] = 'bubble'): THREE.Group {
+function stupa(diameter: number, height: number, shape: Reconstruction['shape'] = 'bubble', ruin = false): THREE.Group {
   const g = new THREE.Group()
+  const SKIN = ruin ? BRICK : PLASTER
   const R = diameter / 2
   const H = height
   // three basal terraces (pesa valalu)
   const tH = Math.max(0.3, 0.02 * H)
   let y = 0
   ;[1.12, 1.07, 1.03].forEach((k) => {
-    const m = new THREE.Mesh(new THREE.CylinderGeometry(R * k, R * k, tH, 96), PLASTER)
+    const m = new THREE.Mesh(new THREE.CylinderGeometry(R * k, R * k, tH, 96), SKIN)
     m.position.y = y + tH / 2
     g.add(m)
     y += tH
@@ -44,9 +45,14 @@ function stupa(diameter: number, height: number, shape: Reconstruction['shape'] 
     const r = R * Math.pow(Math.max(0, 1 - Math.pow(t, p)), 1 / p)
     pts.push(new THREE.Vector2(Math.max(r, 0.001), yy))
   }
-  const dome = new THREE.Mesh(new THREE.LatheGeometry(pts, 96), PLASTER)
+  const dome = new THREE.Mesh(new THREE.LatheGeometry(pts, 96), SKIN)
   dome.position.y = y
   g.add(dome)
+  if (ruin) {
+    // a ruined stupa: truncated brick mound without chamber or spire
+    dome.scale.y = Math.max(0.2, (H - y) / domeH)
+    return g
+  }
   y += domeH * 0.97
   // square chamber (hatharaskotuwa)
   const sq = Math.max(1, 0.2 * diameter)
@@ -84,8 +90,19 @@ function pillarsInstanced(positions: [number, number][], height: number, radius:
   return mesh
 }
 
-export function buildReconstruction(r: Reconstruction): THREE.Group {
+/** Phase of a monument current at a given year (undefined: no phases defined). */
+export function phaseAt(r: Reconstruction, year: number) {
+  if (!r.phases?.length) return undefined
+  let cur = r.phases[0]
+  for (const p of r.phases) if (p.from <= year) cur = p
+  return cur
+}
+
+export function buildReconstruction(r: Reconstruction, year = 2026): THREE.Group {
   const g = new THREE.Group()
+  const ph = phaseAt(r, year)
+  const ruin = ph?.state === 'ruin'
+  const H = (r.height ?? 0) * (ruin ? (ph?.heightFactor ?? 0.5) : 1)
   if (r.type === 'stupa' && r.diameter && r.height) {
     let base = 0
     if (r.platform) {
@@ -101,7 +118,7 @@ export function buildReconstruction(r: Reconstruction): THREE.Group {
         g.add(band)
       }
     }
-    const st = stupa(r.diameter, r.height, r.shape)
+    const st = stupa(r.diameter, H, r.shape, ruin)
     st.position.y = base
     g.add(st)
   } else if (r.type === 'vatadage' && r.vatadage && r.diameter && r.height) {
@@ -114,10 +131,10 @@ export function buildReconstruction(r: Reconstruction): THREE.Group {
       const a = (i / ring.count) * Math.PI * 2
       pos.push([Math.cos(a) * ring.radius, Math.sin(a) * ring.radius])
     }
-    const pil = pillarsInstanced(pos, v.pillarHeight, 0.25, STONE)
+    const pil = pillarsInstanced(pos, v.pillarHeight * (ruin ? 0.6 : 1), 0.25, STONE)
     pil.position.y = v.platformHeight
     g.add(pil)
-    const st = stupa(r.diameter, r.height, r.shape)
+    const st = stupa(r.diameter, H, r.shape, ruin)
     st.position.y = v.platformHeight
     g.add(st)
   } else if (r.type === 'pillar-hall' && r.grid) {

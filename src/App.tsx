@@ -344,7 +344,7 @@ export default function App() {
 
       {flyoverPlace && (
         <Suspense fallback={<div className="flyover-backdrop">Loading 3D view…</div>}>
-          <Flyover place={flyoverPlace} onClose={() => setFlyoverId(undefined)} />
+          <Flyover place={flyoverPlace} year={Math.round(year)} onClose={() => setFlyoverId(undefined)} />
         </Suspense>
       )}
 

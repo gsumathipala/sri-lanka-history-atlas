@@ -16,6 +16,24 @@
   "sourceIds": [
    "bandaranayake1974",
    "unesco-whc"
+  ],
+  "phases": [
+   {
+    "from": -140,
+    "label": "As built (2nd c. BCE, completed by Saddhatissa)",
+    "state": "as-built"
+   },
+   {
+    "from": 1215,
+    "label": "Ruined and overgrown after the abandonment of Anuradhapura",
+    "state": "ruin",
+    "heightFactor": 0.55
+   },
+   {
+    "from": 1940,
+    "label": "Restored (completed 1940)",
+    "state": "restored"
+   }
   ]
  },
  {
@@ -33,6 +51,19 @@
   "note": "The original height of about 122 m (400 ft) is the figure usually given, making it among the tallest structures of the ancient world; the dome diameter here is an estimate.",
   "sourceIds": [
    "bandaranayake1974"
+  ],
+  "phases": [
+   {
+    "from": 276,
+    "label": "As built (c. 122 m)",
+    "state": "as-built"
+   },
+   {
+    "from": 1100,
+    "label": "Ruin (today c. 71 m; brick core exposed)",
+    "state": "ruin",
+    "heightFactor": 0.58
+   }
   ]
  },
  {
@@ -50,6 +81,19 @@
   "note": "Estimates of the original height vary; treat this model as indicative of scale only.",
   "sourceIds": [
    "bandaranayake1974"
+  ],
+  "phases": [
+   {
+    "from": -89,
+    "label": "As built (estimated)",
+    "state": "as-built"
+   },
+   {
+    "from": 1100,
+    "label": "Ruin (today c. 75 m)",
+    "state": "ruin",
+    "heightFactor": 0.69
+   }
   ]
  },
  {
@@ -103,6 +147,24 @@
   "note": "The stupa profile follows the present monument. The number and spacing of pillar rings are illustrative (the surviving pillars are fewer). Whether vatadages carried a roof, and its form, is debated, so none is shown.",
   "sourceIds": [
    "bandaranayake1974"
+  ],
+  "phases": [
+   {
+    "from": -247,
+    "label": "As built (earlier profile unknown; shown with the later vatadage)",
+    "state": "as-built"
+   },
+   {
+    "from": 1100,
+    "label": "Ruin",
+    "state": "ruin",
+    "heightFactor": 0.5
+   },
+   {
+    "from": 1862,
+    "label": "Rebuilt in bell shape (1862)",
+    "state": "restored"
+   }
   ]
  },
  {

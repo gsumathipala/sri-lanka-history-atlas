@@ -247,6 +247,8 @@ export interface Reconstruction {
   platform?: { side: number; height: number; elephantWall?: boolean }
   vatadage?: { platformRadius: number; platformHeight: number; rings: { radius: number; count: number }[]; pillarHeight: number }
   grid?: { cols: number; rows: number; spacing: number; pillarHeight: number }
+  /** States of the monument over time; the flyover shows the phase current at the timeline year. */
+  phases?: { from: number; label: string; state: 'as-built' | 'ruin' | 'restored'; heightFactor?: number }[]
   /** Optional real 3D model (glTF/GLB, e.g. from photogrammetry); replaces the parametric geometry. */
   model?: { url: string; scale?: number; rotationDeg?: number; credit: string; licence: string }
   state: string
