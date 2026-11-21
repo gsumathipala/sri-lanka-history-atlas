@@ -2,6 +2,14 @@
 
 An evidence-based, interactive historical atlas of Sri Lanka, from the Palaeolithic (c. 125,000 BP) to the present.
 
+**Live site:** https://gsumathipala.github.io/sri-lanka-history-atlas/
+
+## Why this exists
+
+This atlas began as a learning aid for a schoolchild studying Sri Lankan history. The aim was to make the subject something to explore rather than memorise: travelling along a timeline, seeing where events happened on a map, and reading the chronicles and the evidence behind each story. As it grew, it seemed worth sharing more widely, with students, teachers, parents and anyone curious about the island's past.
+
+It is a work in progress. Every entry is labelled with how certain it is and what evidence supports it, and corrections and contributions are welcome (see [Contributing](docs/CONTRIBUTING.md)).
+
 - **Timeline**: a non-linear scale that gives deep prehistory and recent decades both room. It has era, polity and foreign-rule bands, drag/arrow-key navigation, an adjustable time window and a "Travel" playback mode.
 - **Map**: shows places with events in the current window, plus ★ seats of power active at the cursor date. Location precision is shown visually.
 - **Evidence panel**: each event has typed evidence items (archaeological, radiometric, epigraphic, chronicle, foreign account, archival, official…), each linked to a full bibliography, along with confidence ratings, perspectives on contested events, and historiographical caveats.
