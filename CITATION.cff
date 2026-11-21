@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this atlas or its dataset, please cite it as below."
+title: "Lanka Through Time: an evidence-based historical atlas of Sri Lanka"
+type: dataset
+authors:
+  - family-names: Sumathipala
+    given-names: Saranga
+version: 0.1.0
+date-released: 2026-11-22
+license: CC-BY-4.0
+keywords: [Sri Lanka, history, archaeology, Mahavamsa, Dipavamsa, Culavamsa, historical GIS, digital humanities]
+abstract: >-
+  Events, places, heritage sites, rulers, relics and schematic boundaries of Sri Lankan history from the
+  Palaeolithic to the present, each linked to typed evidence and a bibliography, with chronicle references
+  verified against public-domain translations. Entries marked "draft" await expert review.

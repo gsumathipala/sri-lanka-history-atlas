@@ -6,7 +6,7 @@
  * to its weight, not to its duration.
  */
 
-import { tr } from './i18n'
+import { tr } from './i18n.ts'
 
 export const MIN_YEAR = -128050 // c. 130,000 BP
 export const MAX_YEAR = 2026

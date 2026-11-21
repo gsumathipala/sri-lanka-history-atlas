@@ -67,3 +67,11 @@ Run `npm run validate` to list entries that rely only on synthesis or have thin 
 - Primary texts: Rajavaliya, Yalpana Vaipava Malai, Sandesa poems, Kandyan Convention text, VOC archives (Sri Lanka National Archives), Colonial Office CO 54 series, Hansard.
 - Coverage: Vedda history; Muslim trading communities; the Eastern Province; women's history; labour and caste; numismatics (Roman, Lakshmi-plaque, Chinese coins); Abhayagiri and Mahayana Buddhism; Hindu temple history; the Mahaweli scheme; the post-2009 period.
 - Geography: historical boundary polygons (Rajarata, Ruhuna, Mayarata; Kandyan disavanies; colonial provinces) and georeferenced historical maps (e.g. Dutch VOC charts, the 1880s Surveyor-General maps).
+
+## 8. Verification tools and their limits
+
+- **Chronicle references** are checked by `scripts/verify-chronicle-refs.py`, which searches the cited chapter of the public-domain translation for the subject's name, allowing for spelling variants such as Geiger's "samgha" and OCR's "ii" for ū. A miss is a prompt for human checking, not proof of error: the subject may be called "the king". The check has already caught real errors, such as Abhayagiri's founding cited to Dipavamsa 20 instead of 19. Verse-level references are added only where the verse can be read in the text (Dipavamsa).
+- **The texts are uncorrected OCR** (Mahavamsa, Dipavamsa); the Faxian and Knox texts are proofread Gutenberg transcriptions. Quote from the printed edition, not from the OCR.
+- **Coordinates**: `scripts/wikidata-sync.py` compares positions with Wikidata and takes Wikidata's position when the difference is between 40 m and 25 km. Wikidata itself can be wrong (Naguleswaram is placed in Jaffna town), so known errors are excluded by hand. Imported sites are labelled "uncurated" until someone reviews them.
+- **Historical maps** are fitted with an affine transform to control points, and each states its RMS error. They show how a period's map makers saw the island; they are not accurate geography.
+- **Sinhala and Tamil interface strings** were drafted without native-speaker review and should be checked before publication. Entry content is in English.

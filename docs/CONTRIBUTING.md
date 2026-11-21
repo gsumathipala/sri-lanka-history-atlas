@@ -113,3 +113,22 @@ Every model must give its `state` (as built, as restored, or ruin), a `confidenc
 **Real models.** Add `"model": { "url": "/models/x.glb", "scale": 1, "rotationDeg": 0, "credit": "...", "licence": "CC BY 4.0" }` to show a glTF/GLB model, for example photogrammetry from drone photos, in place of the parametric one. The model's origin must be at ground level in the monument's centre, with units in metres and Y pointing up. Put files in `public/models/`.
 
 **Positioning.** Models stand at the place's coordinates. In the flyover, use **📍 Align** and click the real monument in the imagery; the panel then shows corrected coordinates to paste into `places.json`. Keep `precision` as `approximate` unless the position comes from a survey.
+
+## Reviewing entries (for subject experts)
+
+1. Open an event, then **Cite & review → Review this entry**.
+2. Check each evidence item against the cited edition and correct the locator if needed. **Mark reviewed** is enabled only when every item is checked.
+3. Go to **Sources → Export my reviews** and send the JSON file to the maintainers.
+4. Maintainers run `node scripts/apply-reviews.mjs reviews.json`, look over the diff, and commit.
+
+## Tours (`src/data/tours.json`)
+
+Each step has `title`, `text`, `year` and optional `placeId`, `eventId`, `relicId` and `chronicle`. A tour with `"relic": "<id>"` and no steps follows that relic's journey.
+
+## Primary texts (`public/texts/`)
+
+These are rebuilt with `python3 -I scripts/texts/build-texts.py <download-dir> public/texts` from the archive.org and Gutenberg sources named in the script. Add only public-domain editions.
+
+## Translations
+
+Interface strings are in `src/lib/i18n.ts` as `[English, Sinhala, Tamil]`. Place names go in `nameSi` / `nameTa` in `places.json`. Native-speaker corrections are especially welcome.

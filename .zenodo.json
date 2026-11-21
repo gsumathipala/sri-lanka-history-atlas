@@ -1,0 +1,9 @@
+{
+  "title": "Lanka Through Time: an evidence-based historical atlas of Sri Lanka (dataset and software)",
+  "upload_type": "dataset",
+  "description": "Events, places, heritage sites, rulers, relics and schematic boundaries of Sri Lankan history, each linked to typed evidence and a bibliography. Chronicle references verified against public-domain translations. Entries marked draft await expert review.",
+  "creators": [{ "name": "Sumathipala, Saranga" }],
+  "license": "cc-by-4.0",
+  "keywords": ["Sri Lanka", "history", "archaeology", "Mahavamsa", "historical GIS", "digital humanities"],
+  "access_right": "open"
+}

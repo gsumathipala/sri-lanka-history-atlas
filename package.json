@@ -1,14 +1,20 @@
 {
   "name": "sri-lanka-history-atlas",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node scripts/validate.mjs && tsc -b && vite build",
+    "build": "node scripts/validate.mjs && node scripts/export-dataset.mjs && tsc -b && vite build",
     "validate": "node scripts/validate.mjs --verbose",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "export-data": "node scripts/export-dataset.mjs",
+    "verify-refs": "python3 -I scripts/verify-chronicle-refs.py",
+    "wikidata": "python3 -I scripts/wikidata-sync.py check",
+    "test": "node --test tests/unit/*.test.mjs && node tests/e2e.mjs",
+    "test:unit": "node --test tests/unit/*.test.mjs",
+    "test:e2e": "node tests/e2e.mjs"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
@@ -26,6 +32,7 @@
     "@types/three": "^0.187.0",
     "@vitejs/plugin-react": "^6.1.2",
     "oxlint": "^1.90.0",
+    "playwright-core": "1.58",
     "typescript": "~7.0.2",
     "vite": "^8.3.6"
   }

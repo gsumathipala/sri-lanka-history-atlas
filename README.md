@@ -14,20 +14,35 @@ An evidence-based, interactive historical atlas of Sri Lanka, from the Palaeolit
 - **3D flyover and reconstructions**: every site opens an orbiting 3D view of satellite imagery over elevation data with hillshading. Twelve monuments (the great stupas, vatadages and the Lovamahapaya pillar field) have schematic parametric 3D reconstructions, with a Today/Reconstruction toggle and an Align tool for correcting positions. Real glTF models (photogrammetry) can be added.
 - **Wikipedia cards**: live images and summaries labelled as further reading, not evidence.
 - **Bibliography**: every source shows which events cite it.
-- **Permalinks**: `#event=<id>` / `#place=<id>`.
+- **Primary texts**: in-app reader for the public-domain Mahavamsa (Geiger 1912, 37 chapters), Dipavamsa (Oldenberg 1879, 22 chapters, 1,142 numbered verses), Faxian (Legge 1886) and Knox (1681). Chronicle references open the passage, with cited verses highlighted.
+- **Verified references**: 225 of 234 Mahavamsa and Dipavamsa references are confirmed in the cited chapter by `npm run verify-refs`.
+- **Wikidata-checked geography**: 68 coordinates corrected, 114 heritage sites imported with Commons photos, and coordinate provenance shown.
+- **Guided tours**: 8 narrated tours (Mahinda, Dutthagamani's campaign, the Tooth Relic, irrigation, Faxian, Ibn Battuta, the Portuguese century, Knox).
+- **Historical map overlays**: Arrowsmith 1805 (±6.5 km) and a VOC chart (±13.7 km), affine-georeferenced from control points.
+- **Sinhala and Tamil interface** (සිංහල / தமிழ்), with native place names.
+- **Review workflow**: experts check each evidence item in the browser, export their reviews, and `scripts/apply-reviews.mjs` merges them. BibTeX/CSL export and "Cite this entry".
+- **Works on site**: installable app with offline support and a "Near me" guide; location stays in the browser.
+- **Evidence chart**: the kinds of evidence behind each era, showing where primary sources are thin.
+- **Open data**: GeoJSON/CSV/JSON export (CC BY 4.0), CITATION.cff and Zenodo metadata.
+- **Permalinks**: `#event=<id>`, `#place=<id>`, `#ruler=<id>`.
 
 ## Run
 
 ```
 npm install
 npm run dev        # http://localhost:5173
-npm run validate   # data integrity + research backlog
-npm run build
+npm run validate     # data integrity + research backlog
+npm run verify-refs  # chronicle refs checked against the public-domain texts
+npm test             # unit tests + end-to-end browser tests
+npm run build        # validate, export open data, type-check, bundle
+npm run wikidata     # report coordinate differences against Wikidata (rate-limited service)
 ```
+
+Deploy: `netlify.toml` (Netlify) or `.github/workflows/deploy.yml` (GitHub Pages; validates and runs unit tests on every push). Publishing a DOI: connect the GitHub repository to Zenodo; `.zenodo.json` supplies the metadata.
 
 ## Status
 
-The seed dataset has **142 events, 192 places, 340 rulers, 5 relics, 8 boundary regions, 143 chronicle chapters/sections, 97 sources and 24 periods**, all marked **unreviewed draft**. See [docs/METHODOLOGY.md](docs/METHODOLOGY.md) for the evidence standard and [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) to add or review entries.
+The seed dataset has **142 events, 306 places, 340 rulers, 5 relics, 8 boundary regions, 143 chronicle chapters/sections, 97 sources and 24 periods**, all marked **unreviewed draft**. See [docs/METHODOLOGY.md](docs/METHODOLOGY.md) for the evidence standard and [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md) to add or review entries.
 
 Stack: Vite, React, TypeScript, Leaflet (OpenStreetMap tiles; use a dedicated tile provider before any public deployment, per OSM's tile usage policy).
 

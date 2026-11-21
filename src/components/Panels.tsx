@@ -14,6 +14,7 @@ import { formatRange, formatYear } from '../lib/time'
 import { ChronicleChips, WikiCard } from './Knowledge'
 import { useT } from '../lib/i18n'
 import { catLabel, confLabel } from '../lib/data'
+import { EvidenceChart } from './EvidenceChart'
 import { CiteEntry, ReviewBox, exportBibtex, exportCsl, exportReviews, localReviewCount } from './Review'
 import { RELIGION_COLOR, SITE_SYMBOL, reconByPlace, rulers } from '../lib/data'
 
@@ -349,6 +350,7 @@ export function About() {
         A scholarly, evidence-first atlas of Sri Lankan history from the Palaeolithic to the present. Every entry is mapped to one or more places and supported by cited evidence, and each carries an explicit
         confidence rating.
       </p>
+      <EvidenceChart />
       <h3>Confidence levels</h3>
       <dl>
         {Object.entries(CONFIDENCE_META).map(([k, v]) => (
