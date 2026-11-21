@@ -112,7 +112,8 @@
       },
       {
         "work": "dipavamsa",
-        "chapter": 12
+        "chapter": 12,
+        "verses": "27-28"
       },
       {
         "work": "dipavamsa",
@@ -404,7 +405,8 @@
       },
       {
         "work": "dipavamsa",
-        "chapter": 20
+        "chapter": 20,
+        "verses": "20-21"
       }
     ],
     "wiki": "Aluvihare Rock Temple"
@@ -519,7 +521,8 @@
       },
       {
         "work": "dipavamsa",
-        "chapter": 22
+        "chapter": 22,
+        "verses": "66-75"
       }
     ],
     "wiki": "Mahasena of Anuradhapura"
@@ -914,7 +917,8 @@
       },
       {
         "work": "dipavamsa",
-        "chapter": 20
+        "chapter": 19,
+        "verses": "14-17"
       }
     ],
     "wiki": "Abhayagiri vihāra",

@@ -416,7 +416,8 @@
     "chronicle": [
      {
       "work": "dipavamsa",
-      "chapter": 20
+      "chapter": 20,
+      "verses": "20-21"
      },
      {
       "work": "mahavamsa",
@@ -1522,7 +1523,8 @@
      },
      {
       "work": "dipavamsa",
-      "chapter": 20
+      "chapter": 19,
+      "verses": "14-17"
      }
     ]
    },
@@ -3267,13 +3269,9 @@
   "stories": [
    {
     "title": "Refuge of princes and relics",
-    "text": "In the chronicles the hill country of Kotmale is a refuge: Dutthagamani's retreat and the hiding place of the Tooth Relic during Magha's rule.",
+    "text": "Later tradition places refuges in the Kotmale hills: the young Gamani's flight to the hill country (Malaya) and the hiding of the Tooth Relic during Magha's rule.",
     "basis": "chronicle",
     "chronicle": [
-     {
-      "work": "mahavamsa",
-      "chapter": 24
-     },
      {
       "work": "culavamsa",
       "chapter": 81
@@ -3282,10 +3280,6 @@
    }
   ],
   "chronicle": [
-   {
-    "work": "mahavamsa",
-    "chapter": 24
-   },
    {
     "work": "culavamsa",
     "chapter": 81
@@ -3868,12 +3862,6 @@
     "basis": "tradition"
    }
   ],
-  "chronicle": [
-   {
-    "work": "mahavamsa",
-    "chapter": 24
-   }
-  ],
   "wiki": "Dematamal Viharaya"
  },
  {
@@ -3972,12 +3960,6 @@
     "title": "Sapling by the river",
     "text": "Tradition counts the Kalutara Bodhi among the saplings of the Sri Maha Bodhi. The hollow stupa (1970s) contains a chamber with paintings.",
     "basis": "tradition"
-   }
-  ],
-  "chronicle": [
-   {
-    "work": "mahavamsa",
-    "chapter": 19
    }
   ],
   "wiki": "Kalutara Bodhiya"
