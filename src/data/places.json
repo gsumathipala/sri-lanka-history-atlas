@@ -85,8 +85,8 @@
   "altNames": [
    "Anurogrammon (Ptolemy)"
   ],
-  "lat": 8.3456,
-  "lng": 80.3964,
+  "lat": 8.335,
+  "lng": 80.41083,
   "precision": "exact",
   "kind": "city",
   "stories": [
@@ -112,7 +112,10 @@
     "work": "mahavamsa",
     "chapter": 10
    }
-  ]
+  ],
+  "wikidata": "Q5724",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img11%20Ruwanwelisaya%20Stupa.jpg",
+  "coordSource": "wikidata:Q5724"
  },
  {
   "id": "mihintale",
@@ -173,7 +176,9 @@
     "work": "mahavamsa",
     "chapter": 16
    }
-  ]
+  ],
+  "wikidata": "Q1478212",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mihintale%20-%20Stupa%20Ambasthala%20i%20Buda.jpg"
  },
  {
   "id": "tambapanni",
@@ -187,8 +192,8 @@
  {
   "id": "mahiyangana",
   "name": "Mahiyangana",
-  "lat": 7.3194,
-  "lng": 80.9867,
+  "lat": 7.32206,
+  "lng": 80.99081,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -225,13 +230,16 @@
     "work": "dipavamsa",
     "chapter": 1
    }
-  ]
+  ],
+  "wikidata": "Q19718381",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mahiyangana%20Dagoba.jpg",
+  "coordSource": "wikidata:Q19718381"
  },
  {
   "id": "nagadipa",
   "name": "Nagadipa (Nainativu)",
-  "lat": 9.61,
-  "lng": 79.77,
+  "lat": 9.61275,
+  "lng": 79.77397,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -268,13 +276,16 @@
     "work": "dipavamsa",
     "chapter": 2
    }
-  ]
+  ],
+  "wikidata": "Q6958314",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nainathivunakaviharai%202.jpg",
+  "coordSource": "wikidata:Q6958314"
  },
  {
   "id": "kelaniya",
   "name": "Kelaniya",
-  "lat": 6.9553,
-  "lng": 79.922,
+  "lat": 6.95314,
+  "lng": 79.91853,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -323,13 +334,16 @@
     "work": "mahavamsa",
     "chapter": 22
    }
-  ]
+  ],
+  "wikidata": "Q3610575",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kelaniya%20AS1.JPG",
+  "coordSource": "wikidata:Q3610575"
  },
  {
   "id": "dambulla",
   "name": "Dambulla",
-  "lat": 7.8567,
-  "lng": 80.6492,
+  "lat": 7.85656,
+  "lng": 80.64834,
   "precision": "exact",
   "kind": "site",
   "siteType": "cave-temple",
@@ -352,7 +366,10 @@
     "sourceId": "unesco-whc"
    }
   ],
-  "wiki": "Dambulla cave temple"
+  "wiki": "Dambulla cave temple",
+  "wikidata": "Q45690",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dambulla-temple%20daurat1.jpg",
+  "coordSource": "wikidata:Q45690"
  },
  {
   "id": "tissamaharama",
@@ -360,8 +377,8 @@
   "altNames": [
    "Mahagama"
   ],
-  "lat": 6.2788,
-  "lng": 81.2876,
+  "lat": 6.27944,
+  "lng": 81.29028,
   "precision": "approximate",
   "kind": "city",
   "siteType": "stupa",
@@ -395,13 +412,16 @@
     "work": "mahavamsa",
     "chapter": 22
    }
-  ]
+  ],
+  "wikidata": "Q16996741",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissamaharama%20Stupa.JPG",
+  "coordSource": "wikidata:Q16996741"
  },
  {
   "id": "aluvihare",
   "name": "Aluvihare",
-  "lat": 7.4977,
-  "lng": 80.6213,
+  "lat": 7.49719,
+  "lng": 80.62186,
   "precision": "approximate",
   "kind": "site",
   "siteType": "cave-temple",
@@ -436,7 +456,10 @@
     "work": "mahavamsa",
     "chapter": 33
    }
-  ]
+  ],
+  "wikidata": "Q19700397",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matale%20aluviharaya.jpg",
+  "coordSource": "wikidata:Q19700397"
  },
  {
   "id": "mantai",
@@ -445,8 +468,8 @@
    "Mahatittha",
    "Matota"
   ],
-  "lat": 8.975,
-  "lng": 79.92,
+  "lat": 8.91472,
+  "lng": 79.95611,
   "precision": "approximate",
   "kind": "site",
   "siteType": "kovil",
@@ -459,13 +482,15 @@
     "sourceId": "indrapala2005"
    }
   ],
-  "wiki": "Ketheeswaram temple"
+  "wiki": "Ketheeswaram temple",
+  "wikidata": "Q6395391",
+  "coordSource": "wikidata:Q6395391"
  },
  {
   "id": "kalawewa",
   "name": "Kala Wewa",
-  "lat": 8.02,
-  "lng": 80.54,
+  "lat": 8.0135,
+  "lng": 80.55625,
   "precision": "approximate",
   "kind": "natural",
   "siteType": "reservoir",
@@ -491,7 +516,10 @@
     "work": "culavamsa",
     "chapter": 38
    }
-  ]
+  ],
+  "wikidata": "Q7354820",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/General%20View%20of%20Kala%20Wewa.jpg",
+  "coordSource": "wikidata:Q7354820"
  },
  {
   "id": "sigiriya",
@@ -499,8 +527,8 @@
   "altNames": [
    "Sihagiri"
   ],
-  "lat": 7.957,
-  "lng": 80.7603,
+  "lat": 7.95694,
+  "lng": 80.75972,
   "precision": "exact",
   "kind": "site",
   "siteType": "palace",
@@ -535,7 +563,10 @@
     "work": "culavamsa",
     "chapter": 39
    }
-  ]
+  ],
+  "wikidata": "Q272153",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20of%20Sigiriya%20by%20Binuka.jpg",
+  "coordSource": "wikidata:Q272153"
  },
  {
   "id": "polonnaruwa",
@@ -544,8 +575,8 @@
    "Pulatthinagara",
    "Jananathamangalam (Chola)"
   ],
-  "lat": 7.9403,
-  "lng": 81.0003,
+  "lat": 7.93333,
+  "lng": 81.0,
   "precision": "exact",
   "kind": "city",
   "stories": [
@@ -571,13 +602,16 @@
     "work": "culavamsa",
     "chapter": 73
    }
-  ]
+  ],
+  "wikidata": "Q394443",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polonnaruwa%2002.jpg",
+  "coordSource": "wikidata:Q394443"
  },
  {
   "id": "parakrama-samudra",
   "name": "Parakrama Samudra",
-  "lat": 7.915,
-  "lng": 80.985,
+  "lat": 7.9,
+  "lng": 80.96667,
   "precision": "approximate",
   "kind": "natural",
   "siteType": "reservoir",
@@ -603,12 +637,15 @@
     "work": "culavamsa",
     "chapter": 79
    }
-  ]
+  ],
+  "wikidata": "Q7134855",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Polonnaruwa-panta.jpg",
+  "coordSource": "wikidata:Q7134855"
  },
  {
   "id": "dambadeniya",
   "name": "Dambadeniya",
-  "lat": 7.37,
+  "lat": 7.36667,
   "lng": 80.15,
   "precision": "approximate",
   "kind": "city",
@@ -639,13 +676,15 @@
     "work": "culavamsa",
     "chapter": 82
    }
-  ]
+  ],
+  "wikidata": "Q1021154",
+  "coordSource": "wikidata:Q1021154"
  },
  {
   "id": "yapahuwa",
   "name": "Yapahuwa",
-  "lat": 7.8186,
-  "lng": 80.3083,
+  "lat": 7.81667,
+  "lng": 80.31667,
   "precision": "approximate",
   "kind": "site",
   "siteType": "palace",
@@ -671,7 +710,10 @@
     "work": "culavamsa",
     "chapter": 90
    }
-  ]
+  ],
+  "wikidata": "Q3522473",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yapahuwa%20Lion.jpg",
+  "coordSource": "wikidata:Q3522473"
  },
  {
   "id": "kurunegala",
@@ -774,13 +816,15 @@
     "work": "mahavamsa",
     "chapter": 1
    }
-  ]
+  ],
+  "wikidata": "Q60789",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Adam%27s%20Peak%20-%20February%202020%20%284%29.jpg"
  },
  {
   "id": "galle",
   "name": "Galle",
-  "lat": 6.0269,
-  "lng": 80.217,
+  "lat": 6.02747,
+  "lng": 80.21711,
   "precision": "exact",
   "kind": "city",
   "siteType": "fort",
@@ -790,13 +834,16 @@
   "groups": [
    "unesco"
   ],
-  "wiki": "Galle Fort"
+  "wiki": "Galle Fort",
+  "wikidata": "Q2507050",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Galle%20Fort%20asv2020-01%20img23.jpg",
+  "coordSource": "wikidata:Q2507050"
  },
  {
   "id": "kotte",
   "name": "Kotte (Sri Jayawardenepura)",
-  "lat": 6.8905,
-  "lng": 79.9026,
+  "lat": 6.9,
+  "lng": 79.91639,
   "precision": "approximate",
   "kind": "city",
   "siteType": "palace",
@@ -817,7 +864,10 @@
     "work": "culavamsa",
     "chapter": 91
    }
-  ]
+  ],
+  "wikidata": "Q41963",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fountain%20at%20Diyatha%20Uyana.JPG",
+  "coordSource": "wikidata:Q41963"
  },
  {
   "id": "sitawaka",
@@ -892,7 +942,9 @@
     "work": "culavamsa",
     "chapter": 99
    }
-  ]
+  ],
+  "wikidata": "Q289175",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kandy%20asv2020-01%20img33%20Sacred%20Tooth%20Temple.jpg"
  },
  {
   "id": "colombo",
@@ -1087,8 +1139,8 @@
  {
   "id": "ritigala",
   "name": "Ritigala",
-  "lat": 8.115,
-  "lng": 80.65,
+  "lat": 8.10861,
+  "lng": 80.65611,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -1129,13 +1181,15 @@
     "work": "culavamsa",
     "chapter": 50
    }
-  ]
+  ],
+  "wikidata": "Q19719626",
+  "coordSource": "wikidata:Q19719626"
  },
  {
   "id": "avukana",
   "name": "Avukana",
-  "lat": 8.011,
-  "lng": 80.513,
+  "lat": 8.02278,
+  "lng": 80.52028,
   "precision": "approximate",
   "kind": "site",
   "siteType": "sculpture",
@@ -1155,13 +1209,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Avukana Buddha statue"
+  "wiki": "Avukana Buddha statue",
+  "wikidata": "Q3491563",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Avukana%20Buddha%20Statue.jpg",
+  "coordSource": "wikidata:Q3491563"
  },
  {
   "id": "koneswaram",
   "name": "Koneswaram (Trincomalee)",
-  "lat": 8.583,
-  "lng": 81.245,
+  "lat": 8.5825,
+  "lng": 81.24556,
   "precision": "approximate",
   "kind": "site",
   "siteType": "kovil",
@@ -1199,7 +1256,10 @@
     "work": "mahavamsa",
     "chapter": 37
    }
-  ]
+  ],
+  "wikidata": "Q840346",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Lanka-Trincomalee-Tempel.JPG",
+  "coordSource": "wikidata:Q840346"
  },
  {
   "id": "dondra",
@@ -1326,7 +1386,9 @@
     "work": "dipavamsa",
     "chapter": 16
    }
-  ]
+  ],
+  "wikidata": "Q944175",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img05%20Jaya%20Sri%20Maha%20Bodhi.jpg"
  },
  {
   "id": "ruwanwelisaya",
@@ -1406,7 +1468,9 @@
     "work": "mahavamsa",
     "chapter": 32
    }
-  ]
+  ],
+  "wikidata": "Q3534755",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ruwanweli%20Saya%201.jpg"
  },
  {
   "id": "thuparamaya",
@@ -1457,7 +1521,9 @@
     "work": "dipavamsa",
     "chapter": 15
    }
-  ]
+  ],
+  "wikidata": "Q7799227",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img34%20Thuparamaya%20Stupa.jpg"
  },
  {
   "id": "lovamahapaya",
@@ -1493,7 +1559,9 @@
     "work": "mahavamsa",
     "chapter": 27
    }
-  ]
+  ],
+  "wikidata": "Q3911674",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img10%20Lovamahapaya.jpg"
  },
  {
   "id": "abhayagiri",
@@ -1582,7 +1650,9 @@
     "work": "mahavamsa",
     "chapter": 37
    }
-  ]
+  ],
+  "wikidata": "Q1961579",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img24%20Jetavanaramaya%20Stupa.jpg"
  },
  {
   "id": "mirisaveti",
@@ -1624,8 +1694,8 @@
  {
   "id": "lankaramaya",
   "name": "Lankaramaya",
-  "lat": 8.3622,
-  "lng": 80.3925,
+  "lat": 8.36667,
+  "lng": 80.38333,
   "precision": "exact",
   "kind": "site",
   "siteType": "stupa",
@@ -1643,13 +1713,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Lankaramaya"
+  "wiki": "Lankaramaya",
+  "coordSource": "wikidata:Q3929494",
+  "wikidata": "Q3929494",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img33%20Lankarama%20Stupa.jpg"
  },
  {
   "id": "isurumuniya",
   "name": "Isurumuniya",
   "lat": 8.3346,
-  "lng": 80.3866,
+  "lng": 80.3904,
   "precision": "exact",
   "kind": "site",
   "siteType": "temple",
@@ -1683,13 +1756,16 @@
     "work": "mahavamsa",
     "chapter": 20
    }
-  ]
+  ],
+  "wikidata": "Q3610571",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ISURUMUNIYA%20ROCK%20TEMPLE.JPG",
+  "coordSource": "wikidata:Q3610571"
  },
  {
   "id": "kuttam-pokuna",
   "name": "Kuttam Pokuna (Twin Ponds)",
-  "lat": 8.374,
-  "lng": 80.4017,
+  "lat": 8.371,
+  "lng": 80.401,
   "precision": "approximate",
   "kind": "site",
   "siteType": "reservoir",
@@ -1706,13 +1782,16 @@
     "basis": "archaeology"
    }
   ],
-  "wiki": "Kuttam Pokuna"
+  "wiki": "Kuttam Pokuna",
+  "wikidata": "Q3877478",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img29%20Kuttam%20Pokuna.jpg",
+  "coordSource": "wikidata:Q3877478"
  },
  {
   "id": "samadhi-statue",
   "name": "Samadhi Statue",
-  "lat": 8.3713,
-  "lng": 80.4,
+  "lat": 8.36985,
+  "lng": 80.39861,
   "precision": "approximate",
   "kind": "site",
   "siteType": "sculpture",
@@ -1730,13 +1809,16 @@
     "sourceId": "vonschroeder1990"
    }
   ],
-  "wiki": "Samadhi Statue"
+  "wiki": "Samadhi Statue",
+  "wikidata": "Q7408450",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Anuradhapura%20asv2020-01%20img30%20Samadhi%20Buddha.jpg",
+  "coordSource": "wikidata:Q7408450"
  },
  {
   "id": "vessagiri",
   "name": "Vessagiri",
-  "lat": 8.329,
-  "lng": 80.388,
+  "lat": 8.35,
+  "lng": 80.3833,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -1765,7 +1847,10 @@
     "work": "mahavamsa",
     "chapter": 20
    }
-  ]
+  ],
+  "coordSource": "wikidata:Q16938356",
+  "wikidata": "Q16938356",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rock%20Shelters%2C%20Vessagiri%20083.jpg"
  },
  {
   "id": "abhaya-wewa",
@@ -1822,8 +1907,8 @@
  {
   "id": "dighavapi",
   "name": "Dighavapi",
-  "lat": 7.276,
-  "lng": 81.77,
+  "lat": 7.28417,
+  "lng": 81.78667,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -1856,7 +1941,10 @@
     "work": "mahavamsa",
     "chapter": 1
    }
-  ]
+  ],
+  "coordSource": "wikidata:Q5249992",
+  "wikidata": "Q5249992",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dighavapi%20-%202016-08-18.jpg"
  },
  {
   "id": "muthiyangana",
@@ -1919,7 +2007,9 @@
     "work": "mahavamsa",
     "chapter": 19
    }
-  ]
+  ],
+  "wikidata": "Q6415081",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kiri%20Vehera.jpg"
  },
  {
   "id": "diva-guhava",
@@ -1946,8 +2036,8 @@
  {
   "id": "pidurangala",
   "name": "Pidurangala",
-  "lat": 7.966,
-  "lng": 80.761,
+  "lat": 7.96583,
+  "lng": 80.76242,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -1961,13 +2051,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Pidurangala"
+  "wiki": "Pidurangala",
+  "coordSource": "wikidata:Q16669900",
+  "wikidata": "Q16669900",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pidurangala%20Buddha%20%281%29.jpg"
  },
  {
   "id": "nalanda-gedige",
   "name": "Nalanda Gedige",
-  "lat": 7.672,
-  "lng": 80.636,
+  "lat": 7.66972,
+  "lng": 80.64556,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -1981,7 +2074,10 @@
     "basis": "archaeology"
    }
   ],
-  "wiki": "Nalanda Gedige"
+  "wiki": "Nalanda Gedige",
+  "wikidata": "Q3335386",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nalanda%20Gedige%20-%20Le%20temple.JPG",
+  "coordSource": "wikidata:Q3335386"
  },
  {
   "id": "tantirimale",
@@ -2006,8 +2102,8 @@
  {
   "id": "medirigiriya",
   "name": "Medirigiriya Vatadage",
-  "lat": 8.137,
-  "lng": 80.973,
+  "lat": 8.15611,
+  "lng": 80.99583,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -2021,7 +2117,10 @@
     "basis": "archaeology"
    }
   ],
-  "wiki": "Medirigiriya Vatadage"
+  "wiki": "Medirigiriya Vatadage",
+  "wikidata": "Q19718240",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Medirigiriya%20watadageya%201.jpg",
+  "coordSource": "wikidata:Q19718240"
  },
  {
   "id": "gal-vihara",
@@ -2056,7 +2155,9 @@
     "work": "culavamsa",
     "chapter": 78
    }
-  ]
+  ],
+  "wikidata": "Q5517744",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%B6%8B%E0%B6%AD%E0%B7%8A%E0%B6%AD%E0%B6%BB%E0%B7%8F%E0%B6%BB%E0%B7%8F%E0%B6%B8%E0%B6%BA%20%E0%B6%9A%E0%B7%85%E0%B7%94%20%E0%B6%9C%E0%B6%BD%20%E0%B6%B1%E0%B7%99%E0%B6%BD%E0%B7%8F.jpg"
  },
  {
   "id": "polonnaruwa-vatadage",
@@ -2080,13 +2181,14 @@
    }
   ],
   "wiki": "Polonnaruwa Vatadage",
-  "description": "Position aligned to satellite imagery with the in-app Align tool (not surveyed)."
+  "description": "Position aligned to satellite imagery with the in-app Align tool (not surveyed).",
+  "wikidata": "Q7225955"
  },
  {
   "id": "rankoth-vehera",
   "name": "Rankoth Vehera",
-  "lat": 7.958,
-  "lng": 81.003,
+  "lat": 7.95821,
+  "lng": 81.0034,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -2104,7 +2206,10 @@
     "sourceId": "epigraphia-zeylanica"
    }
   ],
-  "wiki": "Rankoth Vehera"
+  "wiki": "Rankoth Vehera",
+  "wikidata": "Q7293324",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rankoth%20Vehera%2C%20Ancient%20City%20of%20Polonnaruwa%2C%20Sri%20Lanka%20%285%29.jpg",
+  "coordSource": "wikidata:Q7293324"
  },
  {
   "id": "siva-devale-polonnaruwa",
@@ -2133,8 +2238,8 @@
  {
   "id": "dimbulagala",
   "name": "Dimbulagala",
-  "lat": 7.86,
-  "lng": 81.12,
+  "lat": 7.86667,
+  "lng": 81.11667,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -2148,13 +2253,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Dimbulagala Raja Maha Vihara"
+  "wiki": "Dimbulagala Raja Maha Vihara",
+  "wikidata": "Q5277192",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dimbulagala%20Temple.JPG",
+  "coordSource": "wikidata:Q5277192"
  },
  {
   "id": "somawathiya",
   "name": "Somawathiya",
-  "lat": 8.12,
-  "lng": 81.17,
+  "lat": 8.12088,
+  "lng": 81.16886,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -2168,13 +2276,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Somawathiya Chaitya"
+  "wiki": "Somawathiya Chaitya",
+  "wikidata": "Q18379203",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/20230115%20Somawathiya%20Chaitya%20%285%29.jpg",
+  "coordSource": "wikidata:Q18379203"
  },
  {
   "id": "seruwila",
   "name": "Seruwila Mangala Raja Maha Vihara",
-  "lat": 8.36,
-  "lng": 81.31,
+  "lat": 8.37083,
+  "lng": 81.31939,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -2188,7 +2299,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Seruwila Mangala Raja Maha Vihara"
+  "wiki": "Seruwila Mangala Raja Maha Vihara",
+  "wikidata": "Q10666450",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seruvila%20Mangala%20Raja%20Maha%20Viharaya.jpg",
+  "coordSource": "wikidata:Q10666450"
  },
  {
   "id": "kirinda",
@@ -2225,8 +2339,8 @@
  {
   "id": "magul-maha-vihara",
   "name": "Magul Maha Viharaya (Lahugala)",
-  "lat": 6.9,
-  "lng": 81.7,
+  "lat": 6.86744,
+  "lng": 81.73684,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -2240,13 +2354,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Magul Maha Viharaya"
+  "wiki": "Magul Maha Viharaya",
+  "wikidata": "Q20987429",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Magul%20Maha%20Viharaya.jpg",
+  "coordSource": "wikidata:Q20987429"
  },
  {
   "id": "situlpahuwa",
   "name": "Sithulpawwa",
-  "lat": 6.4,
-  "lng": 81.47,
+  "lat": 6.38694,
+  "lng": 81.44972,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -2260,13 +2377,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Sithulpawwa Rajamaha Viharaya"
+  "wiki": "Sithulpawwa Rajamaha Viharaya",
+  "wikidata": "Q18378493",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sithulpawwa.JPG",
+  "coordSource": "wikidata:Q18378493"
  },
  {
   "id": "mulkirigala",
   "name": "Mulkirigala",
-  "lat": 6.12,
-  "lng": 80.73,
+  "lat": 6.12305,
+  "lng": 80.7364,
   "precision": "approximate",
   "kind": "site",
   "siteType": "cave-temple",
@@ -2280,13 +2400,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Mulkirigala Raja Maha Vihara"
+  "wiki": "Mulkirigala Raja Maha Vihara",
+  "wikidata": "Q20216036",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulkirigala.jpg",
+  "coordSource": "wikidata:Q20216036"
  },
  {
   "id": "maligawila",
   "name": "Maligawila Buddha",
-  "lat": 6.79,
-  "lng": 81.43,
+  "lat": 6.72838,
+  "lng": 81.35229,
   "precision": "approximate",
   "kind": "site",
   "siteType": "sculpture",
@@ -2301,13 +2424,16 @@
     "sourceId": "vonschroeder1990"
    }
   ],
-  "wiki": "Maligawila Buddha statue"
+  "wiki": "Maligawila Buddha statue",
+  "wikidata": "Q6743492",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Standing%20Buddha%20Statue%20Maligawila.jpg",
+  "coordSource": "wikidata:Q6743492"
  },
  {
   "id": "buduruwagala",
   "name": "Buduruwagala",
-  "lat": 6.6738,
-  "lng": 81.145,
+  "lat": 6.68702,
+  "lng": 81.07838,
   "precision": "approximate",
   "kind": "site",
   "siteType": "sculpture",
@@ -2322,13 +2448,16 @@
     "sourceId": "vonschroeder1990"
    }
   ],
-  "wiki": "Buduruwagala"
+  "wiki": "Buduruwagala",
+  "coordSource": "wikidata:Q2927591",
+  "wikidata": "Q2927591",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Buduruwagala%20-%20Le%20grand%20Bouddha.JPG"
  },
  {
   "id": "lankatilaka-kandy",
   "name": "Lankatilaka Vihara (Kandy)",
-  "lat": 7.2289,
-  "lng": 80.5656,
+  "lat": 7.23388,
+  "lng": 80.5647,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -2349,13 +2478,16 @@
     "work": "culavamsa",
     "chapter": 90
    }
-  ]
+  ],
+  "wikidata": "Q3217592",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lankathilaka%20Vhihara%20-%20Le%20temple.JPG",
+  "coordSource": "wikidata:Q3217592"
  },
  {
   "id": "gadaladeniya",
   "name": "Gadaladeniya Vihara",
-  "lat": 7.2577,
-  "lng": 80.564,
+  "lat": 7.25731,
+  "lng": 80.55608,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -2369,13 +2501,16 @@
     "basis": "history"
    }
   ],
-  "wiki": "Gadaladeniya Viharaya"
+  "wiki": "Gadaladeniya Viharaya",
+  "coordSource": "wikidata:Q25637940",
+  "wikidata": "Q25637940",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gadaladeniya%20Viharaya%2002.JPG"
  },
  {
   "id": "embekke",
   "name": "Embekke Devale",
-  "lat": 7.216,
-  "lng": 80.57,
+  "lat": 7.21792,
+  "lng": 80.56772,
   "precision": "approximate",
   "kind": "site",
   "siteType": "shrine",
@@ -2389,13 +2524,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Embekka Devalaya"
+  "wiki": "Embekka Devalaya",
+  "wikidata": "Q5370021",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Embekka%20Devalaya%2048.JPG",
+  "coordSource": "wikidata:Q5370021"
  },
  {
   "id": "degaldoruwa",
   "name": "Degaldoruwa Raja Maha Vihara",
-  "lat": 7.304,
-  "lng": 80.66,
+  "lat": 7.30444,
+  "lng": 80.66389,
   "precision": "approximate",
   "kind": "site",
   "siteType": "cave-temple",
@@ -2409,13 +2547,16 @@
     "basis": "history"
    }
   ],
-  "wiki": "Degaldoruwa Raja Maha Vihara"
+  "wiki": "Degaldoruwa Raja Maha Vihara",
+  "wikidata": "Q19712009",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kandy%20asv2020-01%20img49%20Degaldoruwa%20Temple.jpg",
+  "coordSource": "wikidata:Q19712009"
  },
  {
   "id": "ridi-vihara",
   "name": "Ridi Viharaya",
-  "lat": 7.533,
-  "lng": 80.495,
+  "lat": 7.55,
+  "lng": 80.48333,
   "precision": "approximate",
   "kind": "site",
   "siteType": "cave-temple",
@@ -2441,7 +2582,10 @@
     "work": "mahavamsa",
     "chapter": 28
    }
-  ]
+  ],
+  "wikidata": "Q7332903",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ridi%20Viharaya%203.JPG",
+  "coordSource": "wikidata:Q7332903"
  },
  {
   "id": "arankele",
@@ -2466,8 +2610,8 @@
  {
   "id": "panduwasnuwara",
   "name": "Panduwasnuwara",
-  "lat": 7.6,
-  "lng": 80.1,
+  "lat": 7.6044,
+  "lng": 80.1061,
   "precision": "approximate",
   "kind": "site",
   "siteType": "palace",
@@ -2493,7 +2637,9 @@
     "work": "culavamsa",
     "chapter": 66
    }
-  ]
+  ],
+  "wikidata": "Q14208394",
+  "coordSource": "wikidata:Q14208394"
  },
  {
   "id": "dedigama",
@@ -2571,8 +2717,8 @@
  {
   "id": "wolvendaal",
   "name": "Wolvendaal Church",
-  "lat": 6.943,
-  "lng": 79.86,
+  "lat": 6.9421,
+  "lng": 79.859,
   "precision": "approximate",
   "kind": "site",
   "siteType": "church",
@@ -2586,7 +2732,10 @@
     "basis": "history"
    }
   ],
-  "wiki": "Wolvendaal Church"
+  "wiki": "Wolvendaal Church",
+  "wikidata": "Q16736534",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Colombo%20asv2020-01%20img01%20Wolvendaal%20Church.jpg",
+  "coordSource": "wikidata:Q16736534"
  },
  {
   "id": "talawila",
@@ -2611,8 +2760,8 @@
  {
   "id": "madhu",
   "name": "Our Lady of Madhu",
-  "lat": 8.86,
-  "lng": 80.2,
+  "lat": 8.85495,
+  "lng": 80.20288,
   "precision": "approximate",
   "kind": "site",
   "siteType": "church",
@@ -2627,13 +2776,16 @@
     "sourceId": "boudens1957"
    }
   ],
-  "wiki": "Shrine of Our Lady of Madhu"
+  "wiki": "Shrine of Our Lady of Madhu",
+  "wikidata": "Q3534705",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Madhu%20Church%20%28Madu%20Church%299.jpg",
+  "coordSource": "wikidata:Q3534705"
  },
  {
   "id": "munneswaram",
   "name": "Munneswaram",
-  "lat": 7.58,
-  "lng": 79.83,
+  "lat": 7.58078,
+  "lng": 79.81667,
   "precision": "approximate",
   "kind": "site",
   "siteType": "kovil",
@@ -2647,7 +2799,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Munneswaram temple"
+  "wiki": "Munneswaram temple",
+  "wikidata": "Q6936796",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Munneswaram.jpg",
+  "coordSource": "wikidata:Q6936796"
  },
  {
   "id": "naguleswaram",
@@ -2667,13 +2822,15 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Naguleswaram temple"
+  "wiki": "Naguleswaram temple",
+  "wikidata": "Q1963636",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Corridors%20of%20the%20Naguleswaram%20temple.jpg"
  },
  {
   "id": "jaffna-fort",
   "name": "Jaffna Fort",
-  "lat": 9.662,
-  "lng": 80.009,
+  "lat": 9.66212,
+  "lng": 80.0083,
   "precision": "approximate",
   "kind": "site",
   "siteType": "fort",
@@ -2688,13 +2845,16 @@
     "sourceId": "arasaratnam1958"
    }
   ],
-  "wiki": "Jaffna Fort"
+  "wiki": "Jaffna Fort",
+  "wikidata": "Q2756663",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Jaffna%20Fort%20%281%29.jpg",
+  "coordSource": "wikidata:Q2756663"
  },
  {
   "id": "fort-frederick",
   "name": "Fort Frederick (Trincomalee)",
-  "lat": 8.58,
-  "lng": 81.24,
+  "lat": 8.57528,
+  "lng": 81.24139,
   "precision": "approximate",
   "kind": "site",
   "siteType": "fort",
@@ -2709,13 +2869,16 @@
     "sourceId": "queyroz1930"
    }
   ],
-  "wiki": "Fort Frederick"
+  "wiki": "Fort Frederick",
+  "coordSource": "wikidata:Q3070381",
+  "wikidata": "Q3070381",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Fredrick%2C%20entrance.JPG"
  },
  {
   "id": "matara-star-fort",
   "name": "Star Fort, Matara",
-  "lat": 5.946,
-  "lng": 80.546,
+  "lat": 5.94806,
+  "lng": 80.5483,
   "precision": "approximate",
   "kind": "site",
   "siteType": "fort",
@@ -2730,13 +2893,16 @@
     "sourceId": "dewaraja1988"
    }
   ],
-  "wiki": "Star Fort, Matara"
+  "wiki": "Star Fort, Matara",
+  "wikidata": "Q18392841",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dutch%20Star%20Fort%2C%20Matara%200691.jpg",
+  "coordSource": "wikidata:Q18392841"
  },
  {
   "id": "dakkhina-thupa",
   "name": "Dakkhina Thupa",
-  "lat": 8.3378,
-  "lng": 80.3953,
+  "lat": 8.34111,
+  "lng": 80.395,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -2765,7 +2931,10 @@
     "chapter": 25
    }
   ],
-  "wiki": "Dakkhina Stupa"
+  "wiki": "Dakkhina Stupa",
+  "wikidata": "Q5209967",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dakkhinatupa.jpg",
+  "coordSource": "wikidata:Q5209967"
  },
  {
   "id": "ratnaprasada",
@@ -2906,8 +3075,8 @@
  {
   "id": "vijitapura",
   "name": "Vijitapura",
-  "lat": 8.04,
-  "lng": 80.52,
+  "lat": 8.03333,
+  "lng": 80.5333,
   "precision": "approximate",
   "kind": "site",
   "siteType": "ruins",
@@ -2933,7 +3102,9 @@
     "chapter": 25
    }
   ],
-  "wiki": "Vijithapura"
+  "wiki": "Vijithapura",
+  "wikidata": "Q7929354",
+  "coordSource": "wikidata:Q7929354"
  },
  {
   "id": "sasseruwa",
@@ -2958,8 +3129,8 @@
  {
   "id": "minneriya-tank",
   "name": "Minneriya Tank",
-  "lat": 8.035,
-  "lng": 80.895,
+  "lat": 8.03333,
+  "lng": 80.8833,
   "precision": "approximate",
   "kind": "site",
   "siteType": "reservoir",
@@ -2985,7 +3156,10 @@
     "chapter": 37
    }
   ],
-  "wiki": "Minneriya Tank"
+  "wiki": "Minneriya Tank",
+  "wikidata": "Q16897099",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Minneriya%20wewa.JPG",
+  "coordSource": "wikidata:Q16897099"
  },
  {
   "id": "kantale-tank",
@@ -3022,8 +3196,8 @@
  {
   "id": "giritale-tank",
   "name": "Giritale Tank",
-  "lat": 7.99,
-  "lng": 80.93,
+  "lat": 7.991,
+  "lng": 80.914,
   "precision": "approximate",
   "kind": "site",
   "siteType": "reservoir",
@@ -3037,7 +3211,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Giritale Tank"
+  "wiki": "Giritale Tank",
+  "wikidata": "Q25105275",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Giritale%20tank.JPG",
+  "coordSource": "wikidata:Q25105275"
  },
  {
   "id": "padaviya-tank",
@@ -3115,8 +3292,8 @@
  {
   "id": "tiriyaya",
   "name": "Girihandu Seya (Tiriyaya)",
-  "lat": 8.865,
-  "lng": 81.01,
+  "lat": 8.87039,
+  "lng": 81.00728,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -3130,13 +3307,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Girihandu Seya"
+  "wiki": "Girihandu Seya",
+  "wikidata": "Q48733604",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20Girihadu%20Seya.jpg",
+  "coordSource": "wikidata:Q48733604"
  },
  {
   "id": "velgam-vehera",
   "name": "Velgam Vehera",
-  "lat": 8.62,
-  "lng": 81.12,
+  "lat": 8.64567,
+  "lng": 81.17122,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -3151,13 +3331,16 @@
     "sourceId": "indrapala2005"
    }
   ],
-  "wiki": "Velgam Vehera"
+  "wiki": "Velgam Vehera",
+  "wikidata": "Q22910742",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%B7%80%E0%B7%99%E0%B6%BD%E0%B7%8A%E0%B6%9C%E0%B6%B8%E0%B7%8A%E0%B7%80%E0%B7%99%E0%B7%84%E0%B7%99%E0%B6%BB%20%E0%B6%AF%E0%B7%8F%E0%B6%9C%E0%B7%90%E0%B6%B6.JPG",
+  "coordSource": "wikidata:Q22910742"
  },
  {
   "id": "lankapatuna",
   "name": "Lankapatuna",
-  "lat": 8.43,
-  "lng": 81.33,
+  "lat": 8.3572,
+  "lng": 81.3896,
   "precision": "approximate",
   "kind": "site",
   "siteType": "shrine",
@@ -3171,7 +3354,9 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Lankapatuna Samudragiri Viharaya"
+  "wiki": "Lankapatuna Samudragiri Viharaya",
+  "wikidata": "Q96658222",
+  "coordSource": "wikidata:Q96658222"
  },
  {
   "id": "kanniya",
@@ -3285,7 +3470,8 @@
     "chapter": 81
    }
   ],
-  "wiki": "Kotmale"
+  "wiki": "Kotmale",
+  "wikidata": "Q6434136"
  },
  {
   "id": "atadage",
@@ -3326,7 +3512,7 @@
  {
   "id": "hatadage",
   "name": "Hatadage (Polonnaruwa)",
-  "lat": 7.9486,
+  "lat": 7.94774,
   "lng": 81.0015,
   "precision": "approximate",
   "kind": "site",
@@ -3356,7 +3542,9 @@
     "chapter": 80
    }
   ],
-  "wiki": "Hatadage"
+  "wiki": "Hatadage",
+  "wikidata": "Q5680866",
+  "coordSource": "wikidata:Q5680866"
  },
  {
   "id": "nissanka-lata-mandapa",
@@ -3442,8 +3630,8 @@
  {
   "id": "kiri-vehera-polonnaruwa",
   "name": "Kiri Vehera (Polonnaruwa)",
-  "lat": 7.9625,
-  "lng": 81.0015,
+  "lat": 7.9547,
+  "lng": 81.0022,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -3460,7 +3648,9 @@
     "basis": "archaeology"
    }
   ],
-  "wiki": "Kiri Vehera (Polonnaruwa)"
+  "wiki": "Kiri Vehera (Polonnaruwa)",
+  "wikidata": "Q136025348",
+  "coordSource": "wikidata:Q136025348"
  },
  {
   "id": "tivanka-pilimage",
@@ -3627,8 +3817,8 @@
  {
   "id": "rajagala",
   "name": "Rajagala",
-  "lat": 7.4,
-  "lng": 81.6,
+  "lat": 7.47797,
+  "lng": 81.6329,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -3643,7 +3833,9 @@
     "sourceId": "paranavitana1970"
    }
   ],
-  "wiki": "Rajagala"
+  "wiki": "Rajagala",
+  "wikidata": "Q18393540",
+  "coordSource": "wikidata:Q18393540"
  },
  {
   "id": "buddhangala",
@@ -3668,8 +3860,8 @@
  {
   "id": "muhudu-maha-vihara",
   "name": "Muhudu Maha Viharaya (Pottuvil)",
-  "lat": 6.876,
-  "lng": 81.834,
+  "lat": 6.8775,
+  "lng": 81.83889,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -3683,7 +3875,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Muhudu Maha Viharaya"
+  "wiki": "Muhudu Maha Viharaya",
+  "coordSource": "wikidata:Q6573093",
+  "wikidata": "Q6573093",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muhudu%20Maha%20Vihara%201.jpg"
  },
  {
   "id": "kudumbigala",
@@ -3727,7 +3922,7 @@
  {
   "id": "thirukkovil",
   "name": "Thirukkovil Sithira Velayutha Swami Kovil",
-  "lat": 7.12,
+  "lat": 7.13333,
   "lng": 81.85,
   "precision": "approximate",
   "kind": "site",
@@ -3741,13 +3936,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Thirukkovil Sithira Velayutha Swami Kovil"
+  "wiki": "Thirukkovil Sithira Velayutha Swami Kovil",
+  "coordSource": "wikidata:Q12984075",
+  "wikidata": "Q12984075",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Thirukkovil%20Entrance.jpg"
  },
  {
   "id": "thanthonreeswarar",
   "name": "Thanthonreeswarar Kovil (Kokkadicholai)",
-  "lat": 7.62,
-  "lng": 81.71,
+  "lat": 7.61667,
+  "lng": 81.71667,
   "precision": "approximate",
   "kind": "site",
   "siteType": "kovil",
@@ -3761,7 +3959,9 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Thanthonreeswarar Kovil"
+  "wiki": "Thanthonreeswarar Kovil",
+  "coordSource": "wikidata:Q25551289",
+  "wikidata": "Q25551289"
  },
  {
   "id": "mamangam",
@@ -3785,8 +3985,8 @@
  {
   "id": "yatala-vehera",
   "name": "Yatala Vehera",
-  "lat": 6.29,
-  "lng": 81.29,
+  "lat": 6.28556,
+  "lng": 81.27583,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -3800,7 +4000,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Yatala Vehera"
+  "wiki": "Yatala Vehera",
+  "wikidata": "Q19719135",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Tissamaharama%20dagoba.jpg",
+  "coordSource": "wikidata:Q19719135"
  },
  {
   "id": "sandagiri",
@@ -3825,8 +4028,8 @@
  {
   "id": "kataragama-devale",
   "name": "Kataragama Maha Devale",
-  "lat": 6.418,
-  "lng": 81.333,
+  "lat": 6.41667,
+  "lng": 81.33333,
   "precision": "approximate",
   "kind": "site",
   "siteType": "kovil",
@@ -3842,13 +4045,16 @@
     "basis": "history"
    }
   ],
-  "wiki": "Kataragama temple"
+  "wiki": "Kataragama temple",
+  "coordSource": "wikidata:Q15234273",
+  "wikidata": "Q15234273",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kataragama%20Maha%20Devale.jpg"
  },
  {
   "id": "dematamal",
   "name": "Dematamal Viharaya (Okkampitiya)",
-  "lat": 6.76,
-  "lng": 81.31,
+  "lat": 6.75639,
+  "lng": 81.28792,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -3862,7 +4068,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Dematamal Viharaya"
+  "wiki": "Dematamal Viharaya",
+  "wikidata": "Q16973445",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dematamal%20Viharaya.jpg",
+  "coordSource": "wikidata:Q16973445"
  },
  {
   "id": "dowa",
@@ -3947,8 +4156,8 @@
  {
   "id": "kalutara-bodhiya",
   "name": "Kalutara Bodhiya",
-  "lat": 6.5833,
-  "lng": 79.96,
+  "lat": 6.58694,
+  "lng": 79.96028,
   "precision": "approximate",
   "kind": "site",
   "siteType": "stupa",
@@ -3962,7 +4171,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Kalutara Bodhiya"
+  "wiki": "Kalutara Bodhiya",
+  "wikidata": "Q19702135",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20kalutara%20bodhi.jpg",
+  "coordSource": "wikidata:Q19702135"
  },
  {
   "id": "ratnapura-saman-devale",
@@ -3988,8 +4200,8 @@
  {
   "id": "delgamuwa",
   "name": "Delgamuwa Raja Maha Vihara",
-  "lat": 6.73,
-  "lng": 80.39,
+  "lat": 6.77586,
+  "lng": 80.35633,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -4003,7 +4215,10 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Delgamuwa Raja Maha Vihara"
+  "wiki": "Delgamuwa Raja Maha Vihara",
+  "wikidata": "Q23010020",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Delgamuva%20Vihara%2C%20Sri%20Lanka.jpg",
+  "coordSource": "wikidata:Q23010020"
  },
  {
   "id": "pepiliyana",
@@ -4050,8 +4265,8 @@
  {
   "id": "malwatte",
   "name": "Malwatte Maha Viharaya",
-  "lat": 7.2925,
-  "lng": 80.6425,
+  "lat": 7.28989,
+  "lng": 80.64136,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -4072,13 +4287,16 @@
     "chapter": 100
    }
   ],
-  "wiki": "Malwathu Maha Viharaya"
+  "wiki": "Malwathu Maha Viharaya",
+  "wikidata": "Q48730974",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/MONASTRY%20AT%20KANDY%20LAKE%20SRI%20LANKA%20JAN%202013%20%288900839218%29.jpg",
+  "coordSource": "wikidata:Q48730974"
  },
  {
   "id": "asgiriya",
   "name": "Asgiriya Maha Viharaya",
-  "lat": 7.3,
-  "lng": 80.633,
+  "lat": 7.29889,
+  "lng": 80.63286,
   "precision": "approximate",
   "kind": "site",
   "siteType": "monastery",
@@ -4093,7 +4311,9 @@
     "sourceId": "malalgoda1976"
    }
   ],
-  "wiki": "Asgiri Maha Viharaya"
+  "wiki": "Asgiri Maha Viharaya",
+  "wikidata": "Q31800102",
+  "coordSource": "wikidata:Q31800102"
  },
  {
   "id": "hindagala",
@@ -4200,8 +4420,8 @@
  {
   "id": "muthumariamman-matale",
   "name": "Sri Muthumariamman Kovil (Matale)",
-  "lat": 7.47,
-  "lng": 80.62,
+  "lat": 7.4773,
+  "lng": 80.6239,
   "precision": "approximate",
   "kind": "site",
   "siteType": "kovil",
@@ -4215,7 +4435,10 @@
     "basis": "history"
    }
   ],
-  "wiki": "Sri Muthumariamman Temple"
+  "wiki": "Sri Muthumariamman Temple",
+  "coordSource": "wikidata:Q16308678",
+  "wikidata": "Q16308678",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matale%20Sri%20Muttumariyamman%20Kovil.JPG"
  },
  {
   "id": "jambukola",
@@ -4256,8 +4479,8 @@
  {
   "id": "vallipuram",
   "name": "Vallipuram",
-  "lat": 9.79,
-  "lng": 80.24,
+  "lat": 9.78333,
+  "lng": 80.2333,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -4278,13 +4501,15 @@
     "chapter": 35
    }
   ],
-  "wiki": "Vallipuram"
+  "wiki": "Vallipuram",
+  "wikidata": "Q7912424",
+  "coordSource": "wikidata:Q7912424"
  },
  {
   "id": "nilavarai",
   "name": "Nilavarai well",
-  "lat": 9.73,
-  "lng": 80.1,
+  "lat": 9.75,
+  "lng": 80.08333,
   "precision": "approximate",
   "kind": "site",
   "siteType": "shrine",
@@ -4297,13 +4522,16 @@
     "basis": "tradition"
    }
   ],
-  "wiki": "Nilavarai"
+  "wiki": "Nilavarai",
+  "wikidata": "Q7036903",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nilavarai%2C%20Jaffna.JPG",
+  "coordSource": "wikidata:Q7036903"
  },
  {
   "id": "delft-fort",
   "name": "Delft (Neduntheevu) Dutch Fort",
-  "lat": 9.52,
-  "lng": 79.7,
+  "lat": 9.54074,
+  "lng": 79.67777,
   "precision": "approximate",
   "kind": "site",
   "siteType": "fort",
@@ -4318,13 +4546,16 @@
     "sourceId": "arasaratnam1958"
    }
   ],
-  "wiki": "Delft Island"
+  "wiki": "Delft Island",
+  "coordSource": "wikidata:Q16311487",
+  "wikidata": "Q16311487",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Delft%20Island%20fort.JPG"
  },
  {
   "id": "kalpitiya-fort",
   "name": "Kalpitiya Dutch Fort",
-  "lat": 8.23,
-  "lng": 79.76,
+  "lat": 8.23556,
+  "lng": 79.76611,
   "precision": "approximate",
   "kind": "site",
   "siteType": "fort",
@@ -4339,13 +4570,16 @@
     "sourceId": "arasaratnam1958"
    }
   ],
-  "wiki": "Kalpitiya Fort"
+  "wiki": "Kalpitiya Fort",
+  "wikidata": "Q18708374",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kalpitiya%20asv2020-01%20img6%20Dutch%20fort.jpg",
+  "coordSource": "wikidata:Q18708374"
  },
  {
   "id": "negombo-fort",
   "name": "Negombo Dutch Fort",
-  "lat": 7.21,
-  "lng": 79.835,
+  "lat": 7.20833,
+  "lng": 79.83056,
   "precision": "approximate",
   "kind": "site",
   "siteType": "fort",
@@ -4360,7 +4594,10 @@
     "sourceId": "arasaratnam1958"
    }
   ],
-  "wiki": "Negombo Fort"
+  "wiki": "Negombo Fort",
+  "wikidata": "Q18756153",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Negombo%20asv2020-01%20img06%20Dutch%20Fort.jpg",
+  "coordSource": "wikidata:Q18756153"
  },
  {
   "id": "batticaloa-fort",
@@ -4402,13 +4639,15 @@
     "sourceId": "pcoi-easter-2021"
    }
   ],
-  "wiki": "St. Anthony's Shrine, Kochchikade"
+  "wiki": "St. Anthony's Shrine, Kochchikade",
+  "wikidata": "Q29075893",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Anthony%27s%20Shrine%2C%20Kochchikade.jpg"
  },
  {
   "id": "red-mosque",
   "name": "Jami Ul-Alfar Mosque (Red Mosque)",
   "lat": 6.9385,
-  "lng": 79.851,
+  "lng": 79.8518,
   "precision": "approximate",
   "kind": "site",
   "siteType": "mosque",
@@ -4422,7 +4661,10 @@
     "basis": "history"
    }
   ],
-  "wiki": "Jami Ul-Alfar Mosque"
+  "wiki": "Jami Ul-Alfar Mosque",
+  "wikidata": "Q2667449",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Colombo%20asv2020-01%20img22%20Jami%20Ul-Alfar%20Mosque.jpg",
+  "coordSource": "wikidata:Q2667449"
  },
  {
   "id": "ponnambalavaneswarar",
@@ -4447,8 +4689,8 @@
  {
   "id": "gangaramaya",
   "name": "Gangaramaya Temple",
-  "lat": 6.9167,
-  "lng": 79.8565,
+  "lat": 6.91625,
+  "lng": 79.85642,
   "precision": "approximate",
   "kind": "site",
   "siteType": "temple",
@@ -4463,6 +4705,1761 @@
     "sourceId": "malalgoda1976"
    }
   ],
-  "wiki": "Gangaramaya Temple"
+  "wiki": "Gangaramaya Temple",
+  "wikidata": "Q5521071",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gangaramaya%20Temple.JPG",
+  "coordSource": "wikidata:Q5521071"
+ },
+ {
+  "id": "wd-q20821270",
+  "name": "Ovagiriya",
+  "lat": 7.22406,
+  "lng": 81.56272,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Ovagiriya",
+  "wikidata": "Q20821270",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q20821270",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ovagiriya%201.JPG"
+ },
+ {
+  "id": "wd-q12975379",
+  "name": "Kayts Island Fort",
+  "lat": 9.70081,
+  "lng": 79.85204,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Kayts Island Fort",
+  "wikidata": "Q12975379",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q12975379",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kayts%20Island%20Fort.JPG",
+  "founded": 1629,
+  "foundedLabel": "1629 (Wikidata)"
+ },
+ {
+  "id": "wd-q25055443",
+  "name": "Saint Stephen's Church, Negombo",
+  "lat": 7.255,
+  "lng": 79.832,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Saint Stephen's Church, Negombo",
+  "wikidata": "Q25055443",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25055443",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Negombo%20asv2020-01%20img10%20StStephen%20Church.jpg",
+  "founded": 1877,
+  "foundedLabel": "1877 (Wikidata)"
+ },
+ {
+  "id": "wd-q28379706",
+  "name": "Lahugala Kota Vehera",
+  "lat": 6.87808,
+  "lng": 81.75294,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Lahugala Kota Vehera",
+  "wikidata": "Q28379706",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28379706",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lahugala%20Kota%20Vehara%202.jpg"
+ },
+ {
+  "id": "wd-q16979801",
+  "name": "Isipathanaramaya Temple",
+  "lat": 6.8888,
+  "lng": 79.8656,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Isipathanaramaya Temple",
+  "wikidata": "Q16979801",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q16979801"
+ },
+ {
+  "id": "wd-q28379866",
+  "name": "Samanabedda cave temple",
+  "lat": 7.34308,
+  "lng": 81.64972,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Samanabedda cave temple",
+  "wikidata": "Q28379866",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28379866",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Samanabedda%20cave%20temple%201.jpg"
+ },
+ {
+  "id": "wd-q24949100",
+  "name": "St. Thomas' Cathedral, Vaddukoddai",
+  "lat": 9.72936,
+  "lng": 79.94906,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Thomas' Cathedral, Vaddukoddai",
+  "wikidata": "Q24949100",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q24949100",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Thomas%27%20Cathedral%2C%20Vaddukoddai.JPG"
+ },
+ {
+  "id": "wd-q25052318",
+  "name": "St. Anthony's church, Wahakotte",
+  "lat": 7.72217,
+  "lng": 80.58433,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Anthony's Shrine, Wahakotte",
+  "wikidata": "Q25052318",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25052318",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Anthony%E2%80%99s%20Church%2C%20Wahakotte.JPG"
+ },
+ {
+  "id": "wd-q38251247",
+  "name": "Methodist Church, Pettah",
+  "lat": 6.93903,
+  "lng": 79.85647,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Methodist Church, Pettah",
+  "wikidata": "Q38251247",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q38251247",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Methodist%20Church%2C%20Pettah.jpg",
+  "founded": 1816,
+  "foundedLabel": "1816 (Wikidata)"
+ },
+ {
+  "id": "wd-q6434031",
+  "name": "Kothduwa temple",
+  "lat": 6.30732,
+  "lng": 80.05206,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Kothduwa Temple",
+  "wikidata": "Q6434031",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q6434031",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Approach%20to%20Kothduwa%20temple.jpg"
+ },
+ {
+  "id": "wd-q24944930",
+  "name": "Sunandarama Vihara",
+  "lat": 6.23414,
+  "lng": 80.05708,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Sunandarama Vihara",
+  "wikidata": "Q24944930",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q24944930",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Front%20arch%20Sunandarama%20Maha%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q18708389",
+  "name": "Mullaitivu Fort",
+  "lat": 8.77317,
+  "lng": 81.13429,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Mullaitivu Fort",
+  "wikidata": "Q18708389",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18708389",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mullaitivu%20Fort%20in%20srilanka.jpg",
+  "founded": 1715,
+  "foundedLabel": "1715 (Wikidata)"
+ },
+ {
+  "id": "wd-q7842700",
+  "name": "Trinity College Chapel",
+  "lat": 7.29972,
+  "lng": 80.6339,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Trinity College Chapel, Kandy",
+  "wikidata": "Q7842700",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q7842700",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Trinity%20College%20Chapel%2C%20Kandy%20%284%29.jpg",
+  "founded": 1935,
+  "foundedLabel": "1935 (Wikidata)"
+ },
+ {
+  "id": "wd-q4791177",
+  "name": "Ariyalai Siddhivinayakar Temple",
+  "lat": 9.65926,
+  "lng": 80.0475,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "wiki": "Ariyalai Siddhivinayakar Temple",
+  "wikidata": "Q4791177",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q4791177"
+ },
+ {
+  "id": "wd-q28379814",
+  "name": "Lahugala Kiri Vehera",
+  "lat": 6.86992,
+  "lng": 81.71972,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Lahugala Kiri Vehera",
+  "wikidata": "Q28379814",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28379814",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lahugala%20Kiri%20Vehera.jpg"
+ },
+ {
+  "id": "wd-q19701876",
+  "name": "Kadadora Vihara",
+  "lat": 7.06083,
+  "lng": 80.59722,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Kadadora Vihara",
+  "wikidata": "Q19701876",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q19701876",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kadadora%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q18205862",
+  "name": "Dutch Reformed Church, Kalpitiya",
+  "lat": 8.23728,
+  "lng": 79.76484,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Dutch Reformed Church, Kalpitiya",
+  "wikidata": "Q18205862",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18205862",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kalpitiya%20asv2020-01%20img1%20Dutch%20church.jpg"
+ },
+ {
+  "id": "wd-q7193752",
+  "name": "Pilana Raja Maha Vihara",
+  "lat": 6.03767,
+  "lng": 80.29328,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Pilana Raja Maha Vihara",
+  "wikidata": "Q7193752",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q7193752",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pilana%20Temple%20at%20night.jpg"
+ },
+ {
+  "id": "wd-q7144783",
+  "name": "Pathirakali Amman Temple",
+  "lat": 8.57452,
+  "lng": 81.23391,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "wiki": "Pathirakali Amman Temple",
+  "wikidata": "Q7144783",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q7144783"
+ },
+ {
+  "id": "wd-q19701957",
+  "name": "Kande Vihara",
+  "lat": 6.44911,
+  "lng": 80.00028,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Kande Vihara",
+  "wikidata": "Q19701957",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q19701957",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/LK-aluthgama-kande-vihara-tempel.jpg",
+  "founded": 1734,
+  "foundedLabel": "1734 (Wikidata)"
+ },
+ {
+  "id": "wd-q18708393",
+  "name": "Ratnapura Dutch fort",
+  "lat": 6.67955,
+  "lng": 80.40255,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Ratnapura Dutch Fort",
+  "wikidata": "Q18708393",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18708393",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ratnapura%20Dutch%20fort.jpg"
+ },
+ {
+  "id": "wd-q24239464",
+  "name": "Seema Malaka",
+  "lat": 6.91762,
+  "lng": 79.85326,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Seema Malaka",
+  "wikidata": "Q24239464",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q24239464",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Seema%20Malaka%20temple.JPG"
+ },
+ {
+  "id": "wd-q29051773",
+  "name": "Kotte Raja Maha Vihara",
+  "lat": 6.88097,
+  "lng": 79.90481,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Kotte Raja Maha Vihara",
+  "wikidata": "Q29051773",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q29051773",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kotte%20Raja%20Maha%20Vihara%203.jpg"
+ },
+ {
+  "id": "wd-q29575291",
+  "name": "Samangala Forest Hermitage",
+  "lat": 7.41097,
+  "lng": 81.58119,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Samangala Aranya Senasanaya",
+  "wikidata": "Q29575291",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q29575291",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Samangala%2C%20Ampara%2C%20Sri%20Lanka.jpg"
+ },
+ {
+  "id": "wd-q28457340",
+  "name": "Buddama Raja Maha Vihara",
+  "lat": 7.04122,
+  "lng": 81.489,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Buddama Raja Maha Vihara",
+  "wikidata": "Q28457340",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28457340"
+ },
+ {
+  "id": "wd-q112030215",
+  "name": "Niyuguna Raja Maha Vihara",
+  "lat": 7.23028,
+  "lng": 81.70247,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Niyuguna Raja Maha Vihara",
+  "wikidata": "Q112030215",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q112030215"
+ },
+ {
+  "id": "wd-q29579545",
+  "name": "Nikasala Aranya Senasanaya",
+  "lat": 7.57786,
+  "lng": 80.12414,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Nikasala Aranya Senasanaya",
+  "wikidata": "Q29579545",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q29579545",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Nikasala%20Aranya%20Senasanaya.jpg"
+ },
+ {
+  "id": "wd-q97280735",
+  "name": "St. Sebastian's Church, Diyalagoda",
+  "lat": 6.50944,
+  "lng": 79.98596,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Sebastian's Church, Diyalagoda",
+  "wikidata": "Q97280735",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q97280735",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Sebastian%20Church-Feast%2025-01-20.jpg"
+ },
+ {
+  "id": "wd-q29248261",
+  "name": "Sri Pushparama Vihara, Balapitiya",
+  "lat": 6.29164,
+  "lng": 80.04214,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Sri Pushparama Vihara, Balapitiya",
+  "wikidata": "Q29248261",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q29248261",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Lanka%202010-11%20%285333716400%29.jpg"
+ },
+ {
+  "id": "wd-q37294763",
+  "name": "Panasawanarama Purana Vihara",
+  "lat": 7.12894,
+  "lng": 79.99672,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Panasawanarama Purana Vihara",
+  "wikidata": "Q37294763",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q37294763",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panasawanarama%20Purana%20Vihara%2C%20Kospillewa.jpg"
+ },
+ {
+  "id": "wd-q123684896",
+  "name": "Holy Emmanuel Church, Hanguranketha",
+  "lat": 7.17227,
+  "lng": 80.77878,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Holy Emmanuel Church, Hanguranketha",
+  "wikidata": "Q123684896",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q123684896"
+ },
+ {
+  "id": "wd-q63343474",
+  "name": "St. Sebastian's Church, Katuwapitiya",
+  "lat": 7.21106,
+  "lng": 79.85917,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Sebastian's Church, Katuwapitiya",
+  "wikidata": "Q63343474",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q63343474",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Statue%20of%20Risen%20Jesus%2C%20Sri%20Lanka.jpg"
+ },
+ {
+  "id": "wd-q111945151",
+  "name": "Meera Makam Mosque",
+  "lat": 7.29833,
+  "lng": 80.63528,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "mosque",
+  "religion": "muslim",
+  "wiki": "Meera Makam Mosque",
+  "wikidata": "Q111945151",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q111945151"
+ },
+ {
+  "id": "wd-q29051502",
+  "name": "St. Lawrence's Church",
+  "lat": 6.87081,
+  "lng": 79.86342,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Lawrence's Church, Wellawatte",
+  "wikidata": "Q29051502",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q29051502",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Lawrence%27s%20Church%2C%20Wellawatte.jpg",
+  "founded": 1968,
+  "foundedLabel": "1968 (Wikidata)"
+ },
+ {
+  "id": "wd-q38043552",
+  "name": "Sri Dharmendrarama Raja Maha Vihara",
+  "lat": 7.42711,
+  "lng": 81.63397,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Sri Dharmendrarama Raja Maha Vihara",
+  "wikidata": "Q38043552",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q38043552",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Dharmendrarama%20Raja%20Maha%20Vihara%2C%20Mayadunna%2C%20Ampara%202.jpg"
+ },
+ {
+  "id": "wd-q28914248",
+  "name": "Samudrasanna Vihara",
+  "lat": 6.82892,
+  "lng": 79.86408,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Samudrasanna Vihara",
+  "wikidata": "Q28914248",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28914248",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Samudrasanna%20Vihara.jpg",
+  "founded": 1845,
+  "foundedLabel": "1845 (Wikidata)"
+ },
+ {
+  "id": "wd-q28972799",
+  "name": "Siri Perakumba Pirivena",
+  "lat": 6.90275,
+  "lng": 79.90628,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Siri Perakumba Pirivena",
+  "wikidata": "Q28972799",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28972799",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Siri%20Perakumba%20Pirivena.jpg"
+ },
+ {
+  "id": "wd-q48732862",
+  "name": "Dodanthale Raja Maha Vihara",
+  "lat": 7.22992,
+  "lng": 80.42942,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Dodanthale Raja Maha Vihara",
+  "wikidata": "Q48732862",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q48732862",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dodanthale.jpg",
+  "founded": 1748,
+  "foundedLabel": "1748 (Wikidata)"
+ },
+ {
+  "id": "wd-q63248173",
+  "name": "Zion Church, Batticaloa",
+  "lat": 7.70997,
+  "lng": 81.69553,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Zion Church, Batticaloa",
+  "wikidata": "Q63248173",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q63248173"
+ },
+ {
+  "id": "wd-q28938639",
+  "name": "Sri Pushparama Vihara, Ratmalana",
+  "lat": 6.82178,
+  "lng": 79.87117,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Sri Pushparama Vihara, Ratmalana",
+  "wikidata": "Q28938639",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28938639",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Pushparama%20Vihara%2C%20Ratmalana.jpg",
+  "founded": 1795,
+  "foundedLabel": "1795 (Wikidata)"
+ },
+ {
+  "id": "wd-q39050356",
+  "name": "Uththara Jayamaha Vihara",
+  "lat": 7.22161,
+  "lng": 81.67936,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Uththara Jayamaha Vihara",
+  "wikidata": "Q39050356",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q39050356",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uththara%20Jayamaha%20Vihara%2C%20Ampara.jpg"
+ },
+ {
+  "id": "wd-q47516796",
+  "name": "Keheliya Raja Maha Vihara",
+  "lat": 6.6655,
+  "lng": 81.12706,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Keheliya Raja Maha Vihara",
+  "wikidata": "Q47516796",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q47516796",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Keheliya%20Raja%20Maha%20Vihara%2C%20Sri%20Lanka.jpg"
+ },
+ {
+  "id": "wd-q55641352",
+  "name": "Our Lady of Sorrows Church, Kandawala",
+  "lat": 7.23722,
+  "lng": 79.8725,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Our Lady of Sorrows Church, Kandawala",
+  "wikidata": "Q55641352",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q55641352",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandawala%20Church.jpg",
+  "founded": 1957,
+  "foundedLabel": "1957 (Wikidata)"
+ },
+ {
+  "id": "wd-q28937771",
+  "name": "Balana Fort",
+  "lat": 7.27041,
+  "lng": 80.47588,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Balana Fort",
+  "wikidata": "Q28937771",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28937771"
+ },
+ {
+  "id": "wd-q55633759",
+  "name": "Sri Maha Bodhi Viharaya",
+  "lat": 7.29156,
+  "lng": 80.62917,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Sri Maha Bodhi Viharaya",
+  "wikidata": "Q55633759",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q55633759",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Maha%20Bodhi%20Vihara%20Statue.jpg"
+ },
+ {
+  "id": "wd-q28694713",
+  "name": "Panduwasnuwara Raja Maha Vihara",
+  "lat": 7.59731,
+  "lng": 80.10856,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Panduwasnuwara Raja Maha Vihara",
+  "wikidata": "Q28694713",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28694713",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Panduwasnuwara%20Raja%20Maha%20Vihara%201.jpg"
+ },
+ {
+  "id": "wd-q30589637",
+  "name": "St. Peter's Church, Colombo",
+  "lat": 6.9375,
+  "lng": 79.84472,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Peter's Church, Colombo",
+  "wikidata": "Q30589637",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q30589637",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Entrance%20to%20St%20Peter%27s%20Church%20Colombo.jpg"
+ },
+ {
+  "id": "wd-q38257137",
+  "name": "Muwangala Raja Maha Vihara",
+  "lat": 7.25019,
+  "lng": 81.66389,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Muwangala Raja Maha Vihara",
+  "wikidata": "Q38257137",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q38257137",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Muwangala%20Raja%20Maha%20Vihara%2C%20Ampara%201.jpg"
+ },
+ {
+  "id": "wd-q75103640",
+  "name": "Christ Church Warleigh",
+  "lat": 6.96222,
+  "lng": 80.76611,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Christ Church Warleigh, Dickoya",
+  "wikidata": "Q75103640",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q75103640",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20English%20church%20%288390995233%29.jpg"
+ },
+ {
+  "id": "wd-q97657157",
+  "name": "Masjid Al Abrar, Beruwala",
+  "lat": 6.46306,
+  "lng": 79.97611,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "mosque",
+  "religion": "muslim",
+  "wiki": "Al Abrar Mosque, Beruwala",
+  "wikidata": "Q97657157",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q97657157"
+ },
+ {
+  "id": "wd-q39061040",
+  "name": "Padiyadora Raja Maha Vihara",
+  "lat": 7.398,
+  "lng": 81.25225,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Padiyadora Raja Maha Vihara",
+  "wikidata": "Q39061040",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q39061040",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Padiyadora%20Raja%20Maha%20Vihara%2C%20Padiyathalawa%2C%20Sri%20Lanka.jpg"
+ },
+ {
+  "id": "wd-q28972804",
+  "name": "Balapokuna Raja Maha Vihara",
+  "lat": 6.8725,
+  "lng": 79.87781,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Balapokuna Raja Maha Vihara",
+  "wikidata": "Q28972804",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28972804",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Balapokuna%20Raja%20Maha%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q28775147",
+  "name": "Karagampitiya Vihara",
+  "lat": 6.84889,
+  "lng": 79.86831,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Sri Subodharama Raja Maha Vihara",
+  "wikidata": "Q28775147",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28775147",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Subodharama%20Vihara%203.jpg"
+ },
+ {
+  "id": "wd-q38236009",
+  "name": "Galmaduwa Raja Maha Vihara, Ampara",
+  "lat": 7.26247,
+  "lng": 81.68903,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Galmaduwa Raja Maha Vihara, Ampara",
+  "wikidata": "Q38236009",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q38236009",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Galmaduwa%20Raja%20Maha%20Vihara%2C%20Ampara.jpg"
+ },
+ {
+  "id": "wd-q108282134",
+  "name": "Meeran Jumma Mosque",
+  "lat": 6.02464,
+  "lng": 80.21869,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "mosque",
+  "religion": "muslim",
+  "wiki": "Meeran Jumma Mosque",
+  "wikidata": "Q108282134",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q108282134",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Galle%20Fort%20asv2020-01%20img21.jpg"
+ },
+ {
+  "id": "wd-q47520138",
+  "name": "Kanabiso Pokuna Raja Maha Vihara",
+  "lat": 6.65494,
+  "lng": 81.14836,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Kanabiso Pokuna Raja Maha Vihara",
+  "wikidata": "Q47520138",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q47520138",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kanabiso%20Pokuna%20Raja%20Maha%20Vihara%2C%20Sri%20Lanka.jpg"
+ },
+ {
+  "id": "wd-q111762269",
+  "name": "Sri Anjaneyar Kovil",
+  "lat": 6.86731,
+  "lng": 79.86617,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "wiki": "Sri Anjaneyar Kovil",
+  "wikidata": "Q111762269",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q111762269"
+ },
+ {
+  "id": "wd-q22666003",
+  "name": "Mawaragala Forest Hermitage",
+  "lat": 7.39819,
+  "lng": 81.09656,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Mawaragala Aranya Senasanaya",
+  "wikidata": "Q22666003",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q22666003",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mavaragala.jpg"
+ },
+ {
+  "id": "wd-q25638217",
+  "name": "Abhayathilakarathnaramaya",
+  "lat": 6.77811,
+  "lng": 80.36678,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Abhayathilakarathnaramaya",
+  "wikidata": "Q25638217",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25638217",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Abhayathilakarathnaramaya.jpg"
+ },
+ {
+  "id": "wd-q30622076",
+  "name": "Beligammana Raja Maha Vihara",
+  "lat": 7.25014,
+  "lng": 80.4545,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Beligammana Raja Maha Vihara",
+  "wikidata": "Q30622076",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q30622076",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Beligammana%20Raja%20Maha%20Viharaya%20Mawanella.jpg",
+  "founded": 1820,
+  "foundedLabel": "1820 (Wikidata)"
+ },
+ {
+  "id": "wd-q20680188",
+  "name": "Paramakanda Raja Maha Vihara",
+  "lat": 7.91667,
+  "lng": 80.0,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Paramakanda Raja Maha Vihara",
+  "wikidata": "Q20680188",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q20680188",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Paramakanda%20Raja%20Maha%20Vihara%204.jpg"
+ },
+ {
+  "id": "wd-q22338432",
+  "name": "Aluthepola Vihara",
+  "lat": 7.20588,
+  "lng": 79.96239,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Aluthepola Ganekanda Raja Maha Vihara",
+  "wikidata": "Q22338432",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q22338432",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aluthepola%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q17021365",
+  "name": "St. Paul's Church, Kandy",
+  "lat": 7.29453,
+  "lng": 80.63969,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Paul's Church, Kandy",
+  "wikidata": "Q17021365",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q17021365",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Kandy%20asv2020-01%20img29%20StPaul%20Church.jpg",
+  "founded": 1852,
+  "foundedLabel": "1852 (Wikidata)"
+ },
+ {
+  "id": "wd-q20823221",
+  "name": "Naigala Raja Maha Vihara",
+  "lat": 6.14841,
+  "lng": 80.78477,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Naigala Raja Maha Vihara",
+  "wikidata": "Q20823221",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q20823221",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Naigala%20Raja%20Maha%20Vihara%201.jpg"
+ },
+ {
+  "id": "wd-q28002504",
+  "name": "Koskandawala Raja Maha Vihara",
+  "lat": 7.07967,
+  "lng": 80.05228,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Koskandawala Raja Maha Vihara",
+  "wikidata": "Q28002504",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28002504",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Koskandawala%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q28243056",
+  "name": "Neelagiriseya",
+  "lat": 6.85083,
+  "lng": 81.70175,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Neelagiriseya",
+  "wikidata": "Q28243056",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28243056",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Neelagiriseya.jpg"
+ },
+ {
+  "id": "wd-q18708377",
+  "name": "Koddiyar Fort",
+  "lat": 8.46236,
+  "lng": 81.26095,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Koddiyar fort",
+  "wikidata": "Q18708377",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18708377",
+  "founded": 1622,
+  "foundedLabel": "1622 (Wikidata)"
+ },
+ {
+  "id": "wd-q18708383",
+  "name": "Malwana Fort",
+  "lat": 6.92559,
+  "lng": 80.02221,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Malwana fort",
+  "wikidata": "Q18708383",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18708383"
+ },
+ {
+  "id": "wd-q18049297",
+  "name": "Bellanwila Rajamaha Viharaya",
+  "lat": 6.84556,
+  "lng": 79.89,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Bellanwila Rajamaha Viharaya",
+  "wikidata": "Q18049297",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18049297",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bellanwila%20Vihara.jpg",
+  "founded": 1850,
+  "foundedLabel": "1850 (Wikidata)"
+ },
+ {
+  "id": "wd-q32964820",
+  "name": "Uththararama Purana Vihara, Udugampola",
+  "lat": 7.12936,
+  "lng": 79.98283,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Uththararama Purana Vihara, Udugampola",
+  "wikidata": "Q32964820",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q32964820",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uththararama%20Purana%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q18708398",
+  "name": "Sitawaka Fort",
+  "lat": 6.95298,
+  "lng": 80.22437,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Sitawaka fort",
+  "wikidata": "Q18708398",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18708398"
+ },
+ {
+  "id": "wd-q25637912",
+  "name": "Gonagolla Vihara",
+  "lat": 7.41553,
+  "lng": 81.65572,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Gonagolla Vihara",
+  "wikidata": "Q25637912",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25637912",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gonagolla%20vihara%203.jpg"
+ },
+ {
+  "id": "wd-q16314732",
+  "name": "Mannar Fort",
+  "lat": 8.97586,
+  "lng": 79.91701,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Mannar fort",
+  "wikidata": "Q16314732",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q16314732",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Het%20fort%20Manaar%20op%20Ceylon%2C%20gezien%20van%20de%20rivier%20.ar%20van%20de%20Revier%20%28titel%20op%20object%29%2C%20RP-T-1902-A-4667.jpg",
+  "founded": 1560,
+  "foundedLabel": "1560 (Wikidata)"
+ },
+ {
+  "id": "wd-q18708367",
+  "name": "Fort MacDowall",
+  "lat": 7.46523,
+  "lng": 80.6222,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Fort MacDowall",
+  "wikidata": "Q18708367",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18708367",
+  "founded": 1803,
+  "foundedLabel": "1803 (Wikidata)"
+ },
+ {
+  "id": "wd-q26904723",
+  "name": "Yatawatte Purana Vihara",
+  "lat": 7.08892,
+  "lng": 79.98628,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Yatawatte Purana Vihara",
+  "wikidata": "Q26904723",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q26904723",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Yatawatte%20Purana%20Vihara%202.jpg"
+ },
+ {
+  "id": "wd-q18819145",
+  "name": "Maduwanwela Walawwa",
+  "lat": 6.38917,
+  "lng": 80.70347,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "ruins",
+  "religion": "secular",
+  "wiki": "Maduwanwela Walawwa",
+  "wikidata": "Q18819145",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18819145",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Palace%20Maduwanwela%20Walawwa%20-%20%E0%B6%B8%E0%B6%A9%E0%B7%94%E0%B7%80%E0%B6%B1%E0%B7%8A%E0%B7%80%E0%B7%99%E0%B6%BD%20%E0%B7%80%E0%B6%BD%E0%B7%80%E0%B7%8A%E0%B7%80%202012%20-%20panoramio.jpg",
+  "founded": 1725,
+  "foundedLabel": "1725 (Wikidata)"
+ },
+ {
+  "id": "wd-q21975633",
+  "name": "Kadurugoda Vihara",
+  "lat": 9.75,
+  "lng": 80.01667,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Ancient Kadurugoda Viharaya",
+  "wikidata": "Q21975633",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q21975633",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kandarodai%20Ancient%20Buddhist%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q18756270",
+  "name": "Martello Tower",
+  "lat": 6.28861,
+  "lng": 81.12694,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Martello tower (Hambantota)",
+  "wikidata": "Q18756270",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18756270",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batticaloa%20Portuguese%20%28dutch%29%20fort.jpg",
+  "founded": 1804,
+  "foundedLabel": "1804 (Wikidata)"
+ },
+ {
+  "id": "wd-q20823160",
+  "name": "Kasagala Raja Maha Vihara",
+  "lat": 6.13636,
+  "lng": 80.8125,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Kasagala Raja Maha Vihara",
+  "wikidata": "Q20823160",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q20823160",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kasagala%20Raja%20Maha%20Vihara%201.jpg"
+ },
+ {
+  "id": "wd-q12973620",
+  "name": "Fort Hammenheil",
+  "lat": 9.7117,
+  "lng": 79.84801,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Fort Hammenhiel",
+  "wikidata": "Q12973620",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q12973620",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hammenheil%20fort.JPG",
+  "founded": 1618,
+  "foundedLabel": "1618 (Wikidata)"
+ },
+ {
+  "id": "wd-q23073347",
+  "name": "Holy Trinity Church, Nuwara Eliya",
+  "lat": 6.96222,
+  "lng": 80.76611,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Holy Trinity Church, Nuwara Eliya",
+  "wikidata": "Q23073347",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q23073347",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/All%20Saints%20Church%2C%20Nuwara%20Eliya%20%281%29.jpg",
+  "founded": 1852,
+  "foundedLabel": "1852 (Wikidata)"
+ },
+ {
+  "id": "wd-q12986531",
+  "name": "Pooneryn Fort",
+  "lat": 9.50337,
+  "lng": 80.21214,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Pooneryn Fort",
+  "wikidata": "Q12986531",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q12986531",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pooneryn%20fort.JPG"
+ },
+ {
+  "id": "wd-q33113341",
+  "name": "Kshetrarama Maha Vihara",
+  "lat": 6.79628,
+  "lng": 79.87789,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Kshetrarama Maha Vihara",
+  "wikidata": "Q33113341",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q33113341",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kshetrarama%20Maha%20Vihara%2C%20Lakshapathiya%2C%20Moratuwa.jpg",
+  "founded": 1829,
+  "foundedLabel": "1829 (Wikidata)"
+ },
+ {
+  "id": "wd-q18345172",
+  "name": "Gokanna Temple",
+  "lat": 8.57678,
+  "lng": 81.24161,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Gokanna Vihara",
+  "wikidata": "Q18345172",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18345172",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gokanna%20temple.jpg"
+ },
+ {
+  "id": "wd-q38250615",
+  "name": "St Mark’s Church, Badulla",
+  "lat": 6.99031,
+  "lng": 81.05719,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Mark's Church, Badulla",
+  "wikidata": "Q38250615",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q38250615",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Badulla%20asv2020-01%20img22%20StMark%20Church.jpg",
+  "founded": 1857,
+  "foundedLabel": "1857 (Wikidata)"
+ },
+ {
+  "id": "wd-q21000644",
+  "name": "Pusulpitiya Raja Maha Vihara",
+  "lat": 7.0554,
+  "lng": 80.6482,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Pusulpitiya Raja Maha Vihara",
+  "wikidata": "Q21000644",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q21000644",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pusulpitiya%20Raja%20Maha%20Vihara%201.JPG"
+ },
+ {
+  "id": "wd-q33101684",
+  "name": "Aramanapola Raja Maha Vihara",
+  "lat": 6.63453,
+  "lng": 80.52283,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Aramanapola Raja Maha Vihara",
+  "wikidata": "Q33101684",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q33101684",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Aramanapola%20Raja%20Maha%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q20987385",
+  "name": "Church of Our Lady of Presentation, Batticaloa",
+  "lat": 7.72016,
+  "lng": 81.69526,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Church of Our Lady of Presentation, Batticaloa",
+  "wikidata": "Q20987385",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q20987385",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20Our%20Lady%20of%20Presentation%20-%20Batticaloa.jpg"
+ },
+ {
+  "id": "wd-q18205866",
+  "name": "Dutch Reformed Church, Matara",
+  "lat": 5.94472,
+  "lng": 80.5467,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Dutch Reformed Church, Matara",
+  "wikidata": "Q18205866",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18205866",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Matara%20Dutch%20Church%20%28exterior%29.jpg"
+ },
+ {
+  "id": "wd-q19735846",
+  "name": "Warana Raja Maha Vihara",
+  "lat": 7.10425,
+  "lng": 80.07469,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Warana Raja Maha Vihara",
+  "wikidata": "Q19735846",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q19735846",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/%E0%B7%80%E0%B7%8F%E0%B6%BB%E0%B6%AB%20%E0%B6%BB%E0%B6%A2%E0%B6%B8%E0%B7%84%E0%B7%8F%20%E0%B7%80%E0%B7%92%E0%B7%84%E0%B7%8F%E0%B6%BB%E0%B6%BA%201.PNG"
+ },
+ {
+  "id": "wd-q19718656",
+  "name": "Maligatenna Raja Maha Vihara",
+  "lat": 7.06686,
+  "lng": 80.06444,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Maligatenna Raja Maha Vihara",
+  "wikidata": "Q19718656",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q19718656",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Maligatenna%20Raja%20Maha%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q28055651",
+  "name": "Ibbagala Raja Maha Vihara",
+  "lat": 7.48753,
+  "lng": 80.37067,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Ibbagala Raja Maha Vihara",
+  "wikidata": "Q28055651",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28055651",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Ibbagala%20Rock%20Temple1.JPG"
+ },
+ {
+  "id": "wd-q1849425",
+  "name": "Batticaloa Fort",
+  "lat": 7.7119,
+  "lng": 81.70238,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Batticaloa Fort",
+  "wikidata": "Q1849425",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q1849425",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batticaloa%20Portuguese%20%28dutch%29%20fort.jpg",
+  "founded": 1628,
+  "foundedLabel": "1628 (Wikidata)"
+ },
+ {
+  "id": "wd-q16258711",
+  "name": "Colombo Grand Mosque",
+  "lat": 6.94038,
+  "lng": 79.859,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "mosque",
+  "religion": "muslim",
+  "wiki": "Grand Mosque of Colombo",
+  "wikidata": "Q16258711",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q16258711",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Lanka%20Colombo%20Grand%20Mosque%20Landscape.jpg"
+ },
+ {
+  "id": "wd-q24949103",
+  "name": "St. James' Church, Nallur",
+  "lat": 9.67356,
+  "lng": 80.03767,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. James' Church, Nallur",
+  "wikidata": "Q24949103",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q24949103",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20James%27%20Church%2C%20Nallur.jpg",
+  "founded": 1828,
+  "foundedLabel": "1828 (Wikidata)"
+ },
+ {
+  "id": "wd-q25343805",
+  "name": "Batadombalena",
+  "lat": 6.8,
+  "lng": 80.36667,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "ruins",
+  "religion": "secular",
+  "wiki": "Batadombalena",
+  "wikidata": "Q25343805",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25343805",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Batadombalena%20archaeological%20sites.JPG"
+ },
+ {
+  "id": "wd-q16314134",
+  "name": "Fort Pyl",
+  "lat": 9.58917,
+  "lng": 80.44458,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Fort Pyl",
+  "wikidata": "Q16314134",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q16314134"
+ },
+ {
+  "id": "wd-q19707959",
+  "name": "Asgiriya Raja Maha Vihara, Gampaha",
+  "lat": 7.111,
+  "lng": 79.98964,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Asgiriya Raja Maha Vihara, Gampaha",
+  "wikidata": "Q19707959",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q19707959",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Asgiriya%20Raja%20Maha%20Vihara%2C%20Gampaha%202.jpg"
+ },
+ {
+  "id": "wd-q7594870",
+  "name": "St Michael and All Angels Church, Polwatte",
+  "lat": 6.91342,
+  "lng": 79.85208,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St Michael and All Angels Church, Polwatte",
+  "wikidata": "Q7594870",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q7594870",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/SL%20Colombo%20asv2020-01%20img14%20StMichael%20and%20All%20Angels%20Church.jpg",
+  "founded": 1865,
+  "foundedLabel": "1865 (Wikidata)"
+ },
+ {
+  "id": "wd-q25226752",
+  "name": "St. Mary’s Church",
+  "lat": 7.201,
+  "lng": 79.838,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Mary's Church, Negombo",
+  "wikidata": "Q25226752",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25226752",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Negombo%2C%20St.%20Mary%27s%20Church%2C%202025-07%20CN-02.jpg"
+ },
+ {
+  "id": "wd-q38251288",
+  "name": "St Matthias’ Church, Lakshapathiya",
+  "lat": 6.79919,
+  "lng": 79.87817,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St Matthias' Church, Lakshapathiya",
+  "wikidata": "Q38251288",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q38251288",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Matthias%E2%80%99%20Church%2C%20Lakshapathiya%2C%20Sri%20Lanka.jpg",
+  "founded": 1875,
+  "foundedLabel": "1875 (Wikidata)"
+ },
+ {
+  "id": "wd-q18708376",
+  "name": "Katuwana Fort",
+  "lat": 6.2675,
+  "lng": 80.695,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Katuwana fort",
+  "wikidata": "Q18708376",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q18708376",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Fort%20Catoene%20in%20Ceylon.jpg",
+  "founded": 1646,
+  "foundedLabel": "1646 (Wikidata)"
+ },
+ {
+  "id": "wd-q22906291",
+  "name": "All Saints' Church",
+  "lat": 6.92087,
+  "lng": 79.87512,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "All Saints' Church, Borella",
+  "wikidata": "Q22906291",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q22906291"
+ },
+ {
+  "id": "wd-q25637783",
+  "name": "Udayagiri Raja Maha Vihara",
+  "lat": 7.38242,
+  "lng": 81.63261,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Udayagiri Raja Maha Vihara",
+  "wikidata": "Q25637783",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25637783",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Udayagiri%20Rajamaha%20Vihara%201.jpg"
+ },
+ {
+  "id": "wd-q4882839",
+  "name": "Belilena",
+  "lat": 7.00222,
+  "lng": 80.43578,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "ruins",
+  "religion": "secular",
+  "wiki": "Belilena Cave",
+  "wikidata": "Q4882839",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q4882839"
+ },
+ {
+  "id": "wd-q12973680",
+  "name": "Arippu Fort",
+  "lat": 8.79259,
+  "lng": 79.92965,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "fort",
+  "religion": "secular",
+  "wiki": "Arippu Fort",
+  "wikidata": "Q12973680",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q12973680"
+ },
+ {
+  "id": "wd-q28002465",
+  "name": "Uruwala Valagamba Raja Maha Vihara",
+  "lat": 7.05636,
+  "lng": 80.05183,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Uruwala Valagamba Raja Maha Vihara",
+  "wikidata": "Q28002465",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q28002465",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Uruwala%20Valagamba%20Raja%20Maha%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q4501090",
+  "name": "Choleeswaram temple",
+  "lat": 8.41667,
+  "lng": 81.06667,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "kovil",
+  "religion": "hindu",
+  "wiki": "Choleeswaram temple",
+  "wikidata": "Q4501090",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q4501090",
+  "founded": 1010,
+  "foundedLabel": "1010 (Wikidata)"
+ },
+ {
+  "id": "wd-q31977697",
+  "name": "Sri Saddharmagupta Piriven Vihara",
+  "lat": 7.124,
+  "lng": 79.9845,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Sri Saddharmagupta Piriven Vihara",
+  "wikidata": "Q31977697",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q31977697",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Sri%20Saddharmagupta%20Piriven%20Vihara%2C%20Udugampola.jpg"
+ },
+ {
+  "id": "wd-q19716317",
+  "name": "Pilikuththuwa Raja Maha Vihara",
+  "lat": 7.06394,
+  "lng": 80.05031,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Pilikuththuwa Raja Maha Vihara",
+  "wikidata": "Q19716317",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q19716317",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Pilikutthuwa%20temple.jpg"
+ },
+ {
+  "id": "wd-q25637764",
+  "name": "Mulgirigala Raja Maha Vihara",
+  "lat": 7.98556,
+  "lng": 80.08692,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Mulgirigala Raja Maha Vihara",
+  "wikidata": "Q25637764",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25637764",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mulgirigala%20Vihara.jpg"
+ },
+ {
+  "id": "wd-q25055515",
+  "name": "St. Sebastian’s Church",
+  "lat": 7.219,
+  "lng": 79.839,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "St. Sebastian's Church, Wellaweediya",
+  "wikidata": "Q25055515",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25055515",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Negombo%2003.jpg",
+  "founded": 1946,
+  "foundedLabel": "1946 (Wikidata)"
+ },
+ {
+  "id": "wd-q38251250",
+  "name": "Christ Church, Galkissa",
+  "lat": 6.84842,
+  "lng": 79.86564,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "church",
+  "religion": "christian",
+  "wiki": "Christ Church, Galkissa",
+  "wikidata": "Q38251250",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q38251250",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Christ%20Church%2C%20Galkissa.jpg",
+  "founded": 1843,
+  "foundedLabel": "1843 (Wikidata)"
+ },
+ {
+  "id": "wd-q25637751",
+  "name": "Piyangala Forest Hermitage",
+  "lat": 7.49611,
+  "lng": 81.63156,
+  "precision": "approximate",
+  "kind": "site",
+  "siteType": "temple",
+  "religion": "buddhist",
+  "wiki": "Piyangala Aranya Senasanaya",
+  "wikidata": "Q25637751",
+  "importedFrom": "wikidata",
+  "coordSource": "wikidata:Q25637751",
+  "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Piyangala%20Rajamaha%20Vihara%201.jpg"
  }
 ]

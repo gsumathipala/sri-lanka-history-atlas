@@ -74,6 +74,11 @@ export interface Place {
   stories?: Story[]
   chronicle?: ChronicleRef[]
   wiki?: string
+  /** Wikidata QID, Commons image (Special:FilePath URL), coordinate provenance */
+  wikidata?: string
+  image?: string
+  coordSource?: string
+  importedFrom?: 'wikidata'
 }
 
 export interface Evidence {

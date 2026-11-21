@@ -153,7 +153,7 @@ for (const r of relics) {
 }
 
 for (const s of sources) if (!cited.has(s.id)) warn(`source ${s.id} is never cited`)
-for (const p of places) if (!usedPlaces.has(p.id) && !p.stories && !rulers.some((r) => r.capitalPlaceId === p.id) && !periods.some((x) => x.capitalPlaceId === p.id)) warn(`place ${p.id} is unused`)
+for (const p of places) if (!usedPlaces.has(p.id) && !p.importedFrom && !p.stories && !rulers.some((r) => r.capitalPlaceId === p.id) && !periods.some((x) => x.capitalPlaceId === p.id)) warn(`place ${p.id} is unused`)
 
 const drafts = events.filter((e) => e.review?.status !== 'reviewed').length
 const verbose = process.argv.includes('--verbose')

@@ -1,0 +1,1212 @@
+{
+ "matches": [
+  {
+   "id": "kataragama-kiri-vehera",
+   "wiki": "Kiri Vehera",
+   "qid": "Q6415081",
+   "distance_m": 39159,
+   "ours": [
+    6.42,
+    81.335
+   ],
+   "wikidata": [
+    6.7,
+    81.55
+   ]
+  },
+  {
+   "id": "naguleswaram",
+   "wiki": "Naguleswaram temple",
+   "qid": "Q1963636",
+   "distance_m": 16204,
+   "ours": [
+    9.818,
+    80.004
+   ],
+   "wikidata": [
+    9.67444,
+    80.02944
+   ]
+  },
+  {
+   "id": "maligawila",
+   "wiki": "Maligawila Buddha statue",
+   "qid": "Q6743492",
+   "distance_m": 10981,
+   "ours": [
+    6.79,
+    81.43
+   ],
+   "wikidata": [
+    6.72838,
+    81.35229
+   ]
+  },
+  {
+   "id": "lankapatuna",
+   "wiki": "Lankapatuna Samudragiri Viharaya",
+   "qid": "Q96658222",
+   "distance_m": 10417,
+   "ours": [
+    8.43,
+    81.33
+   ],
+   "wikidata": [
+    8.3572,
+    81.3896
+   ]
+  },
+  {
+   "id": "rajagala",
+   "wiki": "Rajagala",
+   "qid": "Q18393540",
+   "distance_m": 9398,
+   "ours": [
+    7.4,
+    81.6
+   ],
+   "wikidata": [
+    7.47797,
+    81.6329
+   ]
+  },
+  {
+   "id": "mantai",
+   "wiki": "Ketheeswaram temple",
+   "qid": "Q6395391",
+   "distance_m": 7788,
+   "ours": [
+    8.975,
+    79.92
+   ],
+   "wikidata": [
+    8.91472,
+    79.95611
+   ]
+  },
+  {
+   "id": "velgam-vehera",
+   "wiki": "Velgam Vehera",
+   "qid": "Q22910742",
+   "distance_m": 6313,
+   "ours": [
+    8.62,
+    81.12
+   ],
+   "wikidata": [
+    8.64567,
+    81.17122
+   ]
+  },
+  {
+   "id": "delgamuwa",
+   "wiki": "Delgamuwa Raja Maha Vihara",
+   "qid": "Q23010020",
+   "distance_m": 6311,
+   "ours": [
+    6.73,
+    80.39
+   ],
+   "wikidata": [
+    6.77586,
+    80.35633
+   ]
+  },
+  {
+   "id": "magul-maha-vihara",
+   "wiki": "Magul Maha Viharaya",
+   "qid": "Q20987429",
+   "distance_m": 5445,
+   "ours": [
+    6.9,
+    81.7
+   ],
+   "wikidata": [
+    6.86744,
+    81.73684
+   ]
+  },
+  {
+   "id": "kotmale",
+   "wiki": "Kotmale",
+   "qid": "Q6434136",
+   "distance_m": 4138,
+   "ours": [
+    7.05,
+    80.6
+   ],
+   "wikidata": [
+    7.01667,
+    80.58333
+   ]
+  },
+  {
+   "id": "medirigiriya",
+   "wiki": "Medirigiriya Vatadage",
+   "qid": "Q19718240",
+   "distance_m": 3291,
+   "ours": [
+    8.137,
+    80.973
+   ],
+   "wikidata": [
+    8.15611,
+    80.99583
+   ]
+  },
+  {
+   "id": "nilavarai",
+   "wiki": "Nilavarai",
+   "qid": "Q7036903",
+   "distance_m": 2878,
+   "ours": [
+    9.73,
+    80.1
+   ],
+   "wikidata": [
+    9.75,
+    80.08333
+   ]
+  },
+  {
+   "id": "situlpahuwa",
+   "wiki": "Sithulpawwa Rajamaha Viharaya",
+   "qid": "Q18378493",
+   "distance_m": 2670,
+   "ours": [
+    6.4,
+    81.47
+   ],
+   "wikidata": [
+    6.38694,
+    81.44972
+   ]
+  },
+  {
+   "id": "parakrama-samudra",
+   "wiki": "Parakrama Samudra",
+   "qid": "Q7134855",
+   "distance_m": 2619,
+   "ours": [
+    7.915,
+    80.985
+   ],
+   "wikidata": [
+    7.9,
+    80.96667
+   ]
+  },
+  {
+   "id": "dematamal",
+   "wiki": "Dematamal Viharaya",
+   "qid": "Q16973445",
+   "distance_m": 2471,
+   "ours": [
+    6.76,
+    81.31
+   ],
+   "wikidata": [
+    6.75639,
+    81.28792
+   ]
+  },
+  {
+   "id": "ridi-vihara",
+   "wiki": "Ridi Viharaya",
+   "qid": "Q7332903",
+   "distance_m": 2286,
+   "ours": [
+    7.533,
+    80.495
+   ],
+   "wikidata": [
+    7.55,
+    80.48333
+   ]
+  },
+  {
+   "id": "anuradhapura",
+   "wiki": "Anuradhapura",
+   "qid": "Q5724",
+   "distance_m": 1978,
+   "ours": [
+    8.3456,
+    80.3964
+   ],
+   "wikidata": [
+    8.335,
+    80.41083
+   ]
+  },
+  {
+   "id": "kalawewa",
+   "wiki": "Kala Wewa",
+   "qid": "Q7354820",
+   "distance_m": 1930,
+   "ours": [
+    8.02,
+    80.54
+   ],
+   "wikidata": [
+    8.0135,
+    80.55625
+   ]
+  },
+  {
+   "id": "kotte",
+   "wiki": "Sri Jayawardenepura Kotte",
+   "qid": "Q41963",
+   "distance_m": 1853,
+   "ours": [
+    6.8905,
+    79.9026
+   ],
+   "wikidata": [
+    6.9,
+    79.91639
+   ]
+  },
+  {
+   "id": "giritale-tank",
+   "wiki": "Giritale Tank",
+   "qid": "Q25105275",
+   "distance_m": 1765,
+   "ours": [
+    7.99,
+    80.93
+   ],
+   "wikidata": [
+    7.991,
+    80.914
+   ]
+  },
+  {
+   "id": "yatala-vehera",
+   "wiki": "Yatala Vehera",
+   "qid": "Q19719135",
+   "distance_m": 1642,
+   "ours": [
+    6.29,
+    81.29
+   ],
+   "wikidata": [
+    6.28556,
+    81.27583
+   ]
+  },
+  {
+   "id": "vijitapura",
+   "wiki": "Vijithapura",
+   "qid": "Q7929354",
+   "distance_m": 1641,
+   "ours": [
+    8.04,
+    80.52
+   ],
+   "wikidata": [
+    8.03333,
+    80.5333
+   ]
+  },
+  {
+   "id": "seruwila",
+   "wiki": "Seruwila Mangala Raja Maha Vihara",
+   "qid": "Q10666450",
+   "distance_m": 1587,
+   "ours": [
+    8.36,
+    81.31
+   ],
+   "wikidata": [
+    8.37083,
+    81.31939
+   ]
+  },
+  {
+   "id": "avukana",
+   "wiki": "Avukana Buddha statue",
+   "qid": "Q3491563",
+   "distance_m": 1535,
+   "ours": [
+    8.011,
+    80.513
+   ],
+   "wikidata": [
+    8.02278,
+    80.52028
+   ]
+  },
+  {
+   "id": "munneswaram",
+   "wiki": "Munneswaram temple",
+   "qid": "Q6936796",
+   "distance_m": 1472,
+   "ours": [
+    7.58,
+    79.83
+   ],
+   "wikidata": [
+    7.58078,
+    79.81667
+   ]
+  },
+  {
+   "id": "minneriya-tank",
+   "wiki": "Minneriya Tank",
+   "qid": "Q16897099",
+   "distance_m": 1302,
+   "ours": [
+    8.035,
+    80.895
+   ],
+   "wikidata": [
+    8.03333,
+    80.8833
+   ]
+  },
+  {
+   "id": "nalanda-gedige",
+   "wiki": "Nalanda Gedige",
+   "qid": "Q3335386",
+   "distance_m": 1083,
+   "ours": [
+    7.672,
+    80.636
+   ],
+   "wikidata": [
+    7.66972,
+    80.64556
+   ]
+  },
+  {
+   "id": "vallipuram",
+   "wiki": "Vallipuram",
+   "qid": "Q7912424",
+   "distance_m": 1044,
+   "ours": [
+    9.79,
+    80.24
+   ],
+   "wikidata": [
+    9.78333,
+    80.2333
+   ]
+  },
+  {
+   "id": "ritigala",
+   "wiki": "Ritigala",
+   "qid": "Q19719626",
+   "distance_m": 978,
+   "ours": [
+    8.115,
+    80.65
+   ],
+   "wikidata": [
+    8.10861,
+    80.65611
+   ]
+  },
+  {
+   "id": "yapahuwa",
+   "wiki": "Yapahuwa",
+   "qid": "Q3522473",
+   "distance_m": 946,
+   "ours": [
+    7.8186,
+    80.3083
+   ],
+   "wikidata": [
+    7.81667,
+    80.31667
+   ]
+  },
+  {
+   "id": "kalpitiya-fort",
+   "wiki": "Kalpitiya Fort",
+   "qid": "Q18708374",
+   "distance_m": 913,
+   "ours": [
+    8.23,
+    79.76
+   ],
+   "wikidata": [
+    8.23556,
+    79.76611
+   ]
+  },
+  {
+   "id": "kiri-vehera-polonnaruwa",
+   "wiki": "Kiri Vehera (Polonnaruwa)",
+   "qid": "Q136025348",
+   "distance_m": 871,
+   "ours": [
+    7.9625,
+    81.0015
+   ],
+   "wikidata": [
+    7.9547,
+    81.0022
+   ]
+  },
+  {
+   "id": "panduwasnuwara",
+   "wiki": "Panduwasnuwara",
+   "qid": "Q14208394",
+   "distance_m": 832,
+   "ours": [
+    7.6,
+    80.1
+   ],
+   "wikidata": [
+    7.6044,
+    80.1061
+   ]
+  },
+  {
+   "id": "dimbulagala",
+   "wiki": "Dimbulagala Raja Maha Vihara",
+   "qid": "Q5277192",
+   "distance_m": 827,
+   "ours": [
+    7.86,
+    81.12
+   ],
+   "wikidata": [
+    7.86667,
+    81.11667
+   ]
+  },
+  {
+   "id": "mulkirigala",
+   "wiki": "Mulkirigala Raja Maha Vihara",
+   "qid": "Q20216036",
+   "distance_m": 785,
+   "ours": [
+    6.12,
+    80.73
+   ],
+   "wikidata": [
+    6.12305,
+    80.7364
+   ]
+  },
+  {
+   "id": "polonnaruwa",
+   "wiki": "Polonnaruwa",
+   "qid": "Q394443",
+   "distance_m": 775,
+   "ours": [
+    7.9403,
+    81.0003
+   ],
+   "wikidata": [
+    7.93333,
+    81.0
+   ]
+  },
+  {
+   "id": "tiriyaya",
+   "wiki": "Girihandu Seya",
+   "qid": "Q48733604",
+   "distance_m": 670,
+   "ours": [
+    8.865,
+    81.01
+   ],
+   "wikidata": [
+    8.87039,
+    81.00728
+   ]
+  },
+  {
+   "id": "madhu",
+   "wiki": "Shrine of Our Lady of Madhu",
+   "qid": "Q3534705",
+   "distance_m": 645,
+   "ours": [
+    8.86,
+    80.2
+   ],
+   "wikidata": [
+    8.85495,
+    80.20288
+   ]
+  },
+  {
+   "id": "lankatilaka-kandy",
+   "wiki": "Lankatilaka Vihara",
+   "qid": "Q3217592",
+   "distance_m": 563,
+   "ours": [
+    7.2289,
+    80.5656
+   ],
+   "wikidata": [
+    7.23388,
+    80.5647
+   ]
+  },
+  {
+   "id": "mahiyangana",
+   "wiki": "Mahiyangana Raja Maha Vihara",
+   "qid": "Q19718381",
+   "distance_m": 541,
+   "ours": [
+    7.3194,
+    80.9867
+   ],
+   "wikidata": [
+    7.32206,
+    80.99081
+   ]
+  },
+  {
+   "id": "nagadipa",
+   "wiki": "Nagadeepa Purana Vihara",
+   "qid": "Q6958314",
+   "distance_m": 532,
+   "ours": [
+    9.61,
+    79.77
+   ],
+   "wikidata": [
+    9.61275,
+    79.77397
+   ]
+  },
+  {
+   "id": "negombo-fort",
+   "wiki": "Negombo Fort",
+   "qid": "Q18756153",
+   "distance_m": 524,
+   "ours": [
+    7.21,
+    79.835
+   ],
+   "wikidata": [
+    7.20833,
+    79.83056
+   ]
+  },
+  {
+   "id": "kelaniya",
+   "wiki": "Kelaniya Raja Maha Vihara",
+   "qid": "Q3610575",
+   "distance_m": 452,
+   "ours": [
+    6.9553,
+    79.922
+   ],
+   "wikidata": [
+    6.95314,
+    79.91853
+   ]
+  },
+  {
+   "id": "degaldoruwa",
+   "wiki": "Degaldoruwa Raja Maha Vihara",
+   "qid": "Q19712009",
+   "distance_m": 432,
+   "ours": [
+    7.304,
+    80.66
+   ],
+   "wikidata": [
+    7.30444,
+    80.66389
+   ]
+  },
+  {
+   "id": "isurumuniya",
+   "wiki": "Isurumuniya",
+   "qid": "Q3610571",
+   "distance_m": 418,
+   "ours": [
+    8.3346,
+    80.3866
+   ],
+   "wikidata": [
+    8.3346,
+    80.3904
+   ]
+  },
+  {
+   "id": "kalutara-bodhiya",
+   "wiki": "Kalutara Bodhiya",
+   "qid": "Q19702135",
+   "distance_m": 406,
+   "ours": [
+    6.5833,
+    79.96
+   ],
+   "wikidata": [
+    6.58694,
+    79.96028
+   ]
+  },
+  {
+   "id": "dambadeniya",
+   "wiki": "Dambadeniya",
+   "qid": "Q1021154",
+   "distance_m": 370,
+   "ours": [
+    7.37,
+    80.15
+   ],
+   "wikidata": [
+    7.36667,
+    80.15
+   ]
+  },
+  {
+   "id": "dakkhina-thupa",
+   "wiki": "Dakkhina Stupa",
+   "qid": "Q5209967",
+   "distance_m": 370,
+   "ours": [
+    8.3378,
+    80.3953
+   ],
+   "wikidata": [
+    8.34111,
+    80.395
+   ]
+  },
+  {
+   "id": "kuttam-pokuna",
+   "wiki": "Kuttam Pokuna",
+   "qid": "Q3877478",
+   "distance_m": 342,
+   "ours": [
+    8.374,
+    80.4017
+   ],
+   "wikidata": [
+    8.371,
+    80.401
+   ]
+  },
+  {
+   "id": "matara-star-fort",
+   "wiki": "Star Fort, Matara",
+   "qid": "Q18392841",
+   "distance_m": 342,
+   "ours": [
+    5.946,
+    80.546
+   ],
+   "wikidata": [
+    5.94806,
+    80.5483
+   ]
+  },
+  {
+   "id": "embekke",
+   "wiki": "Embekka Devalaya",
+   "qid": "Q5370021",
+   "distance_m": 329,
+   "ours": [
+    7.216,
+    80.57
+   ],
+   "wikidata": [
+    7.21792,
+    80.56772
+   ]
+  },
+  {
+   "id": "malwatte",
+   "wiki": "Malwathu Maha Viharaya",
+   "qid": "Q48730974",
+   "distance_m": 316,
+   "ours": [
+    7.2925,
+    80.6425
+   ],
+   "wikidata": [
+    7.28989,
+    80.64136
+   ]
+  },
+  {
+   "id": "tissamaharama",
+   "wiki": "Tissamaharama Raja Maha Vihara",
+   "qid": "Q16996741",
+   "distance_m": 305,
+   "ours": [
+    6.2788,
+    81.2876
+   ],
+   "wikidata": [
+    6.27944,
+    81.29028
+   ]
+  },
+  {
+   "id": "samadhi-statue",
+   "wiki": "Samadhi Statue",
+   "qid": "Q7408450",
+   "distance_m": 222,
+   "ours": [
+    8.3713,
+    80.4
+   ],
+   "wikidata": [
+    8.36985,
+    80.39861
+   ]
+  },
+  {
+   "id": "somawathiya",
+   "wiki": "Somawathiya Chaitya",
+   "qid": "Q18379203",
+   "distance_m": 159,
+   "ours": [
+    8.12,
+    81.17
+   ],
+   "wikidata": [
+    8.12088,
+    81.16886
+   ]
+  },
+  {
+   "id": "wolvendaal",
+   "wiki": "Wolvendaal Church",
+   "qid": "Q16736534",
+   "distance_m": 149,
+   "ours": [
+    6.943,
+    79.86
+   ],
+   "wikidata": [
+    6.9421,
+    79.859
+   ]
+  },
+  {
+   "id": "asgiriya",
+   "wiki": "Asgiri Maha Viharaya",
+   "qid": "Q31800102",
+   "distance_m": 124,
+   "ours": [
+    7.3,
+    80.633
+   ],
+   "wikidata": [
+    7.29889,
+    80.63286
+   ]
+  },
+  {
+   "id": "dambulla",
+   "wiki": "Dambulla cave temple",
+   "qid": "Q45690",
+   "distance_m": 96,
+   "ours": [
+    7.8567,
+    80.6492
+   ],
+   "wikidata": [
+    7.85656,
+    80.64834
+   ]
+  },
+  {
+   "id": "hatadage",
+   "wiki": "Hatadage",
+   "qid": "Q5680866",
+   "distance_m": 96,
+   "ours": [
+    7.9486,
+    81.0015
+   ],
+   "wikidata": [
+    7.94774,
+    81.0015
+   ]
+  },
+  {
+   "id": "red-mosque",
+   "wiki": "Jami Ul-Alfar Mosque",
+   "qid": "Q2667449",
+   "distance_m": 88,
+   "ours": [
+    6.9385,
+    79.851
+   ],
+   "wikidata": [
+    6.9385,
+    79.8518
+   ]
+  },
+  {
+   "id": "aluvihare",
+   "wiki": "Aluvihare Rock Temple",
+   "qid": "Q19700397",
+   "distance_m": 84,
+   "ours": [
+    7.4977,
+    80.6213
+   ],
+   "wikidata": [
+    7.49719,
+    80.62186
+   ]
+  },
+  {
+   "id": "koneswaram",
+   "wiki": "Koneswaram Temple",
+   "qid": "Q840346",
+   "distance_m": 83,
+   "ours": [
+    8.583,
+    81.245
+   ],
+   "wikidata": [
+    8.5825,
+    81.24556
+   ]
+  },
+  {
+   "id": "jaffna-fort",
+   "wiki": "Jaffna Fort",
+   "qid": "Q2756663",
+   "distance_m": 78,
+   "ours": [
+    9.662,
+    80.009
+   ],
+   "wikidata": [
+    9.66212,
+    80.0083
+   ]
+  },
+  {
+   "id": "galle",
+   "wiki": "Galle Fort",
+   "qid": "Q2507050",
+   "distance_m": 65,
+   "ours": [
+    6.0269,
+    80.217
+   ],
+   "wikidata": [
+    6.02747,
+    80.21711
+   ]
+  },
+  {
+   "id": "sigiriya",
+   "wiki": "Sigiriya",
+   "qid": "Q272153",
+   "distance_m": 64,
+   "ours": [
+    7.957,
+    80.7603
+   ],
+   "wikidata": [
+    7.95694,
+    80.75972
+   ]
+  },
+  {
+   "id": "gangaramaya",
+   "wiki": "Gangaramaya Temple",
+   "qid": "Q5521071",
+   "distance_m": 51,
+   "ours": [
+    6.9167,
+    79.8565
+   ],
+   "wikidata": [
+    6.91625,
+    79.85642
+   ]
+  },
+  {
+   "id": "rankoth-vehera",
+   "wiki": "Rankoth Vehera",
+   "qid": "Q7293324",
+   "distance_m": 50,
+   "ours": [
+    7.958,
+    81.003
+   ],
+   "wikidata": [
+    7.95821,
+    81.0034
+   ]
+  },
+  {
+   "id": "adams-peak",
+   "wiki": "Adam's Peak",
+   "qid": "Q60789",
+   "distance_m": 40,
+   "ours": [
+    6.8096,
+    80.4994
+   ],
+   "wikidata": [
+    6.80944,
+    80.49972
+   ]
+  },
+  {
+   "id": "polonnaruwa-vatadage",
+   "wiki": "Polonnaruwa Vatadage",
+   "qid": "Q7225955",
+   "distance_m": 40,
+   "ours": [
+    7.94733,
+    81.00146
+   ],
+   "wikidata": [
+    7.94722,
+    81.00111
+   ]
+  },
+  {
+   "id": "thuparamaya",
+   "wiki": "Thuparamaya",
+   "qid": "Q7799227",
+   "distance_m": 33,
+   "ours": [
+    8.3553,
+    80.3964
+   ],
+   "wikidata": [
+    8.35528,
+    80.3961
+   ]
+  },
+  {
+   "id": "gal-vihara",
+   "wiki": "Gal Vihara",
+   "qid": "Q5517744",
+   "distance_m": 33,
+   "ours": [
+    7.966,
+    81.0047
+   ],
+   "wikidata": [
+    7.96588,
+    81.00497
+   ]
+  },
+  {
+   "id": "lovamahapaya",
+   "wiki": "Lovamahapaya",
+   "qid": "Q3911674",
+   "distance_m": 21,
+   "ours": [
+    8.3463,
+    80.3975
+   ],
+   "wikidata": [
+    8.34611,
+    80.3975
+   ]
+  },
+  {
+   "id": "jetavanaramaya",
+   "wiki": "Jetavanaramaya",
+   "qid": "Q1961579",
+   "distance_m": 18,
+   "ours": [
+    8.3518,
+    80.4037
+   ],
+   "wikidata": [
+    8.35167,
+    80.40361
+   ]
+  },
+  {
+   "id": "sri-maha-bodhi",
+   "wiki": "Jaya Sri Maha Bodhi",
+   "qid": "Q944175",
+   "distance_m": 15,
+   "ours": [
+    8.3446,
+    80.3966
+   ],
+   "wikidata": [
+    8.34472,
+    80.39667
+   ]
+  },
+  {
+   "id": "mihintale",
+   "wiki": "Mihintale",
+   "qid": "Q1478212",
+   "distance_m": 12,
+   "ours": [
+    8.3505,
+    80.517
+   ],
+   "wikidata": [
+    8.35059,
+    80.51695
+   ]
+  },
+  {
+   "id": "kandy",
+   "wiki": "Temple of the Tooth",
+   "qid": "Q289175",
+   "distance_m": 10,
+   "ours": [
+    7.2936,
+    80.6413
+   ],
+   "wikidata": [
+    7.29361,
+    80.64139
+   ]
+  },
+  {
+   "id": "st-anthony-kochchikade",
+   "wiki": "St. Anthony's Shrine, Kochchikade",
+   "qid": "Q29075893",
+   "distance_m": 9,
+   "ours": [
+    6.9469,
+    79.856
+   ],
+   "wikidata": [
+    6.94689,
+    79.85608
+   ]
+  },
+  {
+   "id": "ruwanwelisaya",
+   "wiki": "Ruwanwelisaya",
+   "qid": "Q3534755",
+   "distance_m": 0,
+   "ours": [
+    8.35,
+    80.3964
+   ],
+   "wikidata": [
+    8.35,
+    80.3964
+   ]
+  }
+ ],
+ "imported": [
+  "wd-q20821270",
+  "wd-q12975379",
+  "wd-q25055443",
+  "wd-q28379706",
+  "wd-q16979801",
+  "wd-q28379866",
+  "wd-q24949100",
+  "wd-q25052318",
+  "wd-q38251247",
+  "wd-q6434031",
+  "wd-q24944930",
+  "wd-q18708389",
+  "wd-q7842700",
+  "wd-q4791177",
+  "wd-q28379814",
+  "wd-q19701876",
+  "wd-q18205862",
+  "wd-q7193752",
+  "wd-q7144783",
+  "wd-q19701957",
+  "wd-q18708393",
+  "wd-q24239464",
+  "wd-q29051773",
+  "wd-q29575291",
+  "wd-q28457340",
+  "wd-q112030215",
+  "wd-q29579545",
+  "wd-q97280735",
+  "wd-q29248261",
+  "wd-q37294763",
+  "wd-q123684896",
+  "wd-q63343474",
+  "wd-q111945151",
+  "wd-q29051502",
+  "wd-q38043552",
+  "wd-q28914248",
+  "wd-q28972799",
+  "wd-q48732862",
+  "wd-q63248173",
+  "wd-q28938639",
+  "wd-q39050356",
+  "wd-q47516796",
+  "wd-q55641352",
+  "wd-q28937771",
+  "wd-q55633759",
+  "wd-q28694713",
+  "wd-q30589637",
+  "wd-q38257137",
+  "wd-q75103640",
+  "wd-q97657157",
+  "wd-q39061040",
+  "wd-q28972804",
+  "wd-q28775147",
+  "wd-q38236009",
+  "wd-q108282134",
+  "wd-q47520138",
+  "wd-q111762269",
+  "wd-q22666003",
+  "wd-q25638217",
+  "wd-q30622076",
+  "wd-q20680188",
+  "wd-q22338432",
+  "wd-q17021365",
+  "wd-q20823221",
+  "wd-q28002504",
+  "wd-q28243056",
+  "wd-q18708377",
+  "wd-q18708383",
+  "wd-q18049297",
+  "wd-q32964820",
+  "wd-q18708398",
+  "wd-q25637912",
+  "wd-q16314732",
+  "wd-q18708367",
+  "wd-q26904723",
+  "wd-q18819145",
+  "wd-q21975633",
+  "wd-q18756270",
+  "wd-q20823160",
+  "wd-q12973620",
+  "wd-q23073347",
+  "wd-q12986531",
+  "wd-q33113341",
+  "wd-q18345172",
+  "wd-q38250615",
+  "wd-q21000644",
+  "wd-q33101684",
+  "wd-q20987385",
+  "wd-q18205866",
+  "wd-q19735846",
+  "wd-q19718656",
+  "wd-q28055651",
+  "wd-q1849425",
+  "wd-q16258711",
+  "wd-q24949103",
+  "wd-q25343805",
+  "wd-q16314134",
+  "wd-q19707959",
+  "wd-q7594870",
+  "wd-q25226752",
+  "wd-q38251288",
+  "wd-q18708376",
+  "wd-q22906291",
+  "wd-q25637783",
+  "wd-q4882839",
+  "wd-q12973680",
+  "wd-q28002465",
+  "wd-q4501090",
+  "wd-q31977697",
+  "wd-q19716317",
+  "wd-q25637764",
+  "wd-q25055515",
+  "wd-q38251250",
+  "wd-q25637751"
+ ]
+}

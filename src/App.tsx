@@ -39,6 +39,7 @@ export default function App() {
   const [chapterFocus, setChapterFocus] = useState<string>()
   const [showSites, setShowSites] = useState(true)
   const [showRegions, setShowRegions] = useState(true)
+  const [showUndated, setShowUndated] = useState(false)
   const [relicId, setRelicId] = useState<string>()
   const [flyoverId, setFlyoverId] = useState<string>()
   const [legendOpen, setLegendOpen] = useState(() => typeof window === 'undefined' || window.innerWidth > 900)
@@ -70,7 +71,7 @@ export default function App() {
   const currentEras = periods.filter((p) => p.start <= year && p.end >= year)
   const selected = selectedId ? eventById.get(selectedId) : undefined
   const currentRulers = rulersAt(year)
-  const visibleSites = showSites ? sites.filter((p) => p.founded === undefined || p.founded <= year) : []
+  const visibleSites = showSites ? sites.filter((p) => (p.founded !== undefined ? p.founded <= year : !p.importedFrom || showUndated || showAll)) : []
   const ruler = rulerId ? rulerById.get(rulerId) : undefined
   const relic = relicId && (panel === 'relic' || panel === 'relics' || panel === 'place') ? relicById.get(relicId) : undefined
   const relicCurrent = relic ? currentStation(relic, year) : -1
@@ -194,6 +195,10 @@ export default function App() {
             <label className={showSites ? 'span2' : 'span2 off'}>
               <input type="checkbox" checked={showSites} onChange={(e) => setShowSites(e.target.checked)} />
               <span>▲ ☸ ◆ ☾ ✝ ▣</span> Sacred & historic sites ({visibleSites.length})
+            </label>
+            <label className={showUndated ? 'span2' : 'span2 off'} title="Sites imported from Wikidata without a founding date are hidden unless this is on (or 'All time' is ticked)">
+              <input type="checkbox" checked={showUndated} onChange={(e) => setShowUndated(e.target.checked)} />
+              <span>◌</span> Undated imported sites ({sites.filter((x) => x.importedFrom && x.founded === undefined).length})
             </label>
             <label className={showRegions ? 'span2' : 'span2 off'}>
               <input type="checkbox" checked={showRegions} onChange={(e) => setShowRegions(e.target.checked)} />

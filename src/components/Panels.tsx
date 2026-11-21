@@ -165,9 +165,31 @@ export function PlaceDetail({ id, onSelect, onChapter, onRuler, onSource, onFlyo
       <div className="detail-cat">Place</div>
       <h2>{p.name}</h2>
       {p.altNames && <p className="muted">Also: {p.altNames.join(', ')}</p>}
+      {p.image && (
+        <figure className="site-photo">
+          <img src={`${p.image}?width=640`} alt={p.name} loading="lazy" />
+          <figcaption className="muted small">
+            Photo: Wikimedia Commons ({' '}
+            <a href={p.image.replace('Special:FilePath/', 'File:')} target="_blank" rel="noreferrer">
+              licence and author
+            </a>
+            )
+          </figcaption>
+        </figure>
+      )}
       <p className="muted">
-        {p.lat.toFixed(3)}, {p.lng.toFixed(3)} · {p.precision} location · {p.kind}
+        {p.lat.toFixed(4)}, {p.lng.toFixed(4)} · {p.precision} location · {p.kind}
+        {p.coordSource && (
+          <>
+            {' '}
+            · coordinates from{' '}
+            <a href={`https://www.wikidata.org/wiki/${p.coordSource.split(':')[1]}`} target="_blank" rel="noreferrer">
+              Wikidata {p.coordSource.split(':')[1]}
+            </a>
+          </>
+        )}
       </p>
+      {p.importedFrom && <p className="note">Imported from Wikidata; this site has not yet been curated (no stories, chronicle links or dating review).</p>}
       {p.kind !== 'region' && (
         <button className="flyover-btn" onClick={() => onFlyover(p.id)}>
           🛩 {reconByPlace.has(p.id) ? '3D flyover with reconstruction' : '3D flyover of the site today'}
