@@ -139,6 +139,18 @@ for (const r of recon) {
   if (r.type !== 'pillar-hall' && !(r.diameter > 0 && r.height > 0)) err(`reconstruction ${r.placeId}: needs diameter and height`)
   if (r.model && !(r.model.credit && r.model.licence)) err(`reconstruction ${r.placeId}: 3D model needs credit and licence`)
 }
+const tours = load('tours.json')
+uniq(tours, 'tour')
+const eventIds = new Set(events.map((e) => e.id))
+for (const t of tours) {
+  if (t.relic && !relics.some((r) => r.id === t.relic)) err(`tour ${t.id}: unknown relic ${t.relic}`)
+  for (const st of t.steps) {
+    const at = `tour ${t.id} step "${st.title}"`
+    if (st.placeId && !placeIds.has(st.placeId)) err(`${at}: unknown place`)
+    if (st.eventId && !eventIds.has(st.eventId)) err(`${at}: unknown event ${st.eventId}`)
+    checkRefs(st.chronicle, at)
+  }
+}
 uniq(relics, 'relic')
 for (const r of relics) {
   for (const s of r.stations) {

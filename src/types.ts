@@ -251,3 +251,24 @@ export interface Reconstruction {
   note: string
   sourceIds: string[]
 }
+
+export interface TourStep {
+  title: string
+  text: string
+  year: number
+  placeId?: string
+  eventId?: string
+  relicId?: string
+  rulerId?: string
+  zoom?: number
+  chronicle?: ChronicleRef[]
+}
+export interface Tour {
+  id: string
+  title: string
+  summary: string
+  color: string
+  /** generate steps from a relic's journey */
+  relic?: string
+  steps: TourStep[]
+}

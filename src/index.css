@@ -615,3 +615,12 @@ footer {
 .review-actions button:disabled { opacity: 0.4; cursor: not-allowed; }
 .review-actions button + button { background: var(--bg); color: var(--accent); }
 .bib-actions, .cite-entry { display: flex; flex-wrap: wrap; gap: 6px; margin: 6px 0; }
+
+/* ---- tours ---- */
+.tour-links { display: flex; gap: 6px; flex-wrap: wrap; margin: 6px 0; }
+.tour-controls { display: flex; gap: 6px; flex-wrap: wrap; margin: 10px 0; }
+.tour-controls button { border: 1px solid var(--line); background: var(--bg); border-radius: 6px; padding: 5px 10px; cursor: pointer; font: 13px system-ui, sans-serif; }
+.tour-controls button:disabled { opacity: 0.4; }
+.tour-steps { padding-left: 20px; font-size: 14px; }
+.tour-steps li.current a { font-weight: 700; }
+.tour-steps a { color: var(--accent); }

@@ -1,0 +1,451 @@
+[
+ {
+  "id": "mahinda",
+  "title": "The coming of Buddhism",
+  "summary": "Follow Mahinda's mission and the Bodhi tree through the Mahavamsa and Dipavamsa.",
+  "color": "#c77700",
+  "steps": [
+   {
+    "title": "A deer hunt on Missaka mountain",
+    "text": "King Devanampiya Tissa, hunting on the hill now called Mihintale, meets the monk Mahinda.",
+    "year": -250,
+    "placeId": "mihintale",
+    "eventId": "mahinda-mission",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 14
+     },
+     {
+      "work": "dipavamsa",
+      "chapter": 12,
+      "verses": "27-28"
+     }
+    ]
+   },
+   {
+    "title": "The Mahamegha garden",
+    "text": "The king gives the royal park for the Mahavihara monastery.",
+    "year": -249,
+    "placeId": "sri-maha-bodhi",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 15
+     }
+    ]
+   },
+   {
+    "title": "The first stupa",
+    "text": "Relics are enshrined in the Thuparama.",
+    "year": -247,
+    "placeId": "thuparamaya",
+    "eventId": "thuparama-founded",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 17
+     }
+    ]
+   },
+   {
+    "title": "The Bodhi branch lands",
+    "text": "The branch of the Bodhi tree arrives by sea at Jambukola.",
+    "year": -249,
+    "placeId": "jambukola",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "title": "Planted at Anuradhapura",
+    "text": "The Sri Maha Bodhi is planted; saplings go to Jambukola, Tivakka, the Thuparama, Issarasamana, Cetiyapabbata and Kajaragama.",
+    "year": -249,
+    "placeId": "sri-maha-bodhi",
+    "eventId": "sri-maha-bodhi",
+    "relicId": "bodhi-tree",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 19
+     }
+    ]
+   },
+   {
+    "title": "Monasteries for new monks",
+    "text": "Issarasamanarama (Isurumuniya) and Vessagiri are founded.",
+    "year": -248,
+    "placeId": "isurumuniya",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 20
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dutthagamani",
+  "title": "Dutthagamani's campaign",
+  "summary": "From Mahagama in Ruhuna to the duel with Elara, as told in Mahavamsa 22-32.",
+  "color": "#c62828",
+  "steps": [
+   {
+    "title": "Born in Mahagama",
+    "text": "Kakavannatissa and Viharamahadevi's son Gamani is born in Ruhuna.",
+    "year": -180,
+    "placeId": "tissamaharama",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 22
+     }
+    ]
+   },
+   {
+    "title": "The princess from the sea",
+    "text": "Viharamahadevi had come ashore at Kirinda, set adrift by her father Kelanitissa.",
+    "year": -185,
+    "placeId": "kirinda",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 22
+     }
+    ]
+   },
+   {
+    "title": "Crossing into Rajarata: Mahiyangana",
+    "text": "The army overpowers the Damila Chatta at Mahiyangana.",
+    "year": -161,
+    "placeId": "mahiyangana",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 25
+     }
+    ]
+   },
+   {
+    "title": "Four months at Vijitanagara",
+    "text": "The hardest siege; the elephant Kandula breaks the gate.",
+    "year": -161,
+    "placeId": "vijitapura",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 25
+     }
+    ]
+   },
+   {
+    "title": "The duel at Anuradhapura",
+    "text": "Dutthagamani kills Elara in single combat and honours his memory.",
+    "year": -161,
+    "placeId": "anuradhapura",
+    "eventId": "dutthagamani-elara",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 25
+     }
+    ]
+   },
+   {
+    "title": "A penance: Mirisaveti",
+    "text": "Built for a pepper dish eaten without offering it to the sangha.",
+    "year": -160,
+    "placeId": "mirisaveti",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 26
+     }
+    ]
+   },
+   {
+    "title": "The Brazen Palace",
+    "text": "A nine-storeyed chapter house for the monks.",
+    "year": -150,
+    "placeId": "lovamahapaya",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 27
+     }
+    ]
+   },
+   {
+    "title": "The Great Thupa",
+    "text": "The king dies before it is finished, gazing at it from his litter.",
+    "year": -140,
+    "placeId": "ruwanwelisaya",
+    "eventId": "ruwanwelisaya",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 29
+     },
+     {
+      "work": "mahavamsa",
+      "chapter": 32
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "tooth",
+  "title": "Journey of the Tooth Relic",
+  "summary": "Fifteen centuries of the palladium of kingship, from Kalinga to Kandy.",
+  "color": "#c2185b",
+  "relic": "tooth-relic",
+  "steps": []
+ },
+ {
+  "id": "irrigation",
+  "title": "The hydraulic civilisation",
+  "summary": "Tanks and canals from Pandukabhaya to Parakramabahu I.",
+  "color": "#2e7d32",
+  "steps": [
+   {
+    "title": "Abhaya Wewa",
+    "text": "Among the oldest reservoirs in South Asia, attributed to Pandukabhaya.",
+    "year": -430,
+    "placeId": "abhaya-wewa",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 10
+     }
+    ]
+   },
+   {
+    "title": "Minneriya",
+    "text": "One of the sixteen tanks credited to Mahasena.",
+    "year": 276,
+    "placeId": "minneriya-tank",
+    "chronicle": [
+     {
+      "work": "mahavamsa",
+      "chapter": 37
+     }
+    ]
+   },
+   {
+    "title": "Kala Wewa and the Yoda Ela",
+    "text": "Dhatusena's great tank and the 87 km canal to Anuradhapura.",
+    "year": 460,
+    "placeId": "kalawewa",
+    "eventId": "dhatusena-kalawewa",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 38
+     }
+    ]
+   },
+   {
+    "title": "Kantale (Gangatala)",
+    "text": "Aggabodhi II's reservoir in the east.",
+    "year": 610,
+    "placeId": "kantale-tank",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 42
+     }
+    ]
+   },
+   {
+    "title": "Parakrama Samudra",
+    "text": "\"Not one drop of water from the rain to flow into the sea without being made useful.\"",
+    "year": 1160,
+    "placeId": "parakrama-samudra",
+    "eventId": "parakramabahu-i",
+    "chronicle": [
+     {
+      "work": "culavamsa",
+      "chapter": 79
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "faxian",
+  "title": "Faxian in Lanka, c. 410 CE",
+  "summary": "A Chinese monk's eyewitness account of Anuradhapura, read alongside the sites.",
+  "color": "#0288d1",
+  "steps": [
+   {
+    "title": "Arrival in the Land of the Lion",
+    "text": "After fourteen years abroad, Faxian sails from Tamralipti to Simhala.",
+    "year": 410,
+    "placeId": "anuradhapura",
+    "eventId": "faxian-visit"
+   },
+   {
+    "title": "Abhayagiri: 5,000 monks",
+    "text": "He lodges at Abhayagiri and sees the jade image of the Buddha; a Chinese silk fan offered by a merchant moves him to tears.",
+    "year": 410,
+    "placeId": "abhayagiri"
+   },
+   {
+    "title": "The Bodhi tree",
+    "text": "He describes the Bodhi tree and its veneration.",
+    "year": 410,
+    "placeId": "sri-maha-bodhi"
+   },
+   {
+    "title": "The Tooth festival",
+    "text": "He describes the procession of the Tooth Relic from the palace to Abhayagiri.",
+    "year": 411,
+    "placeId": "anuradhapura",
+    "eventId": "tooth-relic-arrives",
+    "relicId": "tooth-relic"
+   }
+  ]
+ },
+ {
+  "id": "ibn-battuta",
+  "title": "Ibn Battuta, 1344",
+  "summary": "The Moroccan traveller's pilgrimage to Adam's Peak.",
+  "color": "#00897b",
+  "steps": [
+   {
+    "title": "Landfall at Battala",
+    "text": "Received by the Aryacakravarti, who controls the pearl coast.",
+    "year": 1344,
+    "placeId": "puttalam",
+    "eventId": "ibn-battuta"
+   },
+   {
+    "title": "The climb to the footprint",
+    "text": "Up the chains to the summit of Sri Pada.",
+    "year": 1344,
+    "placeId": "adams-peak"
+   },
+   {
+    "title": "The temple of Dinawar",
+    "text": "The great Vishnu temple at Devinuwara (Dondra).",
+    "year": 1344,
+    "placeId": "dondra"
+   },
+   {
+    "title": "Galle",
+    "text": "On to the port of Qali (Galle).",
+    "year": 1344,
+    "placeId": "galle"
+   }
+  ]
+ },
+ {
+  "id": "portuguese",
+  "title": "The Portuguese century",
+  "summary": "From first contact to the fall of Colombo.",
+  "color": "#2e7d6b",
+  "steps": [
+   {
+    "title": "First contact",
+    "text": "A Portuguese fleet reaches the island.",
+    "year": 1505,
+    "placeId": "colombo",
+    "eventId": "portuguese-arrival"
+   },
+   {
+    "title": "The partition of Kotte",
+    "text": "The Vijayaba Kollaya splits the kingdom.",
+    "year": 1521,
+    "placeId": "kotte",
+    "eventId": "vijayaba-kollaya"
+   },
+   {
+    "title": "Mulleriyawa",
+    "text": "A Sitawaka victory near Colombo.",
+    "year": 1559,
+    "placeId": "mulleriyawa",
+    "eventId": "mulleriyawa"
+   },
+   {
+    "title": "The siege of Colombo",
+    "text": "Rajasinha I besieges the Portuguese fort.",
+    "year": 1587,
+    "placeId": "colombo",
+    "eventId": "rajasinghe-i"
+   },
+   {
+    "title": "Danture",
+    "text": "Kandy destroys a Portuguese army.",
+    "year": 1594,
+    "placeId": "danture",
+    "eventId": "danture"
+   },
+   {
+    "title": "Jaffna annexed",
+    "text": "Cankili II is deposed.",
+    "year": 1619,
+    "placeId": "jaffna",
+    "eventId": "jaffna-annexed"
+   },
+   {
+    "title": "Koneswaram thrown into the sea",
+    "text": "The temple stones are used for Fort Frederick.",
+    "year": 1622,
+    "placeId": "koneswaram",
+    "eventId": "koneswaram-destroyed"
+   },
+   {
+    "title": "Gannoruwa and the Dutch",
+    "text": "Rajasinha II defeats the Portuguese and allies with the VOC.",
+    "year": 1638,
+    "placeId": "gannoruwa",
+    "eventId": "gannoruwa-voc-treaty"
+   },
+   {
+    "title": "Colombo falls",
+    "text": "The Dutch take Colombo after a long siege.",
+    "year": 1656,
+    "placeId": "colombo",
+    "eventId": "dutch-take-colombo"
+   }
+  ]
+ },
+ {
+  "id": "knox",
+  "title": "Robert Knox's captivity",
+  "summary": "Nineteen years in the Kandyan kingdom, 1660-1679 (route approximate).",
+  "color": "#795548",
+  "steps": [
+   {
+    "title": "Captured at Kottiyar",
+    "text": "The crew of the Anne is seized near Trincomalee.",
+    "year": 1660,
+    "placeId": "trincomalee",
+    "eventId": "knox-captivity"
+   },
+   {
+    "title": "Held in the Kandyan kingdom",
+    "text": "Knox lives in villages of the kingdom, observing its society and court.",
+    "year": 1665,
+    "placeId": "kandy"
+   },
+   {
+    "title": "Escape north",
+    "text": "He and a companion walk north through Nuwarakalaviya.",
+    "year": 1679,
+    "placeId": "anuradhapura"
+   },
+   {
+    "title": "Freedom at Arippu",
+    "text": "They reach the Dutch fort near Mannar.",
+    "year": 1679,
+    "placeId": "mannar"
+   }
+  ]
+ }
+]

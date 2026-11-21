@@ -7,9 +7,10 @@ import MapView from './components/MapView'
 import { About, Bibliography, EventDetail, EventList, EventRow, PlaceDetail } from './components/Panels'
 import { ChroniclesPanel, RulerDetail, RulerRow, RulersPanel } from './components/Knowledge'
 import { RelicDetail, RelicsPanel, currentStation } from './components/Relics'
+import { TourPlayer, ToursPanel, tourById } from './components/Tours'
 const Flyover = lazy(() => import('./components/Flyover'))
 
-type Panel = 'list' | 'event' | 'place' | 'sources' | 'about' | 'rulers' | 'ruler' | 'chronicles' | 'relics' | 'relic'
+type Panel = 'list' | 'event' | 'place' | 'sources' | 'about' | 'rulers' | 'ruler' | 'chronicles' | 'relics' | 'relic' | 'tours' | 'tour'
 
 const ALL_CATS = Object.keys(CATEGORY_META) as Category[]
 const ALL_CONF = Object.keys(CONFIDENCE_META) as Confidence[]
@@ -42,6 +43,17 @@ export default function App() {
   const [showUndated, setShowUndated] = useState(false)
   const [relicId, setRelicId] = useState<string>()
   const [flyoverId, setFlyoverId] = useState<string>()
+  const [tourId, setTourId] = useState<string>()
+  const [tourStep, setTourStep] = useState(0)
+  const [tourPlaying, setTourPlaying] = useState(false)
+  const tour = tourId ? tourById.get(tourId) : undefined
+  useEffect(() => {
+    const st = tour?.steps[tourStep]
+    if (!st || panel !== 'tour') return
+    setPosRaw(yearToPos(st.year))
+    if (st.placeId) setPlaceId(st.placeId)
+    setRelicId(st.relicId ?? tour?.relic)
+  }, [tour, tourStep, panel])
   const [legendOpen, setLegendOpen] = useState(() => typeof window === 'undefined' || window.innerWidth > 900)
   const [sourceFocus, setSourceFocus] = useState<string>()
   const [playing, setPlaying] = useState(false)
@@ -73,7 +85,7 @@ export default function App() {
   const currentRulers = rulersAt(year)
   const visibleSites = showSites ? sites.filter((p) => (p.founded !== undefined ? p.founded <= year : !p.importedFrom || showUndated || showAll)) : []
   const ruler = rulerId ? rulerById.get(rulerId) : undefined
-  const relic = relicId && (panel === 'relic' || panel === 'relics' || panel === 'place') ? relicById.get(relicId) : undefined
+  const relic = relicId && (panel === 'relic' || panel === 'relics' || panel === 'place' || panel === 'tour') ? relicById.get(relicId) : undefined
   const relicCurrent = relic ? currentStation(relic, year) : -1
   const visibleRegions = showRegions ? regions.filter((g) => g.start <= year && g.end >= year) : []
   const flyoverPlace = flyoverId ? placeById.get(flyoverId) : undefined
@@ -173,9 +185,9 @@ export default function App() {
         </div>
         <input className="search" type="search" placeholder="Search events, people, places…" value={query} onChange={(e) => setQuery(e.target.value)} aria-label="Search" />
         <nav>
-          {(['list', 'rulers', 'relics', 'chronicles', 'sources', 'about'] as Panel[]).map((p) => (
-            <button key={p} className={panel === p || (p === 'rulers' && panel === 'ruler') || (p === 'relics' && panel === 'relic') ? 'on' : ''} onClick={() => setPanel(p)}>
-              {{ list: 'In view', rulers: 'Rulers', relics: 'Relics', chronicles: 'Chronicles', sources: 'Sources', about: 'About' }[p as string]}
+          {(['list', 'tours', 'rulers', 'relics', 'chronicles', 'sources', 'about'] as Panel[]).map((p) => (
+            <button key={p} className={panel === p || (p === 'rulers' && panel === 'ruler') || (p === 'relics' && panel === 'relic') || (p === 'tours' && panel === 'tour') ? 'on' : ''} onClick={() => setPanel(p)}>
+              {{ list: 'In view', tours: 'Tours', rulers: 'Rulers', relics: 'Relics', chronicles: 'Chronicles', sources: 'Sources', about: 'About' }[p as string]}
             </button>
           ))}
         </nav>
@@ -258,6 +270,20 @@ export default function App() {
             <PlaceDetail id={placeId} onSelect={selectEvent} onChapter={openChapter} onRuler={selectRuler} onSource={openSource} onFlyover={setFlyoverId} />
           ) : panel === 'ruler' && ruler ? (
             <RulerDetail r={ruler} onChapter={openChapter} onPlace={selectPlace} onRuler={selectRuler} onYear={(y) => setPos(yearToPos(y))} />
+          ) : panel === 'tour' && tour ? (
+            <TourPlayer
+              tour={tour}
+              step={tourStep}
+              playing={tourPlaying}
+              onStep={setTourStep}
+              onPlay={setTourPlaying}
+              onExit={() => (setTourPlaying(false), setPanel('tours'))}
+              onChapter={openChapter}
+              onEvent={selectEvent}
+              onPlace={selectPlace}
+            />
+          ) : panel === 'tours' ? (
+            <ToursPanel onStart={(id) => (setTourId(id), setTourStep(0), setTourPlaying(false), setPanel('tour'))} />
           ) : panel === 'relic' && relic ? (
             <RelicDetail r={relic} year={year} onPlace={selectPlace} onChapter={openChapter} onYear={(y) => setPos(yearToPos(y))} onSource={openSource} />
           ) : panel === 'relics' ? (
